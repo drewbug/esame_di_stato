@@ -1,0 +1,122 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+Un’azienda del settore della logistica desidera ampliare il proprio magazzino nel quale prevede, tra
+l’altro, l’installazione di una nuova linea lunga 90 m per l’alimentazione dei seguenti motori trifase
+BT per la movimentazione delle merci:
+potenza nominale
+
+rendimento
+
+5,5 kW
+7,5 kW
+11 kW
+15 kW
+
+0,87
+0,87
+0,88
+0,89
+
+cos
+0,85
+0,89
+0,86
+0,88
+
+numero motori
+4
+3
+2
+1
+
+Il candidato fatte eventuali ipotesi aggiuntive ritenute necessarie:
+1.
+
+dimensioni la linea ed illustri i criteri di scelta dei sistemi di protezione dell’impianto;
+
+2.
+
+indichi come organizzare ed effettuare l’intervento di installazione della nuova linea in relazione
+alla sicurezza.
+
+Nel progetto di ampliamento è previsto, ai fini della climatizzazione, un controllo di temperatura e di
+umidità di un locale del magazzino destinato alla conservazione delle merci, realizzato prelevando 4
+valori in posizioni prescelte ed effettuando la media. Il candidato:
+1.
+
+descriva, anche tramite uno schema a blocchi, il sistema di acquisizione della temperatura e
+umidità fino al sistema di elaborazione e indichi le principali caratteristiche funzionali da
+considerare nella scelta dei dispositivi;
+
+2.
+
+indichi i possibili guasti che impediscono il corretto funzionamento del sistema di comando della
+climatizzazione e come effettuare le relative verifiche.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+SECONDA PARTE
+1.
+
+Un sistema è composto da 3 dispositivi collegati come in figura:
+
+I dispositivi A e C sono caratterizzati da un tasso di guasto λA = 0,0001 giorni -1 λC = 0,0002
+giorni -1 mentre MTTF (Mean Time To Failure) del dispositivo B vale MTTFB = 10 000 giorni.
+Il candidato, dopo aver illustrato il significato di tasso di guasto, determini:
+a. per il sottosistema formato dai dispositivi A e B, dopo quanto tempo l’affidabilità scende al
+90%;
+b. per il sistema completo A, B e C l’affidabilità dopo 2 anni.
+2.
+
+In riferimento alla prima parte, considerando la linea nuova da installare, il candidato illustri,
+anche tramite diagramma, la sequenza delle fasi operative fino al collaudo dell’impianto ed
+effettui una valutazione dei costi.
+
+3.
+
+Il trasduttore di temperatura fornisce una corrente I legata alla temperatura T secondo la relazione
+I = KT dove K = 40 nA/K. Il candidato, dopo aver illustrato le principali caratteristiche
+dell’amplificatore operazionale ideale in figura, verifichi che il circuito riportato consente di
+ottenere in uscita una tensione Vo compresa tra 0V e 10V sapendo che la temperatura varia tra
+10°C (283K) e 30°C (303K).
+
+R = 12,5 MΩ
+R1= 442 kΩ
+
+4.
+
+Il candidato, dopo aver illustrato la funzione dell’impianto di terra, proponga un format per la
+registrazione delle verifiche e degli interventi di manutenzione effettuati sull’impianto stesso.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema
+
+

@@ -1,0 +1,411 @@
+Pag. 1/8
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: VERFAHREN UND TECHNOLOGIEN FÜR DIE INSTALLIERUNG, WARTUNG
+UND INSTANDHALTUNG VON SYSTEMEN
+
+Bearbeiten Sie im Teil I die Ihrem Berufsbildungsdiplom entsprechende Problemstellung
+und
+bearbeiten Sie außerdem zwei der im Teil II gegebenen Fragestellungen!
+TEIL I
+A) Problemstellung für „IT-SYSTEMELEKTRONIK UND ANWENDUNGSENTWICKLUNG“
+(Bozen)
+Für alle Kandidaten dieser Gruppe ist die Nutzung eines von der Schule zur Verfügung gestellten PCs
+samt installierter Software ohne Internetzugang erlaubt. Für die Bewertung muss die Arbeit ausgedruckt
+und in Papierform abgegeben werden.
+Zur Unterstützung der hausinternen Wartung und Instandhaltung einer Montageanlage soll eine Website
+eingerichtet werden, welche folgende Informationen verwaltet: zu jeder Wartungstätigkeit wird eine
+Tätigkeitsbeschreibung und ein Datum erfasst. Außerdem umfasst eine Tätigkeit immer die Wartung einer
+von mehreren Maschinen. Weiters soll es die Möglichkeit geben, einen „Wartungsplan“ zu erstellen, bei
+dem man eine Wartungstätigkeit einem oder mehreren Mitarbeitern zuordnen kann. Von jedem dieser
+Mitarbeiter wird im Anschluss an die Tätigkeit die Dauer in Minuten erfasst.
+1.
+
+Entwerfen Sie eine Datenbank samt Beziehungen, in der diese Informationen abgebildet sind.
+
+2.
+
+Erstellen Sie folgende SQL-Anweisungen:
+a) alle Tätigkeiten für die nächsten Tage samt Beschreibung der betroffenen Maschinen sollen
+ausgegeben werden
+b) eine neue Tätigkeit zu einem bestimmten Datum soll erfasst werden
+c) zu einer bestimmten Tätigkeit soll angezeigt werden, welcher oder welche Mitarbeiter diese
+durchgeführt hat bzw. haben und wie viel Zeit er bzw. sie dafür benötigt hat bzw. haben.
+
+3.
+
+Entwerfen Sie die Erfassung einer Tätigkeit (siehe 2b) zuerst statisch in HTML und setzen Sie diese
+dann dynamisch in PHP und MySQL um.
+
+Ergänzen Sie mit zusätzlichen Informationen, falls Sie dies für notwendig erachten.
+
+Pag. 2/8
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: VERFAHREN UND TECHNOLOGIEN FÜR DIE INSTALLIERUNG, WARTUNG
+UND INSTANDHALTUNG VON SYSTEMEN
+
+TEIL I
+B) Problemstellung für „MECHATRONISCHE SYSTEME“ (Bozen)
+Ein Aufzug wird über einen Elektromotor und einer Winde mit einem Trommeldurchmesser von 500mm
+angetrieben. Der Aufzug ist für eine maximale Last von 5kN ausgelegt und soll sich mit einer Betriebsgeschwindigkeit von 2m/s bewegen. Der Wirkungsgrad für das Getriebe liegt bei 0,9.
+
+Die abgebildete Grafik ist weder im Maßstab, noch entspricht sie der realen
+Konstruktion. Sie gibt lediglich eine grafische Hilfe für die Aufgabenstellung!
+
+Wählen und begründen Sie die noch fehlenden Angaben und bearbeiten Sie folgende Punkte:
+
+
+Berechnen Sie die Drehzahl der Antriebswelle und das unter Last vorherrschende Drehmoment.
+
+Der Aufzug wird in einer Notsituation mittels Bremsscheibe und Bremsbacken über Federkraft blockiert.
+Im Normalbetrieb wird die Bremsanlage durch Hydraulikzylinder offen gehalten.
+
+Pag. 3/8
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: VERFAHREN UND TECHNOLOGIEN FÜR DIE INSTALLIERUNG, WARTUNG
+UND INSTANDHALTUNG VON SYSTEMEN
+
+1.
+
+Dimensionieren Sie die Federkraft, wenn der Reibungskoeffizient zwischen Bremsscheibe und
+Bremsbacken µ = 0,5 beträgt.
+
+2.
+
+Dimensionieren Sie die Hydraulikzylinder und die Hydraulikanlage, um die Bremsanlage offen zu
+halten.
+
+3.
+
+Erstellen Sie einen Schaltplan für die Hydraulik-Bremsanlage.
+
+4.
+
+Dimensionieren Sie die Keilverbindung zwischen Bremsscheibe und Antriebswelle. Die Passfeder ist
+aus dem Werkstoffe C45E gefertigt.
+
+Fassen Sie sämtliche Auslegung- und Dimensionierungsarbeiten nachvollziehbar und unter Angabe der
+verwendeten Quellen schriftlich zusammen.
+
+Pag. 4/8
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: VERFAHREN UND TECHNOLOGIEN FÜR DIE INSTALLIERUNG, WARTUNG
+UND INSTANDHALTUNG VON SYSTEMEN
+
+TEIL I
+C) Problemstellung für „ELEKTRO-, GEBÄUDE- UND INFRASTRUKTURTECHNIK“ (Bozen)
+Aus dem elektrischen Hauptverteiler einer Tischlerwerkstatt verlaufen drei dreiphasige Niederspannungsleitungen.
+Die erste Leitung hat eine Länge von 20 m und versorgt zwei Kreissägen, welche von Asynchronmotoren
+mit einer Nennspannung von 400 V angetrieben werden. Sie nehmen bei einem cos φ von 0,88 und einem
+Gleichzeitigkeitsfaktor von 0,6 je eine Leistung von 7,5 kW auf.
+Die zweite Leitung hat eine Länge von 30 m und versorgt eine Fräse, welche von einem
+Asynchronmotoren mit einer Nennspannung 400 V angetrieben werden. Sie nimmt bei einem cos φ von
+0,85 und einem Gleichzeitigkeitsfaktor von 1 eine Leistung von 2,2kW auf.
+Die dritte Leitung hat eine Länge von 20m und versorgt die Beleuchtung, welche eine Leistung von 3kW
+bei einem cos φ von 1 und einem Gleichzeitigkeitsfaktor von 0,8 benötigt.
+Bearbeiten Sie folgende Aufgabenstellungen, rechtfertigen Sie Ihre Einschätzungen und formulieren Sie
+evtl. zusätzliche Hypothesen:
+1.
+
+Zeichnen Sie den Hauptverteiler und legen Sie die Auswahlkriterien der benötigten Apparaturen fest.
+
+2.
+
+Berechnen Sie die benötigte Netzanschlussleistung.
+
+3.
+
+Berechnen Sie den benötigten Querschnitt der Leitungen, beachten Sie dabei den maximal zulässigen
+Spannungsabfall.
+
+4.
+
+Berechnen Sie die benötigte Größe der Kondensatorbatterien, um eine Kompensation auf cos φ = 0,95
+vorzunehmen.
+
+5.
+
+Definieren Sie die Charakteristik der Erdungsanlage.
+
+Pag. 5/8
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: VERFAHREN UND TECHNOLOGIEN FÜR DIE INSTALLIERUNG, WARTUNG
+UND INSTANDHALTUNG VON SYSTEMEN
+
+TEIL I
+D) Problemstellung für „INFORMATIK - NETZWERKTECHNIK“ (Brixen)
+Die Firma BUCH-AG braucht eine neue IT-Infrastruktur. Die Firma stellt eine Buchhaltungssoftware her,
+vertreibt diese Software und ermöglicht auch den Support dazu. Die Firma hat neben dem Hauptsitz auch
+drei weitere geografisch getrennte Standorte, die miteinander über Router verbunden sind.
+Die einzelnen Standorte und der Hauptsitz sind mit entsprechender neuer Hardware und
+Netzwerkanbindung auszustatten.
+Der Hauptsitz (HS) hat 837 Clients und 28 Netzwerkdrucker. Außerdem sollte eine 20%ige
+Erweiterungsmöglichkeit vorgesehen werden.
+Der Standort1 (S1) hat 301 Clients und 12 Netzwerkdrucker. Außerdem sollte eine 15%ige
+Erweiterungsmöglichkeit vorgesehen werden.
+Der Standort2 (S2) hat 150 Clients und 11 Netzwerkdrucker. Außerdem sollte eine 25%ige
+Erweiterungsmöglichkeit vorgesehen werden.
+Der Standort3 (S3) hat 35 Clients und
+Erweiterungsmöglichkeit vorgesehen werden.
+
+6
+
+Netzwerkdrucker.
+
+Hier
+
+sollte
+
+eine
+
+10%ige
+
+Die Anbindung an den Hauptsitz erfolgt jeweils über einen eigenen Router. Die IP-Adresse
+172.18.24.0/21 steht für die gesamte Firmenstruktur zur Verfügung.
+Alle Standorte werden miteinander so verbunden, dass eine maximale Ausfallsicherheit gegeben ist. Als
+Routingprotokoll wird OSPF verwendet.
+1.
+
+Entwerfen Sie die Netzwerkstruktur (Skizze) mit der jeweiligen Adressierung.
+
+2.
+
+Konfigurieren Sie die Router der einzelnen Standorte. Beachten Sie, dass zu den grundlegenden
+Sicherheitsfunktionen die Verwendung von Passwörtern für den Zugriff auf die Geräte sowie deren
+Konfiguration gehört. Bei der Konfiguration der Router soll sich die Konsolen-Schnittstelle nach
+zwei Minuten schließen, falls in diesem Zeitraum keine Eingabe erfolgt.
+
+3.
+
+Konfigurieren Sie den Router als SSH-Server.
+Im Netzwerk müssen zudem alle wichtigen Dienste zur Verfügung gestellt werden, um folgende
+Anforderungen zu erfüllen:
+
+
+Die gesamte IP-Adressvergabe der Clients muss dynamisch erfolgen.
+
+
+
+Die DNS-Namensauflösung muss redundant ausgelegt werden.
+
+Pag. 6/8
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: VERFAHREN UND TECHNOLOGIEN FÜR DIE INSTALLIERUNG, WARTUNG
+UND INSTANDHALTUNG VON SYSTEMEN
+
+
+
+Der Traffic über die WAN-Schnittstelle muss so gering wie möglich gehalten werden.
+
+
+
+Die Rechtevergabe für das gesamte Netzwerk erfolgt zentral im Hauptsitz. Es muss eine
+Dateiablage vorgesehen werden. Auf diese Dateiablage muss die gesamte Firma Zugriff haben.
+Damit die WAN-Verbindungen möglichst wenig belastet werden, soll der Abgleich nachts
+erfolgen.
+
+
+
+Alle Benutzer müssen sich in allen Außenstellen anmelden können.
+
+
+
+Jeder Benutzer benötigt das gemeinsame Netzlaufwerk sowie ein privates Laufwerk. Erstellen
+Sie dafür das Login-Script.
+
+4.
+
+Erstellen Sie ein grafisches Netzwerkschema mit allen Serverdiensten und dokumentieren Sie für
+jeden Dienst die grundlegenden Konfigurationen. Im Netzwerkschema müssen auch alle statischen
+IP-Adressen angegeben werden.
+
+5.
+
+Welche Möglichkeiten der Anbindung der Außenstellen an den Hauptsitz bieten sich an?
+
+Pag. 7/8
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: VERFAHREN UND TECHNOLOGIEN FÜR DIE INSTALLIERUNG, WARTUNG
+UND INSTANDHALTUNG VON SYSTEMEN
+
+TEIL I
+E) Problemstellung für „INDUSTRIE- UND GEBÄUDEAUTOMATION“ (Bruneck)
+In einem Metallverarbeitungsbetrieb befinden sich in einer neuen Produktionshalle (Grundfläche 15 m x
+20 m, Höhe 5 m) folgende Maschinen:
+
+Fräsmaschinen
+Drehbänke
+Bohrmaschinen
+Lastenaufzug
+
+Spannung
+[V]
+400
+400
+400
+400
+
+Anzahl
+3
+4
+5
+1
+
+Leistung
+[kW]
+4
+2,2
+1,5
+5,5
+
+cosφ
+
+η
+
+0,88
+0,85
+0,82
+0,85
+
+85%
+82%
+75%
+86%
+
+Gleichzeitigkeitsfaktor (ks)
+0,7
+0,7
+0,7
+-
+
+Verwendungsfaktor (ku)
+0,8
+0,7
+0,7
+0,8
+
+Leitungslänge [m]
+10
+15
+20
+30
+
+Die Zuleitung zum Hauptverteiler erfolgt über ein 80 m langes Kabel (400 V), das in einem
+Installationsrohr im Erdreich verlegt ist (Kabeltyp FG7OM1). Vom Hauptverteiler werden zusätzlich zu
+den Maschinen die Beleuchtung und die Steckdosenstromkreise (9 Steckdosen einphasig, 3 DrehstromSteckdosen CEE 16 A) versorgt.
+Bearbeiten Sie unter Angabe und Begründung von notwendigen Annahmen folgende Punkte:
+1.
+
+Erstellen Sie eine Skizze der Stromverteilung, schätzen Sie den Leistungsbedarf ab und
+dimensionieren Sie die Zuleitung und deren Absicherung.
+
+2.
+
+Ermitteln Sie den Kabelquerschnitt und die Absicherung für den Lastenaufzug. Die Verlegung erfolgt
+in einer gelochten Kabeltrasse, in der maximal 8 weitere Kabel verlegt sind.
+
+3.
+
+Planen Sie eine geeignete Beleuchtung und berücksichtigen Sie dabei, dass aufgrund der
+Metallverarbeitung ein hohes Staubaufkommen vorhanden ist. Bestimmen Sie die Anzahl der
+Leuchten, die Aufteilung der Leuchten und den Anschlusswert.
+
+4.
+
+Bestimmen Sie das theoretische Maximalgewicht, das mit dem Lastenaufzug transportiert werden
+kann, wenn der Aufzug die Last 5 m hoch transportieren muss, bei einer Geschwindigkeit v = 0,5
+m/s.
+
+Pag. 8/8
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: VERFAHREN UND TECHNOLOGIEN FÜR DIE INSTALLIERUNG, WARTUNG
+UND INSTANDHALTUNG VON SYSTEMEN
+
+TEIL II
+Bearbeiten Sie zwei der folgenden Fragestellungen!
+
+1.
+
+Definieren Sie durch welche wesentlichen Punkte ein Projekt gekennzeichnet ist. Reflektieren Sie
+theoretisch gelernte Inhalte an einem selbst gewählten Beispiel aus Ihrem beruflichen Umfeld.
+
+2.
+
+Welche verschiedenen Formen der Projektorganisation kennen Sie? Wählen Sie eine und beschreiben
+Sie diese ausführlich.
+
+3.
+
+Ein Techniker nimmt eine Wartung an einer elektrischen Maschine vor. Beschreiben Sie, welche
+Gefahren – elektrischer Natur – hier auftreten könnten und wie er sicherheitstechnisch vorgehen
+muss, um sich selbst und andere nicht in Gefahr zu bringen.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Für alle Kandidaten der Gruppe„IT-SYSTEMELEKTRONIK UND ANWENDUNGSENTWICKLUNG“ ist die Nutzung eines von der
+Schule zur Verfügung gestellten PCs samt darauf installierter Software ohne Internetzugang erlaubt. Für die Bewertung muss die Arbeit
+ausgedruckt und in Papierform abgegeben werden.
+ Tabellenbuch Elektrotechnik (Manuale degli impianti elettrici);
+ Tabellenbuch Metall, Verlag Europa-Lehrmittel;
+ nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und Schüler mit
+Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+

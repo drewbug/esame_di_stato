@@ -1,0 +1,100 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DELMEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+ESEMPIO PROVA
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+Viene pianificato il volo di un ATR 42 MP con trasferimento dall’aeroporto di Palermo Punta Raisi (LICJ:
+QFU 07/25 orientamento magnetico 065°/245°; lat. 38° 10’.9 N, long. 013° 05'.9 E; elevazione pista 65 ft
+msl) all’aeroporto di Cagliari Elmas (LIEE: QFU 14/32 orientamento magnetico 138°/318°; lat. 39° 15’.6 N,
+long. 009° 02’.6 E; elevazione 11 ft m.s.l.).
+La declinazione magnetica dell’intera zona è uguale a 2° E.
+Sono noti i seguenti dati:
+
+
+Velocità operativa di crociera (CAS): 220 kt;
+
+
+
+Velocità operativa di salita (GS): 130 kt;
+
+
+
+Velocità operativa di discesa (GS): 140 kt
+
+
+
+Velocità variometrica salita: 1.000 ft/min;
+
+
+
+Velocità variometrica discesa: 1.200 ft/min;
+
+
+
+Carburante utile: 800 l;
+
+
+
+Consumo medio di crociera: 610 l/h;
+
+
+
+Consumo medio di salita: 680 l/h;
+
+
+
+Consumo medio di discesa: 595 l/h.
+
+Per la pianificazione del volo si sceglie il massimo livello disponibile per i voli VFR, al di sotto di PA 8000
+ft, in relazione alla rotta magnetica dell’aereo.
+Relativamente alle informazioni meteorologiche, il pilota dispone dei seguenti messaggi Metar relativi ai due
+aeroporti:
+ LICJ 211320Z 28006KT CAVOK 16/10 Q1016=
+ LIEE 211320Z 30020KT 3500 DZ BR SCT002 BRN015 13/12 Q1014=
+mentre dalle carte del vento e delle temperature in quota, per il livello di volo scelto, il pilota deduce un
+vento medio di 215°/26 kt e una temperatura media uguale a  1°C.
+Il pilota, subito dopo il decollo, mantiene rotta magnetica 282° fino al TOC procedendo poi, con la stessa
+rotta, fino al meridiano del punto NEVOT (lat. 39° 02’.4 N, long. 009° 43’.6 E) virando in modo da
+raggiungere il suddetto punto.
+Dal punto NEVOT il pilota assume rotta magnetica 290° per raggiungere il TOD continuando con la stessa
+rotta sino all’atterraggio sulla pista in uso.
+Il candidato pianifichi il volo indicando in particolare le piste in uso, i consumi, il carburante residuo di
+bordo e l’UT di arrivo a Cagliari Elmas sapendo che il decollo dell’aereo avviene alle UT 14:45.
+Considerando la Terra sferica, il candidato costruisca una carta di Mercatore, con scala equatoriale tale che
+ad 1’ corrisponda 1 mm, tracciando su di essa le rotte pianificate.
+
+SECONDA PARTE
+1) La stazione meteo di Palermo Punta Raisi (LICJ) emette il seguente messaggio:
+METAR LICJ 271650Z 30005KT 270V330 9999 FEW025 10/06 Q1014=
+Il candidato spieghi cosa si intende col termine METAR e provveda alla decodifica del messaggio.
+2) Un aeromobile alle 10.00Z è in volo da Cagliari verso la stazione VOR-DME di Tunisi (lat. = 36° 51' N,
+long. = 010° 14' E) lungo la radiale 167 TO. Al DME la distanza è uguale a 70 NM e diminuisce di 4 NM
+ogni minuto.
+Alla stessa ora un secondo aeromobile dalla verticale della stazione VOR-DME di Annaba
+(lat. = 36°
+49' N, long. = 007° 48’ E) inizia una manovra di intercettazione con TAS = 300 kt in presenza di un vento
+315°/28 kt.
+Il candidato calcoli la True Heading che l’aeromobile deve assumere e l’ora in cui avverrà l’intercettazione
+(VAR = 01° W).
+3) Un aeromobile, sorvolata la stazione di Ostia (lat. = 41° 48' N, long. = 012° 14’ E), è diretto verso il
+punto Aledi (lat. = 39° 37' N, long. = 010 00’ E) mantenendo TH e CAS costanti (CAS = 180 kt; FL95;
+SAT = ISA + 8.8°C; VAR = 1° W) .
+Dopo 30 minuti di volo il pilota determina la propria posizione attraverso la stazione VOR/DME di Alghero
+(lat. = 40° 38' N, long. = 007° 48’ E) trovandosi sulla radiale 103 FR alla distanza di 120 NM.
+Nell’ipotesi in cui le misure effettuate siano prive di errori, determinare gli elementi del vento medio che ha
+agito durante il volo.
+
+4) Il candidato descriva quando si rende necessario, nel momento dell’atterraggio, effettuare circuitazione a
+vista (circling) illustrandone le caratteristiche.
+
+_____________________________________
+Durata della prova: 6 ore.
+Durante lo svolgimento della prova è consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di
+calcolatrici tascabili non programmabili.
+
+

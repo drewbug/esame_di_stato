@@ -1,0 +1,110 @@
+Pag. 1/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPS9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E MANUTENZIONE
+Il candidato svolga il tema indicato.
+DOCUMENTO n.1
+Due vittime e 21 casi segnalati nel 2018. Aumenta il rischio Legionella nelle strutture pubbliche, il
+Dipartimento di prevenzione Igiene e sanità pubblica dell’Ass3 ha avviato i controlli su una cinquantina di
+strutture ricettive, sportive, socio assistenziali, militari e sanitarie e oltre la metà sono risultate contaminate dal
+batterio. Di queste, il 38% presentava livelli contaminazione considerevoli.
+Le verifiche sono state avviate nel corso del 2018 da un team di tecnici della prevenzione, visto l’aumento del
+numero dei casi segnalati e delle vittime – due, di cui un paziente immunodepresso e un trapiantato – su 48
+strutture che ospitavano una collettività nell’ambito del territorio. Ben 404 i campionamenti effettuati
+complessivamente.
+Dopo un primo sopralluogo con la raccolta di informazioni generali sulle strutture e sull’impianto igienicosanitario attraverso la compilazione di un questionario, sono stati raccolti i primi 343 campioni. Le successive
+analisi hanno rivelato l’assenza del batterio solo sul 47,92% delle strutture esaminate.
+«Il 52.08% invece – si legge nella relazione – presentava una contaminazione non ignorabile in quanto non è
+nota una dose infettante, potenzialmente anche una bassa concentrazione di Legionella può, in determinate
+condizioni sia ambientali che individuali del soggetto, portare alla manifestazione clinica della patologia. Da
+queste informazioni raccolte – prosegue il documento – circa il 38% delle strutture presenta una
+contaminazione considerevole dell’impianto».
+(Fonte: Messaggero Veneto n. 18 marzo 2019)
+CONTESTO OPERATIVO
+Il candidato ipotizzi di venire interpellato per la manutenzione di un sistema di trattamento dell’aria che lavora
+una portata massima d’aria di 3000 m3/h a servizio di una sala cinematografica ubicata in un centro
+commerciale.
+La macchina è collocata nella copertura piana del fabbricato che risulta privo di cornicione. L’accesso avviene
+per il tramite di una scala “alla marinara” fissata esternamente al fabbricato.
+Al candidato si chiede di predisporre il suo intervento attenendosi alle seguenti indicazioni:
+a)
+Con riferimento alla comprensione del documento sopra riportato, il candidato risponda alle seguenti
+questioni:
+-
+
+individui quali sono le componenti del sistema trattamento dell’aria che, in assenza di operazioni di
+manutenzione programmata, determinano una maggiore criticità in riferimento al rischio di
+propagazione di agenti patogeni nei locali climatizzati;
+
+-
+
+individui quali sono le componenti del sistema di trattamento dell’aria che, in assenza di operazioni
+di manutenzione programmata, determinano una maggiore criticità in riferimento al rischio di una
+interruzione del servizio nel funzionamento.
+
+Pag. 2/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPS9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E MANUTENZIONE
+b) Con riferimento alla padronanza delle conoscenze fondamentali e delle competenze tecnico – professionali
+conseguite, il candidato risponda alle seguenti domande:
+
+c)
+
+-
+
+valutare il numero massimo di persone potenzialmente presenti nella sala cinematografica nell’ipotesi
+che la macchina sia in grado di fornire la portata di 3.000 m3/h in termini di aria di rinnovo considerando
+il fabbisogno necessario in base ai valori indicati dalla norma UNI 10339 riportata in Allegato 1;
+
+-
+
+nell’ipotesi che l’unità di trattamento dell’aria sia dotata di un recuperatore di energia a flussi incrociati
+avente un rendimento =75%, collocato nella sezione di ingresso e in grado di scambiare calore con
+l’aria in espulsione, calcolare la potenza recuperata dal sistema, in condizioni invernali, nell’ipotesi
+che la temperatura dell’aria esterna sia Te = 0 °C e la temperatura dell’aria interna sia Ti = 20 °C;
+
+-
+
+nelle stesse condizioni di funzionamento indicate al punto precedente determinare il valore di energia
+espresso in Joule [J] che il recuperatore ha trasferito all’aria in ingresso in un periodo di funzionamento
+di 60 minuti.
+
+Il candidato concluda il tema elencando gli apprestamenti e le dotazioni di sicurezza da adottare o richiesti
+affinchè le operazioni di manutenzione possano essere eseguite in condizioni di sicurezza.
+
+In allegato è riportata la tabella utile allo svolgimento del tema.
+
+____________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda è
+predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione scolastica e
+della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Tabella n.1
+Portate di aria esterna in edifici adibiti ad uso civile – Prospetto 3 UNI 10399
+
+

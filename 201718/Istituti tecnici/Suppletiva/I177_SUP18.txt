@@ -1,0 +1,79 @@
+Pag. 1/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I177 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+Tema di: SISTEMI E RETI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un Campus universitario è costituito da una sede centrale e da due dipartimenti di ricerca posti a circa
+300 metri dalla sede centrale.
+Nella sede centrale, fondamentalmente destinata alla didattica, sono presenti computer connessi alla
+rete in modo cablato, mentre in ciascun dipartimento sono presenti due zone di cui la prima è dotata
+di computer con connessione cablata e la seconda è coperta da connettività wireless.
+Nella sede centrale è presente un router che concentra il traffico di 320 PC, posti a gruppi di 40 in
+ciascuna di 8 aule; inoltre in ogni dipartimento è presente un router dotato di tre porte che divide
+l’area cablata con 40 PC da quella wireless che prevede la connettività massima per 20 dispositivi
+senza fili.
+Il router nella sede centrale e la terza porta presente sui router di ciascun dipartimento sono connessi
+ad un router a quattro porte, a sua volta connesso con la Wan.
+In una sede remota della stessa struttura universitaria è presente un data-center privato, dotato di
+connettività Internet e costituito da due server, uno switch, un router locale ed uno di frontiera con la
+Wan.
+Il data center è configurato in funzione di cloud privato, cui le altre sedi fanno riferimento, per salvare,
+leggere e scambiare dati didattici e di ricerca.
+Il candidato, sulla base dell’analisi descritta e fatte le eventuali ipotesi aggiuntive ritenute necessarie:
+A) analizzi la struttura e disegni una mappa relativa all’architettura generale della rete;
+B) crei il possibile piano di indirizzamento, tenendo conto della sicurezza, delle possibili esigenze
+di controllo della comunicazione tra le varie strutture presenti e garantendo un certo livello di
+flessibilità;
+C) proponga soluzioni per assicurare l’assegnazione di indirizzi dinamici ai singoli PC e configuri
+la rete di router.
+
+Pag. 2/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I177 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+Tema di: SISTEMI E RETI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+SECONDA PARTE
+Il candidato scelga due fra i seguenti quesiti e per ciascun quesito scelto formuli una risposta della
+lunghezza massima di 20 righe esclusi eventuali grafici, schemi e tabelle.
+1.
+
+Con riferimento alla prima parte della prova, analizzare la struttura del data center, mettendo in
+evidenza quali caratteristiche di ridondanza convenga prendere in considerazione.
+
+2.
+
+Con riferimento alla prima parte della prova, descrivere quali servizi possano essere forniti dal
+cloud a cui è connessa la rete universitaria.
+
+3.
+
+Illustrare le funzioni di un Proxy Server, indicando i vantaggi che si ottengono con il suo
+inserimento.
+
+4.
+
+Descrivere le caratteristiche di una Virtual Private Network.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

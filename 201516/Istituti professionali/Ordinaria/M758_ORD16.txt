@@ -1,0 +1,100 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M758 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAI - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE INSTALLAZIONE MANUTENZIONE APPARATI CIVILI E
+INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+In un edificio adibito ad uffici vengono eseguiti degli interventi di manutenzione straordinaria per
+ridurre i consumi energetici.
+Gli interventi individuati sono i seguenti:
+
+
+sostituzione di 5 elettropompe di potenza Pn=5,5 kW, rendimento µ=0,78, funzionanti a carico
+nominale, con elettropompe ad alto rendimento con la stessa potenza nominale e rendimento
+µ=0,89;
+
+
+
+sostituzione di 55 apparecchi illuminanti aventi ciascuno 2 lampade fluorescenti lineari da 36 W
+con altrettanti apparecchi a LED di potenza 40 W cadauno;
+
+
+
+sostituzione di 5 venticonvettori
+
+Il candidato, fatte le eventuali ipotesi aggiuntive:
+-
+
+descriva, anche tramite schema, la struttura dell’impianto di condizionamento;
+
+-
+
+considerato che gli apparecchi illuminanti hanno un funzionamento annuo di 1600 ore e le
+elettropompe un funzionamento annuo di 2000 ore, rediga una breve relazione che dimostri il
+risparmio energetico annuo sapendo che il costo del kWh è pari a 0,25 €;
+
+-
+
+rediga un manuale di uso e manutenzione relativo ai nuovi impianti installati ed indichi la
+tipologia di controlli da effettuare per mantenere in efficienza le elettropompe;
+
+-
+
+rediga un computo metrico di offerta per gli interventi da effettuare.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M758 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAI - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE INSTALLAZIONE MANUTENZIONE APPARATI CIVILI E
+INDUSTRIALI
+
+SECONDA PARTE
+1.
+
+Un gruppo elettrogeno ha due circuiti di avviamento, uno elettrico ed uno pneumatico (uno di
+riserva all’altro) aventi rispettivamente λ1= 2,3*10-3 guasti /anno e λ2= 0,015 guasti/anno.
+Calcolare l’affidabilità del sistema di avviamento per un tempo di 5 anni.
+
+2.
+
+Una ditta di manutenzione ha ricevuto l’incarico di riqualificazione energetica di un edificio
+adibito ad uffici. L’intervento prevede la sostituzione dei corpi illuminanti posti ad un’altezza
+variabile tra 3-6 metri e la sostituzione delle elettropompe della centrale termica Il candidato,
+fatte eventuali ipotesi, analizzi la tipologia dei possibili rischi valutandone la probabilità e il
+danno per ciascun pericolo individuato. Indichi inoltre, le misure di prevenzione e protezione e
+la tipologia dei DPI (Dispositivi di Protezione Individuale) necessari per effettuare l’intervento
+in sicurezza.
+
+3.
+
+Il candidato, dopo aver descritto la struttura di un PLC e le caratteristiche funzionali dei principali
+elementi che lo costituiscono, illustri i criteri di scelta, le modalità di installazione in sicurezza e
+di manutenzione. Infine, si indichino i possibili guasti e le tecniche di intervento
+
+4.
+
+Il candidato indichi gli strumenti di misura e le tecniche per determinare il rendimento del motore
+asincrono trifase. Spieghi inoltre, le tipologie di perdite che sono presenti nel motore.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,69 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I238 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMO – MECCANICA, MECCATRONICA, ENERGIA
+ARTICOLAZIONE MECCANICA MECCATRONICA
+OPZIONE TECNOLOGIA OCCHIALE
+Tema di: TECNOLOGIE MECCANICHE, PROCESSO, PRODOTTO INDUSTRIALE OCCHIALE
+Il candidato svolga il tema indicato nella prima parte e risponda a due quesiti tra i quattro proposti
+nella seconda parte
+PRIMA PARTE
+Si deve eseguire alle macchine utensili a controllo numerico il frontale in acetato schematizzato nel
+disegno allegato. Al candidato viene richiesto di:
+1.
+
+Determinare il semilavorato di partenza, scegliere gli utensili ed i relativi parametri di taglio per
+la lavorazione richiesta.
+
+2.
+
+Ricavare mediante software CAM il programma CNC delle lavorazioni, partendo dal disegno
+eseguito con software CAD.
+
+3.
+
+Spiegare e commentare i punti salienti del programma ottenuto. I file prodotti vanno salvati in
+formato digitale negli opportuni formati.
+
+SECONDA PARTE
+1.
+
+Descrivere il ciclo di lavorazione di un occhiale del tipo considerato nella prima parte.
+Confrontare e valutare, secondo gli aspetti che si ritengono più significativi, il suddetto ciclo con
+quello di un occhiale ottenuto per stampaggio ad iniezione.
+
+2.
+
+Descrivere le prove non distruttive che possono interessare la produzione della montatura di un
+occhiale.
+
+3.
+
+Descrivere le principali caratteristiche dei materiali termoplastici e termoindurenti, con
+riferimento in particolare a quelle caratteristiche che interessano la industria dell’occhiale.
+
+4.
+
+Illustrare i processi di corrosione ed i metodi di protezione che possono riguardare la montatura
+in metallo di un occhiale.
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+I candidati possono utilizzare software specifici per il disegno e per la programmazione CNC.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+DISEGNO ALLEGATO
+
+

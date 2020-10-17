@@ -1,0 +1,53 @@
+Pag. 1/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I144 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: IMPIANTI ENERGETICI, DISEGNO E PROGETTAZIONE
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un locale deve essere mantenuto alla temperatura di 20°C in una località del nord Italia, utilizzando
+una pompa di calore a compressione di vapore saturo di freon R134a.
+Il carico termico sensibile per differenza di temperatura sia di 32.000 W.
+Gli apporti di calore sensibile all’ambiente per illuminazione e macchine siano di 6.000 W
+Determinare:
+ il COP della pompa di calore;
+ la portata e la potenza termica;
+ la potenza assorbita dal compressore nel caso teorico di compressione isoentropica;
+ il consumo giornaliero di energia elettrica, nell’ipotesi che il gruppo motore-compressore abbia
+un rendimento del 70%.
+Si disegni lo schema dell’impianto e il ciclo termodinamico sul piano p-h (diagramma allegato).
+Il candidato assuma liberamente ogni altro dato necessario alla soluzione giustificando tali scelte.
+
+SECONDA PARTE
+1. Impianto di climatizzazione a sola aria: descrivere l’unità di trattamento aria e le trasformazioni
+termodinamiche nei singoli componenti, sia nel funzionamento estivo che in quello invernale.
+2. Ciclo frigorifero reale in una macchina reale: analisi delle trasformazioni, vantaggi e scopi del
+surriscaldamento e del sottoraffreddamento.
+3. Scopi della climatizzazione estiva ed invernale. Criteri di determinazione delle condizioni del
+punto di immissione in un impianto a tutta aria sia nel caso estivo che invernale.
+4. Regolazione degli impianti di climatizzazione a pompa di calore: il candidato individui il tipo di
+regolazione da utilizzare, tra quelle di sua conoscenza, giustificando tale scelta.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 2/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I144 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+
+

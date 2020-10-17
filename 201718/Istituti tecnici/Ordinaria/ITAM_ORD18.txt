@@ -1,0 +1,686 @@
+Pag. 1/8
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+Il candidato, a seconda che nell’ambito delle abilità e conoscenze previste dalle linee guida abbia
+approfondito la progettazione di tessuti a fili rettilinei, di tessuti a maglia o di confezione, scelga il
+tema 1, il tema 2 o il tema 3.
+TEMA 1 - TESSUTI A FILI RETTILINEI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Il candidato, a libera scelta, può svolgere la prova A relativa a materiali tessili in lana o la
+prova B relativa a materiali tessili in cotone.
+
+PROVA A - Materiali tessili in lana
+Il responsabile di produzione di un’azienda tessile, che produce filati di lana pettinata, deve
+predisporre un piano di filatura per una possibile espansione dell’azienda in un paese estero.
+Si prevede una produzione di 2800 Kg/giorno di filato di Nm 56 con torsione pari a 680 giri/metro.
+La mescolatrice è alimentata da un top (nastro pettinato di peso pari a 26 g/m) e l’attività giornaliera
+dell’impianto è di tre turni da 7 ore e 30 min ciascuno.
+Dati di lavorazione macchine:
+MACCHINA
+
+rendimento (%)
+%
+60 ÷ 70
+
+velocità massima
+(m/min)
+250
+
+velocità massima
+(giri/min)
+-
+
+stiratoio a catena
+
+70 ÷ 80
+
+300
+
+-
+
+pettinatrice
+
+85 ÷ 90
+75 ÷ 85
+
+200
+
+250
+-
+
+85 ÷ 90
+
+-
+
+12000
+
+75 ÷ 85
+
+1200
+
+mescolatrice
+
+finitore frottatore
+filatoio
+roccatrice
+
+Pag. 2/8
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+PROVA B - Materiali tessili in cotone
+Il responsabile di produzione di un’azienda tessile, che produce filati di cotone pettinato, deve
+predisporre un piano di filatura per una possibile espansione dell’azienda in un paese estero.
+Si prevede una produzione di 3200 Kg/giorno di filato di Ne 60 con torsione pari a 26 giri/pollice.
+Il titolo del materiale entrante alla carda è pari a 600 g/m, lo stoppino ha un coefficiente di torsione
+Kc = 1,25 e l’attività giornaliera è di tre turni da 7 ore e 30 min ciascuno.
+Dati di lavorazione macchine:
+MACCHINA
+
+rendimento
+%
+
+velocità massima
+(m/min)
+
+velocità massima
+(gitri/min)
+
+cascame
+%
+
+80 ÷ 90
+
+240
+
+-
+
+5
+
+70 ÷ 80
+60 ÷ 70
+
+450
+140
+
+pettinatrice
+banco a fusi
+
+85 ÷ 90
+
+-
+
+360
+
+18
+
+75 ÷ 85
+
+-
+
+1500
+
+filatoio
+
+85 ÷ 90
+
+-
+
+16000
+
+carda
+stiratoio nastri
+stiroriunitore
+
+Il candidato, a seconda della prova scelta, deve:
+1. Analizzare le caratteristiche della materia prima.
+2. Elencare le fasi del ciclo di lavorazione (dalla mescolatura alla filatura per materiali tessili in lana
+e dalla cardatura alla filatura ad anello per materiali tessili in cotone).
+3. Dimensionare l’impianto calcolando il numero di macchine occorrenti per realizzare la produzione
+richiesta, compilando il piano di lavoro, nel quale siano riportati, per ogni macchina:
+a) Denominazione della macchina;
+b) peso o titolo del singolo prodotto entrante;
+c) accoppiamento;
+d) carica di alimentazione;
+e) stiro meccanico;
+f) peso e titolo del prodotto uscente;
+
+Pag. 3/8
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+g) numero di nastri/stoppini/filati prodotti per macchina;
+h) velocità di uscita (m/min);
+i) produzione teorica (kg/ora);
+j) rendimento macchina;
+k) produzione pratica (kg/ora);
+l) numero di teste o fusi richiesti;
+m) numero di macchine da utilizzare e relativi numeri di teste o fusi.
+4. Illustrare il principio di funzionamento, le regolazioni di base, le capacità produttive e i criteri di
+assegnazione del filatoio.
+SECONDA PARTE
+1. In relazione al controllo del filato in produzione, elenca le prove tecnologiche che ritieni più
+opportuno effettuare, descrivendo brevemente la finalità di ciascuna prova.
+2. Elencare gli organi principali della pettinatrice, la loro funzione ed il principio di funzionamento
+della stessa.
+3. Illustra i diversi sistemi di apertura del passo.
+4. Indicare i principali sistemi di titolazione dei filati e spiegare la differenza fondamentale fra
+titolazione diretta e indiretta.
+
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 4/8
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+TEMA 2 - MAGLIERIA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Il responsabile di produzione di un’azienda tessile, che produce sia filati che tessuti a maglia, deve
+seguire le varie fasi di lavorazione.
+Alla Filatura è stato richiesto di produrre un filato di cotone Tex 30 con il ciclo cardato.
+Il candidato, utilizzando i dati tecnici produttivi delle macchine riportati nella Tabella A, deve:
+ calcolare la Produzione totale in Chilogrammi di tre turni di 7 ore e 45 minuti;
+ completare la stessa tabella inserendo nell’ultima colonna il numero di macchine occorrenti alla
+realizzazione della produzione richiesta.
+Tabella A
+Macchine
+
+Produz
+teorica
+Kg/h
+
+Produz
+teorica
+m/min
+
+Rendimento Cascame
+%
+%
+
+Prelevatore
+
+1120
+
+94-95
+
+Apritoio
+
+550
+
+95-97
+
+Miscelatore
+a 6 celle
+Carda
+Marzoli
+Stiratoio
+Marzoli
+Banco a
+fusi
+Filatoio ad
+anelli
+
+1110
+
+94-96
+
+280
+
+95-97
+900
+
+Titolo
+materiale
+uscente
+Kte
+x
+
+Torsion
+e
+giri/m
+
+N°
+Fusi
+
+1150
+
+45
+
+90
+
+15500
+
+540
+
+850
+
+3
+
+95-97
+
+4
+
+93-94
+
+0,8
+
+95-98
+
+Velocità
+giri/min
+
+N°
+Macchine
+
+Pag. 5/8
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+Inoltre, il candidato calcoli i metri di tessuto a maglia in jersey prodotti in 1 giorno per due turni di
+lavoro di 7 ore e 15 minuti da un maglificio che impiega nella sala di tessitura n° 6 macchine circolari
+monofrontura aventi le seguenti caratteristiche:
+‒ diametro Ф = 16”;
+‒ cadute = 48;
+‒ finezza = E18;
+‒ velocità = 28 giri/min;
+‒ ranghi/cm = 22;
+‒ lunghezza di Filo Assorbito LFA = 0,25 cm;
+‒ titolo del filato = tex 30;
+‒ rendimento medio = 95%.
+Si richiede infine la determinazione del fabbisogno di filato giornaliero in chilogrammi.
+
+SECONDA PARTE
+1. Illustrare lo scopo della cardatura.
+2. Illustrare le principali differenze tra le macchine rettilinee e quelle circolari.
+3. Elencare gli organi di un telaio in catena.
+4. Rappresentare una Charmeuse realizzata su un telaio in catena.
+
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 6/8
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+TEMA 3 - CONFEZIONE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Progettare un jeans, per uomo o donna a scelta. Il capo, inserito nella collezione A/I 2018, dovrà
+rispettare le seguenti caratteristiche:
+‒ Cintura con passanti
+‒ Apertura sul centro davanti con bottone per jeans, finta e cerniera
+‒ Tasche davanti alla carrettiera tonda con rivetti e money pocket
+‒ Due tasche posteriori a toppa.
+Nell’ambito della definizione della documentazione tecnica per la progettazione e industrializzazione
+della collezione, al candidato si richiede di elaborare per il modello progettato:
+1. La scheda tecnica del prodotto completa di disegno in piano, indicazioni degli accessori impiegati
+e delle lavorazioni illustrate anche attraverso profili di cucitura.
+2. La scheda dei costi nella quale indicare il prezzo di vendita del prodotto considerando un margine
+di contribuzione del 55%.
+3. Il ciclo di lavorazione in cui stimare i tempi assegnati per ciascuna operazione.
+4. La distinta base dei materiali impiegati con il calcolo dei consumi e dei costi unitari.
+Il candidato dovrà svolgere le mansioni dell’ufficio di programmazione della produzione, analizzando
+l’andamento del venduto ai fini della produzione in base al “Riepilogo Generale degli Ordini”
+riportato in Tabella 1.
+L’ufficio ha già verificato la piena disponibilità delle risorse tecnologiche e dei materiali e
+relativamente alla manodopera può disporre di 6 operai in grado di svolgere qualsiasi compito
+inerente al ciclo di lavorazione del prodotto. La giornata lavorativa è di 8 ore al giorno, 5 giorni alla
+settimana. Il rendimento medio è del 96% e l’assenteismo risulta del 7%. L’azienda dispone di reparti
+organizzati con un layout di prodotto e scorte di semilavorato su ciascuna postazione di lavoro.
+
+Pag. 7/8
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+Al candidato si chiede di:
+1. Elaborare il diagramma di Pareto sulle quantità vendute
+2. Formulare la commessa di lavorazione del modello 501
+3. In relazione al lancio in produzione del modello 501, per il quale si riporta in Tabella 2 una fase
+del ciclo di lavorazione, elaborare per il reparto preparazioni:
+a. il volume settimanale di produzione sostenibile dalle risorse disponibili e la distribuzione dei
+carichi di lavoro agli operai, impiegando la manodopera nel miglior modo possibile;
+b. il diagramma di saturazioni di macchine ed operai;
+c. una valutazione sul coefficiente di utilizzo delle risorse.
+Tabella 1
+RIEPILOGO GENERALE DEGLI ORDINI COLLEZIONE A/I 2018-19
+ORDINI
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+
+CLIENTE
+
+A
+A
+A
+A
+B
+B
+B
+B
+B
+C
+C
+C
+C
+D
+D
+E
+E
+
+CODICE
+MODELLO
+501
+507
+500
+502
+501
+507
+507
+500
+506
+508
+501
+504
+510
+503
+501
+507
+505
+
+COD.
+TESSUTO
+D100
+D300
+D200
+D110
+D100
+D300
+D300
+D200
+D600
+D700
+D100
+D400
+D200
+D150
+D100
+D300
+D500
+
+COD.
+COLORE
+CJ01
+CJ01
+CJ01
+CJ03
+CJ01
+CJ05
+CJ01
+CJ01
+CJ01
+CJ01
+CJ01
+CJ02
+CJ01
+CJ01
+CJ01
+CJ01
+CJ01
+
+38
+140
+300
+150
+100
+300
+300
+200
+800
+100
+1
+300
+20
+15
+1
+250
+40
+200
+
+QUANTITA’ ORDINATE PER
+TAGLIA
+40
+42
+44
+46
+400
+200
+100
+60
+400
+200
+200
+100
+200
+200
+25
+25
+180
+80
+20
+300
+150
+150
+300
+200
+100
+100
+250
+150
+100
+100
+800
+800
+800
+800
+160
+90
+80
+80
+3
+1
+1
+300
+200
+100
+100
+20
+20
+20
+30
+90
+30
+35
+1
+1
+1
+250
+250
+150
+100
+80
+30
+30
+20
+200
+200
+150
+50
+
+TOT
+CAPI
+900
+1200
+600
+380
+900
+1000
+800
+4000
+530
+6
+1000
+80
+200
+4
+1000
+200
+800
+
+Pag. 8/8
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+Tabella 2 – ciclo di lavorazione
+N. Operazione
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Macchina
+M1
+M2
+M2
+M3
+M3
+M1
+M1
+M2
+M1
+M4
+
+Tempo Assegnato
+1,74
+1,05
+0,98
+1,00
+0,86
+1,15
+1,01
+0,60
+1,15
+0,47
+
+SECONDA PARTE
+1. Elaborare una valutazione relativamente ai dati ottenuti dal diagramma di Pareto elaborato nella
+prima parte della prova.
+2. Le tipologie di cucitura sono divise, secondo la normativa, in 6 classi: indicare la denominazione
+e spiegare le caratteristiche e i principali impieghi di ciascuna classe di cucitura.
+3. Indicare le principali mansioni dell’ufficio tecnico, dell’ufficio stile e dell’ufficio acquisti.
+4. Esporre il significato di DPI indicato dal Decreto Legislativo n.81/2008 e come devono essere
+utilizzati per la tutela della salute dei lavoratori.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

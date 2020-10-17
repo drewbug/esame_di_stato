@@ -1,0 +1,58 @@
+Pag. 1/1
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M543 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCT – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI MEZZO AEREO
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Un aeromobile ha le seguenti caratteristiche:
+ peso totale 22000 N;
+ allungamento alare 8;
+ apertura alare 12 m;
+ peso delle due ali 2 kN;
+ tensione di snervamento del materiale del longherone e rivestimento 400 N/mm2;
+ ala rettangolare a profilo NACA 6412;
+ momento torcente di 2000 Nm costante sull’ala;
+ modulo di elasticità trasversale di 27000 N/mm2;
+ Cr0 = 0,023.
+L’aeromobile, alla quota di 23000 ft, esegue una richiamata, con trazione di 4200 N e assetto di
+Emax.
+Il candidato, facendo le dovute ipotesi semplificative e assumendo, con motivati criteri, i dati
+ritenuti necessari, dimensioni in tale situazione il rivestimento dell’ala e il longherone e valuti,
+inoltre, l’angolo di torsione dell’estremità dell'ala.
+SECONDA PARTE
+1.
+
+Descrivere le possibili soluzioni per le strutture alari ed indicare le tipologie di materiali
+utilizzati, eventualmente facendo riferimento ad esperienze professionali, visite ad aziende,
+stage o percorsi di alternanza scuola lavoro.
+
+2.
+
+Disegnare con opportuna scala il disegno d’assieme della struttura dimensionata (longherone e
+rivestimento) con le relative quote.
+
+3.
+
+Descrivere cause e fenomeni connessi con l’aeroelasticità delle strutture;
+
+4.
+
+Descrivere e rappresentare lo schema di un impianto elettrico di bordo evidenziandone le
+principali utenze.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

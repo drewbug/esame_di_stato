@@ -1,0 +1,175 @@
+Ministero dell’Istruzione dell’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+ESEMPIO PROVA
+Il candidato, dopo aver letto attentamente, opti per una sola delle due tracce ed affronti la
+soluzione del tema e di due quesiti tra i quattro proposti nella traccia selezionata.
+
+TEMA 1
+PRIMA PARTE
+Vi è stato affidato il compito di analizzare un magazzino avente le seguenti caratteristiche:
+ è costituito da 12 corridoi disposti longitudinalmente di lunghezza 32m, composto da 24
+scaffalature bifronti con celle da tre posti pallet (euro pallet 800x1200 mm);
+ le unità di carico hanno un’altezza massima comprensiva del pallet di 1.5m ed è ammesso
+un debordo complessivo su lato lungo del 4% ;
+ l’altezza utile del capannone, sottotrave, è di 11,5 m;
+ si dispone di carrelli a montante retrattile le cui prestazioni sono così sintetizzabili:
+‐
+
+velocità di trasferimento orizzontale con carico: 2,8 m/s;
+
+‐
+
+velocità di trasferimento orizzontale a vuoto: 3 m/s;
+
+‐
+
+velocità di sollevamento forche con carico: 0.35 m/s;
+
+‐
+
+velocità di sollevamento forche a vuoto: 0.4 m/s;
+
+‐
+
+velocità di discesa forche: 0.43 m/s
+
+‐
+
+tempi fissi per ogni missione di prelievo o stoccaggio = 67 s
+
+Assumendo che il punto ( I/O) di ingresso e di uscita del magazzino sia al centro del fronte
+dell’area di stoccaggio stimare:
+a. il valore minimo dell’altezza di sollevamento delle forche per i carrelli da utilizzare per la
+movimentazione all’interno del magazzino che consenta di sfruttare completamente lo
+spazio a disposizione;
+b. il Coefficiente di Utilizzazione Superficiale CUS e la potenzialità ricettiva dell’intera area
+di stoccaggio ;
+c. il numero di carrelli necessari per ottenere una potenzialità di movimentazione di
+80pallet/h utilizzando cicli semplici e considerando un coefficiente di utilizzazione dei
+carrelli di circa 85%.
+Si consideri che la politica di stoccaggio adottata sia a “posti condivisi” con equiprobabilità di
+accesso ai vani e che le missioni siano al 50% di immissione e al 50% di prelievo.
+Il candidato scelga e indichi in modo esplicito tutti i parametri e le assunzioni dimensionali
+necessari per la soluzione.
+
+SECONDA PARTE
+1)
+–
+
+Si determini il valore della potenzialità di movimentazione raggiungibile nelle ore di punta
+
+–
+
+Si calcoli il costo medio di ogni missione (prelievo/carico) considerando un costo orario di
+17,50€/h comprensivo di costi per la manodopera e per l’ammortamento carrelli.
+
+–
+
+Si valuti se, ed eventualmente quanto, varia il numero di carrelli necessari per ottenere
+quanto richiesto al punto c. del Tema A, nel caso il punto di accesso all’area di stoccaggio
+I/O sia posizionata ad una delle estremità del fronte.
+
+2)
+Nelle baie di carico del Consorzio XXXXLOGISTIC ogni giorno sono allestiti per essere
+spediti il giorno successivo 180 “groupage” ognuno di questi è costituito mediamente di 50
+codici diversi. Ogni codice può avere una diversa quantità. Considerando un errore di quantità
+all’interno di un codice di un groupage come “difetto”:
+A) Individuare la numerosità del campione da prelevare, i numeri di accettazione e rifiuto
+nel caso sia applicato un controllo per attributi secondo la norma UNI ISO 2859-1 con
+un piano di controllo generale con livello ordinario, campionamento semplice,
+LQA=0,4.
+B) Discutere l’opportunità di applicare un LQA differente.
+Allegate tabelle della norma UNI ISO 2859 necessarie allo svolgimento dell’esercizio
+(versione 1999 perché disponibile gratuita in internet).
+3)
+Per i seguenti Incoterms, il candidato descriva quando terminano Responsabilità e Costi per il
+venditore e quando l’acquirente se ne prende carico:
+– CFR
+– DAT
+– FOB
+– DDP
+4)
+Elencare le figure professionali coinvolte nell’attuazione delle norme contenute nel DLgs.
+81/08 (Testo Unico per la Sicurezza negli Ambienti di Lavoro) e spiegare i compiti, doveri e
+responsabilità di almeno una di esse.
+
+TEMA 2
+PRIMA PARTE
+Al responsabile della logistica dell’azienda XXYY è stato chiesto di valutare le scorte ed il
+costo totale atteso annuale di stoccaggio relativi a due diverse supply chain così costituite:
+Scenario 1: Factory che rifornisce un centro di distribuzione che a sua volta rifornisce 4
+rivenditori che servono altrettanti mercati.
+Il Lead Time Factory→CEDI è certo e pari a 2 giorni;
+Il Lead Time CEDI→Rivenditore è in media di 3 giorni con una deviazione standard di 1
+giorno
+Scenario 2: Factory che rifornisce 2 centri di distribuzione che riforniscono ciascuno 2
+rivenditori.
+Il Lead Time Factory→CEDI è certo e pari a 1 giorno;
+Il Lead Time CEDI→Rivenditore è certo e pari a 3 giorni
+Dopo aver rappresentato graficamente i modelli delle due supply chain, esaminare i due scenari
+di catena di distribuzione allo scopo di quantificarne i benefici nella gestione del magazzino
+In particolare:
+Considerate le scorte on-hand ai centri di distribuzione e ai rivenditori, determinare quale
+scenario richiede minore scorta totale media
+Determinare quale è la differenza in termini di costo totale di stoccaggio annuale.
+DATI:
+costo unitario del prodotto
+
+c = 300 €/pz
+
+costo unitario di immagazzinamento annuale
+
+h= ixc = 34% del costo del prodotto
+
+livello di servizio desiderato
+
+ = 97.5%
+
+costo fisso di emissione dell’ordine
+
+Ce=135€
+
+domanda media attesa ad ogni rivenditore
+
+Dm=130pz/g
+
+deviazione standard della domanda ad ogni rivenditore D = 25
+Politica di gestione delle scorte sia presso i rivenditori che presso i CEDI: fixed order quantity
+Si supponga che i CEDI siano a conoscenza della domanda stimata di ciascun mercato
+Le domande sono da considerarsi statisticamente indipendenti
+Considerare un anno lavorativo di 6gg/sett per 48sett/anno
+
+SECONDA PARTE
+1)
+Relativamente al TEMA B, il candidato rediga un’analisi qualitativa dei risultati ottenuti
+2)
+Il candidato illustri le problematiche relative al trasporto su strada di merci pericolose
+3)
+Una società di trasporto operante negli aeroporti di Milano Malpensa, Roma Fiumicino e Bari
+Palese ha disposizione rispettivamente 12,10, 8 container aerei e riceve ordini da imprese
+industriali di Torino, Bologna, Firenze, Napoli e Palermo per trasferimento delle merci
+attraverso container aerei, rispettivamente nelle seguenti quantità 8,7,5,3,7.
+Essendo i costi unitari in euro nell’ordine:
+C11 = 140 C12 = 210
+C21 = 715 C22 = 380
+C31 = 1021 C32 = 671
+
+C13 = 272 C14 =298 C15 = 785
+C23 = 539 C24= 217 C25 = 277
+C33 = 756 C34 = 737 C35 = 322
+
+Stabilire le rispettive consegne al minor costo e calcolare il costo totale del trasporto
+4)
+Elencare le figure professionali coinvolte nell’attuazione delle norme contenute nel DLgs.
+81/08 (Testo Unico per la Sicurezza negli Ambienti di Lavoro) e spiegare i compiti, doveri e
+responsabilità di almeno una di esse.
+
+___________________________
+Durata massima della prova: 6ore
+È consentito l’uso di tavole numeriche, manuali tecnici, calcolatrici non programmabili, schede tecniche ed estratti
+di tabelle relative alla normativa
+
+

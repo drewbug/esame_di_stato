@@ -1,0 +1,101 @@
+Pag. 1/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IP09 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti
+nella seconda parte.
+PRIMA PARTE
+Per la movimentazione del nastro trasportatore del ritiro bagagli di un aeroporto si propone di
+utilizzare un motore elettrico trifase di 5kW a 4 poli, frequenza 50Hz e scorrimento 5%. Il motore
+è accoppiato ad un riduttore con rapporto di riduzione 100:1.
+La coppia resistente nominale fornita dal nastro è pari a 600 Nm.
+Il candidato, fatte eventuali ipotesi aggiuntive:
+1.
+
+verifichi l’idoneità del motore proposto;
+
+2.
+
+calcoli la velocità lineare del nastro trasportatore considerato che la puleggia abbia un raggio
+pari a 25 cm;
+
+3.
+
+ipotizzando di dover sostituire la linea di alimentazione del motore a partire dal quadro
+generale posto alla distanza di 50 metri, scelga la sezione del cavo (rif tab.1) adeguato per
+garantire una caduta di tensione inferiore al 2% e indichi le caratteristiche che deve avere il
+dispositivo di protezione posto a monte della linea stessa
+Tab.1
+Sezione
+(mm2)
+2,5
+4
+6
+10
+
+Portata (A)
+27
+36
+48
+63
+
+Resistenza unitaria
+/km
+9.08
+5.68
+3.78
+2.27
+
+Reattanza unitaria
+/km
+0.109
+0.101
+0.0955
+0.0864
+
+4.
+
+indichi la tipologia di controlli da effettuare secondo la norma vigente;
+
+5.
+
+proponga un format per la registrazione delle verifiche e degli interventi di manutenzione.
+
+Pag. 2/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IP09 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+SECONDA PARTE
+1. Di un gruppo motore viene fornito il valore del MTTF (Mean Time To Failure) per il
+complesso delle parti elettriche e meccaniche:
+ MTTF per il complesso delle parti meccaniche pari a 10 anni
+ MTTF per il complesso delle parti elettriche/elettroniche pari a 5 anni.
+Il candidato determini dopo quanto tempo l’affidabilità del gruppo motore è pari a 90%.
+2. Il candidato indichi come individuare il guasto relativamente alla non inversione di marcia del
+motore e l’intervento di riparazione.
+3. Il candidato, fatte le considerazioni che ritiene opportune, pianifichi l’intervento di sostituzione
+e collaudo del motore elettrico, valuti i rischi e gli aspetti organizzativi del lavoro in relazione
+alla sicurezza, avendo cura di descrivere quali mezzi, attrezzature e risorse umane prevede di
+utilizzare.
+4. Il candidato rediga un computo metrico di offerta per l’installazione del motore a servizio del
+nastro trasporto bagagli comprensivo del collaudo e di un contratto di manutenzione annuale da
+sottoporre al cliente.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,99 @@
+Pag. 1/2
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+In una cabina di trasformazione, a servizio di uno stabilimento industriale, è installato un
+trasformatore di potenza nominale pari a 315 kVA con tensioni nominali 15 kV (lato MT) e
+400/230 V (lato BT).
+Dal quadro elettrico di distribuzione in BT partono 4 linee:
+1.
+
+la prima linea alimenta un motore asincrono trifase di grande potenza;
+
+2.
+
+la seconda linea alimenta un gruppo di motori asincroni trifase di piccola potenza;
+
+3.
+
+la terza linea alimenta l’impianto di illuminazione;
+
+4.
+
+la quarta linea alimenta i servizi generali dello stabilimento.
+
+Per le singole linee, nelle normali condizioni di funzionamento, si hanno le seguenti informazioni:
+a)
+
+prima linea: potenza assorbita ricavata dalle indicazioni di due wattmetri inseriti secondo il
+metodo Aron P13 = 35 kW e P23 = 13 kW;
+
+b) seconda linea: potenza assorbita ricavata dalle indicazioni di due wattmetri inseriti secondo il
+metodo Aron P13 = 45 kW e P23 = 30 kW;
+c)
+
+terza linea: le lampade presenti assorbono una potenza pari a 20 kW e sono già rifasate;
+
+d) quarta linea: la potenza complessiva assorbita è pari a 10 kW con cos = 0,92.
+Il candidato, fatte le ipotesi aggiuntive che ritiene necessarie, determini:
+1.
+
+la potenza delle batterie di condensatori per il rifasamento delle varie linee, ove necessario;
+
+2.
+
+la potenza delle batterie dei condensatori per il rifasamento del trasformatore.
+
+Pag. 2/2
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+
+SECONDA PARTE
+1.
+
+La Norma Cei 64-8 richiede che ogni corrente di sovraccarico sia interrotta, da un adeguato
+dispositivo, per limitare il surriscaldamento della conduttura. Il candidato identifichi il
+dispositivo e ne spieghi il funzionamento con particolare riferimento alle condizioni che
+devono essere rispettate.
+
+2.
+
+Il candidato, con riferimento all’impianto proposto nella prima parte, disegni lo schema
+elettrico unifilare della cabina e del quadro di BT e determini le caratteristiche degli apparecchi
+di manovra e protezione delle apparecchiature utilizzate.
+
+3.
+
+Il candidato illustri e discuta sulle modalità di protezione dei motori asincroni trifase contro il
+sovraccarico e il cortocircuito.
+
+4.
+
+Il candidato, con riferimento all’impianto proposto nella prima parte, illustri il ruolo
+dell’interruttore MT della cabina MT/BT e determini i parametri caratteristici del trasformatore
+sapendo che la tensione di corto circuito è Vcc% = 6%.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

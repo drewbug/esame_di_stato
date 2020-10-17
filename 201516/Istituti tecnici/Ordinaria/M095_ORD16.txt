@@ -1,0 +1,187 @@
+Pag. 1/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M095 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Pianificazione e controllo della traversata tra Norfolk (USA) e Lisbona (Portugal), gestione dei pesi
+a bordo e risposta a un'emergenza.
+Passage planning – appraisal/planning
+La propria nave (M/V grain carrier MASHA, call sign IFTS, MMSI 247556000), avente LPP=192,4
+m e B=32,2 m è in partenza da Norfolk (USA), con destinazione Lisbona (Portugal).
+Dopo la caricazione si registrano le seguenti immersioni estreme:
+TA=12,50 m
+TF=12,30 m
+Si pianifica la traversata berth to berth con tratto principale per great circle dall'uscita del TSS di
+CHESAPEAKE BAY (36° 57,0’ N; 075° 47,0’ W) alla Pilot Station del Porto di Lisbona
+(38°40,0’N; 009°24,0’W). Si prevede di lasciare il TSS alle tf= 12:30 del 14/06 e di procedere con
+velocità V=14,8kts.
+Determinare cammino e rotta iniziale ortodromici ed ETA locale, prevedendo un aumento nel
+cammino di 3,5 mg imputabile all’approssimazione dei tratti ortodromici con spezzate
+lossodromiche e ricordando la considerazione dell'ora estiva e il fatto che il Portogallo adotta l'ora
+del fuso Zulu.
+Si stima che dopo 40 min dall'imbarco pilota all'arrivo ci si trovi a dove superare una depth
+limitation di 11,9 m. Sulla base dei dati di marea forniti di seguito, determinare se è possibile
+transitare con UKC di almeno 1,5 m, considerando un consumo giornaliero globale di 90 t (si
+consideri che dalle curve idrostatiche è noto TPC=54,7 t e che il consumo è approssimato per
+difetto, quindi si determini il peso totale approssimando al numero di giorni intero maggiore); in
+caso contrario determinare il primo istante successivo a cui è possibile l'ingresso e adattare, in base
+a questo, la velocità stimata per tutta la traversata.
+Lisbona:
+HW
+LW
+HW
+LW
+
+04:54 23/06
+10:23 23/06
+17:12 23/06
+22:52 23/06
+
+h=3,4m
+h=0,7m
+h=3,6m
+h=0,6m
+
+Pag. 2/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M095 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+
+Passage planning – execution/monitoring
+Poco dopo aver lasciato TSS di CHESAPEAKE BAY, con Rv= 068°, V= 14,6 kts, si rilevano al
+radar i seguenti target:
+Target
+A
+B
+
+UT
+15:40
+15:46
+15:40
+15:46
+
+Relative
+bearing
+- 24°
+-24°
++15°
++20°
+
+Range
+[NM]
+9,6
+8,2
+10
+6,8
+
+Dall'AIS si apprende che il bersaglio A è un rimorchio oceanico.
+Dopo aver determinato gli elementi cinematici rilevanti e valutato la situazione, intraprendere le
+iniziative ritenute più idonee, conformemente alle prescrizioni COLREG, descrivendo e motivando
+accuratamente le proprie scelte in una breve relazione tecnica.
+Discharging plan
+Dopo l'arrivo si concorda con il terminal la sequenza di discarica: il dislocamento all'arrivo risulta
+=63758 t, i pesi da scaricare per ciascuna stiva sono elencati nella tabella riportata di seguito,
+mentre la condizione di zavorra che si intende raggiungere prevede l'imbarco graduale di
+complessive 4500 t nelle cisterne collocate nel doppio fondo, tutte considerabili ad una quota di
+0,80 m sulla baseline, e un'ulteriore quantità, da determinare, in quattro cisterne centrali
+simmetriche, due alte (VCG=8,6 m) e due basse (VCG=2,4 m), aventi tutte le stesse caratteristiche
+dimensionali (length=10,0 m, width=12,5 m, depth=6,0 m).
+HOLD
+1
+2
+3
+4
+5
+
+VCG (on the baseline)
+6,0 m
+5,8 m
+5,5 m
+5,5 m
+5,8 m
+
+WEIGHT
+7400 t
+8500 t
+9200 t
+9200 t
+8500 t
+
+Pag. 3/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M095 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+La quantità di zavorra da imbarcare nelle casse centrali è vincolata dal rispetto di un limite di
+galleggiabilità che prevede di non violare una certa immersione minima, a cui corrisponde un
+dislocamento di 27558 t. Conoscendo la quota del baricentro all'arrivo in banchina (KG=7,80 m) e
+la quota del metacentro relativa alla citata immersione minima (KM'= 10,34 m), determinare il peso
+da imbarcare in ciascuna delle casse centrali, verificando che la distribuzione scelta non conduca a
+valori di altezza metacentrica inferiori a 0,55 m (si considerino le casse dei doppi fondi
+completamente piene).
+SECONDA PARTE
+1) All'inizio del crepuscolo vespertino dal 20/06, quando ci si trova in (42°14,9’N; 028°22,7’W) si
+decide di eseguire un FIX astronomico misurando:
+UT = 22:14:06
+
+Stella centrale della Corona Boreale
+
+hi = 68°05,7'
+
+UT = 22:17:00
+
+Stella rappresentante la coda del Cigno
+
+hi = 25°43,7'
+
+Determinare le coordinate del punto nave nota l'elevazione dell'occhio, pari a 18 m (correzione
+d'indice del sestante assente).
+2) Un'ora dopo il FIX si riceve una DSC distress alert da una nave posta in (41°01,6’N;
+026°02,3’W) con un incendio grave a bordo, e dopo pochissimi minuti, alle UTC 23:21,
+quando ci si trova in (42°12,3’N; 028°01,0’W), si riceve richiesta di prestare assistenza alla
+nave in difficoltà da parte dell'MRCC di Ponta Delgada. Sapendo che la nave sta dirigendosi
+verso le Azzorre con RV=210° e V=4,0 kts, e che la propria nave può raggiungere una velocità
+massima di 16,5 kts, determinare ora e posizione di intercettazione considerando una corrente
+di 0,8 kts per SE.
+3) La nave che necessita di essere soccorsa è la general cargo M/V BEAR II (call sign CFTR,
+MMSI 316889000): il comando ha inviato una distress alert, recepita da un MRCC, che poi ha
+contattato la propria nave per il soccorso. Descrivere l'ipotetico scambio di comunicazioni
+avvenuto tra BEAR II e MRCC specificando cosa significa DSC distress alert e
+acknowledgement e scrivere nella forma corretta la distress call ed il distress message
+considerando quanto previsto dalle SMCP. Aggiungere inoltre la comunicazione dell'intenzione
+a prestare soccorso che la nave propria invierà alla M/V BEAR II (anche in base alle eventuali
+esperienze lavorative del candidato).
+4) Si è detto che la nave propria M/V MASHA è una nave graniera. Descrivere i riferimenti
+normativi per questo tipo di trasporto, specificando quali sono i vincoli in termini di stabilità.
+___________________________
+Durata massima della prova: 6 ore.
+E’ consentito l’uso della calcolatrice scientifica non programmabile, tavole numeriche, manuali tecnici, formulari,
+pubblicazioni nautiche.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

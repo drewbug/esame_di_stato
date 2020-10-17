@@ -1,0 +1,120 @@
+Pag. 1/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+
+Il processo di produzione di una industria alimentare nella quale vengono preparati e impacchettati
+prodotti da forno (biscotti) è rappresentato dallo schema riprodotto in figura. In una prima parte del
+processo avviene il dosaggio delle materie prime e il relativo impasto. L’impasto viene poi
+modellato, lievitato e cotto in un’altra zona dell’impianto e successivamente i biscotti vengono poi
+raffreddati e portati verso la zona di impacchettamento.
+Si desidera automatizzare la parte dell’impianto relativa al dosaggio e all’impasto per prodotti da
+forno di una industria dolciaria.
+L’impasto è ottenuto dalla miscela di 2 diverse farine combinate con il lievito e con l’acqua
+opportunamente pesati e successivamente amalgamati.
+Il sistema di automazione deve consentire di realizzare 3 ricette attraverso la differenziazione, nella
+miscela, della percentuale delle 2 farine. La selezione delle singole ricette viene identificata tramite
+un codice apposto sul carrello. I carrelli sono mossi da un nastro trasportatore.
+L’avvio del processo avviene tramite un pulsante di START e la presenza di un carrello A all’inizio
+del nastro. Il carrello si deve fermare sotto la stazione di erogazione della farina.
+La quantità di farina da erogare viene individuata tramite una cella di carico a ponte resistivo con
+uscita in tensione (0-10V) e sensibilità 0,1V/1N che funge da bilancia: raggiunto il peso desiderato
+inizia l’erogazione che termina, ovviamente, quando il peso è tornato a 0N.
+Al termine dell’erogazione delle farine inizia quella del lievito per una durata di 5 secondi per
+ottenere la quantità prefissata. Successivamente viene immessa la quantità di acqua necessaria
+pesata mediante una cella di carico simile a quella per pesare la farina. Terminata l’immissione
+dell’acqua il nastro riparte fino a portare il carrello A sotto il mescolatore. La fase di mescolamento
+avviene durante quella di carico del successivo carrello B.
+
+Pag. 2/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+I serbatoi delle farine sono provvisti di indicatori di livello a ultrasuoni che segnalano la quota di
+farina presente durante il processo e forniscono una tensione in uscita tra 0 e 10 Volt corrispondente
+rispettivamente al livello minimo e massimo. A seguito del raggiungimento del livello minimo della
+farina in uno dei serbatoi, l’impianto si arresta e riprende a funzionare automaticamente una volta
+effettuato il riempimento del serbatoio fino alla soglia di massimo carico. Il serbatoio dell’acqua si
+suppone rifornito costantemente dall’impianto idrico.
+L’impianto è inoltre provvisto di un pulsante di STOP che determina l’arresto del processo di
+produzione e l’annullamento della ricetta in corso.
+Il candidato, fatte le ipotesi aggiuntive ritenute necessarie:
+1. illustri una possibile configurazione dell’intero sistema automatico individuando i dispositivi
+necessari alla sua realizzazione, i principali segnali elettrici di controllo e i relativi valori che
+consentono di gestire il sistema;
+2. rappresenti, mediante un diagramma di flusso, e codifichi in un linguaggio di propria conoscenza
+l’azionamento del nastro trasportatore e l’impasto degli ingredienti;
+3. descriva un possibile sistema di selezione della ricetta e di conseguenza la sua attuazione in fase
+di caricamento delle farine.
+Infine il candidato descriva un sistema di elaborazione in grado di effettuare una stima percentuale
+del numero di impasti prodotti per ogni tipo di ricetta.
+SECONDA PARTE
+QUESITO N.1
+Con riferimento alla prima parte della prova e in particolare al sistema di caricamento degli
+ingredienti, il candidato realizzi un sistema di arresto e riavvio del processo di produzione quando il
+rilevatore ad ultrasuoni segnala il livello minimo di farina all’interno dei silos e determini la
+successiva ripartenza una volta che il serbatoio è stato nuovamente riempito.
+QUESITO N.2
+Con riferimento alla prima parte della prova, il candidato preveda un sistema di segnalazione
+luminosa nelle fasi di movimentazione del nastro e caricamento dei prodotti nel carrello durante
+l’intero processo, motivando le scelte effettuate.
+
+Pag. 3/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+QUESITO N.3
+A seguito di misure condotte su un processo di automazione, si è ricavato il modello a blocchi
+rappresentato in figura:
+
+Le funzioni di trasferimento dei componenti G1 e G2 valgono rispettivamente:
+
+𝐺1 (𝑠) =
+
+1
+𝑠+1
+
+𝐺2 (𝑠) =
+
+𝑠
+(𝑠 + 10)2
+
+Il blocco indicato con K rappresenta un opportuno coefficiente di controllo, mentre H0 = 1/2.
+Il candidato, dopo aver ricavato la funzione di trasferimento dell’intero sistema, determini per quali
+valori di K il sistema risulta asintoticamente stabile. Posto quindi K=20 determini graficamente il
+margine di fase della funzione ad anello aperto dai corrispondenti diagrammi di Bode.
+QUESITO N.4
+Il candidato, dopo aver evidenziato le differenze tra disturbo parametrico e disturbo additivo, discuta
+quali vantaggi apporta la controreazione in un sistema di controllo in relazione a riduzione dei
+disturbi, velocità di risposta e stabilità del sistema stesso. Fornisca un esempio significativo sulla base
+delle proprie conoscenze.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

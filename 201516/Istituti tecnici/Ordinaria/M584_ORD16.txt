@@ -1,0 +1,189 @@
+Pag. 1/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M584 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Un laboratorio di chimica analitica utilizza, per la rilevazione del peso dell’agente reattivo in una
+soluzione, una microbilancia con un campo di linearità della misura limitato a masse non superiori a
+2 grammi. Il trasduttore impiegato nella bilancia presenta una risposta di tipo periodico: a riposo la
+microbilancia fornisce una corrente sinusoidale di ampiezza I0 = 10-4 [A] e frequenza f0 = 1250 Hz,
+il posizionamento di una massa sul piatto produce una deviazione della frequenza dal valore di riposo
+f0 al valore fs .
+La relazione tra f0 e fs è:
+𝑓0 − 𝑓𝑆 = 𝐾 ∙ 𝑓02 ∙
+
+𝑚
+𝑆
+
+Dove
+S = superficie di misura del piatto (20 cm2)
+m = massa pesata [g]
+𝐾 = −2.25 ∙ 10−3 [𝑐𝑚2 ∙ 𝑠 ∙ 𝑔−1 ]
+La corrente in uscita al trasduttore, opportunamente trasformata in una tensione VT (t), viene trattata
+dal convertitore f - V integrato di seguito rappresentato che possiede dinamica di ingresso compresa
+tra - 5 V e + 5 V.
+
+Infine il segnale V0 deve essere convertito mediante un ADC per consentirne la successiva
+acquisizione da parte di un sistema programmabile.
+
+Pag. 2/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M584 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+Il sistema di acquisizione dei dati proveniente dalla bilancia deve tener conto delle seguenti
+condizioni:
+-
+
+è consentito un errore di misura massimo di 5 mg;
+
+-
+
+è possibile utilizzare convertitori ADC con dinamica di ingresso da 0 a 5 Volt e risoluzione, a
+scelta tra 4, 8 o 10 bit;
+
+-
+
+la procedura di conversione A/D (Start Conversion) viene avviata dal fronte di salita di un
+impulso di trigger attivato manualmente da un operatore e deve essere eseguita solo se il peso
+della massa posta sul piatto rientra nella fascia di linearità della microbilancia. In caso contrario
+l’acquisizione non ha luogo e viene attivato un apposito segnalatore ottico ad indicare la
+condizione di errore.
+
+Il candidato, fatte le ipotesi aggiuntive che ritiene opportune, deve:
+1) fornire uno schema a blocchi della catena di condizionamento del segnale descrivendo le funzioni
+dei singoli blocchi e fornendo per ciascuno di essi la relazione ingresso-uscita;
+2) progettare nel dettaglio i circuiti che implementano i blocchi dello schema di cui al punto
+precedente;
+3) scegliere quale tipo di ADC utilizzare tra quelli a disposizione calcolando l’errore massimo
+effettivo di misura che si ottiene;
+4) esplicitare la relazione tra la tensione all’ingresso dell’ADC e la massa pesata.
+
+SECONDA PARTE
+Il candidato risponda a due, e solo due, dei seguenti quesiti e, fatte eventuali ipotesi aggiuntive
+ritenute necessarie, presenti per ognuno le linee operative e le motivazioni delle soluzioni prospettate.
+
+QUESITO N.1
+In relazione al progetto sviluppato nella prima parte, si ipotizzi che, a partire dall’impulso di trigger
+precedentemente descritto, si debbano ottenere quattro conversioni consecutive ad intervalli di 10 ms.
+Si progetti un circuito da interporre tra il segnale di trigger suddetto e l’ingresso SC
+(Start of Conversion) dell’ADC che fornisca in uscita il segnale richiesto.
+
+Pag. 3/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M584 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+QUESITO N.2
+Il segnale Vout(t) in uscita ad un certo sistema elettronico è la risultante di più componenti armoniche
+come di seguito rappresentate:
+4
+
+Vout (t )   Vk sen(k t )
+k 1
+
+Dove 𝑉𝑘 =
+
+12
+𝑘
+
+∙ 10−3 [𝑉]
+
+e 𝜔𝑘 = 8 ∙ 𝑘 3 ∙ 103 [𝑟𝑎𝑑/𝑠].
+
+Si determini l’ordine del filtro da utilizzare in modo da garantire un guadagno alla frequenza della
+prima armonica pari a 18 dB e non superiore a - 5 dB per la seconda armonica. Si progetti quindi il
+sistema filtrante giustificando le scelte effettuate.
+
+QUESITO N.3
+Si consideri il circuito di figura, alimentato con ±15 V:
+
+dove:
+Rd = 1 k R = 8,2 k
+
+C = 7,5 nF
+
+Ra = 2 k
+
+I diodi Zener presentano Vz = 5 V, V= 0,5 V
+
+Rb = 7 k
+
+Pag. 4/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M584 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC – ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+Il segnale onda quadra in uscita al primo operazionale Vo1(t), la cui escursione è limitata dalla coppia
+di diodi Zener, viene applicato al secondo ottenendo la tensione finale Vo2(t). Dopo aver determinato
+il periodo del segnale Vo1(t) si dimensionino i componenti dell'integratore allo scopo di ottenere
+un’onda triangolare di escursione Vo2pp = 16 Volt.
+QUESITO N.4
+Si vuole realizzare un banco di misura per testare le prestazioni di un circuito integrato avente
+funzione di filtro polivalente. Il circuito in oggetto presenta la seguente piedinatura:
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Vin +
+Vin –
+Rf – 1
+GND
+– Vcc
+VoLP
+VoHP
+Rf – 2
+NC
++Vcc
+
+Dove Vin+ e Vin- sono ingressi del segnale di prova presentato in forma differenziale, Vcc sono le
+tensioni di alimentazione che devono essere compresa tra  8 e  20 Volt, VoLP e VoHP sono
+rispettivamente le uscite corrispondenti alle risposte di un filtro passa basso e un filtro passa alto. La
+configurazione fornita dal costruttore prevede l’inserzione di un resistore Rf tra i pin 3 e 8 per la
+regolazione della frequenza di taglio dei due filtri contenuti nell’integrato.
+Si proponga l’allestimento di un banco di misura per la rilevazione della risposta in frequenza dei due
+filtri individuando le grandezze oggetto di misura, gli strumenti idonei e la configurazione del banco
+nel suo complesso. Si definiscano quindi le procedure di misura da effettuare e una modalità di
+rappresentazione dei risultati ottenuti (tabellare, grafica, relazione tecnica, altro).
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,208 @@
+Pag. 1/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE “AUTOMAZIONE”
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+All’interno di un’azienda chimica è presente l’impianto, rappresentato in figura, per la produzione e il
+successivo immagazzinamento di un particolare composto chimico ottenuto miscelando opportunamente due
+ingredienti in una tramoggia.
+Nastro trasportatore panetti
+
+Il primo ingrediente è allo stato liquido e viene immesso nella tramoggia attraverso una condotta con una
+saracinesca comandata da un’elettrovalvola; il secondo ingrediente è costituito da panetti solidi e raggiunge la
+tramoggia per mezzo di un nastro trasportatore azionato da un motore asincrono trifase (MAT). Per il composto
+da preparare sono necessari 5 panetti dell’ingrediente solido.
+All’inizio del processo la tramoggia è vuota.
+Alla pressione di un pulsante di START, l’operatore comanda la partenza del ciclo operativo: la saracinesca
+viene aperta e il mescolatore a pale viene avviato. Il processo di caricamento del liquido si arresta nel momento
+in cui viene raggiunto il livello di riferimento segnalato da un apposito sensore.
+Successivamente viene azionato il nastro trasportatore per l’immissione dell’ingrediente solido.
+Il mescolatore resta in azione per 10 minuti affinché gli elementi siano completamente amalgamati.
+Al termine della miscelazione, il composto viene scaricato in una cassa posta sotto la tramoggia in
+corrispondenza del punto di carico (riferimento iniziale); la presenza del contenitore è segnalata da un apposito
+
+Pag. 2/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE “AUTOMAZIONE”
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+sensore di posizione. Lo scarico del composto avviene mediante l’apertura di una seconda saracinesca di
+portata pari a 2 l/s; la saracinesca viene mantenuta aperta fino a quando sono transitati 10 litri di composto.
+Al termine dell’operazione di scarico si avvia il processo di trattamento termico mediante un piatto riscaldante
+posto sotto la cassa.
+Un opportuno circuito fornisce la potenza necessaria per il raggiungimento delle temperature richieste per il
+riscaldamento del piatto secondo la seguente relazione:
+T = 15·Vs con T temperatura in °C e Vs tensione continua di valore compreso tra 0 e 10 V.
+Il piatto termico viene mantenuto, durante il trattamento, ad una temperatura di 90 °C per 10 minuti e
+successivamente a 50 °C per altri 5 minuti, considerando trascurabili i transitori per i raggiungimenti delle
+temperature richieste. Ultimato il processo termico, la cassa viene prelevata attraverso un traslo-elevatore e
+depositata in un magazzino.
+Il sistema di aggancio è alimentato a 24 VDC, mentre il traslo-elevatore, necessario per il trasporto verso il
+magazzino, è movimentato da 2 MAT autofrenanti a modalità diretta; sull’albero di ciascun motore è calettato
+un encoder incrementale che produce un impulso digitale a 24 VDC ogni 10 mm di spostamento lineare
+dell’asse, con frequenza massima pari a 100 Hz.
+Il magazzino è costituito da quattro celle le cui coordinate, misurate rispetto al riferimento iniziale, sono
+indicate nella tabella successiva:
+Posizione di
+aggancio
+piatto
+cella 1
+cella 2
+cella 3
+cella 4
+
+Coordinata X
+(m)
+0
+4
+7
+4
+7
+
+Coordinata Y
+(m)
+0
+0
+0
+3
+3
+
+Una volta riempito il magazzino il processo ha termine.
+L’impianto è dotato di un opportuno sistema di segnalazioni luminose e di un pulsante di STOP.
+Il candidato, fatte le opportune ipotesi aggiuntive:
+1) rappresenti lo schema a blocchi del sistema di controllo evidenziando i dispositivi coinvolti e, mediante
+un diagramma di flusso o un automa a stati finiti, definisca l’algoritmo di gestione dell’impianto;
+2) sviluppi il codice per gestire il funzionamento dell’impianto, tramite un linguaggio di programmazione
+per PLC di propria conoscenza;
+
+Pag. 3/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE “AUTOMAZIONE”
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+3) determini il rapporto di riduzione del riduttore da utilizzare per la trasmissione del moto e calcoli la
+potenza che il motore deve erogare considerando che:
+
+
+il mescolatore è comandato da un MAT a 4 poli
+
+
+
+la velocità delle pale si può considerare costante e pari a 40 rpm
+
+
+
+la coppia resistente vale:
+
+
+
+il rendimento del riduttore è pari al 75%
+
+𝐶𝑟 = 60 + 1,17 · 𝜔𝑛2 [𝑁𝑚]
+
+4) progetti il circuito di condizionamento di un sensore di temperatura che si vuole installare sul piatto
+V [Volt]
+riscaldante al fine di monitorare la V [Volt]
+0,500
+10
+temperatura; la caratteristica del
+dispositivo è quella rappresentata in
+figura A, mentre in figura B è
+5
+0,250
+rappresentata la curva caratteristica
+richiesta in ingresso al sistema di
+controllo.
+0
+0
+50
+50
+100 T [°C]
+100 T [°C]
+Figura A
+
+Figura B
+
+SECONDA PARTE
+Quesito 1
+Con riferimento alla prima parte della traccia, il candidato individui una idonea soluzione che permetta di
+diminuire la velocità di avanzamento nello spostamento orizzontale del traslo-elevatore quando le vibrazioni
+rilevate da un apposito sensore montato sull’unità di aggancio/sgancio indicano una situazione potenzialmente
+pericolosa. In particolare, il sensore di vibrazioni produce un segnale compreso tra 4 e 20 mA su un carico di
+500 Ω per vibrazioni comprese tra 0 e 50 mm/s. In condizioni di normale funzionamento la vibrazione non
+deve superare la soglia di 30 mm/s: se tale valore viene superato, la velocità di avanzamento del
+traslo-elevatore deve essere dimezzata ed essere mantenuta fino a raggiungere un valore per cui la vibrazione
+risulti inferiore a 15 mm/s.
+Per ragioni legate alla funzionalità e alla sicurezza dell’impianto, è richiesto che la soluzione proposta non
+preveda l’utilizzo di dispositivi programmabili.
+
+Pag. 4/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE “AUTOMAZIONE”
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Quesito 2
+Con riferimento alla prima parte della traccia, è noto che la piastra riscaldante è di forma rettangolare e di
+dimensioni identiche a quelle della base della cassa. Si supponga che all'accensione della piastra, venga
+raggiunta istantaneamente la temperatura TP = 90°C.
+In queste condizioni, le grandezze termiche presenti nel sistema, assumono i seguenti valori:
+•
+
+resistenza termica piastra-cassa RT1 = 0,002 sec·K/J;
+
+•
+
+resistenza termica composto-ambiente RT2 = 0,1 sec·K/J;
+
+•
+
+capacità termica del composto CT1 =18000 J/K;
+
+•
+
+temperatura iniziale del composto, della piastra e dell'ambiente di lavoro TA = 20°C.
+
+Ipotizzando che la quantità di calore assorbita dalla base della cassa sia trascurabile, la rete elettrica che
+presenta analogia formale con il sistema termico in esame è la seguente:
+
+Ciò premesso, il candidato ne determini la funzione di trasferimento e successivamente calcoli lo scostamento
+di temperatura del composto rispetto a quello della piastra, a regime.
+Quesito 3
+Nell’ambito del controllo di potenza dei motori in alternata tramite dispositivi allo stato solido, il controllo di
+fase rappresenta una delle tecniche largamente utilizzate. Il candidato, sulla base delle proprie conoscenze, ne
+illustri le possibili implementazioni fornendo i relativi schemi e dettagliandone il funzionamento.
+Quesito 4
+La strumentazione virtuale è una tecnologia sempre più largamente utilizzata anche nell’automazione
+industriale. Dopo aver discusso i relativi pregi/difetti, il candidato indichi una soluzione che permetta di dotare
+un’azienda di tale tecnologia, soffermandosi in particolare sulle soluzioni hardware e software prescelte.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

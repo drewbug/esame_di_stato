@@ -1,0 +1,57 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I250 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMP – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELLE MATERIE PLASTICHE
+Tema di: TECNOLOGIE MECCANICHE E PLASTURGICHE DISEGNO ED ORGANIZZAZIONE
+INDUSTRIALE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un’azienda deve avviare la produzione di tubi da impiegare per il trasporto acqua in impianti di
+irrigazione. I tubi in questione hanno le seguenti caratteristiche:
+diametro interno 44,0 mm, massa lineare 0,45 kg/m.
+Il candidato, scelto il materiale polimerico e assumendo con giustificato criterio ogni altro dato utile,
+esegua:
+- il layout dell’impianto esplicitando la funzione delle apparecchiature pre e pos lavorazione;
+- la stima del materiale necessario per la produzione di una bobina di 100 m di lunghezza; determini
+inoltre l’ingombro della bobina nell’ipotesi che abbia diametro interno di 90 cm e larghezza
+32 cm;
+- la valutazione dei parametri tecnologici della lavorazione.
+
+SECONDA PARTE
+1. Il candidato esegua lo schizzo di una possibile soluzione costruttiva della testa di estrusione.
+2. Il candidato elabori un piano di campionamento semplice, collaudo ordinario, livello corrente II,
+LQA = 0,10 per l’accettazione di lotti di produzione della numerosità di 8000 pezzi.
+3. Il candidato esegua il confronto tra due soluzioni impiantistiche dello stampaggio rotazionale da
+un punto di vista della produttività e della economicità.
+4. Il candidato imposti il programma per eseguire le lavorazioni di Figura 1 di una barra di 80 mm
+di diametro.
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici, schede tecniche fornite dalla scuola e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I250 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMP – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELLE MATERIE PLASTICHE
+Tema di: TECNOLOGIE MECCANICHE E PLASTURGICHE DISEGNO ED ORGANIZZAZIONE
+INDUSTRIALE
+
+Figura 1
+
+

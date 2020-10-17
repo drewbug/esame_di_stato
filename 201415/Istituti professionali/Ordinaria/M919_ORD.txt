@@ -1,0 +1,260 @@
+Pag. 1/5
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M919 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPIM – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA TECNICO DEL MARE
+Tema di: TECNICHE DI PRODUZIONE E ORGANIZZAZIONE
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ IPIM – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA CURVATURA TECNICO DEL
+MARE
+ IPIE – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA CURVATURA MECCANICA
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/5
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M919 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPIM – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA TECNICO DEL MARE
+Tema di: TECNICHE DI PRODUZIONE E ORGANIZZAZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+Dato un certo prodotto ittico scelto dal candidato, descriverne gli elementi caratterizzanti e le tecniche
+e i mezzi di pesca o allevamento, anche in riferimento al contesto territoriale. Si sviluppi
+schematicamente il ciclo di produzione o lavorazione di tale prodotto, mettendone in evidenza
+eventuali criticità e vantaggi.
+
+SECONDA PARTE
+1.
+
+Quali sono i principali aspetti da curare e le principali norme da osservare per garantire la qualità
+del prodotto ittico prescelto?
+
+2.
+
+Quali prassi occorre adottare per prevenire i pericoli per la salute umana che potrebbero derivare
+dal consumo di prodotti ittici?
+
+3.
+
+Quali sono i principali criteri generali per l’esercizio della pesca responsabile, tenuto conto della
+necessità di tutelare l’ambiente marino e conservare le risorse alieutiche?
+
+4.
+
+Sulla base delle proprie conoscenze e dell’esperienza maturata in laboratorio o in eventuali stage
+o esperienze di alternanza scuola-lavoro, descrivere sinteticamente quali sono le principali
+tipologie di attrezzi e sistemi di pesca e le relative specie catturabili nell’ambito del proprio
+contesto territoriale.
+
+_____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’istituto prima che siano trascorsi 3 ore dalla dettatura del tema.
+
+Pag. 3/5
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M770 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIE – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA MECCANICA
+Tema di: TECNICHE DI PRODUZIONE E ORGANIZZAZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+
+Una pompa centrifuga per impieghi speciali nel settore della lavorazione e trasformazione di prodotti
+alimentari, viene azionata da un motore elettrico per trasferire acqua a temperatura ambiente tra due
+serbatoi posti a differente livello. L’albero della pompa è in acciaio inox X30Cr13 AISI420B.
+Al candidato, dopo aver assunto con motivati criteri i dati mancanti e ritenuti necessari, facendo
+riferimento allo schema proposto, si chiede di effettuare:
+
+
+il disegno esecutivo dell’albero valutando i sistemi di calettamento per la girante della pompa ed
+il suo collegamento al motore, nonché quelli di bloccaggio dei cuscinetti. Il disegno deve essere
+comprensivo di smussi, raccordi e quotatura completa, nonché delle tolleranze e gradi di
+lavorazione tenendo conto che è previsto un trattamento termico di indurimento superficiale:
+
+
+
+il relativo ciclo di lavorazione indicando la successione delle fasi, gli utensili, gli attrezzi e
+strumenti di misura utilizzati.
+
+27
+
+51
+
+108
+
+40
+420
+
+102
+
+Ø24
+
+Ø30
+
+Ø36
+
+Ø30
+
+LATO MOTORE
+
+Ø28
+
+Ø24
+
+M16
+
+LATO GIRANTE
+
+41
+
+51
+
+Pag. 4/5
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M770 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIE – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA MECCANICA
+Tema di: TECNICHE DI PRODUZIONE E ORGANIZZAZIONE
+
+SECONDA PARTE
+1.
+
+Calcolare il fabbisogno di materiale per un lotto di 150 pezzi, valutando gli scarti di lavorazione
+e motivando la convenienza tecnico economica della soluzione scelta sapendo che gli alberi
+potranno essere ricavati da barre commerciali di 4 o 6 metri. Effettuare altresì una stima del costo
+necessario per la produzione del lotto indicato sulla base dei prezzi correnti di mercato.
+
+2.
+
+Ipotizzare per la produzione anzidetta l’organizzazione dei cicli produttivi e dei reparti di
+lavorazione considerando che i lotti prodotti vanno destinati, per una parte per commessa e per
+un’altra per magazzino. Indicare contestualmente la modalità di gestione del magazzino materie
+prime e prodotti finiti.
+
+3.
+
+Il candidato riferisca con esempi concreti, che fanno riferimento a esperienze da lui fatte
+direttamente o verificate nell’ambito di stage aziendali, quale è a suo avviso la differenza tra il
+criterio di organizzazione della produzione da lui direttamente riscontrato e quanto invece
+appreso nel corso degli studi di indirizzo (layout per posizione, per prodotto, ecc.).
+
+4.
+
+Tracciare il diagramma di carico (di Gantt) delle macchine utensili utilizzate conoscendo, per le
+lavorazioni proposte nella tabella riassuntiva allegata:
+
+
+il numero di pezzi alla volta che ogni macchina riesce a lavorare;
+
+
+
+il numero di lavorazioni previste;
+
+
+
+il tempo macchina e i tempi passivi standard per ogni lavorazione
+
+Pag. 5/5
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M770 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIE – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA MECCANICA
+Tema di: TECNICHE DI PRODUZIONE E ORGANIZZAZIONE
+
+TABELLA RIASSUNTIVA PER IL TRACCIAMENTO DEL DIAGRAMMA DI CARICO
+(GANTT)
+
+LAVORAZIONI
+
+Tempi
+macchina
+minuti x pezzo
+
+Tempi
+passivi standard
+minuti x pezzo
+
+TORNITURA
+
+18
+
+12
+
+FRESATURA
+
+10
+
+5
+
+TRATTAMENTO
+TERMICO
+RETTIFICA
+COLLAUDO
+
+Tempi totali
+ore/giorni
+
+N°
+macchine
+
+N°
+addetti
+
+360 minuti
+23
+
+5
+30 minuti
+
+Tracciare il diagramma di carico per una produzione di 150 pezzi ottenuti secondo le lavorazioni
+indicate tenendo conto che al tornio, alla fresatrice e alla rettificatrice si lavora un pezzo alla volta.
+Completare i dati richiesti in tabella con l’indicazione dell’impegno di macchine e di personale
+scegliendo tra un ciclo di 8 o 16 ore di lavoro giornalieri.
+
+___________________________
+Durata massima della prova: 8 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

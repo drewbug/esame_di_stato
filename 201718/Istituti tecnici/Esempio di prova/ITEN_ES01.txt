@@ -1,0 +1,70 @@
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+ESEMPIO PROVA
+lI candidato svolga il tema indicato nella prima parte e risponda a due soli quesiti tra i quattro
+proposti nella seconda parte
+Parte prima
+In una metropoli urbana di circa 6 milioni di cittadini, il servizio pubblico di raccolta dei rifiuti solidi
+urbani alimenta una discarica che ha un’estensione complessiva di circa 5 ettari ed un’altezza media
+di 16,8 metri.
+A mezzo di una serie di pozzi captatori, la discarica in argomento è in grado di produrre
+complessivamente una quantità utile di BIOGAS non inferiore a 622 Nm³/h, per un periodo non
+inferiore a 10 anni.
+
+Il BIOGAS così ottenuto è composto dalle seguenti percentuali volumetriche:
+o GAS NATURALE ...........................45 %
+o ANIDRIDE CARBONICA ............. 40 %
+o AZOTO.............................................15 %
+Il gas naturale ottenuto dall’apposito trattamento di purificazione e pressurizzazione, è utilizzato
+come combustibile per alimentare due gruppi elettrogeni (identici tra loro) ognuno dei quali è
+rispettivamente costituito da:
+ motore ad accensione spontanea alimentato a gas naturale avente un rendimento presunto non
+inferiore al 30 %
+ un alternatore ad una coppia polare avente un rendimento presunto non inferiore al 96 %
+ moduli di scambio termico destinati al recupero e/o dissipazione del calore
+
+a) Calcolare il Potere Calorifico Inferiore del biogas ed il corrispondente valore dell’Energia Primaria
+oraria disponibile.
+b) Procedere ad un dimensionamento di massima di uno dei motori endotermici utilizzati per i due
+gruppi elettrogeni di cui sopra, avendo cura di indicare la potenza nominale erogata, numero di
+cilindri, alesaggio e corsa del pistone, velocità media di stantuffo, numero di giri/min e consumo
+specifico [grammi di gas/kWh].
+c) Con un funzionamento presunto dei 2 gruppi per almeno 3 ore/giorno, stimare la quantità di
+energia elettrica prodotta in un anno; laddove detta energia elettrica fosse stata da due gruppi
+Diesel di medesima potenza nominale unitaria ma alimentati a gasolio, anziché dai due motori
+alimentati a Biogas, stimare altresì il relativo valore del gasolio risparmiato.
+Parte seconda
+1. Con l’utilizzo di una caldaia a recupero, si vuole sfruttare il calore contenuto nei fumi di scarico
+prodotti da uno dei due gruppi sopra individuati; il calore contenuto nei fumi all’uscita dal
+collettore di scarico del motore può essere calcolato supponendo un salto termico dei fumi da 600
+°C a 160 °C. Adottando cautelativamente un valore del coefficiente globale di scambio termico
+pari a 48 [W/m2 °C] si dovrà definire il valore di: potenzialità termica recuperata, portata fumi di
+scarico al primario, portata acqua al secondario, temperatura di ingresso/uscita dell’acqua e
+superficie di scambio termico.
+2. Valutare la possibilità e la convenienza energetica circa l’utilizzazione dell’impianto descritto e
+trattato nella precedente “parte prima” ai fini di una “cogenerazione e teleriscaldamento”. In
+particolare, il candidato scegliendo a piacere gli eventuali dati mancanti e procedendo dapprima
+ad uno schema funzionale dell’impianto dovrà ricavare il “fattore di utilizzazione del
+combustibile” e calcolare almeno: tipo e portata del fluido termovettore da destinare al
+teleriscaldamento e dei fluidi “caldi” derivanti dal motore (acqua raffreddamento, olio
+lubrificazione, fumi di scarico).
+3. Rappresentare nel piano p-V (pressione-volume) il ciclo ideale e quello effettivo di un motore
+endotermico scelto a piacere, avendo cura di evidenziare in modo particolare gli scambi di lavoro,
+di calore e quindi il rendimento ideale ed effettivo del ciclo medesimo.
+4. Un volano è realizzato in ghisa ed ha la forma a corona circolare (diametro Maggiore 440 mm;
+diametro minore 380 mm; spessore 30 mm); la corona è collegata al mozzo a mezzo di un disco
+sottile (di massa trascurabile). Con l’ausilio del manuale il candidato verifichi se questo volano è
+idoneo ad essere installato su un motore 4 cilindri 4 cilindri in linea in grado di erogare una potenza
+di 80 kW a 3500 giri/min.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

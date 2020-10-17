@@ -1,0 +1,100 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Sulla targa di un motore asincrono trifase a 4 poli sono indicate le seguenti caratteristiche:
+
+
+potenza nominale 40 kW
+
+
+
+tensione nominale 400 V
+
+
+
+corrente nominale 75 A
+
+
+
+frequenza nominale 50 Hz
+
+
+
+velocità del rotore 1434 giri/min.
+
+Sono state svolte due prove a vuoto con tensioni di alimentazione diverse.
+La prima prova è stata eseguita a tensione nominale e ha fornito i seguenti risultati:
+P0 = 1500 W e I0 = 15 A
+La seconda prova è stata eseguita alla tensione di 300 V e ha fornito i seguenti risultati:
+P0 = 1160 W e I0 = 8 A.
+Inoltre, la misura di resistenza fra due morsetti dello statore, eseguita alla temperatura di 15 °C, ha
+fornito il valore di 0,15 Ω.
+Il candidato, fatte le eventuali ipotesi aggiuntive che ritiene necessarie, nel caso in cui il motore
+funzioni con il carico di targa, determini:
+a)
+
+il rendimento;
+
+b) la coppia resa.
+Sapendo che nella fase di avviamento il motore assorbe a pieno carico una corrente 5,8 volte la
+corrente nominale e che deve vincere una coppia resistente di 100 Nm, il candidato determini la
+tensione necessaria al motore per un corretto avviamento e dimensioni il dispositivo adatto a tale
+scopo giustificando la scelta fatta.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+SECONDA PARTE
+Il candidato risponda a due, e solo due, dei seguenti quesiti e, fatte eventuali ipotesi aggiuntive
+ritenute necessarie, presenti per ognuno le linee operative e le motivazioni delle soluzioni prospettate.
+1.
+
+Considerato il motore indicato nel tema proposto nella prima parte, il candidato illustri il sistema
+di regolazione in grado di ridurre la velocità del 10% e dimensioni il relativo dispositivo.
+
+2.
+
+Un impianto di sollevamento deve essere dimensionato per sollevare una massa di 350 kg alla
+velocità di 0.6 m/s.
+Il candidato, fatte le eventuali ipotesi aggiuntive che ritiene necessarie, dimensioni il
+motoriduttore adatto.
+
+3.
+
+In un piccolo ufficio è necessario installare un gruppo di continuità statico per l’alimentazione di
+riserva delle utenze informatiche. Nell’ufficio sono presenti 10 PC con monitor a colori e
+stampanti a getto di inchiostro e due stampanti laser.
+Il candidato dimensioni ed individui le caratteristiche del gruppo di continuità adatto sapendo
+che tutte le utenze possono lavorare contemporaneamente.
+
+4.
+
+Il candidato spieghi come un alternatore può essere correttamente posto in parallelo ad una rete
+prevalente.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,128 @@
+Pag. 1/2
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M749 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+All'interno di una industria di confezionamento, i nastri trasportatori sono messi in movimento da
+motoriduttori trifase. Una ditta di manutenzione viene chiamata per la sostituzione di un
+motoriduttore guasto. Il nuovo motoriduttore deve consentire di variare la velocità del nastro e deve
+permettere l’inversione del senso di marcia.
+Il candidato, fatte le eventuali ipotesi che ritiene più opportune:
+1.
+
+descriva il principio di funzionamento del motoriduttore con particolare riferimento alla parte
+elettrica;
+
+2.
+
+indichi come può intervenire per variare la velocità del nastro;
+
+3.
+
+realizzi lo schema funzionale per l’alimentazione del motore e il relativo circuito di potenza
+affinché l’inversione di marcia avvenga in sicurezza;
+
+4.
+
+rediga un piano di manutenzione ordinaria per il motoriduttore.
+
+SECONDA PARTE
+1.
+
+Il candidato illustri la metodologia per la ricerca e la diagnosi dei guasti. Inoltre, in funzione
+della propria esperienza acquisita in contesti scolastici e non, riporti un esempio di una ricerca
+di guasti per un impianto a propria scelta.
+
+2.
+
+Due corpi illuminanti hanno le seguenti caratteristiche tecniche:
+‒
+
+Corpo 1: vita utile pari a 3000 ore, tasso di guasto  = 0,0002 h-1
+
+‒
+
+Corpo 2: vita utile pari a 1000 ore, tasso di guasto  = 0,0005 h-1
+
+Il candidato determini quale corpo ha un’affidabilità migliore. Inoltre determini dopo quanto
+tempo bisogna sostituire il corpo illuminante affinché l’affidabilità sia pari all’80%.
+
+Pag. 2/2
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M749 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+3.
+
+Si devono installare, all’interno di un negozio di abbigliamento, tre barriere d’aria trifase aventi
+le seguenti caratteristiche:
+
+Barriera
+1
+2
+3
+
+Potenza (kW)
+9,2
+9,2
+6,1
+
+Tensione (V)
+400
+400
+400
+
+Fattore di potenza
+0,9
+0,9
+0,8
+
+Supposto di utilizzare un’unica linea di alimentazione, il candidato scelga la sezione del cavo
+idonea e il relativo dispositivo di protezione per l’alimentazione delle apparecchiature nel
+rispetto della normativa vigente.
+Si riporta di seguito un estratto della portata dei cavi in funzione della tipologia di cavo e della
+posa prevista
+
+S (mm2)
+1,5
+2,5
+4
+6
+10
+4.
+
+Porta Iz (A)
+15,5
+21
+28
+36
+50
+
+Una ditta di manutenzione deve intervenire, all’interno di un centro commerciale, per la
+sostituzione dei rilevatori di fumo posti ad un’altezza variabile tra 4-6 metri.
+Il candidato, fatte eventuali ipotesi che ritiene più opportune, pianifichi l’intervento avendo
+cura di descrivere quali mezzi, attrezzature e risorse umane prevede di inviare. In funzione
+delle scelte effettuate, analizzi la tipologia dei possibili rischi valutandone la probabilità e il
+danno per ciascun pericolo individuato. Indichi inoltre, le misure di prevenzione e protezione e
+la tipologia dei DPI (Dispositivi di Protezione Individuale) necessari per effettuare l’intervento
+in sicurezza.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,56 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM – CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+ESEMPIO PROVA
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+In uno stabilimento industriale si produce olio di semi di soia per estrazione con un solvente
+selettivo.
+La materia prima, preventivamente macinata e condizionata, si alimenta ad un estrattore continuo
+che utilizza un solvente proveniente dalla sezione di riciclo dell’impianto che deve essere
+reintegrato con solvente fresco per compensare le perdite. Dopo l’estrazione, estratto e residuo
+procedono verso ulteriori lavorazioni.
+Il candidato disegni lo schema dell’impianto idoneo a realizzare l’operazione di estrazione proposta,
+completo delle apparecchiature accessorie (pompe, valvole, serbatoi, ecc.) e delle regolazioni
+automatiche principali rispettando, per quanto possibile, la normativa UNICHIM.
+SECONDA PARTE
+1)
+Si supponga che, il prodotto vegetale trattato nello stabilimento industriale sopra citato, abbia una
+portata di 950 kg/h e venga sottoposto ad estrazione in unico stadio di equilibrio con solvente
+organico puro.
+La concentrazione iniziale di olio di soia è del 30% m/m, il resto è inerte.
+Per tale operazione di estrazione si utilizza tre volte la quantità minima di solvente.
+Si può ritenere che l’equazione y = 0,4 – 0,5x, dove è x frazione in massa di soluto e y quella del
+solvente, rappresenti la composizione di equilibrio del corpo di fondo con la soluzione.
+Calcolare la composizione di estratto e residuo e la portata del solvente. Utilizzare, a libera scelta, il
+metodo grafico o quello algebrico.
+2)
+In relazione al processo d’estrazione proposto, illustrare brevemente le tipologie delle
+apparecchiature per l’estrazione solido/liquido e individuare quelle più adatte. Discutere anche delle
+possibili condizioni operative (T, P di esercizio, ...) e individuare qualitativamente quelle più adatte
+allo scopo.
+
+3)
+L’alcol etilico da fermentazione, il “bioetanolo”, costituisce un combustibile ottenuto da fonti
+rinnovabili. Dal processo di fermentazione si ottiene però una soluzione acquosa diluita. Per poterlo
+addizionare alle benzine carburanti deve essere anidro. Discutere sinteticamente gli aspetti, sia
+teorici sia applicativi, per ottenere etanolo ad alto titolo e, addirittura, anidro.
+4)
+L’idrogeno è il componente comune di alcune miscele gassose denominate “gas di sintesi”. Il
+candidato descriva le possibili materie prime e i possibili processi, soffermandosi in particolar modo
+sugli aspetti termodinamici ed cinetici. Di uno a sua scelta, descriva le varie fasi di lavorazione
+raccogliendole anche in uno schema a blocchi.
+
+___________________________
+Durata massima della prova: 6 ore.
+Durante lo svolgimento della prova è consentito soltanto l’uso:
+ di manuali relativi alle simbologie UNICHIM;
+ di tabelle con dati numerici e diagrammi relativi a parametri chimico-fisici;
+ di mascherine da disegno e di calcolatrici non programmabili;
+Non è consentita la consultazione di libri di testo.
+È consentito l’uso del dizionario di italiano.
+
+

@@ -1,0 +1,131 @@
+Pag. 1/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITIA – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+Il candidato (che potrà eventualmente avvalersi delle conoscenze e competenze maturate attraverso
+esperienze di alternanza scuola-lavoro, stage o formazione in azienda) svolga la prima parte della
+prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+La società FastDelivery si occupa della spedizione di pacchi su tutto il territorio nazionale, per varie
+tipologie di clienti (privati cittadini, ditte, operatori di commercio elettronico, …).
+FastDelivery possiede proprie Sedi Operative (SO) in molte città italiane anche di piccole-medie
+dimensioni. In tali sedi, dotate di magazzino, gli addetti si occupano del ritiro dei pacchi da spedire
+che vengono loro affidati dai clienti, oltre che della consegna ai destinatari finali dei pacchi loro
+smistati dalle altre Sedi Operative di FastDelivery.
+Ogni SO invia i pacchi da spedire al proprio Centro di Smistamento Regionale (CSR) di riferimento,
+e riceve dal CSR i pacchi da consegnare ai destinatari finali nella propria zona.
+Il disegno illustra il percorso di un pacco tra due differenti regioni. Ad esempio, un cliente di Voghera
+(Lombardia) chiede di consegnare un pacco ad un destinatario di Barletta (Puglia): il pacco verrà
+preso in carico dalla SO di Voghera (A-1 nel disegno) che la inoltrerà al CSR di Milano (A nel
+disegno), che a sua volta lo inoltrerà al CSR di Bari (X nel disegno) che infine la inoltrerà alla SO di
+Barletta (X-7 nel disegno) per la consegna al domicilio del destinatario finale.
+
+cliente
+Merce da
+consegnare
+in zona X-7
+
+SEDE
+OPERATIVA
+A-1
+
+Centro di
+Smistamento
+Regionale
+A
+
+SEDE
+OPERATIVA
+X-7
+
+Centro di
+Smistamento
+Regionale
+X
+
+destinatario
+
+Consegna
+merce
+
+Pag. 2/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITIA – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+
+FastDelivery vuole automatizzare maggiormente il processo di raccolta, smistamento e consegna. In
+particolare, ai fini del tracciamento, vuole introdurre un sistema di identificazione dei pacchi che
+consenta all’azienda, ai clienti e ai destinatari di seguirne la posizione nel loro percorso fino a
+destinazione.
+Quando un cliente (mittente) vuole spedire un pacco, effettua una richiesta on line: dalla SO più
+vicina, un trasportatore, recandosi presso il cliente per il ritiro, trasmette al sistema la presa in carico
+della spedizione. Un apposito algoritmo, già esistente, provvede a definire il percorso per la consegna
+di ciascun pacco. In ciascun passaggio del trasporto, il pacco viene prima preso in carico in ingresso
+e poi tracciato in uscita dai magazzinieri della SO o del CSR che gestisce il pacco stesso. Il
+trasportatore che porta a termine una consegna raccoglie la firma del destinatario e la trasmette al
+sistema di tracciamento.
+Il candidato, fatte le opportune ipotesi aggiuntive:
+1. Ipotizzi come potrà essere organizzata operativamente la nuova procedura di gestione
+informatizzata dei pacchi (acquisizione dei dati di mittente e destinatario, presa in carico dal
+mittente, metodi di identificazione e procedure operative di tracciamento in ciascuna SO e CSR
+fino alla consegna, tipologia delle informazioni raccolte, rilevamento dell’avvenuta consegna).
+2. Illustri il progetto dell’infrastruttura informatica necessaria per realizzare la gestione automatizzata
+dei pacchi e consentirne la tracciabilità, dettagliando:
+a. dispositivi utilizzati da trasportatori e magazzinieri per lo svolgimento delle proprie attività;
+b. modalità di comunicazione tra i sistemi;
+c. organizzazione dei server di raccolta dati ed offerta dei servizi informativi; si sviluppino e
+discutano due o più ipotesi alternative, di cui una totalmente interna all’azienda ed una che
+contempli anche il ricorso a servizi Cloud, scegliendone una motivatamente.
+3. Approfondisca gli aspetti legati alla sicurezza delle strumentazioni, dei dati gestiti e del servizio
+offerto nel caso in esame, e discuta le misure che ritiene utili per garantire la continuità del servizio
+(aspetti di business continuity e fault tolerance).
+
+Pag. 3/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITIA – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+
+SECONDA PARTE
+I. In relazione al tema proposto nella prima parte, si vuole permettere ad un utente di conoscere
+l’attuale stato della spedizione (l’elenco di SO o CSR da cui è già transitato il pacco e l’eventuale
+stato di avvenuta consegna). Il candidato progetti lo schema concettuale ed il modello logico della
+porzione di base di dati necessaria; progetti poi le pagine web che consentono di ottenere le
+informazioni richieste, scrivendo in un linguaggio a scelta il codice di una parte significativa.
+II. In relazione al tema proposto nella prima parte, la società FastDelivery è interessata anche a poter
+monitorare gli spostamenti dei propri automezzi sulla strada in tempo reale. Il candidato illustri
+quali potrebbero essere le soluzioni tecnologiche disponibili e le modalità e i protocolli utilizzati
+nella comunicazione tra automezzi e centrale operativa.
+III. Le sfide poste dalla necessità di assicurare in qualsiasi momento l’accessibilità dei dati agli utenti
+autorizzati hanno portato allo sviluppo di metodologie di gestione note come clusterizzazione delle
+risorse hardware e virtualizzazione delle risorse software. Il candidato illustri in cosa consistono
+queste metodologie ed analizzi vantaggi e svantaggi di ciascuna, anche con esemplificazioni
+applicative.
+IV. Le comunicazioni via email spesso necessitano dell’applicazione di specifiche precauzioni per la
+sicurezza. Si descrivano le possibili minacce alle comunicazioni via email e i principali protocolli
+e servizi per garantire la loro sicurezza.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

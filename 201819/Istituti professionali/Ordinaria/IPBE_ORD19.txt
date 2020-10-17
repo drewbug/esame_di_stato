@@ -1,0 +1,45 @@
+Pag. 1/1
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPBE – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: FISICA APPLICATA
+Una famiglia sta valutando l’acquisto di un piano cottura per la propria cucina e sta valutando le
+diverse tecnologie disponibili, che sono: i classici fornelli a gas (riscaldamento per combustione di
+gas metano), il piano a cottura in vetroceramica (in sostanza il classico effetto joule) e il piano di
+cottura a induzione (dove a riscaldare sono i campi magnetici variabili e servono pentole speciali).
+Le caratteristiche dei forni sono le seguenti:
+- piano cottura a gas: 1 fornello da 1kW, 2 da 1,8kW e 1 da 3,5kW; rendimento (ipotetico) 50%
+- piano cottura in vetroceramica: 2 piani da 1200W, 1 da 1800W e uno regolabile fino a 2300W;
+rendimento (ipotetico) 55%
+- piano cottura a induzione: 2 piani da 1,5kW, 1 da 1,8kW e uno da 2,0kW; rendimento (ipotetico)
+90%
+Il gas distribuito in Italia costa mediamente 0,291766 €/m3 e ha un potere calorifico di 36MJ/m3,
+mentre l’energia elettrica viene distribuita a 0,189559 €/kWh e i contratti tipici per gli appartamenti
+sono da 3,3kW. Il calore specifico dell’acqua è 4186 J/kg K.
+
+Il candidato, in funzione della propria esperienza di studio e formulando eventuali ipotesi aggiuntive:
+1. valuti quanta energia e quanto tempo servono per portare una pentola da 9 litri di acqua dalla
+temperatura di acquedotto di 8°C alla temperatura di 100°C per i tre tipi di piani cottura, usando
+un fornello di pari potenza nei tre tipi, quantificandone anche il costo;
+2. dica se nel caso dei forni elettrici la scelta di un fusibile di protezione da 25A è adeguata e perché
+(supponendo che la tensione di rete sia 240Vac);
+3. valuti l’impatto ambientale che possono avere i tre tipi di forni e come possono incidere sugli
+impianti dell’appartamento e sulle scelte di fornitura di gas o elettrica;
+4. faccia una valutazione considerando tutti i fattori e suggerisca la scelta del tipo di forno.
+
+____________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda è
+predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione scolastica e
+della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

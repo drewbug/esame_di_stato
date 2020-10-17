@@ -1,0 +1,409 @@
+Pag. 1/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+Il candidato, dopo aver letto attentamente, opti per una sola delle due tracce ed affronti la soluzione
+del tema e di due quesiti tra i quattro proposti nella traccia selezionata.
+
+TRACCIA A
+PRIMA PARTE
+TEMA A
+Una società deve curare il trasporto di una fornitura di 100 macchinari verso l’Egitto. Il peso di ogni
+macchinario è pari a 1100 kg e non sovrapponibile. Ogni macchina dev’essere imballata nell’azienda di
+produzione (con E-Pallet con peso della pedana pari a 22 kg) e il trasporto dev’essere effettuato via mare.
+Si effettui preliminarmente il calcolo del numero di pallet da inserire all’interno del container da 40 piedi
+tenendo conto che la portata massima dei container a disposizione è pari a 22.500 kg con tara di 2500 kg.
+La società produttrice si trova a Bergamo per cui bisogna scegliere se il trasporto intermodale sia da
+effettuare optando per la soluzione gomma-nave o per la soluzione gomma-treno-nave. I macchinari sono
+pronti per il trasporto il giovedì, il treno parte da Milano il venerdì notte e arriva a Trieste sabato alle 7:00.
+La nave parte il sabato mattina alle ore 9:00.
+Si consideri che, per ragioni inerenti la stabilità della nave, le merci devono essere pesate al loro arrivo in
+porto prima di essere caricate (procedura VGM). Questa operazione richiede un tempo di 2 ore a cui
+dev’essere aggiunto il tempo per lo scarico dei container dal treno e l’imbarco sulla nave.
+Note le distanze tra Bergamo e Milano pari a 60 km e tra Bergamo e Trieste pari a 390 km, le tariffe
+richieste per il trasporto stradale dei container sono riportate nella seguente tabella:
+Tariffa camionistica per container
+fino a 100 km
+101 a 150 km
+151 a 250 km
+251 a 350 km
+351 a 500 km
+oltre 500 km
+
+1,695 €/km
+1,382 €/km
+1,153 €/km
+1,047 €/km
+0,906 €/km
+0,833 €/km
+Tabella 1
+
+Per quanto concerne le tariffe per il trasporto dei container su rotaia sono riportate nella seguente tabella 2:
+Numero container da trasportare Tariffa per 1 container
+0 ÷ 10
+€ 200
+10 ÷ 15
+€ 240
+16 ÷ 20
+€ 260
+21 ÷ 24
+€ 300
+Tabella 2
+
+Il nolo mare è pari a 200 USD per TEU.
+
+Pag. 2/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+Ai costi relativi al trasporto bisogna aggiungere i costi relativi a:
+ BAF (maggiorazione dovuta al carburante): 15 USD per TEU
+ CAF: 30 USD per container
+ THC (Terminal Handling Charge): 180 € a container
+ ISPS (diritti di sicurezza): 18 € per container
+ Diritti d’agenzia: 40 € per container
+ B/L (Emissione del Bill of Lading): 40 € per SET (intera commessa)
+ Spese doganali: 35 € per container, a cui si aggiungono ulteriori 10 € per ogni container aggiuntivo
+ Tasse erariali imbarco: 0,90 € a tonnellata
+ VGM (pesata obbligatoria): 45 € a container
+Si utilizzi per il cambio USD/EURO il cambio doganale: 1 US dollar = 1.1354 euro (cambio doganale
+relativo al mese di Aprile 2019 art.53 del CDU e art. 146 del R.E.)
+Il candidato preliminarmente proceda alla determinazione:
+ del numero dei container da approntare per il trasporto della commessa;
+ del costo del trasporto unitario per container nei due scenari individuati;
+ del costo totale del trasporto dell’intera commessa per i due casi.
+Il candidato individui poi quale dei due scenari bisogna adottare tenendo in debito conto la tempistica
+indicata nella prima parte della traccia.
+Il candidato scelga e illustri in modo esplicito tutti i parametri che ritiene necessari per la soluzione
+dandone adeguata spiegazione.
+
+SECONDA PARTE
+Quesito 1A
+In riferimento al TEMA A si consideri la possibilità che per il trasporto Bergamo – Trieste venga concesso
+uno sconto del 18%.
+Ricalcolare:
+a) il costo totale del relativo scenario;
+b) il costo unitario per container e per singola UdC;
+c) la differenza tra il nuovo scenario e il trasporto gomma-treno in termini di spese totali e individuare
+quale tra i due risulta più economico.
+
+Pag. 3/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+Quesito 2A
+Gli stabilimenti A e B producono rispettivamente 300 t e 500 t di merce che viene inviata nei depositi D1,
+D2 e D3 aventi, rispettivamente, la capienza di 200 t, 150 t e 450 t. Data la seguente matrice dei costi di
+trasporto (in euro alla tonnellata), si determini il piano ottimo di trasporto:
+D1
+
+D2
+
+D3
+
+A
+
+10
+
+15
+
+20
+
+B
+
+16
+
+13
+
+12
+
+Quesito 3A
+Un’azienda deve effettuare la previsione per un suo articolo X ed ha a disposizione la serie storica relativa
+ai due anni precedenti come indicato nella seguente tabella:
+G ‘17
+130
+G ‘18
+150
+
+F ‘17
+160
+F ‘18
+180
+
+M ‘17
+50
+M ‘18
+300
+
+A ‘17
+220
+A ‘18
+140
+
+M ‘17
+75
+M ‘18
+30
+
+G ‘17
+32
+G ‘18
+245
+
+L ‘17
+180
+L ‘18
+75
+
+A ‘17
+210
+A ‘18
+160
+
+S ‘17
+40
+S ‘18
+210
+
+O ‘17
+190
+O ‘18
+90
+
+N ‘17
+210
+N ‘18
+290
+
+D ‘17
+180
+D ‘18
+320
+
+Da una prima analisi dei dati sono stati individuati i valori di “a” pari a 4,2387 e “b” pari a 108,14.
+
+
+Si individui il trend.
+
+
+
+Si calcolino le previsioni per i primi 6 mesi del nuovo anno utilizzando il metodo della
+scomposizione moltiplicativa.
+
+A consuntivo risultano vendute 200 unità a gennaio, 230 unità a febbraio, 225 a marzo e 265 ad aprile
+2019:
+
+
+si calcoli l’errore medio percentuale assoluto e l’accuratezza previsionale del sistema utilizzato;
+
+
+
+si valuti se il metodo utilizzato è adatto allo studio del caso in esame.
+
+Quesito 4A
+Il candidato indichi le metodologie di riordino delle scorte utilizzate. Ne scelga una e ne faccia un
+dettagliato esempio. Confronti inoltre le metodologie indicandone i vantaggi e gli svantaggi.
+
+Pag. 4/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+TRACCIA B
+PRIMA PARTE
+TEMA B
+Ad una società di immagazzinamento viene richiesto di prendere in carico dei materiali gestiti su unità di
+carico pallettizzate di tipo EPAL (80 × 120) con le seguenti caratteristiche:
+
+
+altezza (comprensiva della pedana) minima di 150 cm e massima di 165 cm;
+
+
+
+peso lordo di 500 kg;
+
+
+
+debordo massimo sul lato di lunghezza 120 pari al 4%.
+
+Il sistema di stoccaggio che si vuole utilizzare è composto da scaffalature bifronti di tipo tradizionale. Il
+magazzino, già esistente, presenta le seguenti dimensioni:
+
+
+lunghezza magazzino pari a 150 m;
+
+
+
+larghezza magazzino pari a 120 m;
+
+
+
+altezza utile del magazzino, sottotrave, pari a 11,50 m.
+
+Le caratteristiche della scaffalatura sono:
+
+
+portata dei correnti pari a 2100 kg;
+
+
+
+spessore dei montanti pari a 100 mm;
+
+
+
+spessore dei correnti pari a 100 mm.
+
+Si assuma che il punto di I/O sia posizionato al centro del fronte dell’area di stoccaggio.
+Si ipotizzi inoltre di noleggiare dei carrelli trilaterali per la movimentazione interna, con le seguenti
+caratteristiche:
+
+
+Lc = 1,9 m;
+
+
+
+velocità media di salita delle forche 0,3 m/s;
+
+
+
+velocità media di discesa delle forche 0,5 m/s;
+
+
+
+velocità di traslazione orizzontale senza carico di 2,5 m/s;
+
+
+
+velocità di traslazione orizzontale a pieno carico di 2,1 m/s;
+
+
+
+costo del personale pari a 20 €/h.
+
+Pag. 5/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+Inoltre, ipotizzando di adottare una politica “a posti condivisi” con equiprobabilità di accesso ai vani, che
+le missioni siano al 50% di immissioni e al 50% di prelievo, che i carrelli operino con cicli semplici e che
+il fattore di utilizzazione medio giornaliero sia pari all’ 82% si individuino:
+
+
+il numero di pallet per vano, il numero di livelli della scaffalatura e il CUS;
+
+
+
+il numero di corridoi presenti all’interno del magazzino;
+
+
+
+
+la potenzialità ricettiva dell’intera area di stoccaggio;
+il tempo medio di ciclo semplice ed il relativo costo orario (tenendo conto che i tempi fissi vengono
+stimati in 60 secondi);
+il costo totale della giornata lavorativa;
+il numero minimo di carrelli utili per garantire una potenzialità di movimentazione di 100 cicli
+semplici/ora;
+il costo medio di ogni missione considerando un costo orario di 25 euro/ora comprensivi di costi
+per la manodopera e per l’ammortamento dei carrelli.
+
+
+
+
+
+Il candidato scelga e illustri in modo esplicito tutti i parametri che ritiene necessari per la soluzione
+dandone adeguata spiegazione.
+
+SECONDA PARTE
+Quesito 1B
+Il candidato, utilizzando le tipologie di layout conosciute individui quale potrebbe essere la soluzione
+migliore da adottare nel caso relativo al Tema B dandone adeguata giustificazione. Inoltre, dopo aver
+scelto una scala opportuna disegni il layout della soluzione adottata e valuti se, modificando il punto di
+I/O, sia possibile migliorare le prestazioni del magazzino.
+Quesito 2B
+Un bilico con portata pari a 33 UdC effettua un viaggio da Ancona a Perugia (135 km) con a bordo 30
+UdC. Una volta arrivati a Perugia scarica 10 UdC e poi prosegue per Bologna percorrendo ulteriori 240
+km per consegnare le ultime UdC, dopo aver fatto tappa intermedia a San Marino dove ha consegnato 8
+UdC (165 km da Perugia). A quanto ammonta la saturazione del viaggio completo?
+
+Pag. 6/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+Quesito 3B
+Un’azienda deve analizzare i dati raccolti nell’ultimo mese per valutare il grado di puntualità delle
+consegne effettuate e per predisporre l’introduzione di nuovi KPI per migliorare la valutazione interna.
+Utilizzando i dati della tabella calcolare in valore assoluto e percentuale i seguenti indicatori:
+n°totale di consegne/mese
+consegne in anticipo
+consegne in ritardo
+di cui:
+ritardo di 1g
+ritardo di 2gg
+ritardo di 3gg
+
+7200
+230
+385
+310
+67
+8
+
+ puntualità;
+ consegne on-time;
+ non puntualità.
+Il candidato individui inoltre se l’azienda debba inserire degli ulteriori indicatori per migliorare nella
+valutazione dandone adeguata motivazione.
+Quesito 4B
+Il candidato spieghi le peculiarità degli Incoterms del 3^ gruppo:
+ DDP
+ DAT
+ DAP
+e per ogni tipologia produca un dettagliato esempio.
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l'uso di manuali tecnici formulari integrativi e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità
+di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

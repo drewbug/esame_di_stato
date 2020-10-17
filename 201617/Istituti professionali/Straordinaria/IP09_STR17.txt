@@ -1,0 +1,127 @@
+Pag. 1/5
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IP09 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE E MANUTENZIONE
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+
+ IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+ IPS9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova
+d’esame coerente al percorso di studio seguito.
+
+Pag. 2/5
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IP09 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti
+nella seconda parte.
+PRIMA PARTE
+Un’impresa di manutenzione viene incaricata della gestione dell’impianto elettrico, termico e
+dell’ascensore di un centro benessere. Dal quadro elettrico escono 6 linee di cui 3 monofase e 3
+trifase.
+Il candidato, fatte eventuali ipotesi aggiuntive,
+1. descriva, anche tramite schema, la struttura dell’impianto termico specificando funzione e
+parametri caratteristici di ogni dispositivo;
+2. rappresenti lo schema unifilare dell’impianto elettrico e indichi i criteri di dimensionamento
+della linea trifase che alimenti 6 motori trifase da 5,5 kW;
+3. illustri dal punto di vista della manutenzione le differenze tra “ascensore elettrico” e “ascensore
+oleodinamico”;
+4. infine proponga un format per la registrazione delle verifiche e degli interventi di manutenzione
+effettuati sull’impianto termico.
+SECONDA PARTE
+1. Il candidato, fatte le considerazioni che ritiene opportune, pianifichi l’intervento di sostituzione
+e collaudo della caldaia, valuti i rischi e gli aspetti organizzativi del lavoro in relazione alla
+sicurezza avendo cura di descrivere quali mezzi, attrezzature e risorse umane prevede di
+utilizzare.
+2. Il candidato indichi come individuare e intervenire su possibili guasti relativa alla scheda
+elettronica di comando dell’ascensore.
+3. Il candidato illustri le differenze delle modalità di trasmissione del moto relativo all’ascensore
+elettrico e quello oleodinamico.
+4. Il candidato calcoli l’affidabilità del sistema seguente costituito da 3 blocchi in serie per un
+tempo di 1800 ore. Sono noti i valori dei tassi di guasto dei singoli componenti:
+A = 2 *10-6 guasti/ora
+B = 5 *10-5 guasti/ora
+C = 9 *10-6 guasti/ora
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/5
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPS9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPS9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Si consideri lo schema di impianto di distribuzione del Gas Naturale rappresentato in fig.1 che alimenta
+una Stufa avente potenza pari a 10 kW e una Caldaia con potenza nominale al focolare di 24 kW.
+Il candidato assumendo in autonomia i dati mancanti, proceda con il dimensionamento della rete di
+distribuzione rappresentata in fig.1 utilizzando la formula di Renouard in conformità a quanto previsto
+dalla norma UNI 7129-1-2008.
+
+Pag. 4/5
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPS9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPS9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+Pag. 5/5
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPS9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPS9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+SECONDA PARTE
+1. Il candidato sulla base dello schema realizzato nella parte prima, compili una lista dei materiali in
+termini di apparecchiature, valvolame, tubazioni e minuterie necessarie per la realizzazione
+dell’impianto di distribuzione del gas.
+2. Il candidato elenchi i parametri impiantistici che incidono nel dimensionamento della valvola di
+sicurezza e del vaso d’espansione chiuso in un impianto termico con caldaia alimentata a gas metano.
+Elenchi inoltre tutte le apparecchiature di sicurezza e controllo a corredo dell’impianto termico.
+3. Il candidato descriva le caratteristiche che contraddistinguono il funzionamento di una caldaia a gas
+metano con tecnologia a condensazione rispetto ad una con funzionamento non a condensazione.
+4. Il candidato illustri, sulla base dell’esperienza da lui fatta direttamente o svolta nell’ambito di stages
+aziendali o di alternanza scuola-lavoro o in attività di laboratorio durante l’anno scolastico, le
+mansioni e/o le attività lavorative normalmente svolte, evidenziando le competenze acquisite e gli
+obiettivi raggiunti preferibilmente in relazione alle realizzazioni di impianti di distribuzione del gas.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

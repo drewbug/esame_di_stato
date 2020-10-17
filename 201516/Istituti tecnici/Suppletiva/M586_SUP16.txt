@@ -1,0 +1,108 @@
+Pag. 1/2
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Di un motore asincrono trifase a sei poli con collegamento statorico a triangolo, tensione nominale
+220 V, frequenza nominale 50 Hz, sono state determinate le perdite nel ferro di statore e le perdite
+meccaniche, per tensione e frequenza nominali e velocità prossima al valore normale.
+Le prime sono risultate pari a 820 W e le seconde di 440 W.
+La resistenza fra due morsetti dell’avvolgimento statorico misurata alla temperatura di 18 °C è
+risultata di 0,023 Ω.
+Il motore, alimentato alla tensione nominale, viene collegato ad un utilizzatore meccanico, ed assorbe,
+in determinate condizioni di funzionamento, la potenza di 22 kW con un fattore di potenza
+cosϕ = 0,68.
+Il candidato, nell’ipotesi che lo scorrimento del motore sia del 3,4%, fatte le eventuali ipotesi
+aggiuntive che ritiene necessarie, determini per le suddette condizioni di carico:
+a)
+
+la coppia richiesta dall’utilizzatore;
+
+b) il rendimento del motore.
+SECONDA PARTE
+Il candidato risponda a due, e solo due, dei seguenti quesiti e, fatte eventuali ipotesi aggiuntive
+ritenute necessarie, presenti per ognuno le linee operative e le motivazioni delle soluzioni prospettate.
+QUESITO N.1
+Un generatore sincrono trifase da 1 MVA 50 Hz alimenta attraverso una linea aerea un carico trifase
+equilibrato ohmico-induttivo, che assorbe la potenza di 600 kW sotto una tensione di
+2,8 kV con un fattore di potenza uguale a 0,8. Il generatore sincrono, funzionante con il carico
+nominale e con fattore di potenza unitario, ha una tensione ai morsetti di 3 kV ed una caduta di
+tensione percentuale uguale al 16%. La linea ha i valori di resistenza e di reattanza uguali e presenta
+una caduta di tensione percentuale con il carico allacciato pari all’8%.
+Il candidato determini la tensione a vuoto della macchina funzionante coi suoi dati di targa e la
+reattanza sincrona di una fase dell’avvolgimento statorico, sapendo che l’avvolgimento di indotto ha
+le fasi collegate a stella e che la resistenza di indotto può ritenersi trascurabile.
+
+Pag. 2/2
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+QUESITO N.2
+In riferimento al motore asincrono del tema proposto nella prima parte, il candidato illustri il
+dispositivo adatto a ridurre la velocità rotorica del 15% mantenendo inalterata la coppia prodotta e ne
+effettui il dimensionamento.
+QUESITO N.3
+Tre trasformatori monofasi uguali, alimentati a tensione e frequenza nominali, utilizzati per realizzare
+una trasformazione energetica trifase, presentano i seguenti valori nominali e convenzionali:
+‒
+
+spire circuito primario 5500;
+
+‒
+
+V1N=22 kV;
+
+‒
+
+V2N=220 kV;
+
+‒
+
+I1N=68,2 A;
+
+‒
+
+po%=1,5%;
+
+‒
+
+io%=6%;
+
+‒
+
+vcc%=5%;
+
+‒
+
+pcc%=3%.
+
+Il candidato indichi, motivando adeguatamente le scelte fatte, la connessione primaria e quella
+secondaria che permettono di realizzare il minimo rapporto di trasformazione. Inoltre, disegni lo
+schema della trasformazione e valuti il rapporto di trasformazione.
+QUESITO N.4
+Dopo aver illustrato le problematiche legate all’avviamento di un motore asincrono trifase, il
+candidato analizzi vantaggi e svantaggi dei principali metodi utilizzati.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

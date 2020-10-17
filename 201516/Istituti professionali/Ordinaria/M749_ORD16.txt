@@ -1,0 +1,51 @@
+Pag. 1/1
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M749 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE E MANUTENZIONE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una struttura adibita a concessionaria di automobili è composta da una zona all’aperto dove sono
+parcheggiate auto nuove e usate e da ampi saloni per uffici e showroom. Nell’ambito della
+manutenzione, l’impresa incaricata deve, tra l’altro, controllare il cancello automatico che dà accesso
+alla struttura e le porte a vetro scorrevoli all’ingresso dei saloni. Il cancello, una volta aperto la
+mattina, si richiude all’orario previsto o tramite comando posto in ufficio. Il candidato, fatte eventuali
+ipotesi aggiuntive:
+1. descriva, anche tramite schema, i dispositivi presenti nell’impianto relativo al cancello e
+specifichi, in particolare, come avviene la movimentazione dello stesso;
+2. indichi i possibili guasti che impediscono la chiusura del cancello e le metodologie per effettuare
+le relative verifiche;
+3. illustri le principali attività da svolgere per effettuare la manutenzione ordinaria delle porte
+scorrevoli;
+4. proponga un format per la registrazione delle verifiche e degli interventi di manutenzione
+effettuati sulle porte scorrevoli.
+SECONDA PARTE
+1. L’apertura delle porte scorrevoli di ingresso agli uffici e saloni è garantita automaticamente se
+entrambi i fine corsa sono funzionanti. Sapendo che il tasso di guasto del fine corsa è pari a
+1 = 5 *10-3 anno-1, il candidato determini l’affidabilità dell’impianto dopo 5 anni e dopo quanti
+anni la stessa è pari al 90%.
+2. In seguito ad una riqualificazione energetica ad una ditta di manutenzione viene chiesta la
+sostituzione dei corpi illuminanti all’interno del salone e dello showroom. Il candidato, ipotizzi
+le fasi operative comprensive del collaudo finale dell’impianto riqualificato e dopo aver valutato
+la tipologia dei rischi per ciascuna fase indichi le misure di prevenzione e protezione e la tipologia
+del DPI da adottare.
+3. Il verbale redatto dal manutentore della caldaia a servizio dell’impianto termico della zona uffici
+consiglia la sostituzione della stessa. Il candidato illustri le probabili cause che hanno portato alla
+sostituzione e pianifichi l’intervento d’installazione avendo cura di descrivere quali mezzi,
+attrezzature e risorse umane prevede di utilizzare.
+4. Ad una ditta di impianti termoidraulici viene chiesta la sostituzione di una caldaia a gas murale
+a servizio di un appartamento. La nuova caldaia da installare ha le seguenti caratteristiche:
+Camera aperta, Portata termica nominale 26,7 kW ed un prezzo di listino pari a 890,00 euro. Si
+chiede al candidato di effettuare un’analisi del preventivo da esporre al committente e la
+realizzazione di un diagramma di Gantt con i relativi tempi di tutte le fasi di lavoro.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

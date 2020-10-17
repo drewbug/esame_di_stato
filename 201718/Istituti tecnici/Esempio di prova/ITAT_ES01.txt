@@ -1,0 +1,83 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT – ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+
+ESEMPIO PROVA
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+
+Parte prima
+In un vivaio è presente una micro serra, di 40 mq, adibita allo sviluppo di bulbi da fiori da
+esportazione.
+Per assicurare il corretto microclima nella micro serra è necessario mantenere adeguati livelli di
+umidità, temperatura e luminosità. Allo scopo devono essere installati un opportuno numero di sensori
+che rilevano le grandezze in esame da inviare a un sistema di controllo per stabilizzare le condizioni
+all’interno del locale.
+L’impianto è gestito da un sistema programmabile che, acquisiti i segnali provenienti dai sensori,
+avvia in maniera automatica i sistemi di umidificazione, riscaldamento e regolazione della luminosità.
+Le condizioni di funzionamento ottimale sono le seguenti:
+a. il tasso di umidità deve essere mantenuto superiore al 40%: tale livello è garantito da un
+sistema di umidificazione costituito da un vaporizzatore libero di scorrere lungo una guida
+collocata sul soffitto. Quando l’umidità scende sotto tale valore prestabilito si attiva il sistema
+di nebulizzazione, azionato da un motore, il quale percorre per due volte in un senso e due
+volte nel senso opposto l’intera guida;
+b. la temperatura nella micro serra deve essere mantenuta nel range 18 °C  22 °C: quando la
+temperatura scende al di sotto di 18 °C viene attivato un sistema di piastre riscaldanti disposte
+lungo le pareti del locale fino al raggiungimento di 20 °C; se la temperatura sale sopra i 22 °C
+si attivano due ventole di aerazione che vengono spente al raggiungimento di 20 °C;
+c. il livello di luminosità è garantito accendendo in maniera ciclica le 6 lampade presenti nella
+micro serra secondo il seguente schema orario:
+
+Orario
+
+Numero di Lampade
+
+dalle 00:00 alle 04:59
+
+6
+
+dalle 05:00 alle 07:59
+
+4
+
+dalle 08:00 alle 17:59
+
+2
+
+dalle 18:00 alle 23:59
+
+4
+
+Il candidato, fatte le eventuali ipotesi aggiuntive, dopo aver definito il numero di sensori che ritiene
+opportuno inserire nell’ambiente:
+1) rappresenti tramite uno schema a blocchi il sistema di acquisizione dei dati, descriva i componenti
+utilizzati e giustifichi le scelte effettuate;
+2) specifichi le caratteristiche dei sensori e ne progetti i relativi circuiti di condizionamento del
+segnale di uscita;
+3) rappresenti, mediante un diagramma di flusso o un altro linguaggio di propria conoscenza,
+l’algoritmo di gestione dell’impianto;
+4) elabori un opportuno programma che, con l’ausilio di un sistema programmabile di propria
+conoscenza, gestisca l’automatismo proposto.
+
+Seconda parte
+1) In relazione alla prima parte della prova il candidato definisca le procedure di collaudo del
+sistema di controllo e la documentazione tecnica da predisporre.
+2) Il candidato illustri le differenze tecnologiche e di funzionamento tra SCR e TRIAC anche
+tramite esempi applicativi.
+3) Si consideri un sistema di interruttori elettronici di potenza, il candidato illustri le principali
+problematiche che si possono rilevare nel momento della commutazione degli interruttori e
+giustifichi la necessità di utilizzare un circuito smorzatore da associare ai suddetti interruttori.
+4) Il candidato illustri il significato della certificazione ISO e quali sono le fasi da seguire per
+
+ottenere tale certificazione.
+
+__________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrice non programmabile, manuali, prontuari tecnici e del dizionario di lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,108 @@
+Pag. 1/1
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M046 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: RR9J - TECNICO DELLE INDUSTRIE ELETTRICHE
+Tema di: ELETTROTECNICA, ELETTRONICA ED APPLICAZIONI
+L’impianto elettrico BT di una piccola industria elettromeccanica deve alimentare, tra l’altro, le
+seguenti utenze:
+a.
+
+un motore in corrente continua avente le seguenti caratteristiche:
+potenza nominale 7 kW, rendimento 0,9, tensione 110 V, velocità nominale 1400 giri/min
+
+b.
+
+motori asincroni trifase:
+
+c.
+
+numero di motori
+
+potenza nominale
+
+Rendimento
+
+cos
+
+numero poli
+
+1
+
+7,5 kW
+
+0,88
+
+0,86
+
+4
+
+1
+
+5,5 kW
+
+0,89
+
+0,86
+
+4
+
+4
+
+2,5 kW
+
+0,92
+
+0,82
+
+6
+
+8
+
+1,1 kW
+
+0,94
+
+0,82
+
+6
+
+illuminazione P = 12 kW e utenze monofase con potenza totale 6 kW.
+
+Il candidato, fatte eventuali ipotesi aggiuntive:
+1. rappresenti lo schema dell’impianto elettrico comprese le protezioni e descriva un sistema in
+grado di garantire la continuità di servizi per l’illuminazione e le utenze monofase, in caso di
+interruzione dell’erogazione dell’energia elettrica;
+2.
+
+dimensioni la linea L1, lunga 120m, che alimenta i motori trifase;
+
+3.
+
+calcoli per il motore da 7,5 kW, la corrente assorbita, la velocità di rotazione e lo scorrimento
+sapendo che la coppia applicata vale 50Nm;
+
+4.
+
+descriva il sistema che consente di variare la velocità del motore in corrente continua se la
+coppia applicata rimane quella nominale, in particolare indichi come ottenere una velocità pari
+al 90% di quella nominale.
+
+Si desidera automatizzare il seguente ciclo di lavoro dei 2 motori: P1 da 5,5 kW e P2 da7,5 kW:
+a. partenza di P1, dopo un tempo T1 P1 si ferma e parte P2;
+b. dopo un tempo T2 si ferma P2 e riparte P1 invertendo il verso di rotazione rispetto alla prima
+fase;
+c. dopo un tempo T3 si ferma P1 e riparte P2 invertendo il verso di rotazione;
+d. dopo un tempo T4 il ciclo termina.
+Il candidato, integrando il sistema con ulteriori eventuali considerazioni, descriva l’automatismo,
+scelga i dispositivi necessari e illustri una possibile soluzione usando un linguaggio di sua scelta.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

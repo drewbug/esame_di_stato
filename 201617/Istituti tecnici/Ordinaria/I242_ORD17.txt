@@ -1,0 +1,250 @@
+Pag. 1/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I242 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI IMPIANTI MEZZO NAVALE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una nave traghetto deve subire dei lavori di trasformazione, e per questo deve esserne valutata
+preventivamente la condizione finale di stabilità.
+La nave ha lunghezza tra le perpendicolari Lpp di 150m, larghezza B di 14m ed è disponibile la tavola
+delle carene diritte, con le misure longitudinali riferite alla PpAD:
+T [m]
+4,4
+4,6
+4,8
+5,0
+5,2
+5,4
+5,6
+5,8
+6,0
+6,2
+
+V [m3]
+7076
+7278
+7482
+7687
+7893
+8101
+8310
+8521
+8733
+8947
+
+LCB(XB)[m] KB(ZB)[m]
+76,10
+2,92
+75,90
+3,06
+75,70
+3,19
+75,49
+3,33
+75,28
+3,46
+75,06
+3,60
+74,84
+3,73
+74,61
+3,87
+74,37
+4,01
+74,12
+4,14
+
+LCF(XF)[m] BML(R)[m]
+72,69
+350,7
+72,22
+346,8
+71,80
+343,3
+71,34
+340,3
+70,89
+336,5
+70,38
+333,3
+69,87
+331,1
+69,31
+328,6
+68,76
+326,4
+68,18
+324,5
+
+BMT(r)[m]
+5,13
+4,92
+4,70
+4,50
+4,29
+4,09
+3,89
+3,70
+3,51
+3,32
+
+La nave viene sottoposta, prima di procedere ai lavori di trasformazione, ad una prova di stabilità
+semplificata.
+Al momento della prova, la nave si trova in assetto appoppato con immersioni misurate sulle
+perpendicolari di TAV = 4,92m ; TAD = 5,24m. La densità dell'acqua di mare, misurata nell’area dove
+viene svolta la prova, è 1,020kg/dm3.
+La prova viene effettuata spostando un camion del peso totale di 15t, inizialmente al centro, verso il
+fianco nelle due direzioni per una distanza y = 6m misurata dal centro nave. Il pendolo utilizzato per
+la misura dello sbandamento è lungo 3650mm, e gli scostamenti laterali misurati sono:
+scostamento a sn (peso spostato a sn) = 40.2mm
+scostamento a ds (peso spostato a ds) = 39.4mm
+1) Si chiede di calcolare le coordinate del baricentro della nave XG e ZG e l'altezza metacentrica nella
+condizione in cui si trova durante la prova.
+
+Pag. 2/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I242 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI IMPIANTI MEZZO NAVALE
+I lavori di trasformazione prevedono lo sbarco e l'imbarco di elementi elencati nella tabella seguente.
+La posizione del baricentro è riferita alla PpAD per le misure longitudinali e alla linea di base per le
+verticali.
+PESI DA SBARCARE
+Paratie d'interponte
+Allestimento coperta
+Impiantistica
+Dispositivi e personale
+per la prova di stabilità
+
+PESO [t]
+20
+3
+6
+16
+
+XG [m]
+20
+46
+50
+55
+
+ZG [m]
+13
+12
+12
+15
+
+PESI DA IMBARCARE
+
+PESO [t]
+40
+20
+25
+2
+3
+3
+6
+
+XG [m]
+80
+82
+48
+9
+120
+60
+40
+
+ZG [m]
+14
+13
+13
+12
+15
+10
+11
+
+Nuovo ponte
+Nuove strutture trasv.
+Nuove cabine pass.
+Rivestimenti piscina 1
+Rivestimenti piscina 2
+Nuovi servizi coperta
+Nuova impiantistica
+
+2) Si chiede di calcolare le nuove coordinate del baricentro XG e ZG dopo gli imbarchi/sbarchi
+sopraelencati.
+Successivamente le due piscine, la cui posizione si ricava dalla tabella soprastante alla voce
+"rivestimenti", vengono riempite con acqua dolce. Le dimensioni sono:
+piscina n.1 (rettangolare): lunghezza 10m; larghezza 5m; altezza dell’acqua 1,5m
+piscina n.2 (circolare): diametro 6m; altezza dell’acqua 1,5m
+3) Si chiede di calcolare le nuove coordinate del baricentro XG e ZG e l'altezza metacentrica (che
+includa l'effetto degli specchi liquidi delle piscine) in acqua di mare standard da 1,025kg/dm3.
+
+Pag. 3/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I242 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI IMPIANTI MEZZO NAVALE
+SECONDA PARTE
+Completata questa analisi, vi viene chiesto di scegliere due (e due soltanto) fra le seguenti analisi
+relative sempre alla stessa nave:
+1) Disegnare (senza calcolarne il dimensionamento) una possibile struttura di sezione maestra (solo
+l’ossatura rinforzata) a struttura longitudinale della nave analizzata, limitandosi ai 4 ponti più
+bassi oltre al doppio fondo.
+2) Calcolare il dimensionamento dell’asta del timone della nave in progetto (il disegno del timone
+e i dati necessari sono riportati nel 4° foglio), calcolando i diametri nella zona soggetta a torsione
+e flessione, e della zona soggetta a sola torsione, e farne il disegno. La verifica dovrà essere fatta
+per una velocità di sola marcia avanti di 18 nodi, assumendo tutti gli altri criteri e caratteristiche
+in base alla normale consuetudine delle costruzioni navali.
+3) Calcolare il modulo d’armamento della nave in progetto (il disegno della nave in scala 1:750 è
+riportato nel 5° foglio) assumendo un’immersione di pieno carico T = 6m, elencare la dotazione
+minima richiesta e disegnare il piano d’ormeggio della zona di prua e di poppa.
+4) Disegnare lo schema dei tre impianti antincendio a idranti, sprinkler, e CO2, e descriverne in
+dettaglio le caratteristiche e il funzionamento.
+
+____________________________
+Durata massima della prova: 8 ore.
+È consentito l'uso di manuali tecnici, di regolamenti di Istituti di Classifica (anche sotto forma di estratto) e di calcolatrici tascabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 4/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I242 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+TIMONE
+PARTE II – domanda n.2
+
+Pag. 5/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PARTE II – domanda n.3
+VISTA LONGITUDINALE- scala 1:750
+
+

@@ -1,0 +1,251 @@
+Pag. 1/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+Il candidato, dopo aver letto attentamente, scelga una sola delle due tracce ed affronti la soluzione
+del tema e di due quesiti tra i quattro proposti nella traccia selezionata.
+
+TRACCIA A
+PRIMA PARTE
+TEMA A
+La società “Il Pentagramma” SpA rivende articoli per strumenti musicali. Dai dati storici dello scorso
+semestre si prevede che la domanda media di custodie per basso elettrico sarà di 250 unità al mese e
+la deviazione standard pari a 70. La società deve pianificare gli ordini di confezioni di custodie per il
+nuovo semestre in modo da soddisfare la domanda.
+‐ Il costo unitario della custodia è di 25 €;
+‐ Il tasso di interesse mensile maggiorato dei costi di gestione e di magazzino è del 1,35%;
+‐ L’azienda vuole garantire alla sua utenza un livello di servizio del 97.88%;
+‐ Il costo fisso di emissione dell’ordine è pari a 75 €;
+‐ L’approvvigionamento è a lotti;
+‐ Il lead time di approvvigionamento si mantiene costante e pari a 15 gg.
+Si applichino le due politiche:
+a) fixed order quantity;
+b) fixed period quantity.
+Calcolare il costo medio di immagazzinamento mensile (atteso) e l’indice di rotazione relativo al
+semestre.
+Specificare quale è la politica migliore che minimizza i costi medi di gestione delle scorte e di
+attuazione sapendo che queste ultime ammontano per le due politiche rispettivamente a:
+a) 30 €
+b) 8 €
+Valutare la variazione percentuale dei costi, per le due politiche, dovuta al fatto che il rifornitore
+accetta solo approvvigionamenti con lotti di 300 unità e con una deviazione standard del lead time
+pari ad 1 giorno.
+Si consideri la settimana di 5gg lavorativi e il mese composto da 4 settimane.
+Il Candidato, scelga ed indichi in modo esplicito tutti i parametri e i dati eventualmente necessari per
+lo svolgimento del tema dandone motivazione.
+
+Pag. 2/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+SECONDA PARTE
+1.
+
+In riferimento al caso studiato nel TEMA A, si supponga che nel nuovo semestre l’azienda
+applichi la politica individuata come la migliore e che le domande mensili reali siano:
+I mese
+142
+
+II mese
+167
+
+III mese
+233
+
+IV mese
+300
+
+V mese
+247
+
+VI mese
+114
+
+Sapendo che all’inizio del periodo il livello delle scorte è di 320 pz, rappresentare in un grafico
+l’andamento del livello di inventario in funzione del tempo mettendo in evidenza i punti in cui la
+pendenza della spezzata cambia.
+2.
+
+L’azienda “XX” di Catania possiede due stabilimenti (S1 e S2) che producono ogni anno
+rispettivamente 450 e 850 quintali di un determinato prodotto X, per soddisfare la domanda dei
+due clienti (C1 e C2) pari rispettivamente al 40% e 60% delle quantità prodotte dei due
+stabilimenti.
+L’azienda “XX” vuole costruire un centro distributivo (Ce.Di) da cui partiranno le spedizioni
+verso i due clienti.
+In tabella vengono fornite le distanze degli stabilimenti dal centro di Catania, le tariffe del
+trasporto dagli stabilimenti al Ce.Di, le distanze dei clienti dal centro di Catania e le tariffe di
+trasporto dal Ce.Di ai clienti:
+i
+S1
+S2
+C1
+C2
+
+Xi [km]
+50
+70
+120
+90
+
+Yi [km]
+30
+45
+80
+90
+
+Tariffa trasporto [€/km]
+0,10
+0,10
+0,15
+0,15
+
+Considerando il centro di Catania come origine degli assi di riferimento, determinare:
+a) la posizione del Ce.Di rispetto al centro di Catania;
+b) il costo totale annuo di trasporto.
+3. Un magazzino dispone di 14 baie di carico/scarico; 4 sono dedicate al ricevimento dei fornitori,
+le restanti sono dedicate invece agli automezzi. Il magazzino lavora su due turni: dalle 6 alle 14
+e dalle 15 alle 23. Il numero degli automezzi caricati varia ogni giorno della settimana: il lunedì
+è il giorno con uscite più elevate, 2600 UdC/g, il venerdì invece è quello con il numero delle
+UdC in uscita più basso, circa 1700 UdC/g. Considerando che ogni automezzo ha mediamente
+una portata di 24 UdC ed è caricato per il 75% delle sue capacità, si richiede di calcolare la
+produttività massima della baia di carico.
+4. Il candidato illustri le principali disposizioni previste dalla legge in materia di sicurezza sui
+luoghi di lavoro. Spieghi inoltre quali sono i soggetti coinvolti nella gestione della sicurezza.
+
+Pag. 3/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+TRACCIA B
+PRIMA PARTE
+TEMA B
+L’azienda “AlphaOmega” SpA vuole determinare i costi totali relativi ad un sistema di picking per
+stabilire quale tipologia di prelievo utilizzare per il proprio magazzino.
+Il magazzino in oggetto presenta un sistema di picking del tipo “operatore verso materiali” gli articoli
+sono stoccati in EPAL e disposti in scaffalature bifronti, con larghezza del modulo unitario pari a 5,2
+m, su 18 corridoi di prelievo di lunghezza 20 m, con corridoio centrale di larghezza pari a 5 m e
+corridoi laterali di larghezza 3,5 m.
+I picker si muovono effettuando percorrenze di tipo “traversal”. Il profilo dei prelievi è il seguente:
+ numero di ordini da evadere settimanalmente: 4700 ( giorni di lavoro a settimana: 5);
+ numero medio di righe prelevate per ordine: 8;
+ numero medio di pezzi prelevati per riga: 4,8;
+ tempo fisso per giro di prelievo: 55 s;
+ tempo fisso per linea prelevata: 5 s;
+ tempo medio per pezzo prelevato: 3,2 s;
+ velocità media del picker: 0,9 m/s.
+Assumendo le seguenti ipotesi:
+‐ equiprobabilità di accesso ai vani;
+‐ coppia attesa di corridoi più distante dal punto di I/O pari ad 8 per l’Order Picking;
+‐ coppia attesa di corridoi più distante dal punto di I/O pari ad 7 per il Batch Picking;
+‐ si consideri inoltre che il tempo previsto medio di sorting è pari a 4 s/pezzo per l’uscita degli
+articoli prelevati in Batch.
+Si chiede di determinare:
+1. la percorrenza totale nel caso si adotti la logica di prelievo Order Picking;
+2. la percorrenza totale nel caso si adotti la logica di prelievo Batch Picking (batch di 4 ordini);
+3. la percorrenza totale nel caso si adotti la logica di prelievo Batch Picking prima indicata con una
+sovrapponibilità delle righe del 25 %;
+4. il tempo totale di missione del picking nei tre casi;
+5. sapendo che il costo orario del picker è 20 euro/h, si confronti il costo giornaliero tra le tre logiche
+e si valuti quale delle tre conviene assumere;
+
+Pag. 4/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+6. il numero dei picker necessari ad effettuare giornalmente tutti gli ordini previsti (si ipotizzi una
+giornata lavorativa di 8 ore);
+7. si calcoli il numero atteso di corridoi da visitare nell’ipotesi che la merce sia posizionata in modo
+ottimizzato ed il magazzino costituito da 8 corridoi. Le linee di ordini evase per ciascun corridoio
+sono:
+L1= 5100; L2 = 2900; L3 = 1400; L4 = 1150; L5 = 1000; L6 = 980; L7= 700; L8=680.
+Calcolare inoltre la percorrenza totale ed il tempo impiegato per l’Order Picking ipotizzando inoltre
+che mediamente ogni ordine sia composto da 6 linee e le dimensioni dei corridoi siano le stesse del
+magazzino iniziale.
+Il Candidato, scelga ed indichi in modo esplicito tutti i parametri e i dati eventualmente necessari per
+lo svolgimento del tema dandone motivazione.
+
+SECONDA PARTE
+1. Il candidato, in relazione all’esercizio precedente determini:
+ il layout che ritiene sia più indicato e poi effettui il disegno del flusso individuato in opportuna
+scala;
+ se la movimentazione interna viene effettuata con un carrello commissionatore avente velocità
+pari a 2,5 m/s valuti vantaggi/svantaggi che ne possono eventualmente derivare in termini di
+variazione dei costi;
+ valuti, in un caso generico, se è più conveniente l’ipotesi di posizionare gli articoli in maniera
+casuale oppure ottimale.
+
+Pag. 5/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158– ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+2. L’azienda “ABC” di Napoli vende all’azienda “XYZ” di Roma i suoi prodotti imballati in 560 cartoni
+impilabili al massimo su 5 piani su Euro pallet. Le dimensioni di ogni singolo imballaggio sono
+20x30xh15 cm ed il peso è di 5 kg.
+Il trasporto da Napoli a Roma è pianificato su gomma e si consideri un rapporto peso-volume di 300
+kg/m3. Nella seguente tabella vengono fornite le tariffe:
+Tariffa camionista (arrotonda al quintale inferiore)
+Da 1 a 3 q
+140,00 €/q
+Da 3,1 a 5 q
+125,00 €/q
+Da 5,1 a 7 q
+115,00 €/q
+Da 7,1 a 9 q
+100,00 €/q
+Determinare:
+1. Quanti pallet è necessario realizzare
+2. Peso reale
+3. Volume totale
+4. Peso volumetrico
+5. Peso tassabile
+6. Nolo
+3. Un autoarticolato con portata di 30 UdC effettua un viaggio da Roma a Firenze (274 km) con a
+bordo 26 UdC. Una volta arrivati a Firenze scarica 12 UdC e poi prosegue per Genova
+percorrendo ulteriori 230 km per consegnare le ultime UdC. A quanto ammonta la saturazione
+del viaggio completo?
+4. Il Candidato, sulla base delle proprie conoscenze o esperienze, illustri i rischi presenti in un’area
+di stoccaggio realizzata con scaffalature tradizionali e quali sistemi di prevenzione e protezioni
+devono essere adottati. Spieghi inoltre quali sono i soggetti coinvolti nella gestione della
+sicurezza.
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, calcolatrici non programmabili, schede tecniche ed estratti di tabelle relative
+alla normativa.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

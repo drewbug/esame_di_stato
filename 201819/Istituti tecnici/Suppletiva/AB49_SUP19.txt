@@ -1,0 +1,134 @@
+Pag. 1/2
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+Articolazione: TELECOMUNICAZIONI
+Tema di: TELECOMUNICAZIONI e SISTEMI E RETI
+
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti tra quelli proposti.
+PRIMA PARTE
+Una funivia in montagna serve una nota località sciistica in
+cui è presente anche un rifugio/albergo/ristorante. Lungo i pali
+della funivia, lunga 1,9 km, è installato un cavo in fibra ottica
+di tipo multi-modale graded index, composto da due fibre tra
+monte e valle, una in trasmissione e una in ricezione, su cui
+corrono le linee telefoniche a servizio della funivia e del
+rifugio e la trasmissione dati. In particolare, in entrambe le
+stazioni della funivia è installato un multiplexer/demultiplexer
+PCM a 2,048 Mbit/s che, tramite un modem ottico, è connesso
+all’altra stazione attraverso le due fibre ottiche, secondo lo
+schema sotto riportato e con le caratteristiche delle fibre
+indicate in tabella.
+
+Standard
+
+G.651/OM3
+
+Sigla
+
+G50/125/250
+
+Lunghezza d’onda
+
+850
+
+1300
+
+Attenuazione tipica/max dB/Km
+
+2,5/2,7
+
+0,5/0,7
+
+Banda Modale OFL Mhz*Km
+
+1500
+
+500
+
+Banda Modale EMB Mhz*Km
+
+2000
+
+n
+
+1,482
+
+1,477
+
+Dispersione cromatica ps/(nm*km)
+
+120
+
+6
+
+Sorgente
+
+LED/VCSEL
+
+LED
+
+Allo stato attuale su ogni MUX/DEMUX sono multiplate quattro linee telefoniche, tra cui due a servizio
+della funivia tra le due stazioni e due linee dati a 64kbit/s connesse a un modem ISDN presente nella
+stazione di valle della funivia. Il gestore del rifugio vuole aggiornare il sistema per poter offrire la
+connessione internet agli ospiti della struttura tramite una rete WiFi da realizzare nei locali del rifugio e
+rendere fruibile le immagini della località dal sito internet della struttura, inserendo due Webcam
+panoramiche. Il nuovo sistema, basato su protocollo IP, prevede l’uso di telefoni IP per le 4 linee telefoniche
+(2 per la funivia), da attestare su un nuovo modem/router FTTH presente alla base della funivia, un Access
+Point per una connessione dati dedicata agli ospiti del rifugio, le due Webcam con il Server web e una
+postazione PC del gestore del rifugio.
+
+Pag. 2/2
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+Articolazione: TELECOMUNICAZIONI
+Tema di: TELECOMUNICAZIONI e SISTEMI E RETI
+
+Il candidato, sulla base delle specifiche fornite e formulate le ipotesi aggiuntive ritenute necessarie:
+A) valuti la possibilità di riutilizzo della fibra già esistente o proponga un nuovo mezzo fisico, determinando
+la capacità del nuovo collegamento in base alle richieste della nuova rete IP e verificando il link budget,
+tenendo conto che in caso di utilizzo di fibra ottica si hanno a disposizione moduli SFP (Small Factor
+Pluggable transmitter and receiver) con PTx = -9.5 dBm e PRx = -17 dBm basati su laser o led;
+B) scelga gli apparati da installare a monte e a valle e il piano di indirizzamento per la nuova rete IP,
+separando a livello logico i servizi richiesti dalla nuova configurazione, e ipotizzando una struttura di
+rete composta da un Access Point per il ristorante, da due webcam, da una postazione PC del gestore del
+rifugio, dal server web e dal router FTTH;
+C) proponga una opportuna struttura di rete per ospitare alla base della funivia il server per il sito web del
+rifugio, preservando il resto della rete da attacchi informatici;
+D) valuti e proponga una possibile soluzione software per virtualizzare il server web sul server fisico.
+SECONDA PARTE
+Un’azienda deve collegare tra loro due sedi lontane, cercando di preservare integrità e riservatezza delle
+comunicazioni. Proporre una possibile soluzione per creare la connessione, specificando protocolli,
+apparati e indirizzamenti necessari.
+2. Si devono inviare lungo una connessione punto-punto di 3 km, i dati rilevati da una stazione meteo, sotto
+forma di caratteri di testo. La connessione, realizzata in tecnologia Hiperlan 5,4 GHz, presenta antenne
+da 15 dB di guadagno, trasmettitori da 18 dBm e ricevitori Rx con sensibilità -95 dBm. Dopo aver
+verificato che la connessione sia possibile nel rispetto delle normative vigenti, descrivere un socket di
+comunicazione per l’invio dei dati.
+3. Si vuole applicare una crittografia ad una trasmissione di stringhe di testo, tramite un socket IP. Dopo
+aver descritto la possibile realizzazione di un socket di comunicazione con un linguaggio di
+programmazione a scelta, proporre un protocollo di crittografia adatto allo scopo.
+4. Un ricevitore LNA con guadagno 40 dB e figura di rumore di 0,1 dB, montato su un’antenna con 50 dB
+di guadagno e temperatura di rumore di 50 K riceve un segnale da un satellite geostazionario a 36000 Km
+di altezza ad una frequenza di 10,9 GHz emesso con un EIRP pari a 40 dBW con una banda di 20 MHz.
+Dopo aver descritto il sistema mediante uno schema a blocchi, determinare il rapporto segnale rumore
+all’uscita del LNA.
+1.
+
+____________________________
+Durata massima della prova: 7 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dall’inizio della prova.
+
+

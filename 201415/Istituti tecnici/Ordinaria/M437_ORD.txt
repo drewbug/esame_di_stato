@@ -1,0 +1,56 @@
+Pag. 1/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M437 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: TF37 – PROGETTO "ERGON"-TERMOTECNICA
+Tema di: IMPIANTI TERMOTECNICI, OLEODINAMICI E PNEUMATICI E DISEGNO
+
+Occorre dimensionare, in regime estivo, una centrale di trattamento aria di un impianto di
+condizionamento misto con ventilconvettori e le batterie dei ventilconvettori, di un piano uffici
+costituito da un unico ambiente situato in una località del centro Italia.
+L’affollamento previsto è di 100 persone in condizioni di lavoro moderato.
+Il carico termico estivo sensibile per differenza di temperatura e per irraggiamento sia di 20.000 W.
+Gli apporti di calore sensibile all’ambiente per illuminazione e macchine siano di 10.000 W.
+Il candidato, dopo aver assunto, con motivati criteri ogni dato ritenuto necessario, determini, in
+maniera analitica e grafica:
+
+
+le condizioni termoigrometriche dell’aria di immissione;
+
+
+
+la portata di aria di immissione;
+
+
+
+la portata dell’aria di ricircolo trattata dai ventilconvettori;
+
+
+
+la potenzialità delle batterie di raffreddamento e post-riscaldamento;
+
+
+
+la potenzialità delle batterie di raffreddamento dei ventilconvettori.
+
+Il candidato poi, utilizzando il diagramma psicrometrico allegato, tracci le linee di trasformazione
+dell’aria e disegni, inoltre, lo schema dell’impianto.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 2/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+

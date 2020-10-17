@@ -1,0 +1,446 @@
+Pag. 1/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M591 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCD – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ ITCI – TRASPORTI LOGISTICA ARTICOLAZIONE CONDUZIONE
+MEZZO OPZIONE CONDUZIONE APPARATI IMPIANTI
+MARITTIMI
+ ITCN
+–
+TRASPORTI
+LOGISTICA
+ARTICOLAZIONE
+CONDUZIONE MEZZO OPZIONE CONDUZIONE MEZZO
+NAVALE
+ ITCR
+–
+TRASPORTI
+LOGISTICA
+ARTICOLAZIONE
+CONDUZIONE MEZZO OPZIONE CONDUZIONE MEZZO AEREO
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M582 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCI – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE APPARATI IMPIANTI MARITTIMI
+Tema di: MECCANICA E MACCHINE
+
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+Una nave portacontainers di 25000 GT con una velocità di 16 nodi, porta l’apparato motore a poppa.
+La potenza effettiva istallata a bordo è di 12 MW, fornita da un motore Diesel lento 8 cilindri in linea,
+con un numero di giri di 110 giri/min e una pressione media effettiva di 16,2 bar sovralimentato.
+Il candidato, dopo aver riportato lo schizzo di massima dell’apparato motore e del ciclo teorico di
+riferimento, assumendo con opportuno criterio tutti gli altri dati mancanti, calcoli:
+
+
+le caratteristiche geometriche del cilindro;
+
+
+
+la velocità media;
+
+
+
+il rendimento globale sapendo che il consumo specifico è di 0,180 kg/kWh;
+
+
+
+il consumo orario;
+
+
+
+il consumo complessivo per una navigazione di 4000 miglia.
+
+SECONDA PARTE
+In riferimento ad uno dei quesiti svolti, il candidato faccia riferimento anche ad eventuali esperienze
+lavorative dirette o mediante stage o percorsi di alternanza scuola lavoro, evidenziando le competenze
+acquisite.
+1.
+
+Il candidato descriva le parti essenziali che costituiscono un impianto frigorifero, aiutandosi
+eventualmente con uno schizzo di massima.
+
+2.
+
+Il candidato descriva i principali dispositivi di protezione individuali (DPI) da utilizzare nelle
+operazioni di manutenzione in sala macchine.
+
+3.
+
+Il candidato descriva una delle diverse tipologie meccaniche per il governo del timone.
+
+4.
+
+Il candidato descriva una delle diverse tipologie per la produzione di acqua distillata, a bordo
+delle navi.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall'inizio della prova.
+
+Pag. 3/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M576 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+Pianificazione e controllo della traversata tra Hamburg (Germany) e Felixstowe (UK) e gestione dei
+pesi a bordo.
+Loading plan
+In seguito alla caricazione ad Hamburg la nave, avente LPP = 312 m, galleggia sbandata di 1,5° sulla
+dritta, con le seguenti immersioni estreme:
+TA = 12,84 m
+TF = 13,04 m
+Si deve scaricare zavorra da una cassa prodiera di dritta e successivamente si intende procedere con
+il bunkeraggio, caricando su due casse simmetriche poppiere, come meglio specificato nel seguente
+schema:
+TANK
+
+LONGITUDINAL
+POSITION
+
+TRANSVERSAL
+POSITION
+
+VERTICAL
+POSITION
+
+Ballast
+
+186 m
+from the AP
+
+22 m
+from the centre
+line (on STB)
+
+2,0 m
+on the
+baseline
+
+Fuel
+
+52 m
+from the AP
+
+16 m
+from the centre
+line (on STB)
+
+5,0 m
+on the
+baseline
+
+750 t
+
+100 t
+
+Fuel
+
+52 m
+from the AP
+
+16 m
+from the centre
+line (on PORT)
+
+5,0 m
+on the
+baseline
+
+750 t
+
+empty
+
+CAPACITY
+300 t
+
+CURRENT
+STATUS
+300 t
+(to be partly
+discharged)
+
+Sono noti dalle curve idrostatiche  = 96371 t, LCF = 147,54 m from AP, TPC = 106,50 t,
+MCTC = 1235,14 t·m, KM = 14,50 m, KG = 13,66 m (con AP perpendicolare addietro, LCF ascissa
+del centro della figura di galleggiamento, TPC dislocamento unitario, MCTC momento unitario
+d’assetto, KM quota del metacentro trasversale sulla baseline, KG quota del baricentro sulla
+baseline).
+
+Pag. 4/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M576 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+Determinare quanta zavorra scaricare per rendere la nave dritta trasversalmente, quindi calcolare
+quanto bunker caricare considerando 3 giorni di navigazione per la traversata che si deve
+intraprendere e prevedendo un ulteriore 10% di riserva (è noto il consumo giornaliero pari a 155 t).
+Determinare le nuove immersioni estreme della nave, la nuova altezza metacentrica e l’immersione
+media prevista all’uscita dal fiume Elbe, tralasciando i consumi, essendo Hamburg un porto fluviale
+avente acqua completamente dolce.
+Passage planning – appraisal/planning
+Si pianifica la traversata sull’ECDIS tracciando le rotte in ottemperanza ai TSS previsti fino alla
+posizione WP2 ( = 52° 03,0’ N, λ = 002° 42,0’ E) da cui si dirigerà sulla N Shipwash Buoy al largo
+di Felixstowe, posta in WP3 ( = 52° 01,7’ N, λ = 001° 38,3’ E) punto di reporting VTS, con funzione
+anche di racon (M), che si utilizzerà come riferimento per l’avvicinamento.
+Ad Hamburg viene assegnato un ETD che prevede di sfruttare una tidal window tale da poter lasciare
+la banchina in sicurezza (in particolare viene indicato che con un’immersione massima di 13,8 m
+occorre partire entro le tf = 20:15 del 18/06/2015); verificare che l’UKC che si ha alla partenza sia
+sufficiente anche per i vincoli di Compagnia (che richiede 2,0 m) considerando la propria immersione
+effettiva. Sono noti i dati di marea del giorno di partenza, la profondità in banchina e la pressione
+atmosferica.
+HW
+
+18:00 18/06
+
+h = 4,2 m
+
+LW
+
+01:10 19/06
+
+h = 0,2 m
+
+Depth = 12,50 m
+PATM = 1021 hPa
+Dopo il disormeggio e la navigazione sul fiume Elbe si prevede di raggiungere la Pilot Station in
+7 h; da lì in poi si manterrà una velocità di 14,0 kts.
+Determinare analiticamente cammino e rotta per il leg finale che conduce alla N Shipwash Buoy di
+Felixstowe e l’ETA locale in tale punto, prevedendo di giungere al WP2 alle UTC = 19:40 del
+19/06/2015. Dalla boa si valuta di raggiungere poi la pilot boarding position in 30 minuti.
+Predisporre inoltre i dati da comunicare quando si raggiungerà il VTS reporting point, ricordando di
+annotare gli istanti in cui comunicare ai piloti l’ETA alla pilot boarding position, sapendo che viene
+richiesto 8 ore in anticipo e successivamente confermato 3 ore e 1 ora prima dell’arrivo.
+
+Pag. 5/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M576 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+
+Passage planning – execution/monitoring
+All’alba del 19/06, poco dopo aver sbarcato il pilota, in navigazione con RV = 250° e V = 14 kts,
+quando al GPS si legge ( = 54° 02,8’ N, λ = 007° 43,4’ E) si rileva con la gyro il sorgere del lembo
+superiore del Sole, ottenendo ag = 045,5° al Tc = 02h55m00s.
+Verificare il buon funzionamento della gyro sapendo che lo stato assoluto del cronometro è
+K = +01m23s.
+Più tardi, alle UTC = 12:32 del 19/06, navigando nella nebbia che nel frattempo si è alzata, all’interno
+del TSS con prora PV = 220° e V = 14 kts, in assenza di vento e corrente rilevanti, si hanno al radar i
+seguenti bersagli:
+Target
+A
+B
+C
+
+UT
+
+R
+Bearing
+
+Range
+[NM]
+
+12:32
+12:38
+12:32
+12:38
+12:32
+12:38
+
+000°
+000°
++036°
++036°
+-175°
+-175°
+
+8,5
+7,5
+8,0
+6,0
+7,5
+7,5
+
+Valutare la situazione cinematica e agire nel modo più opportuno specificando i valori che descrivono
+il moto relativo dei bersagli anche in seguito ad eventuali manovre, sapendo che le consegne del
+Comandante prevedono un CPA minimo di 1,5 mg.
+
+Pag. 6/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M576 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+
+SECONDA PARTE
+1.
+
+Relativamente alla fase di pianificazione della traversata si è detto che la stessa è stata eseguita
+sull’ECDIS: ipotizzando che la nave in questione fosse “full ECDIS”, dopo aver chiarito la
+normativa attuale in termini di uso esclusivo della cartografia elettronica, spiegare in cosa
+consiste in tal caso la fase di appraisal, con particolare riferimento alla procedura di
+aggiornamento del database ENC (anche in base alle eventuali esperienze lavorative del
+candidato).
+
+2.
+
+Si è detto che si utilizzerà la funzione racon della N Shipwash Buoy al largo di Felixstowe come
+guida per l’avvicinamento; spiegare in cosa consiste tale sistema specificando in quali
+pubblicazioni nautiche se ne possono trovare le caratteristiche (anche in base alle eventuali
+esperienze lavorative del candidato).
+
+3.
+
+Relativamente alla fase di esecuzione della navigazione si è dovuta affrontare una certa
+situazione cinematica in ambito TSS: dopo aver chiarito cosa si intende con questa sigla, esporre
+brevemente le indicazioni contenute nella Convenzione COLREG a tal riguardo (anche in base
+alle eventuali esperienze lavorative del candidato).
+
+4.
+
+Si è detto che è stata incontrata nebbia durante la navigazione: esporre brevemente quali tipologie
+di nebbia è facile incontrare in mare e com’è possibile effettuare una grezza previsione della
+possibilità che essa si formi.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrice scientifica non programmabile, tavole numeriche, manuali tecnici, formulari, pubblicazioni
+nautiche.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall'inizio della prova.
+
+Pag. 7/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M574 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+Un ATR 42 MP della Guardia Costiera si trova in missione di vigilanza ambientale marittima sul Mar
+Tirreno al FL65 con CAS = 240 kt e SAT = ISA – 7°C.
+Alle UT 11:30 il pilota, determinata la posizione dell’aereo in: lat. 37° 55’.3 N, long. 010° 37’.8 E,
+con MC = 015° (VAR = 2° 30’ Est) dirige per il VOR di Ostia in presenza di un vento (grecale) di
+intensità 20 kt.
+Il pilota viene a conoscenza del seguente avviso TAD (Thunderstorm Area Detection) emesso
+dall’Unità di Previsione Meteo ENAV di Roma Fiumicino:
+LIRF MET RADAR 02 VALID 271200/271400 MOD/HVY FRQ ECHOES AREA RAD 028NM
+TSRA 41DEG 50MIN N 12DEG 13MIN E TOP 8000M MOV S 06KT INTST
+Il candidato determini il probabile punto e l’ora in cui le condizioni meteorologiche riportate dal
+suddetto avviso interesseranno la rotta dell’ATR 42 e se, in tale momento, l’aereo verrà investito dalla
+perturbazione.
+SECONDA PARTE
+Quesito 1
+Un aeromobile dirige per ortodromia da un waypoint A di coordinate (lat. 70° S; long. 068° W) e una
+base posta nel punto B (lat. 78° S; long. 170° E).
+Il candidato calcoli la distanza tra i due punti, le coordinate del vertice e la rotta da inserire al
+girodirezionale (supposto compensato per la rotazione terrestre) rispetto a un reticolo formato da rette
+parallele al meridiano di Greenwich.
+Risolva, ancora, il quesito in modo grafico costruendo una carta stereografica polare relativa a una sfera
+rappresentativa terrestre di raggio uguale a 150 mm e sovrapponendo a essa il reticolo.
+Calcoli, infine, la scala della carta alla latitudine di 80° S nell’ipotesi di Terra sferica di raggio uguale
+a 6371 km.
+
+Pag. 8/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M574 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+Quesito 2
+Alle 09.00 UT, un aeromobile decolla da un aeroporto, di elevazione di 800 ft, effettuando la salita con
+una VS di 800 ft/min e una GS di 160 kt fino al FL150 (SAT = ISA +16°C; QNH = 28.92 inches).
+Arrivato al TOC, il pilota intende intercettare un secondo aeromobile in volo con TC = 0° e GS = 180
+kt, posto sul rilevamento 100° a una distanza di 80 MN, assumendo una TAS pari a 260 kt.
+Il candidato calcoli la TH dell’aereo intercettatore e l’ETI nell’ipotesi che sulla intera area soffi un
+vento 315°/20 kt.
+Quesito 3
+Un aereo da turismo ha due compartimenti di stiva, anteriore e posteriore, situati rispettivamente ad
+una distanza di 28 e 175 inches rispetto al sistema di riferimento (datum).
+Dal manuale di volo, sono noti il peso a vuoto d’impiego dell’aereo, pari a 9175 libbre, e l’intervallo
+di escursione del baricentro compreso tra il limite anteriore posto a 85 inches e quello posteriore a 97
+inches.
+L’equipaggio di volo ha un peso complessivo di 170 kg e vengono imbarcate 645 libbre di carburante
+necessarie per il volo e 443.7 kg di passeggeri e bagagli, distribuiti questi ultimi nei suddetti
+compartimenti.
+In funzione della distribuzione del carico in stiva e dal calcolo del peso totale risulta che il baricentro
+dell’aereo dista 83 inches dal datum.
+Il candidato determini il peso a vuoto d’esercizio e il peso in libbre del bagaglio che deve essere
+spostato dal compartimento anteriore a quello posteriore per effettuare un carico e centraggio con
+baricentro entro il limite anteriore.
+Quesito 4
+La stazione meteo di Roma Fiumicino (LIRF) emette il seguente messaggio:
+METAR LIRF 271650Z 34004KT CAVOK 07/M01 Q1012 NOSIG RMK VIS MIN 9999=
+Il candidato illustri il significato del termine METAR e provveda alla decodifica del messaggio.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall'inizio della prova.
+
+

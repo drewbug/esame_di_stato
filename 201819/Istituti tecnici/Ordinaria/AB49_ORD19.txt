@@ -1,0 +1,110 @@
+Pag. 1/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: TELECOMUNICAZIONI e SISTEMI E RETI
+
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti tra quelli proposti.
+PRIMA PARTE
+Una piattaforma petrolifera offshore è collocata ad una distanza di circa 10 Km dalla costa in una zona del
+mare del Nord ed impiega personale correlato alle varie attività che vi vengono svolte. Le piattaforme sono
+delle vere e proprie città galleggianti nate per estrarre il petrolio in giro per il mondo. Le maestranze
+prevedono ingegneri o periti, ma sono richiesti anche impiegati, operai, manutentori, sommozzatori,
+geologi, elettricisti, disegnatori, meccanici, idraulici, saldatori, cuochi, camerieri, addetti alle pulizie e alla
+sicurezza e personale sanitario.
+
+Sulla terraferma si trova una struttura prefabbricata di supporto con compiti di comunicazione e logistica
+che dispone di un collegamento ad Internet a larga banda, tramite rete cablata.
+Sulla piattaforma è presente una zona organizzata in locali in cui è presente una rete LAN suddivisa in una
+parte cablata, relativa ai servizi aziendali con postazioni fisse negli uffici, e in una parte wireless, impiegata
+per le connessioni personali delle maestranze.
+Il collegamento con la terraferma è costituito da una tratta radio-link punto-punto, con antenne in LOS tra
+la piattaforma e la sede relativa sulla costa.
+
+Pag. 2/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: TELECOMUNICAZIONI e SISTEMI E RETI
+
+In particolare sulla piattaforma vi sono:
+ 2 Uffici della compagnia petrolifera, che comunicano in rete con il corrispondente operatore
+nell’ufficio della propria sede sulla costa;
+ 1 Ufficio approvvigionamenti della mensa, che comunica con un secondo operatore sulla costa;
+ 1 Ufficio delegato alla manutenzione meccanica, che comunica con un terzo operatore sulla costa;
+ 1 Ufficio che si occupa delle necessità di acquisti per l’ambulatorio e le medicine per il personale,
+anch’esso connesso con l’omologo operatore nel prefabbricato sulla costa.
+In ogni ufficio di bordo vi sono due postazioni ed una stampante; sulla costa, nella palazzina prefabbricata,
+vi è un unico locale che ospita un operatore per ogni postazione di lavoro, connessa con l’omologo ufficio
+di bordo.
+Ogni ufficio di bordo può comunicare solo con l’operatore di riferimento sulla costa.
+L’operatore di terra della compagnia deve poter comunicare con la rete remota, facente capo ad un ufficio
+presente nella sede centrale dell’azienda petrolifera, impiegando un adeguato livello di sicurezza.
+Sulla piattaforma al primo piano, nella sala mensa e sala ritrovo, al secondo piano, nella palestra, ed al terzo
+piano, nelle camere, deve essere disponibile una copertura wireless che permetta di collegarsi
+esclusivamente ad Internet, per le connessioni di notebook, tablet e smartphone del personale di bordo.
+Gli apparecchi del ponte radio, operanti sulla banda dei 13 GHz, sono caratterizzati da trasmettitori che
+erogano 28 dBm in uscita connessi ad antenne paraboliche di efficienza valutata del 65%, mentre il
+ricevitore presenta una sensibilità di -91 dBm.
+Oltre ai servizi di estrazione devono essere considerati i parametri ambientali ed a questo scopo il
+monitoraggio degli idrocarburi in acqua è di crescente importanza nei pressi di piattaforme petrolifere,
+interessate da sversamenti accidentali. Una rete di sensori fluorimetrici a raggi ultravioletti provvede alla
+misura degli idrocarburi presenti in acqua ed essi sono gestiti da una centralina dedicata, che acquisisce i
+dati e li rende disponibili in rete.
+
+Pag. 3/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: TELECOMUNICAZIONI e SISTEMI E RETI
+
+Il candidato, formulate le ipotesi aggiuntive ritenute necessarie:
+A) progetti la rete di bordo e quella di terra, individuando i dispositivi e introducendo eventuali server di
+rete e produca un idoneo piano di indirizzamento;
+B) progetti il link di collegamento radio con la terraferma, caratterizzando le necessarie antenne in termini
+di diametro e posizione, il relativo cavo di collegamento e fornendo il relativo link-budget al fine di
+ottenere idonee caratteristiche di affidabilità;
+C) indichi in che modo possano essere consultati a distanza i dati della centralina di controllo ambientale;
+D) progetti la connessione tra l'operatore di terra e la sede remota della compagnia.
+SECONDA PARTE
+Il candidato scelga due dei quesiti e formuli una risposta della lunghezza massima di 20 righe esclusi
+eventuali grafici, schemi e tabelle.
+1.
+
+Confrontare tra loro le diverse tipologie di fibre ottiche, indicandone i parametri fondamentali.
+
+2.
+
+Descrivere il protocollo Stop and Wait.
+
+3.
+
+Descrivere la funzione e le caratteristiche del protocollo RIP.
+
+4.
+
+Descrivere l’impiego di un Firewall in relazione alla creazione delle zone designate come MZ e DMZ.
+
+____________________________
+Durata massima della prova: 7 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dall’inizio della prova.
+
+

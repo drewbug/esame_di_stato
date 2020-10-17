@@ -1,0 +1,149 @@
+Pag. 1/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M574 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Il volo Aer Lingus 134, alle UTC=20:25, decolla da Boston/Logan (4222N07100W) diretto a
+Shannon/Shannon (5242N00855W; FE=46ft). Il piano di volo prevede di seguire il percorso più breve
+mantenendo FL260 e una GS media di 450kts. Durante il volo al pilota vengono trasmessi dei
+SIGMET SST che segnalano ampie zone temporalesche lungo la rotta prevista. Il controllo oceanico
+autorizza il pilota a navigare per parallelo per raggiungere il punto di uscita della ETOPS MALOT
+(5300N01500W) per evitare le zone perturbate più a nord.
+Il candidato calcoli l’orario UTC di raggiungimento di MALOT e rappresenti su una carta
+stereografica polare, con raggio della sfera rappresentativa di 200 mm, il percorso previsto e quello
+effettivo.
+Uscito dalla zona NAT il volo prosegue per la destinazione sulla STAR che conduce all’IAF della
+procedura “ILS or LLZ per RWY 06”. Il punto di inizio procedura è il VOR/DME SHA
+(5243N00853W) sorvolato il quale bisogna seguire, per aa/mm di categoria C/D, una reversal a
+“goccia” con outbound su 252° e inbound su 058°. La virata base è prevista a D14 SHA mentre l’IF
+è posto a circa D16 SHA.
+Il candidato rappresenti la vista in pianta della procedura, con scala opportuna a scelta, sapendo che
+la VAR=2°E, valuti inoltre il Descent Rate che dovrebbe mantenere nei tratti della procedura di
+avvicinamento sapendo che la TAS media è di 180kts e che sull’IAF la quota raggiunta è FL160.
+Utilizzare i dati utili per lo svolgimento estraendoli dal seguente METAR:
+
+
+EINN 221650Z 080015KT 9999 FEW040 12/04 Q0998
+
+SECONDA PARTE
+1.
+
+Alle ore 18:50 UTC sullo schermo radar del settore NE, presso il Centro Regionale di Assistenza
+al Volo di Roma, è presente la situazione di traffico IFR costituita dai voli AZA 2489
+(TAS=405kts, QUJ=090°, D=28 NM) e RYR 1267 (TAS=360kts, QUJ=180°, D=23,5 NM)
+entrambi a FL280 e in avvicinamento al VOR/DME di Firenze (FRZ).
+Tenendo conto che il vento in zona è W/V=090°/60kts il candidato risolva i seguenti punti:
+
+
+Calcolare il valore della separazione minima che si determina nell’ipotesi che i due aa/mm
+proseguano mantenendo inalterato il proprio moto.
+
+Pag. 2/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M574 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+2.
+
+
+
+Supponendo che il controllore di volo decida di apportare un’azione correttiva al volo AZA
+2489, determinare quale prua dovrà assegnare affinché i due voli acquisiscano una
+separazione minima di 7 NM e l’orario in cui si verificherà tale condizione.
+
+
+
+Riportare, in almeno quattro battute, la comunicazioni tra controllore e pilota del volo AZA
+2489 soggetto al vettoramento nel rispetto della fraseologia standard prevista nel controllo
+radar e in funzione della propria esperienza maturata nei centri di controllo per le attività di
+alternanza scuola-lavoro.
+
+Un a/m è inserito in Holding Stack di una sequenza di avvicinamento strumentale dell’aeroporto
+di Pescara (FE=48ft) sul quale è prevista Transition Altitude a 5000ft. Il candidato calcoli la
+quota che verrà assegnata nello Stack, sapendo che l’a/m è preceduto da altri tre velivoli;
+utilizzare allo scopo il seguente bollettino:
+LIBP 210850Z 24012KT 210V270 1500 R22/0800 BKN025 05/04 Q0998
+La Holding è non standard con MHA a 4000ft, il suo tratto inbound è orientato 125°, l’Holding
+Fix è il PES VOR/DME situato a destra della soglia 22.
+Considerato che la parte finale della STAR assegnata sull’Holding Fix è orientata 077° il
+candidato rappresenti graficamente con scala a scelta:
+
+3.
+
+
+
+I tre settori d’entrata in Holding e la procedura che dovrà seguire per inserirsi in essa;
+
+
+
+La possibile traiettoria di avvicinamento della procedura ILS-Z per RWY 22 (QFU=216°)
+sapendo che trattasi di una “Base Turn” con outbound su 065° e con l’IF posto a 8 NM da
+PES;
+
+
+
+Sul grafico della procedura identificare le possibili posizioni dei punti distintivi i segmenti
+di una procedura di avvicinamento strumentale;
+
+
+
+Il Display dell’ILS nel caso in cui si trovi a destra del LOC e più basso del GP.
+
+Dalle pagine AIP Italia si legge la seguente descrizione per la procedura strumentale di partenza
+per RWY 05 dell’a/p di Olbia/Costa Smeralda (LIEO):
+PROCEDURA DI SALITA INIZIALE
+Dopo il decollo seguire RDL 054 SME VOR fino a lasciare 3600 ft non più tardi di 10NM SME
+DME (o 9.5NM ISM DME), quindi seguire la SID assegnata.
+SUKUN 5A
+Virare a sinistra fino ad intercettare e seguire RDL 011 SME VOR (TR 191°) fino a 5NM SME
+DME, quindi virare a sinistra fino ad intercettare e seguire RDL 113 SME VOR per il punto
+SUKUN.
+
+Pag. 3/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M574 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+Il Candidato rappresenti su una Carta di Mercatore, in scala 1:500.000 sul parallelo 41°00’N, la
+vista in pianta dell’intera procedura essendo note le seguenti informazioni: SME
+VOR/DME(4053N00930E), SUKUN (4045N00954E) e la VAR=2°E.
+4.
+
+Un a/m percorre la Rotta ATS UN157 tra i punti DEDOM (4207N01026E) e QUENN
+(4010N01033E). A GMT=12:45 l’a/m si trova rispetto al VOR/DME SME (4053N00930E) su
+QTE=052° ad una distanza di 46NM mentre a GMT=12:55, sempre dalla stessa radioassistenza,
+si trova su QTE=107° ad una distanza di 40NM. Con l’ausilio di un grafico, il candidato verifichi
+se al traverso di SME il pilota si trova entro i limiti laterali previsti dalla rotta ATS seguita.
+Calcoli, inoltre, le coordinate del punto, sul tratto della UN157 in questione, per il quale
+raggiungere QUENN o virare verso SME comporterebbe lo stesso tempo di volo in presenza di
+un W/V=090°/30kts.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

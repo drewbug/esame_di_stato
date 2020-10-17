@@ -1,0 +1,84 @@
+Pag. 1/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M551 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: IMPIANTI ENERGETICI, DISEGNO E PROGETTAZIONE
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Il candidato dimensioni la centrale di trattamento aria di un impianto di condizionamento a tutta aria
+di tipo convenzionale in regime estivo ed invernale, in una città del nord Italia.
+L’edificio da condizionare, adibito ad uffici bancari, è costituito da un piano terreno di una palazzina,
+le cui facciate sono costantemente interessate da ombre riportate.
+L’affollamento previsto è di 20 impiegati e 30 clienti.
+Il carico termico sensibile per differenza di temperatura sia di 15.000 W in estate e di 42.000 W in
+inverno.
+Gli apporti di calore sensibile all’ambiente per illuminazione e macchine siano di 7.000 W.
+Il candidato determini, in maniera analitica e grafica:
+
+
+
+
+
+
+le condizioni termoigrometriche dell’aria di immissione;
+la portata di aria di immissione;
+la portata dell’aria esterna e di ricircolo;
+la potenzialità delle batterie di riscaldamento e raffreddamento;
+la portata dell’acqua di umidificazione.
+
+Utilizzando il diagramma psicrometrico allegato, si traccino le linee di trasformazione dell’aria
+nell’unità di trattamento.
+Il candidato assuma liberamente ogni altro dato necessario alla soluzione, giustificando tali scelte.
+
+Pag. 2/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+Pag. 3/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M551 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: IMPIANTI ENERGETICI, DISEGNO E PROGETTAZIONE
+
+SECONDA PARTE
+1.
+
+In relazione al dimensionamento precedentemente svolto, si disegni lo schema dell’unità di
+trattamento aria, con la relativa regolazione rispetto al carico, giustificando la scelta.
+
+2.
+
+Impianti frigoriferi ad assorbimento per la climatizzazione e la refrigerazione. Si descrivano
+principi di funzionamento, le differenze, alcune applicazioni per il risparmio energetico.
+
+3.
+
+Si indichino gli scopi della climatizzazione estiva ed invernale e i criteri di determinazione delle
+condizioni del punto di immissione in un impianto a tutta aria, sia nel caso estivo che invernale.
+
+4.
+
+Regolazione degli impianti di climatizzazione. Si individui il tipo di regolazione da utilizzare,
+tra quelle conosciute, giustificandone la scelta.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

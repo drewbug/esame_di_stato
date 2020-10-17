@@ -1,0 +1,190 @@
+Pag. 1/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+X02Z – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LIB2 – SCIENTIFICO OPZIONE INTERNAZIONALE TEDESCA
+EA10 - ESABAC - SCIENTIFICO INTERNAZIONALE FRANCESE
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti del questionario.
+PROBLEMA 1
+Consideriamo la funzione f k :    così definita:
+con
+
+f k ( x)   x3  kx  9
+
+k Z .
+
+1. Detto k il grafico della funzione, verifica che per qualsiasi valore del parametro k la retta rk ,
+tangente a k nel punto di ascissa 0 e la retta sk , tangente a k nel punto di ascissa 1, si incontrano
+in un punto M di ascissa
+
+2
+.
+3
+
+2. Dopo aver verificato che k  1 è il massimo intero positivo per cui l’ordinata del punto M è minore
+di 10, studia l’andamento della funzione f1( x) , determinandone i punti stazionari e di flesso e
+tracciandone il grafico.
+3. Detto T il triangolo delimitato dalle rette r1 , s1 e dall’asse delle ascisse, determina la probabilità
+che, preso a caso un punto P ( x p , y p ) all’interno di 𝑇, questo si trovi al di sopra di 1 (cioè che si
+abbia y p  f1( x) per tale punto P).
+4. Nella figura è evidenziato un punto N  1 e un tratto del grafico
+(vale a dire la perpendicolare alla retta tangente a
+
+1 . La retta normale a 1 in N
+
+1 in quel punto) passa per l’origine degli assi
+
+O. Il grafico 1 possiede tre punti con questa proprietà. Dimostra, più in generale, che il grafico
+di un qualsiasi polinomio di grado n  0 non può possedere più di 2n 1 punti nei quali la retta
+normale al grafico passa per l’origine.
+
+Pag. 2/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PROBLEMA 2
+Siano f :   Z e g :    rispettivamente le funzioni parte intera e parte frazionaria (o
+mantissa) di un numero x   . Tali funzioni sono così definite:
+
+f ( x)  max m  Z | m  x e
+
+g ( x)  x  f ( x)
+
+Pertanto, ad esempio, f ( )  3, g (4,79)  0,79 .
+1. A partire dalle definizioni delle funzioni f e g, mostra che per ogni x   si ha 0  g ( x)  1 .
+Disegna i grafici delle funzioni f e g determinando esplicitamente i loro punti di discontinuità e,
+eventualmente, i relativi salti.
+2. Dopo aver verificato che la funzione g è periodica di periodo 1, calcola la media di g nell’intervallo
+1
+
+[0, n] qualsiasi sia n  N , n  0 . Calcola inoltre la media di g nell’intervallo 0, n   , e determina
+2
+
+il limite a cui tale media tende per n   .
+
+
+
+radianti intorno all’asse x della regione
+6
+1 3
+di piano delimitata dai grafici di f e g nell’intervallo  ,  .
+2 2
+
+3. Calcola il volume del solido ottenuto dalla rotazione di
+
+4. Stabilisci per quali valori dei parametri reali a, b, c, d la funzione h :    definita dalla legge:
+h( x)  a  b  sen(cx  d )
+
+verifica le seguenti condizioni:
+min g = min h,
+
+sup g = max h,
+
+2h' '2h 1  0
+
+Quante sono le funzioni siffatte?
+1
+
+min g = minimo della funzione g,
+
+sup g = estremo superiore della funzione g,
+
+max h = massimo della funzione h
+
+QUESTIONARIO
+1. Dimostrare che il volume di un cilindro inscritto in un cono è minore della metà del volume del
+cono.
+2. Si dispone di due dadi uguali non bilanciati a forma di tetraedro regolare con le facce numerate da
+1 a 4. Lanciando ciascuno dei due dadi, la probabilità che esca 1 è il doppio della probabilità che
+esca 2, che a sua volta è il doppio della probabilità che esca 3, che a sua volta è il doppio della
+probabilità che esca 4. Se si lanciano i due dadi contemporaneamente, qual è la probabilità che
+escano due numeri uguali tra loro?
+
+Pag. 3/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+3. Determinare i valori di k tali che la retta di equazione y   4 x  k sia tangente alla curva di
+equazione y  x3  4 x 2  5 .
+4. Considerata
+
+lim
+
+x  
+
+la
+
+f ( x) , lim
+
+funzione
+
+x  
+
+f ( x) 
+
+3x  e sen x
+5  e x  cos x
+
+,
+
+determinare,
+
+se
+
+esistono,
+
+i
+
+valori
+
+di
+
+f ( x) , giustificando adeguatamente le risposte fornite.
+
+5. Con una staccionata lunga 2 metri si vuole recintare una superficie avente la forma di un rettangolo
+sormontato da una semicirconferenza, come nel disegno:
+
+Determinare le dimensioni dei lati del rettangolo che consentono di recintare la superficie di area
+massima.
+6. Determinare a in modo che
+a 1
+
+a
+
+(3x 2  3) dx
+
+sia uguale a 10.
+7. Trovare l’area R della regione di spazio racchiusa dalla curva
+y
+
+1
+x
+
+,
+
+per 4  x  9
+
+Sapendo inoltre che la retta di equazione x  k divide R in due figure di egual area, determinare
+il valore di k.
+8.
+
+Verificare che, qualunque siano le costanti reali  e k , la funzione y  ke x senx    è soluzione
+dell’equazione differenziale y' '2 y'2 y  0 . Trovare  e k tali che questa funzione abbia un
+punto di massimo di coordinate (0,1) .
+
+__________________________
+Durata massima della prova: 5 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 350 Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

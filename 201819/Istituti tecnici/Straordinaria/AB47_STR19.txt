@@ -1,0 +1,83 @@
+Pag. 1/2
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITSI - AMMINISTRAZIONE FINANZA E MARKETING
+ARTICOLAZIONE SISTEMI INFORMATIVI AZIENDALI
+Tema di: ECONOMIA AZIENDALE e INFORMATICA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Situazione operativa
+Alfa spa, impresa industriale, realizza da anni prodotti “pet food” per animali domestici.
+La concorrenza delle grandi multinazionali del settore costringe l’impresa a innovare continuamente i prodotti per
+soddisfare le esigenze del mercato in crescita per effetto dell’attenzione che i padroni rivolgono al benessere dei loro
+animali.
+In particolare, durante l’esercizio 2018, il management di Alfa spa ha iniziato la collaborazione con una équipe di
+veterinari per lo studio di prodotti rispondenti a specifiche soluzioni nutrizionali per gli animali.
+I veterinari contattati hanno sedi di lavoro sparse su tutto il territorio nazionale e ciascuno è specializzato nella cura
+di animali di diversa tipologia (cani, gatti, uccelli, …). Essi partecipano a diversi progetti di ricerca sullo studio di
+altrettanti nuovi prodotti alimentari da inserire nella produzione dell’impresa.
+I risultati di tali attività si sono concretizzati nel progetto per la realizzazione di prodotti “grain free” e “gluten free”
+per un target che predilige, per i propri animali, cibi privi di cereali e glutine.
+L’attuazione di tale progetto richiede l’ampliamento e la diversificazione della produzione per cui si rendono necessari
+investimenti pari a 950.000,00 euro finanziati per il 40% con risorse interne e per la parte restante con finanziamento
+ottenuto dalla locale banca che ritiene fattibile il business plan presentato dall’impresa.
+
+Il candidato, dopo aver analizzato la situazione operativa, tragga da questo gli elementi necessari per:
+1. redigere lo Stato patrimoniale, rielaborato secondo il criterio finanziario, e il Conto economico,
+riclassificato nella configurazione a “valore aggiunto”, per il periodo di due anni, contenuti nel progetto
+imprenditoriale presentato alla banca;
+2. descrivere la porzione del sistema informativo di Alfa spa che gestisce i progetti di ricerca dei nuovi
+prodotti e dei veterinari che vi lavorano, sviluppando in particolare:
+a) uno schema concettuale della relativa base di dati, considerando quanto segue:
+- un progetto può riguardare più prodotti nuovi;
+- i veterinari che partecipano ai progetti vengono retribuiti in base al numero di ore svolte;
+- ogni nuovo prodotto è caratterizzato da una categoria di appartenenza (mangime, croccantini,
+umido, …), dall’essere “grain free” o “gluten free” e dall’animale a cui è destinato;
+b) il corrispondente schema logico relazionale;
+c) le query in linguaggio SQL che consentono di:
+- per ogni progetto il numero totale di ore svolte complessivamente dai veterinari impegnati nel
+progetto;
+- l’elenco dei progetti che riguardano prodotti “gluten free” per cani.
+
+Pag. 2/2
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITSI - AMMINISTRAZIONE FINANZA E MARKETING
+ARTICOLAZIONE SISTEMI INFORMATIVI AZIENDALI
+Tema di: ECONOMIA AZIENDALE e INFORMATICA
+
+SECONDA PARTE
+Il candidato scelga due dei seguenti quesiti e presenti le linee operative, le motivazioni delle soluzioni
+prospettate e i relativi documenti, secondo le richieste.
+1. L’interpretazione dell’andamento della gestione aziendale richiede, tra l’altro, l’analisi di bilancio per
+indici. Redigere il report contenente l’analisi economica elaborata sulla base dei dati tratti dai documenti
+presentati da Alfa spa alla banca utilizzando gli opportuni indicatori.
+2. Beta spa, impresa industriale monoprodotto, realizza la produzione sfruttando parzialmente la capacità
+produttiva e sostenendo costi fissi totali pari a 4.750.000,00 euro. Il candidato calcoli e commenti il punto
+di equilibrio. Analizzi, inoltre, gli effetti che hanno sul punto di equilibrio investimenti su impianti che
+consentirebbero di migliorare la qualità del prodotto con un conseguente aumento del prezzo di vendita
+del 6%.
+3. Il candidato illustri quali possono essere vantaggi e svantaggi in termini di costi e sicurezza per un’azienda
+di piccole dimensioni che intende usufruire di servizi cloud per il proprio business.
+4. Il candidato illustri le varie tipologie di commercio elettronico e ne approfondisca una, evidenziando i
+principali sistemi tecnologici necessari alla sua realizzazione, con riferimento ad un caso concreto.
+
+Dati mancanti opportunamente scelti.
+
+______________
+Durata massima della prova: 6 ore.
+Sono consentiti la consultazione del Codice Civile non commentato, di manuali tecnici dei linguaggi di programmazione e l’uso di
+calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dall’inizio della prova.
+
+

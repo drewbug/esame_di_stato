@@ -1,0 +1,254 @@
+Pag. 1/7
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un centro di fisioterapia è dotato di una vasca per la riabilitazione degli arti, finalizzata al recupero della
+capacità motoria, che si avvale anche della cromoterapia per un maggior comfort dei pazienti.
+L’acqua della vasca deve garantire specifiche caratteristiche sanitarie, tra cui temperatura compresa tra 26°C
+e 28°C, PH tra 6,8 e 7,4 e una percentuale di cloro libero minima pari a 0,8 mg/l e non superiore a 1,3 mg/l.
+Tali parametri vengono monitorati in tempo reale grazie a specifici sensori di seguito descritti e i valori rilevati
+vengono riportati su appositi display nella consolle dell’operatore addetto al controllo.
+I dispositivi preposti alla rilevazione dei valori sono:
+ otto termistori NTC disposti a coppie su ciascun lato della vasca, posizionati rispettivamente alla quota
+di 20 cm e 80 cm dal fondo vasca. Ogni sensore presenta la caratteristica IN/OUT in figura:
+
+ un PH-metro con uscita digitale a 4 bit con capacità di rilevazione di valori compresi tra 6 e 9 e con
+precisione pari a 0,2. Al valore PH = 6 corrisponde la combinazione 0000 e le combinazioni successive
+sono ordinate secondo il codice binario naturale;
+
+Pag. 2/7
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+ un rilevatore di cloro libero che presenta in uscita una corrente direttamente proporzionale alla
+concentrazione C secondo la relazione:
+IOUT (C ) = (20∙C – 10) ∙10-3 [A]
+Sul fondo della vasca lungo tutto il perimetro è, inoltre, collocata una strip a tenuta stagna di led multicolore
+(Red-Green-Blue-White) impiegata nella cromoterapia. La strip presenta quattro ingressi di tensione, uno per
+ciascuna linea di colore. L’illuminazione viene gestita in modalità combinata durante l’utilizzazione della
+vasca come di seguito descritto:
+ un interruttore, azionato dall’operatore, accende la sola linea White Led;
+ l’eventuale diffusione di brani musicali nell’ambiente determina lo spegnimento della linea White Led
+e l’avvio della sequenza cromatica secondo l’ordine Red Led – Green Led – Blue Led ad intervalli di
+1 minuto: l’intensità luminosa dei led colorati è regolata dalla musica diffusa nell’ambiente;
+ riportando nella posizione OFF l’interruttore si spengono tutte le serie di led.
+La realizzazione dell’effetto si ottiene mediante lo schema di seguito riportato:
+
+Pag. 3/7
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Le caratteristiche elettriche e le funzioni dei dispositivi presenti nello schema sono le seguenti:
+ la capsula microfonica fornisce in uscita una tensione Vmic(t) con valori compresi tra 10 mV e 70 mV
+in modo proporzionale al volume e alle frequenze dei suoni diffusi nell’ambiente. Tale tensione,
+opportunamente trattata e campionata ad intervalli di 5 secondi, viene inviata al demultiplexer;
+ il demultiplexer seleziona il singolo canale corrispondente alla serie colorata di led ad intervalli di
+1 minuto: l’operazione avviene solo se il livello audio rilevato dal microfono fornisce una tensione
+superiore a 20 mV, corrispondente all’effettiva diffusione di suoni musicali;
+ la luminosità delle linee di led colorati inserite nella strip dipende dalla tensione applicata come
+mostrato in tabella (la linea di White Led ha luminosità fissa).
+
+Colore
+RED
+GREEN
+BLUE
+WHITE
+
+Range di intensità
+luminosa (Lm/m)
+25 – 90
+40 – 120
+15 – 60
+60
+
+Range di differenza di
+potenziale applicato (V)
+1,8 – 3,4
+2,4
+
+Il candidato, fatte le ipotesi aggiuntive che ritiene opportune, deve:
+1. fornire uno schema del sistema di rilevazione e visualizzazione delle caratteristiche sanitarie dell’acqua
+utilizzando un microcontrollore o altro sistema programmabile di sua conoscenza;
+2. dimensionare le interfacce necessarie all’adattamento dei segnali provenienti dai sensori e descrivere
+una possibile modalità di visualizzazione dei dati acquisiti;
+3. sviluppare un algoritmo di gestione delle acquisizioni e della visualizzazione di tali valori che per la
+temperatura fornisca la differenza tra le medie delle temperature rilevate dai sensori posti alle due
+diverse quote;
+4. implementare i blocchi di controllo del demultiplexer e dell’Input White Led presenti nello schema e
+descrivere una possibile soluzione per la realizzazione delle temporizzazioni richieste.
+
+Pag. 4/7
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+SECONDA PARTE
+Quesito 1
+In riferimento alla prima parte della prova si consideri il problema del mantenimento della temperatura
+ambiente ad un valore medio di 27°C. Per attuare il controllo della temperatura che deve essere mantenuta
+costante con una variazione massima di ±1°C si utilizza il circuito del tipo in figura, pilotato da un sensore
+termico il cui segnale viene opportunamente condizionato. Gli attuatori che consentono il ripristino delle
+condizioni ideali sono azionati dalla tensione Vout. Si descriva, eventualmente con l’ausilio di grafici
+esplicativi, il comportamento del dispositivo nel suo insieme specificando in particolare la funzione svolta
+dalla tensione Vr.
+
+Quesito 2
+In relazione al tema esposto nella prima parte si proponga una alternativa software che effettui il pilotaggio
+dei quattro canali della strip RGBW mediante rispettivi segnali PWM, in modo da variare l’intensità luminosa
+di ciascuna linea di led: l’effetto che si vuole ottenere corrisponde ad una illuminazione della vasca che cambia
+colore attraverso le differenti sfumature dell’intero spettro del visibile. Per ottenere tale effetto si sfrutta il
+modello additivo RGB grazie al quale i diversi colori si ottengono come somma pesata dei tre colori primari
+(Red-Green-Blue).
+Il processo viene avviato tramite l’interruttore sulla consolle del tecnico che attiva contemporaneamente le
+quattro linee la cui luminosità è gestita come segue:
+
+Pag. 5/7
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+1. intensità luminosa della linea White regolata mediante il segnale PWM a Duty Cycle variabile in
+funzione del segnale proveniente dal microfono;
+2. intensità luminosa delle linee Red, Green e Blue regolata mediante la variazione graduale del Duty
+Cycle dei rispettivi segnali PWM.
+La variazione di Duty Cycle per i segnali PWM applicati alle tre linee Red, Green e Blue che realizzano il
+cambio cromatico tra un colore di riferimento e il successivo è riportata in figura.
+Colore di riferimento: ROSSO
+Componenti RED GREEN BLUE
+DUTY CYCLE 100%
+0%
+0%
+Colore di riferimento: MAGENTA
+Componenti
+RED
+GREEN BLUE
+DUTY CYCLE 100%
+0%
+100%
+
+Colore di riferimento: GIALLO
+Componenti
+RED GREEN BLUE
+DUTY CYCLE 100% 100%
+0%
+
+Colore di riferimento: VERDE
+Componenti
+RED
+GREEN BLUE
+DUTY CYCLE
+0%
+100%
+0%
+
+Colore di riferimento: BLU
+Componenti
+RED
+GREEN BLUE
+DUTY CYCLE
+0%
+0%
+100%
+
+Colore di riferimento: CIANO
+Componenti
+RED
+GREEN BLUE
+DUTY CYCLE
+0%
+100%
+100%
+
+Si consideri che la durata di un intero ciclo di variazione cromatica è di 180 secondi: l’effetto di illuminazione
+desiderato viene garantito se la variazione di intensità luminosa della singola componente (Red, Green e Blue)
+nel passaggio da un colore di riferimento al successivo avviene in non meno di 64 step. La medesima
+temporizzazione può essere utilizzata per la regolazione della luminosità della linea White.
+Il processo termina riportando nella posizione OFF l’interruttore con conseguente spegnimento della strip di
+led.
+
+Pag. 6/7
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Quesito 3
+Nello schema di figura siano:
+K=2
+𝐺(𝑠) =
+
+10
+10−3 𝑠)(1
+
+(1 + 5 ∙
+50
+𝐻(𝑠) =
+(1 + 5 ∙ 10−2 𝑠)
+
++ 5 ∙ 10−4 𝑠)
+
+Verificare la stabilità del sistema utilizzando il Criterio di Bode. Nel caso si presenti instabilità progettare una
+rete correttrice per rendere stabile il sistema.
+
+Quesito 4
+Progettare un circuito che avendo in ingresso il segnale di Figura A fornisca in uscita il segnale di Figura
+B.
+
+Figura A
+
+Pag. 7/7
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+Figura B
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla lettura del tema.
+
+

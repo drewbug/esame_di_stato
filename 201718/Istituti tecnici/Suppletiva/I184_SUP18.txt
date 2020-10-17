@@ -1,0 +1,70 @@
+Pag. 1/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Una corrente gassosa, che residua da una precedente lavorazione, contiene dei vapori di un solvente
+volatile. Prima di inviarla allo scarico in torcia si rende necessario separare i vapori trascinati. La
+corrente viene prima condizionata opportunamente in temperatura e pressione e poi inviata a una
+colonna d’assorbimento dove i vapori sono assorbiti con un solvente altobollente. La corrente gassosa
+depurata va allo scarico in torcia. Il solvente altobollente che ha assorbito i vapori del solvente
+volatile, dopo opportuno riscaldamento, va a una colonnina di flash dove si desorbono i vapori del
+solvente volatile che proseguono verso ulteriori lavorazioni. Il solvente altobollente, così rigenerato,
+viene riciclato alla colonna d’assorbimento, previo raffreddamento e reintegro con solvente fresco. I
+fluidi di servizio disponibili sono acqua industriale di raffreddamento e vapore di rete.
+Il candidato disegni lo schema dell’impianto idoneo a realizzare l’operazione proposta, completo
+delle apparecchiature accessorie (pompe, valvole, serbatoi, ecc.) e delle regolazioni automatiche
+principali rispettando, per quanto possibile, la normativa UNICHIM.
+
+SECONDA PARTE
+1. Nel processo di assorbimento, descritto nella prima parte, il rapporto in moli tra i vapori di solvente
+e i gas da depurare è Yin = 0,002. Si vuole ridurre tale rapporto nei gas in uscita a Yus = 0,0002.
+Si può considerare che il solvente altobollente all’ingresso in colonna sia del tutto privo del
+solvente volatile, per cui si può porre Xin = 0. Si vuole avere nel solvente altobollente in uscita
+una concentrazione in rapporto in moli del solvente volatile pari a Xus = 0,006. La relazione
+d’equilibrio è data dall’equazione Y = 2,5X.
+Considerando la volatilità del solvente altobollente e la solubilità del gas nel solvente altobollente,
+entrambi del tutto trascurabili nelle condizioni di processo, calcolare il numero degli stadi ideali e
+il rapporto tra solvente altobollente e gas richiesti per le condizioni previste.
+2. Nell’assorbimento gas/liquido le due fasi devono venire in intimo contatto per assicurare un
+efficiente trasporto di materia. Illustrare le varie tipologie delle apparecchiature utilizzate e le
+relative prestazioni applicative.
+
+Pag. 2/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+3. L’equilibrio chimico limita spesso la resa di reazioni chiave di diversi processi industriali. Il
+candidato, in base agli studi fatti, illustri un processo condizionato dall’equilibrio chimico,
+soffermandosi in particolare sulle tecniche impiegate per superare l’ostacolo e ottenere elevate rese
+produttive.
+4. In questi ultimi anni la produzione di gas naturale ha avuto tassi di crescita più elevati di quelli del
+petrolio. La maggiore disponibilità di gas ha favorito lo sviluppo di una vasta gamma di processi
+per finalità sia energetiche sia chimiche. Il candidato, in base agli studi fatti, riassuma
+sinteticamente le varie tipologie dei possibili processi e ne approfondisca uno a sua scelta.
+
+_______________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali relativi alle simbologie UNICHIM, di tabelle con dati numerici, di diagrammi relativi a parametri
+chimico-fisici, di mascherine da disegno e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

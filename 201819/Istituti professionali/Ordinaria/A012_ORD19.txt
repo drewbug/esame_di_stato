@@ -1,0 +1,78 @@
+Pag. 1/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+PRIMA PARTE
+
+L’INIEZIONE DIRETTA DI COMBUSTIBILE NEI MOTORI A BENZINA
+In questi ultimi decenni, la tecnologia dei motori ci ha messo di fronte a un altro grande cambiamento:
+l’iniezione diretta di benzina. Iniettare benzina direttamente in camera di combustione è una metodica
+diventata un passo obbligato per raggiungere i target di fuel-economy e riduzione delle emissioni allo
+scarico. Come altre tecnologie, ha spaventato un po’ tutti al suo apparire, come del resto succede
+quando vengono introdotte novità che sconvolgono il modo di pensare e di lavorare, soprattutto degli
+operatori del settore, ma gradualmente si sta diffondendo sempre più sui mezzi.
+Un cliente porta in un centro di manutenzione (officina) un mezzo provvisto di un sistema
+di alimentazione carburante a iniezione diretta di benzina, in quanto ha rilevato la spia
+motore accesa in modo lampeggiante e una drastica riduzione delle prestazioni del mezzo.
+Il cliente è curioso ed esigente, chiede spiegazioni sul funzionamento del sistema di iniezione diretta
+di benzina e quali vantaggi e svantaggi l’implementazione sul mezzo ha comportato. Inoltre, al
+momento del ritiro, vuole conoscere in dettaglio la procedura seguita e le operazioni che le diverse
+figure professionali presenti in azienda hanno compiuto durante l’iter dell’intervento stesso, a partire
+dall’accettazione, proseguendo con la diagnosi, la riparazione e infine la riconsegna.
+Con riferimento ad un mezzo di trasporto a sua scelta, il candidato svolga il tema proposto seguendo
+le indicazioni sotto riportate:
+a) descrivere come è strutturato e come funziona il sistema spiegandone vantaggi e svantaggi e le
+motivazioni che hanno portato alla sua realizzazione e diffusione; evidenziando le differenze
+costruttive e funzionali rispetto ad un sistema ad iniezione indiretta;
+b) disegnare lo schema a blocchi del sistema di iniezione diretta di benzina con relativa legenda,
+descrivendone il funzionamento generale e le funzioni dei singoli componenti; facoltativamente
+disegnare uno schema elettrico di principio;
+c) scrivere l’ipotetico dialogo (domande e risposte) intavolato con il cliente per capire meglio il
+problema;
+
+Pag. 2/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+d) descrivere quali cause e quali componenti possono essere responsabili dell’avaria lamentata dal
+cliente;
+e) descrivere le operazioni effettuate dalle varie figure che hanno operato sul mezzo, le attrezzature
+e gli strumenti diagnostici utilizzati per individuare e ripristinare i possibili difetti anche facendo
+riferimento all’esperienze acquisite nell’ambito dei percorsi per le competenze trasversali e per
+l’orientamento o al percorso di studi effettuato;
+f)
+
+indicare le misure di sicurezza adottate, i DPI da utilizzare nell’eseguire gli interventi di
+manutenzione sul sistema in avaria e le procedure per lo smaltimento dei componenti
+eventualmente sostituiti;
+
+g) elencare la documentazione tecnica da compilare dall’arrivo del mezzo nel centro manutenzione
+fino alla riconsegna al cliente.
+
+____________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda
+è predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione
+scolastica e della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non
+italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

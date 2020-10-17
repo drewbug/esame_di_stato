@@ -1,0 +1,139 @@
+Pag. 1/3
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M584 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Per valutare l’incidenza del “male da trasporti”, principalmente in relazione ai veicoli industriali, un
+centro di ricerca universitario effettua prove di laboratorio per misurare l’intensità delle vibrazioni
+trasmesse al corpo umano nella posizione di guida. A tale scopo, una coppia di trasduttori viene
+posizionata nelle zone di contatto tra le sorgenti di vibrazione ed il corpo umano, rispettivamente il
+sedile (valutazione degli effetti su tutto il corpo) e il volante di guida (valutazione degli effetti sul
+sistema mano-braccio).
+I trasduttori utilizzati nelle prove qui considerate sono degli accelerometri triassiali che rilevano
+contemporaneamente i valori delle componenti dell’accelerazione ax, ay, az lungo i tre assi cartesiani
+fornendo in uscita una tensione sinusoidale per ciascun asse con frequenza corrispondente alla
+vibrazione di prova.
+In tutte le prove da effettuare le accelerazioni sono comprese tra 0 e 2,5g dove g rappresenta
+l’accelerazione di gravità.
+Le caratteristiche dei trasduttori utilizzati, identici tra loro, sono le seguenti:
+-
+
+Uscita in tensione con offset a riposo (g = 0), pari a 1,5 Volt per ognuno degli assi.
+
+-
+
+Sensibilità pari a 300 mV∙g-1 per ognuno degli assi.
+
+Le norme vigenti in materia di sicurezza e igiene del lavoro, in relazione alla percezione delle
+vibrazioni e agli effetti sull’intero corpo o sul sistema mano-braccio, prescrivono che l’intervallo di
+frequenze considerato nelle prove sia:
+0,5 ≤ f ≤ 80
+
+[Hz]
+
+8 ≤ f ≤ 1000 [Hz]
+
+per esposizione alle vibrazioni dell’intero corpo,
+per esposizione del sistema mano-braccio.
+
+L’apparato sperimentale utilizzato deve quindi provvedere a:
+-
+
+Rilevare i valori delle accelerazioni nei due punti di misura lungo i diversi assi, in relazione alle
+sollecitazioni meccaniche prodotte da una sorgente di vibrazioni.
+
+-
+
+Condizionare opportunamente i segnali provenienti dai trasduttori.
+
+-
+
+Campionare e convertire in digitale i valori così ottenuti.
+
+-
+
+Inviare i dati, per le elaborazioni successive, a un computer posto a distanza.
+
+Il candidato, formulate le ipotesi aggiuntive che ritiene opportune:
+1) Individui un idoneo sistema di acquisizione dati, utilizzante un microcontrollore o un
+microprocessore di sua conoscenza, e ne disegni lo schema a blocchi, indicando la funzione
+svolta dai vari blocchi e le interazioni tra gli stessi.
+
+Pag. 2/3
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M584 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+2) Scelga una opportuna frequenza di campionamento che possa essere utilizzata in tutte le prove
+da effettuare.
+3) Scelga un opportuno convertitore analogico digitale e ne individui le caratteristiche principali e
+la modalità di funzionamento in modo tale che l'errore massimo sulle misure di accelerazione sia
+di 3∙10-3 g.
+4) Individui le interfacce necessarie alla corretta acquisizione dei dati provenienti dai trasduttori, ne
+descriva le specifiche progettuali e provveda al dimensionamento di ognuna di esse.
+5) Proponga e documenti in dettaglio un apparato sperimentale idoneo al collaudo delle interfacce
+realizzate e discuta per esteso le tecniche di misura e le procedure operative necessarie.
+
+SECONDA PARTE
+Il candidato risponda a due, e solo due, dei seguenti quesiti e, fatte eventuali ipotesi aggiuntive
+ritenute necessarie, presenti per ognuno le linee operative e le motivazioni delle soluzioni prospettate.
+
+QUESITO N.1
+In relazione alla prima parte della prova, si indichi una possibile soluzione, discutendone in dettaglio
+gli aspetti realizzativi, che consenta di ricavare dai valori dell’accelerazione i valori corrispondenti di
+velocità e spostamento.
+
+QUESITO N.2
+Relativamente alla prima parte della prova, si discuta una possibile soluzione per la realizzazione di
+un filtro anti-aliasing programmabile che possa offrire prestazioni adeguate per tutti i segnali prodotti
+dai trasduttori.
+
+QUESITO N.3
+L’amplificatore operazionale di figura, con un’onda triangolare simmetrica di ampiezza picco-picco
+pari a 10 Volt e valore medio pari a 5 Volt applicata sul morsetto invertente, realizza la modulazione
+PWM.
+Considerando l’operazionale ideale e alimentato con ±15V, si mostri che in tale apparato il valore
+medio della tensione di uscita è proporzionale al valore istantaneo della tensione di ingresso Vi(t).
+
+Pag. 3/3
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M584 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+Si illustri successivamente quali limiti, di ampiezza e frequenza, è necessario imporre sulla Vi(t) per
+un corretto funzionamento del sistema.
+
+QUESITO N.4
+Il circuito di figura, realizzato con un LM 741, permette di ottenere un sistema di alimentazione duale
+di ±15V a partire da una linea di alimentazione singola V1= 30V.
+Discutere il funzionamento del circuito, dimensionarne i componenti e determinare il valore massimo
+della corrente che esso può erogare a carichi disposti sulle due linee di uscita.
+Indicare una possibile soluzione circuitale per aumentare tale valore e fornire potenze di 10W su
+ciascuna delle due linee.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

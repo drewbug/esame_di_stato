@@ -1,0 +1,597 @@
+Pag. 1/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+ACHTUNG
+Die vorliegende Arbeit enthält die jeweils unterschiedlichen Prüfungsarbeiten für die Kandidaten
+und Kandidatinnen mit folgenden Berufbildungsdiplomen:
+A)
+
+IT-SYSTEMELEKTRONIK UND ANWENDUNGSENTWICKLUNG (Bozen) Seiten 2-3
+
+B)
+
+MECHATRONISCHE SYSTEME (Bozen)
+
+Seiten 4-5
+
+C)
+
+ELEKTRO-, GEBÄUDE- UND INFRASTRUKTURTECHNIK (Bozen)
+
+Seiten 6-7
+
+D)
+
+INFORMATIK – NETZWERKTECHNIK (Brixen)
+
+Seiten 8-9
+
+E)
+
+INDUSTRIE- UND GEBÄUDEAUTOMATION (Bruneck)
+
+Seiten 10-11
+
+Die Vorsitzende/Der Vorsitzende der Kommission ist gebeten, darauf zu achten, dass alle
+Kandidaten und Kandidatinnen die ihrem Berufbildungsdiplom entsprechenden Prüfungsarbeiten
+erhalten.
+Zu bearbeiten sind jeweils die Problemstellung im Teil I und zwei der in Teil II gestellten Fragen.
+
+Pag. 2/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+A) IT-SYSTEMELEKTRONIK UND ANWENDUNGSENTWICKLUNG (Bozen)
+Für alle Kandidaten dieser Gruppe ist die Nutzung eines von der Schule zur Verfügung gestellten
+PCs samt installierter Software ohne Internetzugang erlaubt. Für die Bewertung muss die Arbeit
+ausgedruckt und in Papierform abgegeben werden.
+
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Der Kundendienst soll technisch unterstützt werden durch die Planung eines webbasierten
+Ticketsystems. Zu jedem Ticket wird der Kunde erfasst, der ein Problem gemeldet hat. Außerdem
+hat ein Ticket einen Status, der sich mit der Zeit von „Ticket offen“ auf „Ticket in Bearbeitung“
+oder auf „Ticket erledigt“ ändern kann. Außerdem enthält jedes Ticket neben Datum und Uhrzeit
+der Öffnung eine Problembeschreibung. Tickets können von einem oder mehreren Mitarbeitern
+bearbeitet werden und Mitarbeiter können beliebig viele Tickets abarbeiten. Beim Schließen eines
+Tickets müssen das Datum und die Uhrzeit sowie eine kurze Beschreibung der Lösung angegeben
+werden.
+1.
+
+Erstellen Sie einen Datenbankentwurf mit den notwendigen Beziehungen.
+
+2.
+
+Folgende Abfragen sind mit SQL abzudecken:
+
+3.
+
+a.
+
+Es sollen alle offenen Tickets samt Datum der Ticketöffnung, Problembeschreibung und
+Kundenangabe angezeigt werden.
+
+b.
+
+Alle geschlossenen Tickets mit Beschreibung der Lösung sollen angezeigt werden.
+
+c.
+
+Zu einem bestimmten Ticket sollen alle Mitarbeiter angezeigt werden, die es bearbeitet
+haben.
+
+Setzen Sie Aufgabe 2a) nun praktisch in Form einer webbasierten Ausgabe mittels PHP und
+MySQL um. Dabei sollen von der Problembeschreibung nur die ersten 20 Zeichen angezeigt
+werden. Ein Klick auf die Problembeschreibung gibt dann alle Details zum Ticket aus. Eine
+Umsetzung nach dem MVC Designpattern ist anzustreben.
+
+Ergänzen Sie mit zusätzlichen Informationen, falls Sie dies für notwendig erachten.
+
+Pag. 3/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+A) IT-SYSTEMELEKTRONIK UND ANWENDUNGSENTWICKLUNG (Bozen)
+
+TEIL II: Bearbeiten Sie zwei der folgenden vier Fragestellungen.
+1.
+
+Das Netz bietet den Benutzern zahlreiche Dienste wie E-Mail, Web-Service, FTP, DNS,
+CHAT, etc., die vom Typ online oder offline sein können. Beschreiben Sie die Eigenschaften
+der Online- und Offline-Dienste und beziehen Sie sich auf konkrete Beispiele.
+
+2.
+
+Ethan Marcotte hat im Jahre 2010 erstmals den Begriff „Responsive Webdesign“ verwendet
+und im Jahr 2011 ein gleichnamiges Buch dazu veröffentlicht. Seither hat diese Form der
+Online Darstellung einen Siegeszug angetreten.
+Führen Sie aus, worum es sich bei dieser Technik handelt, listen Sie deren Vorteile auf und
+gehen Sie auch darauf ein, ob es Nachteile gegenüber traditionellen Darstellungsformen gibt.
+
+3.
+
+Eine Solarstromanlage (Fotovoltaikanlage) liefert über eine Mikrocontroller-Schnittstelle
+Informationen über die erzeugten kWh in eine Datenbank. Das passiert ein Mal pro Stunde. Es
+ist also möglich, eine Auswertung in Stunden, Tagen, Monaten oder Jahren zu bekommen. Der
+Zugriff auf diese Informationen soll über einen Webbrowser sowohl im LAN als auch von
+unterwegs möglich sein.
+Erstellen Sie aufgrund Ihrer bisher in Projekten gewonnenen Erfahrungen ein Gantt Diagramm
+oder einen Netzplan für die Umsetzung dieses Webprojektes und überlegen Sie dabei, welche
+Aktivitäten sequentiell und welche eventuell parallel erledigt werden können.
+
+4.
+
+Erstellen Sie für die in Frage 3 dargestellte Situation eine HTML Vorlage für die Ausgabe der
+erzeugten kWh aller Tage eines Monats. Idealerweise soll eine grafische Aufbereitung in Form
+von Balken erfolgen, die entsprechend mit CSS formatiert werden. Es können beliebige Werte
+angenommen werden.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+Die Nutzung eines von der Schule zur Verfügung gestellten PCs samt darauf installierter Software ohne Internetzugang ist
+erlaubt. Für die Bewertung muss die Arbeit ausgedruckt und in Papierform abgegeben werden.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 4/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+B) MECHATRONISCHE SYSTEME (Bozen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Ein Förderband transportiert Bauteile mit einem Gewicht von 2.000 N je Bauteil. Das Förderband soll sich
+mit einer Geschwindigkeit von 0,5 m/s bewegen.
+
+Abbildung 1: Die abgebildete Grafik ist weder im Maßstab noch entspricht sie der
+realen Konstruktion. Sie gibt lediglich eine grafische Hilfe für die Aufgabenstellung!
+
+Wählen und begründen Sie die noch fehlenden Angaben und bearbeiten Sie folgende Punkte. Fassen Sie
+dabei sämtliche Auslegungs- und Dimensionierungsarbeiten nachvollziehbar schriftlich zusammen.
+1.
+
+Dimensionieren Sie den Antriebsmotor, damit 10 Bauteile gleichzeitig bewegt werden können.
+Berücksichtigen Sie dabei die Reibung zwischen Transportband und Auflage (Reibungskoeffizient
+0,3) und die Reibung in den Gleitbuchsen. Das Band wird mit einer Kraft von 800 N gespannt.
+
+2.
+
+Legen Sie das passende Übersetzungsverhältnis fest.
+
+3.
+
+Wählen Sie als Werkstoff für die Antriebswelle einen unlegierten Vergütungsstahl, dessen
+mechanische Eigenschaften durch eine Wärmebehandlung verbessert wurden. Erklären Sie diesen
+Vorgang mit Hilfe des Eisen-Kohlenstoff-Diagramms.
+
+4.
+
+Dimensionieren Sie die Anschlussleitung für den Motor, wenn diese eine Länge von ca. 100 m haben
+wird. Planen Sie dessen elektrische Schutzeinrichtungen.
+
+Pag. 5/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+B) MECHATRONISCHE SYSTEME (Bozen)
+TEIL II: Bearbeiten Sie zwei der folgenden vier Fragestellungen
+1. Entwerfen Sie für die Fördereinheit aus der Problemstellung in Teil I eine Steuerung.
+2. Ein Handhabungsgerät befördert ein Bauteil von A nach B. Das Gerät bewegt sich in 3 Richtungen.
+Es wird über eine Elektrospindel (Drehstrommotor) und zwei Pneumatik Zylinder ø40 (Zylinder 1 mit
+500mm Hub und Zylinder 2 mit 300mm Hub) betrieben. Die zu befördernden Bauteile haben eine
+Masse von 1,2kg und werden beim Transport über eine Vakuumpumpe angesaugt und festgehalten.
+Dimensionieren Sie den Durchmesser der Vakuummembrane, wenn ein maximaler Unterdruck von
+0.75Bar erzeugt werden kann.
+3. Eine Antriebswelle muss eine Leistung von P=14KW und eine Drehzahl von 1450U/min übertragen.
+Die Welle wird von zwei starren Kugellagern getragen und überträgt die Drehbewegung von einem
+Elektromotor über eine elektromagnetische Kupplung an eine Riemenscheibe, welche wiederum die
+Drehbewegung an einen Ventilator weiter gibt. Berechnen Sie das vorherrschende Drehmoment an der
+Welle.
+4. Dimensionieren Sie die Antriebswelle aus Fragestellung 3 und wählen Sie den Werkstoff so, dass
+diese auf dreifache Sicherheit ausgelegt wird.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Tabellenbuch Metall, Verlag Europa-Lehrmittel
+ nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 6/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+C) ELEKTRO-, GEBÄUDE- UND INFRASTRUKTURTECHNIK (Bozen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Eine Villa mit einer Fläche von 160m² wird von 500m² Garten umgeben und muss mit folgenden
+Anlagen ausgestattet werden:
+- Elektrischer Hauptverteiler
+- Auffangbehälter mit Pumpe zu 2,2kW zur Bewässerung der Wiese
+- Automatisches Tor
+- Außenbeleuchtung, bestehend aus 10 Lampen
+- Garage zu 30m²
+Die Netzanschlussleistung beträgt 6kW.
+Bearbeiten Sie folgende Aufgabenstellungen, rechtfertigen Sie Ihre Einschätzungen und formulieren Sie
+evtl. zusätzliche Hypothesen:
+1.
+2.
+3.
+4.
+
+Zeichnen Sie den Hauptverteiler und legen Sie die Auswahlkriterien der benötigten Apparaturen
+fest.
+Berechnen Sie den benötigten Querschnitt der Leitungen, den maximal zulässigen Spannungsabfall
+beachtend.
+Berechnen Sie die benötigte Größe der Kondensatorbatterie, um eine Kompensation der Pumpe auf
+cosφ = 0,95 vorzunehmen.
+Definieren Sie die Charakteristik der Erdungsanlage.
+
+Pag. 7/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+C) ELEKTRO-, GEBÄUDE- UND INFRASTRUKTURTECHNIK (Bozen)
+TEIL II: Bearbeiten Sie zwei der folgenden vier Fragestellungen
+1.
+
+Es soll eine Fotovoltaikanlage für Netzeinspeisung auf einem 15m x 10m großen Dach einer
+Industriehalle, 100 m2 davon südseitig, ohne Verschattung, ausgelegt werden.
+Auszug aus dem Datenblatt des zu verwendenden Fotovoltaik-Moduls:
+Dimension: 1675x1001 mm
+Elektrische Eigenschaften bei Standard-Testbedingungen (STC): PMax: 260 Wp, UMPP=30,7V,
+Uoc=38,9V, IMPP=8,56 A
+Temperaturkoeffizient von Uoc = -0,3%/K
+Ermitteln Sie die Anlagenleistung und schätzen Sie den Jahresertrag in kWh der Fotovoltaikanlage
+ab.
+
+2.
+
+In einem Industriebetrieb werden über den Unterverteiler UV1 die in der Tabelle angeführten
+Verbraucher versorgt. Die 60 m lange Zuleitung zum UV1 erfolgt über ein Installationsrohr im
+Erdreich. Die Verlegung zu den einzelnen Verbrauchern erfolgt einzeln in einem PVC-Rohr
+Aufputz.
+Spannung [V] Anzahl
+Leistung [kW]
+cos φ
+η
+Maschine 1 400
+2
+11
+0,84
+88
+Maschine 2 400
+4
+5,5
+0,88
+85
+Heizung
+400
+1
+15
+Berechnen Sie den Strom und den Leistungsfaktor cos φ in der Zuleitung des Unterverteilers UV1.
+
+3.
+
+Ermitteln Sie, Bezug nehmend auf die in Frage 2 beschriebene Situation, den Querschnitt der
+Zuleitung zum Unterverteiler UV1. Der Spannungsfall soll maximal 0,5 % betragen.
+
+4.
+
+Für einen Fußballplatz soll eine Beleuchtungsanlage geplant werden. Die dafür vorgesehenen
+Masten haben vom Hauptverteiler je eine Entfernung von 75m bzw. 135m. Als Leuchtmittel werden
+Natriumdampflampen verwendet, welche in Verwendung mit den benötigten elektrischen
+Vorschaltgeräten eine Leistung von 3kW bei einem cosφ von 0,87 aufnehmen. Je Masten sind 4
+Scheinwerfer vorgesehen. Berechnen Sie die nötige Netzanschlussleistung, die Gleichzeitigkeits–
+und Ausnutzungsfaktoren annehmend.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Tabellenbuch Elektrotechnik (Manuale degli impianti elettrici)
+ nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 8/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+D) INFORMATIK – NETZWERKTECHNIK (Brixen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Eine Firma im IT-Bereich plant eine neue Niederlassung in Bozen. Die gesamte IT-Infrastruktur ist zu
+planen und die Grundkonfiguration zu definieren.
+Das Bürogebäude hat zwei Stockwerke:
+Im ersten Stockwerk befindet sich der Empfang mit 2 PCs und 2 Druckern, zudem auch 2 Büros der
+Geschäftsleitung mit je einem PC und einem Drucker, sowie 4 weitere Büros mit jeweils 3 PCs und einem
+gemeinsamen Drucker im Flurbereich.
+Im zweiten Stockwerk befinden sich 6 weitere Büros mit jeweils 2 PCs und 2 Druckern im Flurbereich.
+Zusätzlich zur verkabelten Infrastruktur sind je Stockwerk 4 Accesspoints vorzusehen. Da die einzelnen
+Büros großzügig ausgelegt sind, müssen in jedem Büro zwei Datenleitungen als Reserve vorgesehen
+werden.
+Im ersten Stockwerk befindet sich der Serverraum, in dem auch die Internetanbindung über eine 8 Mbit
+HDSL Linie der Telecom erfolgt. In diesem Serverraum befindet sich der Knotenpunkt der HorizontalVerkabelung des Stockwerks.
+Im zweiten Stockwerk befindet sich ein Rack-Schrank, wiederum mit der entsprechenden
+Horizontalverkabelung.
+1.
+
+Stellen Sie die Netzwerkstruktur dieser Firma grafisch dar.
+
+2.
+
+Erstellen Sie eine geeignete Adressstruktur mit entsprechender IP-Adressierung.
+
+Planen Sie folgende Serverdienste mit Angabe der Grundkonfiguration und erarbeiten Sie zu den
+jeweiligen Punkten ein Konzept:
+3.
+
+Zentrale Benutzer mit Rechtevergabe und Überwachung (AD, OUs, Groups, User, ...)
+
+4.
+
+Datenspeicherung und Sicherung (Fileserver, Backup, NAS, SAN, Virtualisierung, ...)
+
+5.
+
+Sicherheitslösung zum Schutz des internen Netzwerks und des eigenen Webservers
+(Firewalls, DMZ, ...)
+
+Pag. 9/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+D) INFORMATIK - NETZWERKTECHNIK (Brixen)
+TEIL II: Bearbeiten Sie zwei der folgenden vier Fragestellungen.
+1. In der Zeit von immer größer werdenden Datenbeständen auch im Privatbereich ist Backup eines
+der wichtigsten Themen im IT-Bereich. Gehen Sie von einem Privatanwender mit einem HeimNetzwerk aus, das aus mehreren PCs und Notebooks besteht, die durch LAN oder WLAN vernetzt
+sind. Einen zentralen Ablageplatz für Daten (NAS oder Home-Server) gibt es in diesem HeimNetzwerk ebenfalls. Zudem möchte man mit Smartphones und Tablets auf Daten und
+Peripheriegeräte zugreifen können. Außerdem muss sichergestellt sein, dass sämtliche wichtigen
+Daten (Datenkategorien) wiederhergestellt werden können, sollte einmal das Worst-Case-Szenario
+eintreten (Hardware-Defekt, Viren, Löschen von Daten aus Unachtsamkeit, usw.).
+Erarbeiten Sie eine geeignete Backup-Strategie, die für den Privatanwender praktikabel und auch
+finanziell noch tragbar ist. Berücksichtigen Sie dabei die verschiedenen Technologien, die es
+derzeit gibt.
+2. Die Unternehmen können ihre eigenen Informations-Dienstleistungen durch eine interne
+Infrastruktur oder durch Cloud-Systeme implementieren. Beschreiben Sie die Eigenschaften der
+beiden Lösungen und analysieren Sie die jeweiligen Stärken und Schwächen.
+3. Dokumente, auch wichtige, werden immer häufiger im Netz übertragen. Immer deutlicher und
+größer wird dabei die Notwendigkeit, sowohl die Integrität derselben als auch die Identität des
+Absenders zu gewährleisten. Beschreiben Sie die Technik, durch die das garantiert werden kann,
+auch mit Nutzung von Schemata.
+4. Beschreiben Sie die Gründe, die zur Schaffung eines Intranets in einer Organisation führen,
+erklären Sie die wichtigsten Dienste und die zugehörigen Protokolle, die das Netz zur Verfügung
+stellen muss, um die internen Anforderungen zu erfüllen. Analysieren Sie das zu einem dieser
+Dienste gehörende Protokoll.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel: Nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und Schüler mit
+Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 10/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+E) INDUSTRIE- UND GEBÄUDEAUTOMATION (Bruneck)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Die Anlage eines Produktionsbetriebs (TT Netz) muss um 6 Stromkreise erweitert werden. Dazu werden
+mehradrige Kabel in Kabelkanälen an der Wand verlegt. Der Wirkfaktor der Anlage beträgt bei Volllast
+cos φ = 0,8. Durch einen Blindleistungsregler soll auf cos φ2 = 0,93 kompensiert werden.
+
+Nr. Stromkreis
+
+Beschreibung Stromkreis
+
+Leistung [kW]
+
+Leitungslänge [m]
+
+1
+
+Steckdosen 1~
+
+1,2
+
+12
+
+2
+
+Steckdosen 1~
+
+2
+
+16
+
+3
+
+Beleuchtung 1~
+
+0,6
+
+19
+
+4
+
+Motor 1~ (cos φ = 0,8 η= 0,88)
+
+2,4
+
+8
+
+5
+
+Motor 3 ~ (cos φ = 0,84 η= 0,82)
+
+4
+
+16
+
+6
+
+Elektrische Heizung
+
+6
+
+7
+
+Bearbeiten Sie unter Angabe und Begründung von notwendigen Annahmen folgende Punkte:
+1.
+
+Zeichnen Sie den Hauptverteiler und legen Sie die Auswahlkriterien für die benötigten Apparaturen
+fest.
+
+2.
+
+Bestimmen Sie die Eigenschaften der eingesetzten Systeme für den Schutz gegen direktes und
+indirektes Berühren.
+
+3.
+
+Ermitteln Sie die Leiterquerschnitte der Stromkreise 1 bis 6 bei einem maximalen Spannungsfall von
+3%.
+
+4.
+
+Bestimmen Sie die benötigte Netzanschlussleistung, den Querschnitt und die Absicherung der 22 m
+langen Zuleitung, die im Erdreich verlegt wird.
+
+5.
+
+Bestimmen Sie die benötigte kapazitive Blindleistung bei Zentralkompensation.
+
+Pag. 11/11
+
+Ordentlicher Termin 2016
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+E) INDUSTRIE- UND GEBÄUDEAUTOMATION (Bruneck)
+TEIL II: Bearbeiten Sie zwei der folgenden vier Fragestellungen
+1. Es soll eine Fotovoltaikanlage für Netzeinspeisung auf einem 15m x 10m großen Dach einer
+Industriehalle, 100 m2 davon südseitig, ohne Verschattung, ausgelegt werden.
+Auszug aus dem Datenblatt des zu verwendenden Fotovoltaik-Moduls:
+Dimension: 1675x1001 mm
+Elektrische Eigenschaften bei Standard-Testbedingungen (STC): PMax: 260 Wp, UMPP=30,7V,
+Uoc=38,9V, IMPP=8,56 A
+Temperaturkoeffizient von Uoc = -0,3%/K
+Ermitteln Sie die Anlagenleistung und schätzen Sie den Jahresertrag in kWh der Fotovoltaikanlage
+ab.
+2. In einem Industriebetrieb werden über den Unterverteiler UV1 die in der Tabelle angeführten
+Verbraucher versorgt. Die 60 m lange Zuleitung zum UV1 erfolgt über ein Installationsrohr im
+Erdreich. Die Verlegung zu den einzelnen Verbrauchern erfolgt einzeln in einem PVC-Rohr
+Aufputz.
+Spannung [V] Anzahl
+Leistung [kW]
+cos φ
+η
+Maschine 1 400
+2
+11
+0,84
+88
+Maschine 2 400
+4
+5,5
+0,88
+85
+Heizung
+400
+1
+15
+Berechnen Sie den Strom und den Leistungsfaktor cos φ in der Zuleitung des Unterverteilers UV1.
+3. Nehmen Sie Bezug auf die in Frage 2 beschriebene Situation und ermitteln Sie den Querschnitt der
+Zuleitung zum Unterverteiler UV1. Der Spannungsfall soll maximal 0,5 % betragen.
+4. Für ein 12 m langes, 10 m breites und 4,5 m hohes Industriegebäude soll die Beleuchtung geplant
+werden. Die mittlere Beleuchtungsstärke soll 300 Lux betragen. Definieren Sie die Eigenschaften
+der verwendeten Leuchten und begründen Sie ihre Annahmen. Berechnen Sie überschlagsmäßig die
+Stromkosten der Beleuchtung pro Jahr, wenn man davon ausgeht, dass sie pro Tag ca. 10 Stunden
+eingeschaltet ist (Kosten 0,21 €/kWh). Erläutern Sie, wie die Beleuchtung energieeffizient ausführt
+werden kann.
+______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Tabellenbuch Elektrotechnik (Manuale degli impianti elettrici)
+ nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und Schüler mit
+Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+

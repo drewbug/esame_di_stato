@@ -1,0 +1,860 @@
+Pag. 1/9
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M657 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+Il candidato, a seconda che nell’ambito delle abilità e conoscenze previste dalle linee guida abbia
+approfondito la progettazione di tessuti a fili rettilinei, di tessuti a maglia o di confezione, scelga il
+tema 1, il tema 2 o il tema 3.
+
+TEMA 1 - TESSUTI A FILI RETTILINEI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Il candidato, a libera scelta, può svolgere la prova A relativa a materiali tessili in lana o la prova
+B relativa a materiali tessili in cotone.
+PROVA A – Materiali tessili in lana
+Un impianto di filatura pettinata deve produrre 3200 Kg/giorno di filato di Nm 66 con
+730 torsioni/metro.
+La mescolatrice è alimentata da un top (nastro pettinato di peso pari a 25 g/m) e l’attività giornaliera
+dell’impianto è di tre turni, da 7,5 ore ciascuno.
+PROVA B – Materiali tessili in cotone
+Un impianto di filatura pettinata deve produrre 3800 Kg/giorno di filato di Ne 40 con
+22,5 torsioni/pollice.
+Il peso del nastro cardato è pari a 4 g/m e l’attività giornaliera è di tre turni da 7,5 ore ciascuno.
+Lo stoppino ha un coefficiente di torsione Kc = 1,1 e la percentuale di cascame è pari al 5% in
+cardatura e 15% in pettinatura.
+Il candidato, utilizzando, a seconda della prova scelta, i dati riportati nelle tabelle A o B, deve:
+1.
+
+Analizzare le caratteristiche della materia prima.
+
+2.
+
+Elencare le fasi del ciclo di lavorazione (dalla mescolatura alla filatura per materiali tessili in
+lana e dalla cardatura alla filatura ad anello per materiali tessili in cotone).
+
+Pag. 2/9
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M657 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+3.
+
+Dimensionare l’impianto calcolando il numero di macchine occorrenti per realizzare la
+produzione richiesta, compilando il piano di lavoro, nel quale siano riportati, per ogni macchina:
+a) peso o titolo del singolo prodotto entrante;
+b) accoppiamento;
+c) carica di alimentazione;
+d) stiro meccanico;
+e) peso e titolo del prodotto uscente;
+f)
+
+numero di nastri/stoppini/filati prodotti per macchina;
+
+g) velocità di uscita (m/min);
+h) produzione teorica (kg/ora);
+i)
+
+rendimento macchina;
+
+j)
+
+produzione pratica (kg/ora);
+
+k) numero di teste o fusi richiesti;
+l)
+
+numero di macchine da utilizzare e relativi numeri di teste o fusi.
+
+4.
+
+Illustrare il principio di funzionamento, le regolazioni di base, le capacità produttive e i criteri di
+assegnazione del filatoio.
+
+5.
+
+Elencare le principali prove per il controllo di qualità del filato.
+
+Pag. 3/9
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M657 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+Tabella A: Dati di lavorazione macchine laniere
+
+MACCHINA
+
+Rendimento
+%
+
+Velocità
+massima
+(m/min)
+
+Giri/min
+massimi
+
+Mescolatrice
+
+60 ÷ 70
+
+250
+
+-
+
+Stiratoio
+
+70 ÷ 80
+
+300
+
+-
+
+Pettinatrice
+
+85 ÷ 90
+
+-
+
+250
+
+Finitore
+trottatore
+
+75 ÷ 85
+
+200
+
+-
+
+Filatoio
+
+85 ÷ 90
+
+-
+
+12.000
+
+Roccatrice
+
+75 ÷ 85
+
+1200
+
+-
+
+Rendimento
+%
+
+Velocità
+massima
+(m/min)
+
+Giri/min
+massimi
+
+Carda
+
+80 ÷ 90
+
+250
+
+-
+
+Stiratoio
+nastri
+
+70 ÷ 80
+
+400
+
+-
+
+Stiroriunitore
+
+60 ÷ 70
+
+120
+
+-
+
+Pettinatrice
+
+85 ÷ 90
+
+-
+
+300
+
+Banco a fusi
+
+75 ÷ 85
+
+-
+
+1500
+
+Filatoio
+
+85 ÷ 90
+
+-
+
+15.000
+
+a
+
+catena
+
+Tabella B: Dati di lavorazione macchine cotoniere
+MACCHINA
+
+Pag. 4/9
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M657 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+SECONDA PARTE
+1.
+
+Descrivere le principali fasi di un ciclo di lavorazione cardato.
+
+2.
+
+Elencare gli organi principali del filatoio ad anello o ring e la loro funzione.
+
+3.
+
+Indicare i principali sistemi di titolazione dei filati e spiegare la differenza fondamentale fra
+titolazione diretta e indiretta.
+
+4.
+
+Indicare tutti i tipi di inserzione della trama delle macchine per tessere attualmente in commercio
+e descriverne brevemente il funzionamento.
+
+TEMA 2 - MAGLIERIA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Ad una Filatura è stato richiesto di produrre un filato di cotone tex 20, differenziando la lavorazione
+del 50% con il ciclo cardato e del restante 50% con il ciclo Open End.
+Il candidato, utilizzando i dati tecnici produttivi delle macchine riportati nella Tabella A, deve:
+
+
+calcolare la Produzione totale in Chilogrammi di un turno di 6 ore e 15 minuti;
+
+
+
+completare la stessa tabella inserendo nell’ultima colonna il numero di macchine occorrenti alla
+realizzazione della produzione richiesta.
+
+Pag. 5/9
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M657 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+Tabella A
+Macchine
+
+Produz
+teorica
+Kg/h
+
+Produz
+teorica
+m/min
+
+Rend
+%
+
+Prelevatore
+
+850
+
+95
+
+Apritoio
+
+208
+
+96
+
+Miscelatore
+a 6 celle
+Carda
+
+800
+
+97
+
+211
+
+94
+
+Stiratoio
+Banco a
+fusi
+Filatoio ad
+anelli
+Open End
+
+700
+
+Cascame
+Titolo
+Velocità Torsione
+%
+materiale giri/min
+giri/m
+uscente
+Nec
+
+N°
+Fusi
+
+N°
+Teste
+
+N°
+Macchine
+
+3
+
+97
+
+0,13
+
+94
+
+0,8
+
+1100
+
+43
+
+85
+
+95
+
+11000
+
+330
+
+850
+
+93
+
+104400
+
+360
+
+192
+
+Inoltre, il candidato calcoli i metri di tessuto a maglia in jersey prodotti in 1 giorno per un turno di
+lavoro di 7 ore e 30 minuti da un maglificio che impiega nella sala di tessitura n° 5 macchine circolari
+monofrontura aventi le seguenti caratteristiche:
+‒ diametro Ф = 18”;
+‒ cadute = 42;
+‒ finezza = E28;
+‒ velocità = 50 giri/min;
+‒ ranghi/cm = 16;
+‒ lunghezza di Filo Assorbito LFA = 0,22 cm;
+‒ titolo del filato = Nec 30;
+‒ rendimento medio = 97%
+Si richiede infine la determinazione del fabbisogno di filato giornaliero in Chilogrammi.
+
+Pag. 6/9
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M657 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+SECONDA PARTE
+1.
+
+Descrivere le caratteristiche differenziali di filato cardato, open end e pettinato.
+
+2.
+
+Illustrare l’ago a linguetta.
+
+3.
+
+Indicare le evoluzioni tecnologiche dei telai Raschel.
+
+4.
+
+Elencare le caratteristiche meccaniche e tecnologiche delle macchine rettilinee.
+
+TEMA 3 - CONFEZIONE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un’azienda d’abbigliamento è specializzata nella produzione di camicie per una clientela che ricerca
+una qualità medio-alta.
+Il campionario si articola in alcune linee di prodotto tra cui una collezione, primavera /estate, di linea
+formale composta di 15 modelli. Relativamente a questa linea di produzione si deve definire la
+documentazione tecnica e il piano di produzione.
+Considerando il processo di progettazione e industrializzazione dei prodotti di una collezione, il
+candidato dovrà progettare una camicia di tipo formale, per uomo o donna a sua scelta, caratterizzata
+dai seguenti elementi costruttivi:
+-
+
+linea semiaderente lunga fino a metà bacino;
+
+-
+
+maniche lunghe o tre quarti, con al fondo polso impunturato;
+
+-
+
+apertura sul centro davanti con cannoncino impunturato;
+
+-
+
+sprone e collo con vela e solino;
+
+-
+
+a scelta tra:
+o
+
+2 tasche a toppa anteriori impunturate;
+
+o
+
+inserto di pizzo;
+
+Pag. 7/9
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M657 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+Al candidato, si chiede di elaborare:
+1.
+
+La scheda tecnica del prodotto comprendente il disegno in piano, le indicazioni degli accessori
+impiegati e delle lavorazioni illustrate anche attraverso profili di cucitura.
+
+2.
+
+La scheda dei costi nella quale indicare il prezzo di vendita del prodotto considerando un margine
+di contribuzione del 60%.
+
+3.
+
+Il ciclo di lavorazione in cui stimare i tempi assegnati per ciascuna operazione.
+
+4.
+
+La distinta base dei materiali impiegati con il calcolo dei consumi e dei costi unitari.
+
+Al termine della campagna vendite, l’ufficio di programmazione della produzione deve analizzare
+l’andamento del venduto ai fini della produzione. Il “Riepilogo Generale degli Ordini” è di seguito
+riportato in Tabella 1.
+L’azienda dispone di reparti organizzati con in layout di prodotto e scorte di semilavorato su ciascuna
+postazione di lavoro. In particolare le risorse di manodopera disponibili nel reparto preparazione sono
+rappresentate da 4 operai che lavorano 8 ore al giorno, con un rendimento medio del 90% ed un
+assenteismo del 5%.
+Al candidato si chiede di:
+1.
+
+Analizzare i dati relativi alle quantità vendute di ciascun modello, utilizzando il diagramma di
+Pareto.
+
+2.
+
+Formulare la commessa di lavorazione del modello 2105 considerando che tutti i materiali
+necessari alla produzione sono disponibili.
+
+3.
+
+Lanciare in produzione il modello 2105, per il quale si riporta una fase del ciclo di lavorazione
+(Tabella 2 ), elaborando per il reparto preparazioni:
+a). il volume giornaliero di produzione sostenibile dalle risorse disponibili;
+b). i fabbisogni di macchine ed operai e tabella di attribuzione degli incarichi di lavoro;
+c). le saturazioni di macchine ed operai e il valore medio delle saturazioni.
+
+Pag. 8/9
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M657 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+Tabella 1
+
+ORDINI CODICE
+MODELLO
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+
+2101
+2101
+2102
+2102
+2103
+2103
+2104
+2105
+2105
+2105
+2106
+2107
+2107
+2107
+2108
+2109
+2110
+2111
+2111
+2111
+2112
+2113
+2114
+2115
+
+RIEPILOGO GENERALE DEGLI ORDINI
+COLLEZIONE P/E
+COD.
+COD.
+QUANTITA’ ORDINATE PER
+TOT
+TESSUTO COLORE
+TAGLIA
+CAPI
+38
+40
+42
+44
+46
+A10
+10
+50 120
+120
+100
+50
+440
+A10
+20
+20 100
+126
+20
+20
+286
+B20
+10
+20
+90
+140
+60
+20
+330
+B20
+30
+20
+60
+78
+20
+20
+198
+C30
+10
+50 120
+120
+100
+50
+440
+C30
+20
+20
+60
+100
+20
+20
+220
+A10
+30
+3
+10
+14
+10
+3
+40
+D40
+10
+300 450
+460
+350
+200
+1760
+D40
+20
+100 300
+400
+200
+100
+1100
+D40
+30
+100 250
+450
+200
+100
+1100
+B20
+10
+10
+54
+70
+14
+10
+158
+B20
+10
+250 450
+500
+250
+200
+1650
+B20
+20
+150 300
+240
+280
+130
+1100
+B20
+30
+50 150
+200
+100
+50
+550
+A10
+10
+5
+15
+15
+15
+3
+53
+E50
+10
+55 129
+146
+56
+10
+396
+F60
+10
+2
+10
+10
+2
+2
+26
+B20
+10
+150 220
+320
+280
+130
+1100
+B20
+20
+50 200
+300
+225
+105
+880
+B20
+30
+75 195
+230
+96
+64
+660
+E50
+20
+26 105
+145
+15
+13
+304
+F60
+10
+10
+37
+52
+18
+15
+132
+A10
+20
+30
+55
+89
+65
+25
+264
+C30
+10
+1
+2
+4
+5
+1
+13
+
+Tabella 2
+CICLO DI LAVORAZIONE MODELLO 2105
+FASE PREPARAZIONE DAVANTI
+CODICE
+DESCRIZIONE
+MACCHINA
+OPERAZIONE
+OPERAZIONE
+(PUNTO DI CUCITURA)
+1
+Confezione componente
+Lineare piana 301 2 aghi
+2
+Stiro apertura
+Ferro a vapore
+3
+Confezione apertura
+Lineare piana 301
+4
+Cucitura due parti
+Lineare piana 301
+5
+Surfilo cucitura precedente
+Surfilatrice 504
+6
+Applicazione componente
+Lineare piana 301 2 aghi
+
+Tempo assegnato in
+minuti
+3,8
+2,4
+1,6
+2,2
+1
+4
+
+Pag. 9/9
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M657 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE APPLICATE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+
+SECONDA PARTE
+1.
+
+Esporre la procedura di distribuzione degli incarichi di lavoro alle risorse umane e alle macchine
+impiegata e indicare i vincoli relativi all’utilizzo delle risorse umane e alle macchine.
+
+2.
+
+Considerando i dati emersi dall’analisi del venduto esprimere una valutazione delle vendite al
+fine di migliorare l’organizzazione della produzione.
+
+3.
+
+Indicare le finalità dello studio e industrializzazione del prodotto moda indicando le fasi e le
+figure professionali di questo processo.
+
+4.
+
+Esporre il significato di rischio indicato dal Decreto Legislativo n.81/2008 e indicare la procedura
+di eliminazione dei rischi alla fonte come misura generale di tutela.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

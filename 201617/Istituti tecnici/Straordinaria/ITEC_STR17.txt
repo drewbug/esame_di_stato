@@ -1,0 +1,161 @@
+Pag. 1/4
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Un sistema per il monitoraggio e la razionalizzazione delle risorse idriche di un piccolo comune
+montano, impiega un sensore di livello ad ultrasuoni (SL ) per la misura, in tempo reale, della riserva
+d’acqua disponibile nella vasca di accumulo principale dell’acquedotto e due sensori di flusso (SF),
+identici tra loro e installati, rispettivamente, sul collettore di uscita e di ingresso della vasca, per la
+rilevazione istantanea delle portate (POUT e PIN) in uscita e in ingresso alla medesima vasca (si ricorda
+che: portata = quantità di acqua per unità di tempo).
+La vasca di accumulo ha sezione circolare e capacità massima di 500 m3 corrispondente al livello di
+pieno posto a una quota di 4 m dal fondo della vasca. Il sensore di livello SL posto sul bordo presenta
+una uscita di tipo TTL e viene attivato da un impulso di trigger per l’avvio della rilevazione. Il
+dispositivo opera come segue:
+
+
+
+a riposo presenta un’uscita a livello logico basso;
+quando riceve l’impulso di trigger emette un segnale ad ultrasuoni verso il fondo della vasca e
+istantaneamente pone a livello alto l’uscita.
+
+La medesima uscita ritorna al livello basso alla ricezione del segnale ultrasonico di ritorno, generatosi
+sulla superficie dell’acqua contenuta nel serbatoio (si ricorda che la velocità di propagazione delle
+onde ultrasoniche nell’aria vale circa 330 m/s).
+Il tempo di durata dell’uscita a livello logico alto consente la valutazione della distanza cui si trova
+la superficie dell’acqua rispetto alla superficie del serbatoio.
+Relativamente alla valutazione del flusso d’acqua ciascuno dei due sensori SF produce in uscita un
+segnale ad onda quadra la cui frequenza f, in Hertz, risulta proporzionale alle portate PIN e POUT, in
+litri al secondo, mediante la relazione
+f IN= 10∙k · PIN/
+
+fOUT = 10∙k · POUT
+
+dove k = 12,5 [l-1]
+
+Pag. 2/4
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+L’operatività del sistema è cosi definita:
+
+
+Ogni 30 secondi si rileva, mediante il sensore di livello SL, lo stato di riempimento della vasca
+di accumulo.
+
+
+
+Ogni 5 secondi vengono letti i segnali provenienti dai sensori di flusso.
+
+
+
+Se il livello nella vasca scende al di sotto di un valore h1, viene parzialmente chiusa, mediante
+una valvola a saracinesca motorizzata, la condotta secondaria che alimenta le utenze pubbliche
+comunali (fontane, giochi d’acqua, abbeveratoi etc.) e tale chiusura parziale deve limitare la
+portata in uscita ad un valore di 2,5 litri al secondo.
+
+
+
+Se il livello scende ulteriormente fino ad un livello hmin, la medesima valvola viene chiusa
+completamente.
+
+Il candidato, formulate le ipotesi aggiuntive che ritiene opportune:
+1.
+
+Proponga uno schema a blocchi del sistema, che utilizzi un dispositivo programmabile di sua
+conoscenza, e descriva i singoli blocchi dal punto di vista funzionale, evidenziando le modalità
+di interconnessione tra periferiche e sistema di gestione.
+
+2.
+
+Descriva le modalità operative per l’acquisizione dei dati provenienti dai sensori evidenziando
+in particolar modo le procedure necessarie alla determinazione dei valori del livello dell’acqua
+nel serbatoio, della quantità di acqua contenuta nel serbatoio Q e delle portate PIN e POUT.
+
+3.
+
+Indichi, mediante un diagramma di flusso dettagliato, o altra rappresentazione utile, la struttura
+dell’algoritmo di gestione dell’intero processo.
+
+4.
+
+Effettui, in un linguaggio coerente con il sistema programmabile scelto, la codifica del segmento
+di software che gestisce l’acquisizione dei dati provenienti da almeno uno dei sensori e la
+chiusura della valvola motorizzata.
+
+Pag. 3/4
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+SECONDA PARTE
+1. Relativamente alla prima parte della prova, si indichino le modifiche da apportare alla struttura
+hardware del sistema di controllo ed al software di gestione nel caso in cui il sensore di livello
+integri al suo interno una codifica in formato digitale dell’esito della misura e utilizzi per la
+comunicazione con il sistema programmabile il protocollo seriale SPI.
+2. Relativamente alla prima parte della prova, si indichi una possibile soluzione per ottenere una
+regolazione continua della portata sulla condotta secondaria tale che si vada gradualmente da un
+valore massimo di 500 litri al minuto, a vasca completamente piena, fino alla chiusura completa
+della saracinesca in corrispondenza del livello hmin. Si illustrino le modifiche e/o integrazioni da
+apportare all’hardware ed al software del sistema.
+3. Dato il sistema retroazionato rappresentato nello schema a blocchi di figura, se ne studi la stabilità
+evidenziando per quali valori del parametro k esso risulti:
+
+
+semplicemente stabile;
+
+
+
+asintoticamente stabile;
+
+
+
+instabile.
+
+Pag. 4/4
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+4. Si consideri la situazione descritta in figura nella quale il sistema S sia sollecitato in ingresso con
+l’impulso unitario:
+
+La risposta nel dominio del tempo, u(t), è riportata nel grafico seguente
+
+Dopo aver scritto l’espressione della funzione di trasferimento del sistema e determinato il valore dei
+poli e degli zeri che la caratterizzano, si valuti la stabilità del sistema tesso.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema
+
+

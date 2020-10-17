@@ -1,0 +1,92 @@
+Pag. 1/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I256 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una compagnia aerea deve pianificare un volo intercontinentale da Sydney/Kingford Smith
+(3356S15110E) a Jakarta/Soekarno-Hatta (0607S10640E). Il piano di volo prevede di seguire il
+percorso più breve mantenendo FL330 e una GS media di 435 kts. Lungo la rotta è prevista un’ampia
+aerea anticiclonica, tipica della zona, centrata sulle coordinate 1749S12140E. Si stima, per sfruttare
+la situazione meteo, di ottenere un guadagno di 35 kts sulla GS media suddividendo il percorso in
+due tratte ortodromiche rispetto a un punto distante 265 NM dal centro anticiclonico.
+Il candidato valuti quali dovrebbero essere le coordinate del punto intermedio per poter utilizzare la
+rotta a minor tempo e il guadagno di tempo complessivo sulla tratta.
+La procedura assegnata all’atterraggio è la ILS per RWY 25R che prevede la discesa da DKI VOR
+R248 D24, mentre la procedura di MISSED APCH è così espressa: Climb to 6000’, after passing
+2000’, turn RIGHT to intercept CKG VOR R028 outbound, proceed to NOKTA or as instructed by
+ATC. Il candidato rappresenti la procedura con scala a scelta sapendo che il punto NOKTA si trova
+rispetto a DKI R344 D30 mentre si trova rispetto a CKG R028. Sul NOKTA è attestata la procedura
+di mancato avvicinamento con tratto inbound su R164.
+Il candidato valuti quale sarebbe il settore d’ingresso nel circuito di attesa standard supponendo di
+aver eseguito un mancato avvicinamento; la VAR nei pressi dell’aeroporto è 1°E.
+SECONDA PARTE
+1. Utilizzando i dati della prima parte, il candidato rappresenti i vari punti dei percorsi ottenuti e la
+zona anticiclonica sul reticolato di una carta stereografica polare avente raggio della sfera
+rappresentativa r = 100 mm.
+Supponendo che il volo GAI-713 sia secondo nello stack di attesa, che la procedura prevede di
+lasciare il NOKTA alla MHA = 6000 ft, quota alla quale raggiungere il DKI, e che l’aggancio
+all’ILS è previsto a 2000 ft, a circa 6 NM dalla soglia pista, il candidato valuti le manovre di
+discesa che potrebbe eseguire il pilota e il tempo che impiegherebbe il velivolo per atterrare.
+L’aeroporto ha una FE = 33 ft, l’aereo mantiene una TAS media di discesa di 180 kts mentre si
+prevede che il controllore ATC autorizza il pilota a portarsi all’IAF quando è sul NOKTA alla
+propria quota attesa. La Transition altitude coincide con la MHA mentre il METAR
+dell’aeroporto riporta:
+ WIII 221850Z 20030G40KT 1500 R25R/800V1600 TSRA OVC020CB 25/22 Q1006
+
+Pag. 2/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I256 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+2. Dalla portaelicotteri Garibaldi (3656N01615E), in navigazione con Rn=180° e Vn=24kts decolla
+un EH-101 a GMT=15:45 per una missione di sorveglianza lungo il parallelo 35°N. La missione
+prevede di intercettare il suddetto parallelo seguendo TC=155° e successivamente iniziare la
+ricognizione verso ovest per poi rientrare sulla nave. Il candidato valuti su quale meridiano si
+conclude la perlustrazione se l’elicottero ha un’autonomia di 3h15m. Dalla Garibaldi decolla un
+secondo elicottero nell’istante in cui il primo pilota comunica via radio di iniziare il rientro. Il
+candidato calcoli il tempo che intercorre tra la fine della missione del primo elicottero e l’inizio
+della perlustrazione, sul PNR, del secondo elicottero. I due aeromobili mantengono una
+CAS=85kts e FL080. Si utilizzi per lo scopo il bollettino METAR:
+ LICO 261655Z 22010KT CAVOK 18/14 Q1019 RMK BKN SCT100 BKN200 QUK 3 QUL 1
+W VIS MAR 12 KM VIS MIN 9999=
+3. Due aeromobili, sotto vettoramento, stanno convergendo sullo stesso VOR-DME. Alle
+UTC=22:10, il volo AZA 752 è sul QDM=155° distante 50 NM, mentre il volo RYR 1285 segue
+il QDM=210° distante 68 NM. Alle UTC=22:12, AZA si trova a distanza di 38 NM mentre RYR
+ha ridotto la distanza a 53 NM. Il candidato valuti se ai due voli è assicurata la separazione
+minima prevista o se il controllore radar dovrà istruire uno dei due piloti per ottenerla. Il vento
+in zona è W/V=360°/20 kts mentre la VAR=22°W. Il candidato riporti, utilizzando la fraseologia
+standard, le battute essenziali tra l’ACC e i due piloti.
+4. Dalla lettura dei bollettini meteorologici successivi il candidato rappresenti con scala a piacere
+una possibile SWLL che contenga le informazioni riportate relative alla FIR di Milano:
+LIMM AIRMET 10 VALID 221600/221800 LIMM- LIMM MILANO FIR MT OBSC OBS WI
+N4427 E00914 - N4401 E01130 - N4408 E01106 - N4427 E00914 STNR NC=
+LIMM AIRMET 11 VALID 221630/222030 LIMM- LIMM MILANO FIR BKN CLD 500/1000FT
+OBS WI N4549 E01037 - N4554 E01047 - N4628 E01237 - N4628 E01337 - N4549 E01037
+STNR NC=
+LIMM AIRMET 12 VALID 221700/221900 LIMM- LIMM MILANO FIR ISOL TS FCST WI
+N4522 E00840 - N4546 E00855 - N4521 E01100 - N4441 E01050 – N4509 E00852 - N4522
+E00840 STNR NC=
+Nell’ipotesi che si volesse decollare da una delle zone rappresentate, il candidato motivi la
+possibilità o meno di poter svolgere un volo VFR.
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

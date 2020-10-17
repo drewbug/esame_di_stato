@@ -1,0 +1,167 @@
+Pag. 1/5
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I043 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+LI15 - SCIENTIFICO - SEZIONE AD INDIRIZZO SPORTIVO
+(Testo valevole anche per la corrispondenti sperimentazioni quadriennali)
+
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+Un produttore di candeline tea light vuole produrre un nuovo tipo di candela colorata che abbia una
+parte inferiore di forma cilindrica ed una parte superiore avente la forma riportata in figura 1, che si
+connetta perfettamente a quella inferiore, come mostrato in figura 2:
+
+1) Stabilisci, motivando adeguatamente la risposta, quale delle seguenti funzioni può rappresentare
+adeguatamente il profilo della parte superiore della candela:
+𝑎−𝑥
+1. 𝑦 = { √
+√𝑎 + 𝑥
+2. 𝑦 = 𝑎 − 𝑥 2
+
+𝑠𝑒 0 ≤ 𝑥 ≤ 𝑎
+𝑠𝑒 − 𝑎 ≤ 𝑥 < 0
+𝑖𝑛 [−√𝑎; √𝑎]
+
+3. 𝑦 = −√|𝑥| + 𝑎
+
+𝑖𝑛 [−𝑎2 ; 𝑎2 ]
+
+con 𝑎 ∈ ℝ, 𝑎 > 0
+𝑐𝑜𝑛 𝑎 ∈ ℝ, 𝑎 > 0
+𝑐𝑜𝑛 𝑎 ∈ ℝ, 𝑎 > 0
+
+Utilizzando l’espressione analitica trovata, studia eventuali punti di singolarità del profilo della
+parte superiore della candela.
+
+Pag. 2/5
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+2) Per consentire l’inserimento dello stoppino al vertice della candela, è necessario che l’angolo 𝜗 in
+figura 1 non sia maggiore di 30°. Determina di conseguenza i possibili valori del parametro 𝑎.
+3) Attribuendo all’altezza e al raggio della parte cilindrica i valori rispettivamente di 8 e 2, in
+un’opportuna unità di misura, determina il volume totale della candela. Da questo dato
+dipenderanno il peso e il costo di produzione della candela stessa.
+Il produttore deve inscatolare le candele in confezioni da 3 e da 4 candele, posizionando le candele
+in verticale, con le basi circolari disposte in modo da occupare il minor spazio possibile. Si prevedono
+due possibili configurazioni per posizionare le basi circolari delle candele all’interno delle scatole,
+rappresentate in figura 3:
+
+4) Fornisci una valutazione numerica dell’efficienza dei due confezionamenti, calcolando il rapporto
+tra area occupata dalle basi circolari delle candele inserite nella scatola e area disponibile in
+ciascuna delle due configurazioni. Tale rapporto deve essere espresso in percentuale. Ai fini del
+calcolo, considera che le celle poligonali evidenziate in grigio sono rispettivamente un triangolo
+equilatero e un quadrato.
+
+Pag. 3/5
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PROBLEMA 2
+Consideriamo la funzione f :    , così definita:
+
+f ( x)  ln( a  ebx  c)
+al variare di a, b, c parametri reali positivi.
+1) Verifica che, comunque si scelgano i parametri, si ha:
+f ' x  0 x   , f ' ' x  0 x   .
+
+2) Verifica inoltre che, comunque si scelgano i parametri, la funzione f ha un asintoto orizzontale,
+per x   , e un asintoto obliquo, per x   ; determina a, b, c in modo che l’asintoto
+orizzontale, per x   , sia la retta di equazione y  0 e l’asintoto obliquo, per x   , sia la
+retta di equazione y  x .
+3) Dimostra che ponendo a  b  c  1 si ha:
+
+x  f ( x)  e x x   .
+4) Verifica inoltre che ponendo a  b  c  1 e detta A l’area della parte di piano compresa tra il
+grafico della funzione h( x)  f ( x ) e l’asse x del riferimento cartesiano, si ha
+𝐴<2
+Inoltre, a partire dalle caratteristiche del grafico della funzione ℎ(𝑥), determina un numero reale 𝑆,
+quanto più grande possibile, tale che
+𝐴>𝑆
+
+Pag. 4/5
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+QUESTIONARIO
+1. Si dispone di due dadi uguali non bilanciati. Lanciando ciascuno dei due dadi, le probabilità di
+uscita dei numeri 1, 2, 3 e 4 sono pari a 𝑘, mentre le probabilità di uscita dei numeri 5 e 6 sono
+pari a 𝑘⁄2. Determinare il valore di 𝑘 e stabilire qual è la probabilità che, lanciando i due dadi
+contemporaneamente, escano due numeri uguali tra loro.
+2. Determinare il raggio della sfera di centro 𝐶(2, 2, 2) tangente al piano di equazione:
+𝑥 + 2𝑦 + 𝑧 = 12.
+3. Considerando la funzione 𝑓: ℝ → ℝ definita come:
+𝑥2
+−
+𝑓(𝑥) = { 4 + 2𝑥, 𝑝𝑒𝑟 𝑥 < 4
+𝑒 4−𝑥 + 3, 𝑝𝑒𝑟 𝑥 ≥ 4
+determinare l’angolo formato dalle tangenti nel punto angoloso del grafico della funzione.
+4. Calcolare la derivata della funzione 𝑓(𝑥) = 𝑥 ∙ 𝑠𝑒𝑛(𝑥), adoperando la definizione di derivata.
+5. Determinare l’area della superficie compresa tra il grafico della funzione:
+𝑓(𝑥) =
+
+2𝑥 + 1
+,
+𝑥2 + 𝑥 + 1
+
+le rette 𝑦 = 2, 𝑥 = 5 e l’asse 𝑦.
+6. Determinare l’equazione della retta tangente al grafico della funzione:
+𝑓(𝑥) = 𝑥 ∙ 𝑒 −𝑥
+nel suo punto di flesso.
+7. La variabile casuale 𝑥 ha densità di probabilità data dalla funzione:
+1
+𝑝𝑒𝑟 𝑥 ∈ [0, 1⁄2]
+3
+7
+𝑓(𝑥) =
+𝑝𝑒𝑟 𝑥 ∈ [1⁄2 , 3⁄2] ;
+12
+1
+3
+{ 2 𝑝𝑒𝑟 𝑥 ∈ [ ⁄2 , 2]
+determinare la media e la mediana della variabile casuale 𝑥.
+
+Pag. 5/5
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+8. Determinare le coordinate dei punti nello spazio che giacciono sulla retta perpendicolare nel
+punto [1, 1, 1] al piano di equazione 2𝑥 − 𝑦 − 𝑧 = 0, a distanza 6 da tale piano.
+9. Considerando la funzione:
+𝑓(𝑥) =
+
+𝑎𝑥 + 1
+𝑥
+
+definita in ℝ e a valori in ℝ , mostrare che le tangenti al suo grafico nei punti di ascissa -1 e 1 sono
+parallele alla bisettrice del secondo e del quarto quadrante, indipendentemente dal valore del
+parametro 𝑎 . Individuare inoltre il valore minimo del parametro 𝑎 per cui la tangente al grafico
+nel punto di ascissa 1 forma con gli assi cartesiani un triangolo di area maggiore di 3.
+10. Dimostrare che la derivata della funzione:
+𝑓(𝑥) = 𝑒 𝑎𝑥
+è la funzione
+𝑓 ′ (𝑥) = 𝑎 ∙ 𝑒 𝑎𝑥
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 350 Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non
+italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

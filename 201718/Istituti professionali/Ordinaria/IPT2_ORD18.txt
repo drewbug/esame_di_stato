@@ -1,0 +1,75 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT2 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT2 – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Il sistema di monitoraggio della temperatura all’interno di un ambiente prevede la presenza di 4 trasduttori
+installati in posizioni scelte. Il sistema considera come temperatura dell’ambiente la media dei 4 valori
+rilevati.
+I trasduttori forniscono in uscita una tensione che varia con la temperatura T secondo la legge:
+V (T) = K T dove K = 10mV/°C.
+Si considera che la temperatura T può oscillare tra 0°C e 50°C.
+I dati acquisiti ogni 4 ore sono successivamente inviati ad un sistema di elaborazione. Il convertitore A/D
+a 8 bit ammette tensioni comprese tra 0 e 10V.
+Il candidato, fatte eventuali, ulteriori ipotesi ritenute necessarie,
+ rappresenti il sistema di acquisizione dati tramite un schema a blocchi descrivendo la funzione di
+ognuno;
+ dimensioni il circuito di condizionamento dell’ampiezza del segnale da inviare al convertitore;
+ determini la risoluzione percentuale del convertitore;
+ descriva una soluzione circuitale per effettuare la media dei 4 segnali;
+ illustri un sistema in grado di segnalare se la temperatura rilevata è minore di 15°C o maggiore di 25°C.
+
+SECONDA PARTE
+Il candidato, fatte le ulteriori ipotesi ritenute necessarie, risponda a 2 dei 4 quesiti seguenti:
+1. In riferimento al filtro di figura, il candidato, dopo averne descritto le principali caratteristiche,
+dimensioni un filtro con guadagno 10 volte maggiore e frequenza di taglio doppia.
+R =1 k C= 1 F
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT2 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT2 – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+2. Un motore asincrono trifase eroga una potenza P2 = 4,95 kW; sapendo che il rendimento vale  = 0,9,
+che la tensione di alimentazione è pari a 400V mentre cos  = 0,87, il candidato:
+‒
+‒
+
+determini la potenza e la corrente assorbite dal motore,
+indichi le caratteristiche degli strumenti per effettuare le misure di potenza e corrente e rappresenti
+lo schema di montaggio dello strumento per misurare I.
+
+3. Un trasformatore ideale monofase presenta i seguenti dati: Sn = 15 kVA; tensione primaria nominale
+V1n =1,5 kV; tensione secondaria V20 =230 V. Il candidato determini:
+‒
+
+il rapporto spire e la tensione al primario per avere sul secondario una tensione pari a 24 V;
+
+‒
+
+la potenza attiva e la corrente assorbite dal carico Z = 4+j2 se il primario è alimentato alla tensione
+nominale.
+
+Infine, il candidato illustri le differenze rispetto al trasformatore reale.
+4. Il candidato descriva le configurazioni circuitali dei vari tipi di raddrizzatori a semplice e doppia
+semionda, illustri le differenze anche dal punto di vista applicativo e indichi i parametri di scelta dei
+componenti.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

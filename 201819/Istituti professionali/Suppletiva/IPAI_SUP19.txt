@@ -1,0 +1,64 @@
+Pag. 1/1
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPAI - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE DI INSTALLAZIONE E MANUTENZIONE DI APPARATI
+E IMPIANTI CIVILI E INDUSTRIALI
+PRIMA PARTE
+La centrale termo-frigorifera di un centro commerciale è a servizio degli spazi comuni ed è costituita
+dalle seguenti apparecchiature principali:
+•
+
+due gruppi frigoriferi con compressori a vite;
+
+•
+
+due unità di trattamento aria con ventilatore di mandata e di ripresa;
+
+•
+
+due caldaie a gas metano;
+
+•
+
+pompe di circolazione acqua calda ed acqua fredda;
+
+•
+
+quadro di regolazione e controllo;
+
+•
+
+quadro elettrico di alimentazione delle utenze di centrale, alimentato dal quadro generale
+dell’edificio.
+
+Una ditta è incaricata della conduzione e manutenzione ordinaria e straordinaria degli impianti
+generali del centro commerciale.
+
+Il candidato, in funzione della propria esperienza di studi:
+1. descriva il principio di funzionamento e le caratteristiche funzionali di almeno una delle
+apparecchiature sopra elencate;
+2. predisponga il piano di manutenzione ordinaria annuale per una apparecchiatura tra quelle sopra
+elencate;
+3. effettui un’analisi del preventivo per il ripristino del corretto funzionamento e rediga un
+diagramma (Gantt o simili) con i relativi tempi di tutte le fasi di lavoro;
+4. supposto, inoltre, che il tasso di guasto di un gruppo frigorifero sia pari a 2 * 10-6 ore-1, determini
+l’affidabilità del sistema dopo 5 anni ipotizzando che i due gruppi funzionano in parallelo.
+
+____________________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda è
+predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione scolastica
+e della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

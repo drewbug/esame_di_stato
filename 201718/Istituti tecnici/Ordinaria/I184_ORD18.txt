@@ -1,0 +1,105 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Si vuole separare per distillazione una miscela costituita da due componenti, A e B, di cui A è il più
+volatile. Poiché la miscela forma un azeotropo omogeneo di minimo, la si addiziona di un terzo
+componente C in modo da formare un azeotropo ternario eterogeneo. Nell’azeotropo ternario, allo
+stato di vapore, la concentrazione di B è alquanto superiore a quella presente nell’azeotropo binario
+della miscela A – B. Allo stato liquido, l’azeotropo ternario si separa in due fasi, di cui la superiore,
+quella a minore densità, contiene minime quantità di B e la maggior parte di C, mentre l’inferiore, a
+maggiore densità, contiene prevalentemente A e B in concentrazioni simili e piccole quantità di C.
+L’impianto lavora in continuo e prevede due colonne di distillazione che operano a pressione
+atmosferica. Nella prima si alimenta la miscela A – B con una composizione di poco inferiore a quella
+dell’azeotropo binario. L’alimentazione proviene da un’altra sezione dell’impianto e non necessita di
+preriscaldamento. Durante la fase di avviamento in testa alla prima colonna si introduce la prevista
+quantità di C. La concentrazione del terzo componente nelle correnti in uscita dall’impianto è
+praticamente trascurabile, per cui non se ne prevede il reintegro. Dalla testa della prima colonna esce
+l’azeotropo ternario che condensa passando in un condensatore, dove si formano due fasi liquide che
+si scaricano in un accumulatore di riflusso che funziona anche da decantatore. La fase superiore
+costituisce il riflusso della prima colonna. Dal fondo della prima colonna esce un prodotto costituito
+praticamente da componente A puro che si avvia direttamente ad ulteriori lavorazioni.
+La seconda colonna è strutturata come una colonna di esaurimento, alimentata con la fase inferiore
+presente nel decantatore. Dalla testa esce praticamente l’azeotropo ternario che contiene tutto il terzo
+componente introdotto nell’alimentazione. L’azeotropo ternario va al condensatore comune con la
+prima colonna per poi passare, dopo condensazione, nel comune accumulatore di riflusso formando
+le due fasi liquide già descritte. Dal fondo della colonna esce una miscela A – B, a concentrazione
+alquanto inferiore a quella dell’azeotropo binario, che va ad ulteriori lavorazioni.
+Come fluidi di servizio sono disponibili acqua industriale di raffreddamento e vapore di rete. Il
+candidato disegni lo schema dell’impianto idoneo a realizzare l’operazione proposta, completo delle
+apparecchiature accessorie (pompe, valvole, serbatoi, ecc.) e delle regolazioni automatiche principali
+rispettando, per quanto possibile, la normativa UNICHIM.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+SECONDA PARTE
+1. L’azeotropo ternario, di cui alla prima parte del tema, ha la composizione riportata nella sottostante
+tabella.
+Componente, % in massa 
+Fase vapore
+Fase liquida superiore
+Fase liquida inferiore
+
+A
+18
+12
+52
+
+B
+8
+2
+42
+
+C
+74
+86
+6
+
+a) Per una portata di 100 kg/h dell’azeotropo in fase vapore, si calcolino le portate delle due fasi
+liquide, la superiore e l’inferiore, risultanti dalla sua condensazione totale.
+b) Dalla fase liquida inferiore dell’azeotropo si separa per distillazione un vapore con la
+composizione dell’azeotropo ternario e una fase liquida totalmente priva del componente C. In
+questa ipotesi, partendo da 100 kg/h di fase liquida inferiore dell’azeotropo, si calcolino le
+portate delle altre due correnti.
+2. Discutere il fenomeno dell’azeotropismo e di come altera l’equilibrio liquido - vapore in rapporto
+alle miscele ideali. Analizzare poi i parametri che influenzano le miscele azeotropiche e i possibili
+metodi di separazione.
+3. Una termodinamica favorevole è condizione necessaria ma non sufficiente perché una
+trasformazione sia realizzabile; affinché possa avvenire è però necessaria una cinetica percorribile
+in tempi adeguati.
+Reattività dei reagenti, concentrazione, temperatura, inibitori, catalizzatori, ecc. sono tutti fattori
+che influenzano notevolmente la cinetica dei processi chimici o biochimici. Il candidato, in base a
+quanto affrontato nel suo corso di studi, illustri un processo chimico o biochimico mettendo in
+evidenza gli aspetti cinetici delle trasformazioni coinvolte.
+4. Lo sviluppo delle materie plastiche fornisce materiali polimerici sempre più versatili per le più
+svariate applicazioni. Il candidato, sulla base degli studi fatti, illustri le varie fasi produttive e le
+principali caratteristiche applicative di un materiale polimerico comprendendo eventualmente
+anche la produzione del o dei monomeri.
+
+_______________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali relativi alle simbologie UNICHIM, di tabelle con dati numerici, di diagrammi relativi a parametri
+chimico-fisici, di mascherine da disegno e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

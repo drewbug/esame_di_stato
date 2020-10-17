@@ -1,0 +1,148 @@
+ISTITUTO PROFESSIONALE Settore INDUSTRIA E ARTIGIANATO
+Indirizzo: “MANUTENZIONE E ASSISTENZA TECNICA”
+e Opzione “APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI”
+ESEMPIO DI SECONDA PROVA di “TECNOLOGIE E TECNICHE DI
+INSTALLAZIONE E MANUTENZIONE”
+Il candidato, a seconda che nell’ambito delle abilità e conoscenze previste dalle linee
+guida abbia approfondito gli aspetti di ambito Elettrico-Elettronico o di ambito
+Meccanico e dei Sistemi energetici scelga il TEMA n.1 o il TEMA n.2
+TEMA N.1
+PRIMA PARTE
+Ad una ditta viene affidata la manutenzione ordinaria di un impianto di depurazione delle acque
+reflue. All’interno dell’impianto sono presenti diverse elettropompe sottoposte ad un programma di
+manutenzione che prevede una serie di interventi e precisamente:
+1.
+
+Verifica della tenuta meccanica
+
+2.
+
+Pulizia e controllo di tutte le parti del giunto di accoppiamento
+
+3.
+
+Revisione generale della pompa con controllo dello stato della girante con
+sostituzione dei cuscinetti e delle bussole.
+
+4.
+
+Verifica delle pressioni di aspirazione e di mandata.
+
+5.
+
+Ingrassaggio
+
+6.
+
+Verifica dell’equilibrio delle fasi
+
+7.
+
+Verifica della classe di temperatura
+
+8.
+
+Verifica dell’efficienza della ventola
+
+9.
+
+Verifica della resistenza di isolamento e messa a terra
+
+10. Verifica della corrente assorbita
+11. Controllo allineamento motore pompa
+12. Controllo della corrente assorbita per l’alimentazione dei carichi principali
+13. Verifica taratura degli interruttori magnetotermici
+14. Controllo regolazioni relè termici
+Si riporta di seguito uno spaccato delle tipologia di pompa accoppiata al motore elettrico
+
+Il candidato formulato tutte le ipotesi aggiuntive che ritiene più opportune:
+a. descriva il principio di funzionamento di almeno una delle due parti che compongono
+l’elettropompa;
+b. indichi le problematiche più diffuse dell’elettropompe e come possono essere evitate;
+c. analizzi, con riferimento allo proprio specifico indirizzo di studi, le singole fasi previste nel
+piano di manutenzione descrivendo come intende eseguire ciascun intervento.
+
+Seconda Parte
+Il candidato risponda a due dei seguenti quesiti e presenti per ognuno le linee operative, le motivazioni delle
+soluzioni prospettate.
+
+QUESITO N.1
+In uno stabilimento industriale sono presenti 40 motori elettrici uguali funzionanti nella fase di
+guasti casuali. Supposto che in un intervallo di tempo di 2000 ore si verifichino 5 guasti e
+precisamente dopo 400, 700, 1100, 1300 e 1750 ore, il candidato determini il tasso di guasto dei
+motori esaminati e calcoli l’affidabilità nel lasso di tempo preso in considerazione. Il candidato
+rappresenti inoltre la curva del tasso di guasto e ne descriva le varie fasi individuabili.
+QUESITO N.2
+Il candidato descriva le politiche di manutenzione e le tipologie di manutenzione secondo le norme
+UNI. Si richiede inoltre di riportare in funzione delle proprie esperienze acquisiti anche in contesti
+operativi, un esempio applicativo che riporti ad una tipologia di manutenzione. Indichi la
+documentazione che dovrà essere redatta in funzione dell’esempio descritto.
+QUESITO N.3
+All’interno di un impianto di depurazione delle acque reflue sono presenti diversi corpi illuminanti
+dotati di lampade a vapori di mercurio e posizionati su pali di altezza variabile tra 3,0 e 5,5 metri.
+Ad una ditta di manutenzione viene affidato l’incarico di sostituire le lampade a vapori di mercurio
+con lampade a vapori di sodio. Il candidato, fatte le opportune considerazioni, pianifichi l’intervento
+di riqualificazione energetica avendo cura di descrivere quali mezzi, attrezzature e risorse umane
+prevede di inviare. In funzione delle scelte effettuate, analizzi la tipologia dei possibili rischi
+valutandone la probabilità e il danno per ciascun pericolo individuato. Indichi inoltre, le misure di
+prevenzione e protezione e la tipologia del DPI (Dispositivi di Protezione Individuale) necessari per
+effettuare l’intervento in sicurezza.
+QUESITO N.4
+Un manutentore è chiamato per la sostituzione di una pompa di ricircolo a servizio di un impianto
+di riscaldamento. La nuova elettropompa ha un costo di listino pari a 2.200,00 euro. Per eventuali
+accessori si consideri un 10% del prezzo di listino dell’elettropompa. Il candidato facendo le
+opportune considerazioni, effettui un preventivo dettagliato da esporre al committente che tenga
+conto dei costi di materiale, manodopera, e dell’utile d’impresa. Rediga inoltre, un rappresentazione
+su scala temporale o reticolare di tutte le fasi necessarie.
+
+TEMA N.2
+PRIMA PARTE
+Il responsabile dei servizi tecnici di un albergo, rilevato il non corretto funzionamento dell'impianto
+di climatizzazione della sala meeting, richiede l'intervento del servizio di manutenzione.
+Lo schema di principio dell’impianto è riportato in figura.
+
+Il candidato fatte le ipotesi che ritiene più opportune:
+1. descriva i principali componenti che costituiscono l’impianto;
+2. formuli un elenco dei possibili è più probabili guasti che hanno determinato l’avaria;
+3. pianifichi come intende risolvere le problematiche ipotizzate.
+
+Seconda Parte
+Il candidato risponda a due dei seguenti quesiti e presenti per ognuno le linee operative, le motivazioni delle
+soluzioni prospettate.
+
+QUESITO N. 1
+In uno stabilimento industriale sono presenti 40 motori elettrici uguali funzionanti nella fase di
+guasti casuali. Supposto che in un intervallo di tempo di 2000 ore si verifichino 5 guasti e
+precisamente dopo 400, 700, 1100, 1300 e 1750 ore, il candidato determini il tasso di guasto dei
+motori esaminati e calcoli l’affidabilità nel lasso di tempo preso in considerazione. Il candidato
+rappresenti inoltre la curva del tasso di guasto e ne descriva le varie fasi individuabili.
+QUESITO N. 2
+Il candidato descriva le politiche di manutenzione e le tipologie di manutenzione secondo le norme
+UNI. Si richiede inoltre di riportare in funzione delle proprie esperienze acquisite anche in contesti
+operativi, un esempio applicativo che riporti ad una tipologia di manutenzione. Indichi la
+documentazione che dovrà essere redatta in funzione dell’esempio descritto.
+QUESITO N. 3
+Una ditta di manutenzione ha in gestione la manutenzione ordinaria di un gruppo termico
+alimentato a gas metano a servizio di un condominio. Tra le voci previste nel contratto di
+manutenzione si ha:
+- manutenzione ordinaria dei bruciatori con pulizia, lubrificazione e controllo delle parti
+meccaniche, elettriche, componenti ed automatismi;
+- verifica tenuta circuiti liquido riscaldamento sezione interna al gruppo termico;
+- esecuzione di analisi dei fumi/combustione e relativa regolazione dei bruciatori,
+finalizzata ad ottenere il miglior funzionamento in termini di risparmio energetico e la
+limitazione nei termini di legge delle emissioni inquinanti in atmosfera.
+Il candidato, fatte le opportune considerazioni, pianifichi gli interventi previsti nel contratto di
+manutenzione avendo cura di descrivere quali mezzi, attrezzature e risorse umane prevede di
+utilizzare. In funzione delle scelte effettuate, analizzi la tipologia dei possibili rischi valutandone la
+probabilità e il danno per ciascun pericolo individuato. Indichi inoltre, le misure di prevenzione e
+protezione e la tipologia del DPI (Dispositivi di Protezione Individuale) necessari per effettuare gli
+interventi in sicurezza.
+QUESITO N. 4
+Un manutentore è chiamato per la sostituzione di una pompa di ricircolo a servizio di un impianto
+di riscaldamento. La nuova elettropompa ha un costo di listino pari a 2.200,00 euro. Per eventuali
+accessori si consideri un 10% del prezzo di listino dell’elettropompa. Il candidato facendo le
+opportune considerazioni, effettui un preventivo dettagliato da esporre al committente che tenga
+conto dei costi di materiale, manodopera, e dell’utile d’impresa. Rediga inoltre, un rappresentazione
+su scala temporale o reticolare di tutte le fasi necessarie.
+
+

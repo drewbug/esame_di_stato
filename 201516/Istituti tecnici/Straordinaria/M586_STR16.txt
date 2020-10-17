@@ -1,0 +1,98 @@
+Pag. 1/1
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+R
+
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+
+IU
+
+ARTICOLAZIONE ELETTROTECNICA
+
+IM
+
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+AT
+T
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+
+AG
+
+LI
+
+Un motore asincrono trifase a 4 poli, alimentato alla tensione di 400 V e alla frequenza di 50 Hz,
+assorbe la corrente di 190 A e, alla velocità di 1465 giri/min, ha una potenza resa pari a 60 kW. Il
+motore è sottoposto ad una prova a vuoto, a tensione e frequenza nominali, da cui si evince che
+assorbe una corrente pari a 55 A e una potenza di 2900 W di cui 1300 W per perdite meccaniche.
+Le resistenze statoriche sono collegate a stella e la resistenza statorica di fase, misurata a temperatura
+ambiente, vale 16 mΩ.
+
+a)
+
+M
+
+E
+
+Il candidato, fatte le eventuali ipotesi aggiuntive che ritiene necessarie, nel caso in cui il motore
+funzioni con il carico di targa, determini
+il rendimento e la coppia resa;
+
+FO
+
+R
+
+b) le indicazioni di due wattmetri in inserzione Aron.
+
+N
+
+SECONDA PARTE
+
+Il candidato discuta dei vantaggi legati al rifasamento di un carico e determini la potenza reattiva
+della batteria di condensatori necessaria a rifasare il motore, proposto nella prima parte, nel
+rispetto delle norme CEI.
+
+2.
+
+In riferimento al motore asincrono, proposto nella prima parte, il candidato dimensioni il
+dispositivo adatto a ridurre la velocità rotorica del 20%, giustificando la scelta fatta.
+
+3.
+
+Il candidato illustri la differenza tra una macchina a poli lisci e una macchina a poli salienti
+fornendo alcuni esempi relativi al loro utilizzo.
+
+PI
+
+A
+
+C
+
+O
+
+1.
+
+Il candidato, dopo aver spiegato in base a quale principio è possibile controllare la potenza in
+corrente alternata, illustri i principali controllori di potenza.
+
+C
+
+O
+
+4.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

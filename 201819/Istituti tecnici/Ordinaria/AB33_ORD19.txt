@@ -1,0 +1,320 @@
+Pag. 1/8
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCD – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO e
+MECCANICA E MACCHINE
+
+La presente prova è costituita da due opzioni riferite a:
+ OPZIONE A - CONDUZIONE DEL MEZZO AEREO
+ OPZIONE B - CONDUZIONE DEL MEZZO NAVALE
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/8
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCD – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO e
+MECCANICA E MACCHINE
+OPZIONE A - CONDUZIONE DEL MEZZO AEREO
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Durante una esercitazione della NATO nei pressi delle Isole Shetland a una coppia di intercettori viene
+comunicato, alle 09:25 Zulu, di sorvolare NDB Scatsta (6028N00113W) e di dirigersi verso la Norvegia
+con QDR=063°. Due minuti dopo i caccia sorvolano l’NDB e iniziano la loro missione con TAS=320 kts;
+alle 09:38 Zulu ai piloti viene ordinato di intercettare aerei nemici rilevati sui propri sistemi radar, su
+TB=133° distanti 84 NM e che navigano con TC=270° e velocità costante GS=280 kts. Intercettati i velivoli
+nemici, viene simulato per 5 minuti un dog fight completato il quale viene comunicato di iniziare una
+perlustrazione in direzione SW per rientrare sulla verticale dell’NDB a fine autonomia prevista dopo 60
+minuti dal transito su Scatsta. Il candidato calcoli le coordinate e gli orari in cui avvengono l’intercetto e il
+punto di non ritorno sapendo che in zona la VAR=2°W e per i dati meteo utilizzino il bollettino seguente:
+METAR EGPM 200850Z AUTO 07019KT 9999 FEW024 06/00 Q1023.
+Il motore degli intercettori sia un Turboventola con postbruciatore che abbia in virata un fattore di carico
+n=7,2; supponendo che la missione si svolga a FL250, il candidato calcoli il tempo ed il raggio di virata al
+momento in cui i caccia virano per iniziare l’intercettazione.
+SECONDA PARTE
+1. Il candidato fornisca la definizione di decollo indicando il numero di fasi presenti e ciò che caratterizza
+ciascuna fase.
+2. A partire dalle equazioni di un volo librato, il candidato ricavi la relazione che lega l'angolo di rampa
+con l’efficienza, facendo riferimento alla polare aerodinamica di Prandtl, fornendo l’espressione del
+coefficiente di portanza e di resistenza in modo tale che l'angolo di rampa diventi minimo.
+3. Il candidato calcoli l’inclinazione e le coordinate dei nodi del percorso ortodromico che passa tra gli
+aeroporti di Wellington (4120S17448E) e di Perth (3156S11558E); riporti il tutto su una carta
+stereografica polare con raggio della sfera rappresentativa di 75 mm.
+4. Il candidato disegni su un reticolo di Mercatore, con scala a scelta, il solo percorso su QDR=063° della
+prima parte, spiegando le problematiche che si devono considerare nel realizzarlo su tale carta.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici scientifiche e/o grafiche purché non siano
+dotate di capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del Paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/8
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCD – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO e
+MECCANICA E MACCHINE
+OPZIONE B - CONDUZIONE DEL MEZZO NAVALE
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Pianificazione e controllo della traversata tra Fujairah (United Arab Emirates) e Singapore, con gestione dei
+pesi a bordo. Seguono alcuni dati nave.
+Name: M/V Jaz Amira
+Type: Oil tanker
+Call sign: AUXK
+MMSI: 419766000
+LPP=228 m
+B=32,24 m
+DW=74859 t
+Cargo handling
+Nelle prime ore del 20/06/2019 la Jaz Amira si trova con alcune cisterne del carico già al 98% di riempimento
+e tre cisterne centrali, tutte di dimensioni length=28 m e width=12 m, in fase di riempimento.
+Contemporaneamente viene sbarcata della zavorra da due casse basse aventi dimensioni length=10 m e
+width=8 m.
+Le condizioni attuali vedono la nave galleggiare con TA=10.56 m TF=8.24 m. La situazione delle cisterne è
+riassunta nella seguente tabella:
+
+TANK
+
+Volume
+m3
+
+Longitudinal
+position
+from AP m
+
+CARGO
+CARGO
+CARGO
+BALLAST
+BALLAST
+
+6048
+6048
+6048
+126
+126
+
+164.5
+96.5
+48.5
+165.0
+84.0
+
+Required
+filling
+level
+[%]
+98
+98
+98
+0
+0
+
+Il candidato calcoli le immersioni estreme a fine caricazione.
+
+Attained
+filling
+level
+[%]
+20
+15
+35
+74
+66
+
+Content
+density
+[t/m3]
+0.890
+0.890
+0.890
+1.025
+1.025
+
+Pag. 4/8
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCD – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO e
+MECCANICA E MACCHINE
+Sono disponibili i seguenti dati estratti dalla tavola delle carene dritte:
+
+Pag. 5/8
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCD – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO e
+MECCANICA E MACCHINE
+Passage planning – appraisal/planning
+L’ETD da Fujairah è previsto per le ore tf=1300 del 20/06/2019 e si stima un ETA tf=1615 del 02/07/2019
+al Pulau Bukom Oil Terminal di Singapore.
+Per la pianificazione ci si avvale della Pilot Chart pertinente, di cui è riportato un estratto. Il Candidato
+descriva le condizioni stimate di mare, vento e corrente risultanti dalla carta citata, applicando le proprie
+conoscenze per contestualizzare i dati climatologici ottenuti in una più ampia trattazione che includa la
+descrizione dei sistemi di circolazione atmosferica della zona considerata.
+
+Pag. 6/8
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCD – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO e
+MECCANICA E MACCHINE
+Passage planning – execution/monitoring
+Durante il pomeriggio del 02/07/2019 si sta attraversando la precautionary area che precede l’accesso
+occidentale a Singapore (Main Strait TSS) con HDG=130° e STW=12 kts. Si riporta estratto dello Ships’
+Routeing della zona coinvolta per migliore contestualizzazione.
+
+A partire dalle tf=1430 si eseguono le seguenti osservazioni radar:
+Target
+A
+B
+
+14:30
+
+Relative
+bearing
++175°
+
+Range
+[NM]
+5.0
+
+14:36
+
++174°
+
+4.0
+
+14:30
+14:36
+
++60.0°
++60.0°
+
+9.0
+6.9
+
+AIS info
+
+UT
+
+Passenger
+ship
+underway
+RO-RO Pax
+underway
+
+Il candidato esamini la situazione cinematica proposta in una breve relazione tecnica completa di tutti i dati
+rilevanti (moti relativi e veri dei bersagli, CPA, TCPA), commentando le situazioni di criticità e i possibili
+scenari risolutivi in base alla Convenzione COLREGs. Vengano presentate quindi le azioni da intraprendere
+da ciascuna nave considerando le presumibili condizioni di manovrabilità delle unità coinvolte.
+
+Pag. 7/8
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCD – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO e
+MECCANICA E MACCHINE
+All’arrivo a Singapore si apprende di dover fare rada per circa 24h, per poi procedere alla banchina OS7, che
+è previsto si liberi a partire dalle tf = 0800 del 03/07.
+Le condizioni di traffico in banchina e la presenza di alcuni lavori sottomarini in zona costringeranno
+comando e pilota ad eseguire una manovra che condurrà la nave su un bassofondo di 11 m. La propria
+immersione massima risulta T=11.30 m, mentre è noto il minimo UKC da SMS, pari a 2.5 m. La pressione
+atmosferica prevista è 993 hPa.
+Il candidato determini se all’ora stimata di disimpegno della banchina sia possibile transitare in sicurezza.
+Nel caso non siano rispettati i requisiti di Compagnia determinare la prima finestra temporale (tidal window)
+favorevole. Venga infine determinato l’UKC previsto in banchina considerando la bassa marea successiva a
+pressione atmosferica standard per maggior tutela.
+Si riportano di seguito estratti delle Tide Tables e delle Sailing Directions:
+
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+Pag. 8/8
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Indirizzo: ITCD – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO e
+MECCANICA E MACCHINE
+Le COLREGSs e la STCW 2010 impongono che l'ufficiale di coperta conosca i vari sistemi di controllo del
+ponte e dell'uso del motore principale. Tali competenze, in particolare, devono riguardare le manovre di
+emergenza del motore in maniera da affrontarle con una critica e approfondita comprensione dei vari allarmi
+che potrebbero scattare, comprensione che viene accertata con la familiarizzazione effettuata sul ponte di
+comando.
+Durante la navigazione l’ufficiale di guardia sul ponte si troverà in diverse situazioni ordinarie o di
+emergenza e queste ultime le dovrà fronteggiare con le dovute precauzioni pena la perdita della propulsione.
+Tenendo conto quanto previsto dalla SOLAS, descrivere quali siano i requisiti tecnici obbligatori per il
+controllo a distanza delle macchine di propulsione delle navi e come poter agire in caso di avaria del controllo
+a distanza.
+SECONDA PARTE
+1) Durante la traversata descritta nella prima parte si sviluppa un principio di incendio in Engine Room,
+immediatamente controllato ed estinto. Descrivere quali tipologie di impianti antincendio esistono per
+le navi come la Jaz Amira, differenziando tra rivelazione, contenimento ed estinzione per le varie zone
+della nave, specificando inoltre il regime di drills antincendio previsto dalla SOLAS.
+2) During the navigation in the Strait of Malacca, when in position LAT=03°06.5’N and
+LONG=100°31.5’E, some floating containers have been spotted by the OOW. Identify the correct radio
+communication priority level for this kind of events and write down the transcription of the possible
+radio message that could have been sent by the M/V Jaz Amira in order to warn the Authorities and the
+other ships of the presence of dangerous floating objects.
+3) Ultimato il piano di carico di una VLCC si passa a valutare le informazioni che si sono ottenute dal
+calcolo dell’altezza metacentrica trasversale GM. Indicare lo schema di calcolo necessario a tale
+verifica ed in particolare determinare quale sia il valore minimo tenuto conto della documentazione
+tecnica di bordo riguardante questo tipo di valutazione.
+4) Il diagramma dei bracci di stabilità trasversale fornisce delle informazioni sulla stabilità trasversale ai
+grandi angoli di sbandamento. Tenendo conto dell’attuale normativa internazionale, indicare quali
+siano i valori da rispettare per la valutazione della stabilità trasversale ai grandi angoli di sbandamento.
+Indicare se esistano altre regole internazionali che obblighino ad effettuare questi calcoli prima della
+partenza della nave.
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9), tavole numeriche, formulari, pubblicazioni nautiche e normativa non commentata.
+Non è invece consentito l’utilizzo di libri di testo e manuali tecnici che riportano contenuti specifici.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

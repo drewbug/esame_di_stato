@@ -1,0 +1,89 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I241 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCT - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI MEZZO AEREO
+Il candidato svolga il tema indicato nella prima parte e risponda a due soli quesiti tra i quattro
+proposti nella seconda parte
+PRIMA PARTE
+Sia dato un velivolo motoelica dalle seguenti caratteristiche:
+-
+
+MTOW = 450 Kg
+
+-
+
+Superficie alare S = 13,20 m²
+
+-
+
+apertura alare b = 9,60 m
+
+-
+
+capacità combustibile 2x28 lt
+
+-
+
+potenza motore 81 HP
+
+-
+
+cD0 = 0,030
+
+-
+
+nlim = 3,8
+
+-
+
+nlimR = -1
+
+-
+
+Consumo orario Co = 17 lt/h con potenza al 75% e V(CAS)=178 Km/h
+
+-
+
+Rendimento propulsivo elica ηp = 0,85
+
+Il candidato, assumendo ragionevoli ipotesi per gli ulteriori dati necessari e motivandone le scelte:
+ determini le velocità caratteristiche ed esegua la stima dell’autonomia chilometrica e oraria
+massime.
+ esegua un dimensionamento di massima del sistema di trasmissione del comando
+dell’equilibratore, rappresentando i risultati con opportuni disegni schematici.
+
+I241 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Indirizzo: ITCT - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI MEZZO AEREO
+SECONDA PARTE
+1) Illustrare i diversi tipi di comandi di volo e le loro caratteristiche.
+2) Definire la quota di tangenza e illustrarne la dipendenza dalle caratteristiche del velivolo.
+3) Illustrare le problematiche connesse alla formazione di ghiaccio sulle ali, le principali procedure
+manutentive per ridurne il rischio di formazione ed accumulo ed il funzionamento di un impianto
+antighiaccio su aerei di linea.
+4) Descrivere l’esperienza di Alternanza Scuola Lavoro svolta indicandone i punti di forza e di
+debolezza nell’ambito della formazione del diplomato tecnico aeronautico.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

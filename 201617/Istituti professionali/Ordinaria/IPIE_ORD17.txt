@@ -1,0 +1,231 @@
+Pag.1/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPIE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIE – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA MECCANICA
+Tema di: TECNICHE DI PRODUZIONE E DI ORGANIZZAZIONE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Il candidato analizzi lo studio di fabbricazione di un lotto di 200 supporti per l’albero di uscita di un
+riduttore meccanico sotto riportato, realizzati con acciaio C40 UNI EN 10083‐1:2006.
+
+Pag.2/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPIE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIE – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA MECCANICA
+Tema di: TECNICHE DI PRODUZIONE E DI ORGANIZZAZIONE
+Si richiedono:
+
+
+ciclo di lavorazione con la stima dei relativi tempi;
+
+
+
+calcolo del costo di produzione di un prodotto;
+
+
+
+stesura e commento del programma ISO per realizzare una operazione del ciclo su macchine
+utensili a CNC.
+
+SECONDA PARTE
+1.
+
+Nell’ambito della struttura e organizzazione aziendale il candidato espliciti quali sono gli ambiti
+di competenza dell’ufficio tecnico e in particolare, riguardo al servizio manutenzione, quali sono
+le differenze tra manutenzione di emergenza, manutenzione correttiva e manutenzione preventiva.
+Indichi, inoltre, quali compiti tale ufficio svolge in merito al rispetto delle norme di sicurezza.
+
+2.
+
+Il candidato valuti lo stato del grezzo e le caratteristiche del materiale utilizzato per la produzione
+del manufatto motivando le scelte fatte per produrre il pezzo in questione e calcolando il
+fabbisogno di materiale per la realizzazione del lotto in questione. Inoltre spieghi, ipotizzando un
+sistema di produzione in linea, come è possibile applicare il processo di saturazione delle
+macchine come mezzo di ottimizzazione della produzione.
+
+3.
+
+Il candidato dia la definizione di efficacia ed efficienza secondo le ISO 9000 e collochi il metodo
+di controllo X-R all'interno del controllo di qualità descrivendo le fasi per arrivare alla sua
+stesura e come vanno interpretate tali carte. Spieghi, inoltre, il significato del modello PDCA
+come simbolo stesso dell’approccio per processi di un sistema di gestione per la qualità.
+
+4.
+
+Sulla base delle attività delle esperienze di lavoro effettuate, il candidato illustri con esempi concreti
+quali differenze sono state rilevate tra il sistema di organizzazione da lui direttamente riscontrato
+in azienda e quello della Lean manufacturing. Indichi quali sono gli aspetti salienti che
+caratterizzano questo tipo di produzione e cosa s’intende per affidabilità di un prodotto.
+
+____________________________
+Durata massima della prova: 8 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario di lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag.3/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Si forniscono di seguito le tabelle che i candidati possono utilizzare facoltativamente per svolgere la
+prima parte dell’elaborato.
+
+CICLO DI LAVORAZIONE
+2016/2017
+
+A.S.
+
+CLASSE
+
+Ciclo N.
+
+Compilatore
+
+Foglio N.
+
+Disegno N.
+
+Data
+
+Progr. N.
+
+Denominazione
+SUPPORTO ALBERO DI USCITA
+Quantità
+
+Materiale (designazione)
+200
+
+Stato
+Semilavorato di partenza
+
+Fabbisogno materia prima
+
+Trattamenti Termici (descrizione)
+
+Elenco sintetico delle Operazioni
+
+UNI EN 10083-1:2006 C40
+Rm (MPa)
+
+Durezza
+
+Pag.4/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Macchine utensili
+
+Dispositivi di fissaggio
+
+Strumenti di controllo
+
+Calcolo dei tempi macchina
+
+Utensili
+
+Pag.5/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+CARTELLINO
+PER CICLO DI LAVORAZIONE
+Denominazione elemento:
+SUPPORTO PER ALBERO DI USCITA
+Compilatore:
+
+N.
+
+OPERAZIONE
+
+a.s.:
+
+Materiale:
+
+2016 / 2017
+Classe:
+
+Stato:
+
+Ciclo N.:
+
+Data:
+
+Quantità:
+
+Rev.:
+
+Peso grezzo:
+
+ACCIAIO UNI EN 10083-1:2006 C40
+Foglio N.:
+Durezza:
+
+Disegno N.:
+
+Rm:
+
+Particolare N.:
+
+200
+
+MACCHIN
+A
+REPARTO
+
+STAFFAGGI
+O UTENSILI
+STRUMENTI DI CONTROLLO
+
+Vt
+m/min
+
+ng
+Giri/min
+
+a
+mm/giro
+
+Va
+Mm/mn
+
+P
+mm
+
+np
+Pass.
+
+N
+Kw
+
+Tpm
+min
+
+Tempi
+Ta
+min
+
+Tm
+min
+
+

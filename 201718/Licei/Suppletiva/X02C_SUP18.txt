@@ -1,0 +1,170 @@
+Pag. 1/3
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+X02C – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IB72 – SCIENTIFICO COMUNICAZIONE OPZIONE SPORTIVA
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+Sia dato un sistema di assi cartesiani Oxy in cui l’unità corrisponde a 1 metro. Una particella
+puntiforme si muove lungo l’asse delle ascisse, nel verso positivo, partendo dall’origine, con una
+velocità di 2 metri al secondo. Quando la particella si trova in un generico punto 𝑥 = 𝑎, costruisci un
+triangolo prendendo le tangenti alla curva di equazione 𝑦 = 𝑎𝑥 − 𝑥 2 nei punti di ascissa 0 e a.
+1)
+
+Determina l’area del triangolo in funzione di a; quanto vale l’area del triangolo dopo 5 secondi?
+
+2)
+
+Dopo quanti secondi il triangolo diventa equilatero?
+
+3)
+
+Esprimi in funzione di a l’angolo 𝜃 formato dalle due tangenti alla curva di equazione
+𝑦 = 𝑎𝑥 − 𝑥 2 nei punti di ascissa 0 e a ; utilizzando l’espressione di 𝜃 in funzione di a, verifica
+la correttezza della risposta che hai fornito al punto precedente.
+
+4)
+
+Quando la particella si trova nel generico punto 𝑥 = 𝑎, determina l’area della superficie limitata
+superiormente dalle due rette tangenti e inferiormente dalla curva di equazione 𝑦 = 𝑎𝑥 − 𝑥 2 .
+
+PROBLEMA 2
+Fissato un numero reale k  0 , si definiscono le funzioni:
+
+f k ( x)  k  ln( x) e g k ( x ) 
+
+x
+k
+e
+
+,
+
+i cui grafici sono indicati, rispettivamente, con Fk e Gk .
+1. Verifica che, qualunque sia k  0 , le due funzioni f k e g k sono tra loro inverse; definite inoltre le
+funzioni:
+a( x)  f k ( g k ( x)) e b( x)  g k ( f k ( x)) ,
+
+stabilisci se si verifica a( x)  b( x), x   .
+2. Indicata con r la retta di equazione y  x , determina l'equazione della retta s2 , parallela a r e
+tangente al grafico F2 della funzione f 2 ( x)  2 ln( x) . Determina inoltre l'equazione della retta t 2 ,
+x
+e2
+
+parallela a r e tangente al grafico G2 della funzione g 2 ( x) 
+.
+Rappresenta i grafici F2 e G2 insieme alle rette s2 e t 2 e stabilisci qual è la distanza minima tra
+un punto di F2 e un punto di G2 .
+
+Pag. 2/3
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+3. Verifica che l'equazione f3 ( x)  g3 ( x) possiede due soluzioni sapendo che, qualunque sia k  0 ,
+gli eventuali punti d'intersezione tra il grafico Fk e il grafico Gk coincidono con i punti di
+intersezione tra uno qualsiasi di tali grafici e la retta di equazione y  x . Stabilisci inoltre per
+quali valori k  0 i grafici Fk e Gk sono secanti, per quali valori sono disgiunti e per quale valore
+essi sono tangenti.
+4. Sia A la regione limitata compresa tra i grafici Fe e Ge e gli assi cartesiani.
+Determina l'area di A ed il volume del solido generato ruotando A attorno a uno degli assi
+cartesiani.
+QUESTIONARIO
+1. Considerati nel piano cartesiano i punti A(0,0) e B ( ,0) , sia R la regione piana delimitata dal
+segmento AB e dall’arco di curva avente equazione y  4sen x , con 0  x   . Calcolare il
+massimo perimetro che può avere un rettangolo inscritto in R avente un lato contenuto nel
+segmento AB.
+1
+2. Si consideri la funzione f  x   nell’intervallo [p, 2p] e, detto  il suo grafico, sia t la retta
+x
+tangente a  nel suo punto di ascissa p. Determinare, al variare di p, le aree delle due parti in cui
+la retta t divide la regione finita di piano compresa fra  e l’asse delle ascisse.
+
+3. Determinare l’equazione della superficie sferica di centro C(1,1, 2) tangente al piano di equazione
+x  y  z  10 e le coordinate del punto di contatto tra la superficie sferica e il piano.
+4. Verificare che
+
+
+
+
+
+2
+0
+
+n 1
+cos ( x)dx 
+n
+n
+
+
+
+02 cos
+
+n2
+
+( x)dx per n  1 e usare questo risultato per calcolare
+
+
+
+02 cos ( x)dx .
+4
+
+5. Si lancia n volte un dado regolare a sei facce. Qual è il più piccolo valore di n tale che la probabilità
+che non esca mai il numero 3 sia minore dello 0,01%?
+2
+6. Data la funzione y  x ax  b  3 , determinare il valore dei coefficienti a e b per i quali il grafico
+
+della funzione è tangente nel punto di ascissa x  1 alla retta di equazione y  7 x  9 .
+7. Date le curve  1 e  2 di equazioni rispettivamente y  x 2  1 e y  x 2  8x  9 , sia t la retta che è
+tangente a entrambe. Stabilire l’area della regione piana di area finita che è delimitata
+da  1 ,  2 e t.
+
+Pag. 3/3
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+8. Una variabile casuale, a valori nell’intervallo [0, 10], è distribuita secondo la densità di probabilità
+data dalla funzione
+1 1 2
+ 3  4 x , 0  x  1
+f ( x)  
+1 ,
+1  x  10
+12
+
+Stabilire il valore medio e il valore mediano di questa variabile casuale.
+9. Determinare il luogo geometrico dei punti Px, y, z  equidistanti dai punti A0,1,2 e B 3,2,0 .
+10. Verificare
+
+che
+
+la
+
+funzione
+
+y  e  x senx
+
+è
+
+soluzione
+
+dell’equazione
+
+differenziale
+
+y' '2 y'2 y  0 .
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 350 Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,103 @@
+Pag. 1/2
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M047 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+
+Il candidato (che potrà eventualmente avvalersi delle conoscenze e competenze maturate attraverso
+esperienze di alternanza scuola-lavoro, stage o formazione in azienda) svolga la prima parte della
+prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Una compagnia di taxi, allo scopo di migliorare il servizio offerto al pubblico, vuole implementare
+un sistema automatizzato di gestione delle richieste dei clienti, con la relativa assegnazione ai mezzi
+disponibili.
+La compagnia vuole in particolare che:
+
+
+le richieste di trasporto da parte dei clienti possano arrivare attraverso il maggior numero
+possibile di canali di comunicazione, in modo che il servizio sia raggiungibile con tutti i mezzi
+oggi disponibili sia fissi che mobili (telefono, Web, App, SMS, …);
+
+
+
+la centrale operativa possa visualizzare la posizione dei taxi in servizio in ogni momento;
+
+
+
+vengano registrate, all’interno di un apposito database, sia le richieste dei clienti che i servizi di
+trasporto effettuati dai mezzi della compagnia (per questi ultimi, i mezzi invieranno direttamente
+le informazioni necessarie).
+
+Il candidato, formulate le opportune ipotesi aggiuntive, sviluppi i seguenti punti:
+1.
+
+analizzi la realtà di riferimento e proponga uno schema generale che descriva la soluzione
+adottata per rispondere alle richieste della compagnia, ne ponga in evidenza i vari componenti e
+le loro interconnessioni, motivando le scelte effettuate;
+
+2.
+
+descriva in modo dettagliato le possibili modalità di comunicazione attraverso le quali i clienti
+richiedono i servizi di trasporto, evidenziando le specificità di ciascuna e la relativa procedura di
+gestione della richiesta;
+
+3.
+
+definisca le tecnologie di comunicazione tra la centrale e i mezzi in servizio.
+
+Pag. 2/2
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M047 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+
+SECONDA PARTE
+1.
+
+In relazione al tema proposto nella prima parte, si consideri il caso in cui la compagnia voglia
+consentire ai clienti di registrarsi al proprio sito per usufruire di campagne promozionali e di
+servizi aggiuntivi.
+Il candidato esponga le tecnologie hardware e i servizi software necessari a garantire un adeguato
+standard di sicurezza a protezione dei dati acquisiti.
+
+2.
+
+In relazione al tema proposto nella prima parte, il candidato progetti lo schema concettuale e
+logico della porzione della base di dati che, in relazione ai servizi di trasporto offerti ai clienti,
+consente la registrazione del luogo di partenza e di arrivo e del taxi che ha effettuato il servizio.
+Progetti poi le pagine del sito della compagnia che consentono l’immissione di una richiesta di
+trasporto e ne codifichi in un linguaggio a sua scelta una parte significativa.
+
+3.
+
+Negli ultimi anni lo sviluppo tecnologico ha portato ad una maggiore apertura delle infrastrutture
+informatiche, ormai ampiamente interconnesse. La sicurezza dei dati è diventata di conseguenza
+un aspetto fondamentale nell’ambito del trattamento delle informazioni.
+Il candidato descriva i possibili tipi di minacce alla sicurezza di un sistema informatico.
+
+4.
+
+Le informazioni che viaggiano attraverso la rete Internet riguardano, sempre di più, aspetti
+rilevanti e delicati della vita degli individui e delle aziende. Tale mole di dati necessita di sistemi
+che garantiscano l’identità dei soggetti, l’integrità dei dati e la loro confidenzialità.
+Il candidato descriva le caratteristiche dell’infrastruttura di sicurezza basata sulle chiavi
+pubbliche (PKI) evidenziando il ruolo delle Autorità di Certificazione.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

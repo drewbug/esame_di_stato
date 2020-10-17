@@ -1,0 +1,119 @@
+Pag. 1/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+In un materiale liquido, viscoso e alquanto altobollente, è disciolto un componente meno viscoso che
+costituisce il soluto che si vuole separare per estrazione con un solvente selettivo. Il solvente è gassoso
+in condizioni normali ma condensa sotto poca pressione; allo stato liquido discioglie selettivamente
+solo il componente meno viscoso e possiede una densità notevolmente inferiore a quella
+dell’alimentazione.
+L’estrazione si effettua a caldo, per abbassare la viscosità, e sotto moderata pressione, per mantenere
+allo stato liquido il solvente. Si formano due fasi liquide: una contenente praticamente tutto il solvente
+ed il soluto e l’altra il resto del materiale.
+Si opera in controcorrente in una colonna a piatti forati in cui si alimenta il materiale da estrarre e il
+solvente, opportunamente preriscaldati. Il solvente, allo stato liquido, proviene da un serbatoio
+polmone in cui si raccoglie quello proveniente da riciclo che si reintegra con solvente fresco.
+Il raffinato esce dal basso della colonna e prosegue verso altre lavorazioni.
+L’estratto esce dall’alto della colonna e viene ulteriormente surriscaldato in uno scambiatore per poi
+arrivare a un separatore flash in cui, per il repentino calo della pressione, avviene la pressoché
+completa separazione dei vapori di solvente dal componente che si voleva estrarre e che resta liquido.
+Quest’ultimo esce dal basso e prosegue verso ulteriori lavorazioni.
+I vapori di solvente sono aspirati da un compressore per essere riportati in pressione, quindi passano
+in un condensatore per essere accumulati allo stato liquido nel serbatoio di alimentazione, dove si
+reintegrano con solvente fresco. Come fluidi di servizio sono disponibili acqua industriale di
+raffreddamento e vapore di rete.
+Il candidato, dopo aver adottato gli eventuali recuperi termici ritenuti opportuni, disegni lo schema
+dell’impianto idoneo a realizzare l’operazione proposta, completo delle apparecchiature accessorie
+(pompe, valvole, serbatoi, ecc.) e delle regolazioni automatiche principali rispettando, per quanto
+possibile, la normativa UNICHIM.
+
+Pag. 2/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+SECONDA PARTE
+1. Una miscela liquida bicomponente si sottopone a distillazione d’equilibrio (flash). Le
+concentrazioni d’equilibrio, nelle condizioni di flash, sono riportate nella seguente tabella dove
+sono riportate le frazioni molari del componente più volatile: x, quella nel liquido e y, quella nel
+vapore.
+x
+y
+
+0
+0
+
+0,10
+0,51
+
+0,20
+0,70
+
+0,30
+0,80
+
+0,40
+0,86
+
+0,50
+0,90
+
+0,60
+0,93
+
+0,70
+0,95
+
+0,80
+0,97
+
+0,90
+0,99
+
+1
+1
+
+Si opera in continuo con una portata dell’alimentazione F = 1,2 kmol/s. La composizione della
+miscela alimentata, espressa come frazione molare del componente più volatile, è zF = 0,40.
+Nell’unico stadio della distillazione si ottiene una vaporizzazione del 20 % in moli.
+Tracciare il grafico d’equilibrio e calcolare portata e composizione del liquido e del vapore
+ottenuti.
+2. L’estrazione liquido – liquido è un’operazione unitaria caratterizzata dalla miscelazione di due
+fasi liquide, in cui avviene il trasferimento del soluto da una fase all’altra, seguita dalla
+decantazione in cui si ha la separazione delle due fasi liquide risultanti. Il candidato analizzi
+sinteticamente le diverse tipologie delle relative apparecchiature alla luce del meccanismo di
+separazione indicato.
+3. L’utilizzo di combustibili fossili resta a tutt’oggi la via prevalente per la produzione di energia.
+Per diminuirne l’impatto ambientale è importante attuare un’opportuna raffinazione di tali vettori
+energetici. Uno tra gli inquinanti a maggiore impatto è sicuramente lo zolfo, presente in diverse
+tipologie di composti di cui costituisce un componente.
+Il candidato, con particolare riferimento ai combustibili liquidi, descriva sinteticamente le classi
+dei composti dello zolfo usualmente presenti e i relativi processi di trattamento approfondendo
+uno di tali processi a sua libera scelta.
+4. Molte lavorazioni dell’industria di processo si basano sulle biotecnologie. Il candidato, a sua
+libera scelta, illustri un processo biotecnologico di rilevanza ambientale o industriale esaminato
+nel suo corso di studi.
+
+_______________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali relativi alle simbologie UNICHIM, di tabelle con dati numerici, di diagrammi relativi a parametri
+chimico-fisici, di mascherine da disegno e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

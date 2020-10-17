@@ -1,0 +1,171 @@
+Pag. 1/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT2 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT2 – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: ELETTRONICA ED ELETTROTECNICA
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+All’interno del capannone di un piccolo stabilimento vengono installati i seguenti nuovi macchinari,
+azionati da motori asincroni trifase, con le seguenti caratteristiche elettriche:
+
+numero
+
+potenza
+assorbita
+
+tensione
+
+cos
+
+fattore di
+utilizzo
+
+fattore di
+contemporaneità
+
+macchine
+utensili
+
+3
+
+11 kW
+
+400 V
+
+0,81
+
+0,8
+
+0,9
+
+motore per
+trazione
+
+1
+
+9 kW
+
+400 V
+
+0,82
+
+0,8
+
+--
+
+nastri
+trasportatori
+
+6
+
+3 kW
+
+400 V
+
+0,85
+
+0,9
+
+0,7
+
+Si desidera garantire la continuità del funzionamento di queste utenze trifase nel caso di
+interruzione dell’erogazione dell’energia elettrica inserendo un gruppo elettrogeno.
+Il candidato, fatte eventuali ipotesi aggiuntive
+a.
+
+determini la potenza apparente minima del gruppo elettrogeno;
+
+b.
+
+calcoli la corrente erogata dalla linea di alimentazione di tutti i motori trifase che azionano i
+macchinari;
+
+c.
+
+descriva le modalità di rifasamento dell’impianto a cos = 0,92 e gli effetti sulla corrente della
+linea di alimentazione;
+
+d.
+
+calcoli la velocità di rotazione del motore per trazione sapendo che il suo rendimento è pari a
+0,94 e che la coppia sviluppata vale 55 N m.
+
+Un nastro trasportatore è utilizzato per trasferire da una parte all’altra del capannone i contenitori.
+La partenza è comandata da un pulsante e dalla presenza del contenitore mentre l’arresto avviene,
+ovviamente, quando tale contenitore è giunto a destinazione.
+Il candidato, integrando eventualmente il sistema con ulteriori ipotesi, descriva l’automatismo
+illustrando i componenti necessari alla sua realizzazione, proponendo un tipo di controllore e una
+soluzione dell’automatismo utilizzando un linguaggio di sua scelta.
+
+Pag. 2/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT2 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT2 – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: ELETTRONICA ED ELETTROTECNICA
+
+SECONDA PARTE
+Il candidato, fatte eventuale ipotesi aggiuntive, risponda a 2 quesiti, a scelta, tra i seguenti:
+1.
+
+Il candidato, dopo aver illustrato le principali caratteristiche dell’amplificatore operazionale
+ideale, determini il valore della resistenza R del circuito di figura sapendo che V1 = 2V e
+V2 = -12V:
+
+2.
+
+Il candidato, motivando la risposta, scelga tra quelli proposti, il motore elettrico idoneo a
+comandare un montacarichi in grado di sollevare contenitori con massa fino a 500 kg e velocità
+v = 1,8 m/s:
+
+3.
+
+4.
+
+potenza assorbita
+
+rendimento
+
+motore A
+
+9 kW
+
+90%
+
+motore B
+
+11 kW
+
+91%
+
+motore C
+
+15 kW
+
+93%
+
+Si desidera monitorare la temperatura e l’umidità all’interno di un ambiente. La temperatura e
+l’umidità vengono rilevate in 2 punti diversi e inviate ad un sistema di elaborazione. Il
+candidato descriva il dispositivo in grado di rilevare la temperatura e illustri, tramite uno
+schema a blocchi, il sistema di acquisizione dati specificando le principali caratteristiche di
+ogni blocco.
+Un carico trifase equilibrato a stella a 4 fili è costituito da 3 impedenze Z= 30 + j20. Il
+candidato indichi come, utilizzando un solo strumento di misura sia possibile verificare che il
+carico è equilibrato e, sapendo che la tensione di linea vale 400V, calcoli le correnti di linea.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e della calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

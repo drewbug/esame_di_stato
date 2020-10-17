@@ -1,0 +1,54 @@
+Pag. 1/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+In figura è rappresentato un albero poggiato sui perni A e B, alla cui estremità è posta una manovella
+di estremità, di raggio 250 mm, che aziona una pompa a stantuffo avente un diametro del cilindro
+pari a 250 mm e una pressione del fluido di 0.3 N/mm2.
+Sull’albero è calettata una puleggia P per cinghie del peso di 1500 N, con un diametro di 450 mm.
+La stessa è azionata da un motore elettrico la cui potenza è di 35 kW a 1200 giri/min. con rapporto
+di trasmissione 4:1.
+L’albero condotto, in acciaio con un carico di rottura pari a 700 N/mm 2, porta calettato anche un
+volano V del peso di 1000 N e con un diametro di 250 mm.
+Il candidato, fissato a suo giudizio ogni altro dato necessario, esegua il dimensionamento dell’albero
+compresi i perni A e B sapendo che il tiro della cinghia è rivolto verso il basso, tenendo conto che
+lo sforzo prodotto dalla manovella, rivolto verso l’alto, è complanare con il tiro e i pesi degli organi
+calettati.
+SECONDA PARTE
+1) Si dimensioni la manovella di estremità costituita da acciaio da costruzione (Rm = 450 N/mm2)
+calcolando il bottone (perno di biella) e il diametro del perno di banco.
+2) Si dimensioni l’albero del motore elettrico, dello stesso tipo di acciaio dell’albero condotto,
+tenendo ovviamente conto della necessità di calettamento della puleggia motrice.
+3) Trovare la velocità critica dell’albero condotto trascurandone la massa, calcolare altresì il
+numero di giri critico e confrontarlo con quello di rotazione dell’albero, effettuando le dovute
+valutazioni rispetto al regime di funzionamento del macchinario.
+4)
+
+Motivare la presenza del volano nella configurazione del sistema descritto.
+
+___________________________
+Durata massima della prova: 8 ore.
+È consentito soltanto l’uso di tavole numeriche, manuali tecnici e calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 2/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+

@@ -1,0 +1,77 @@
+Pag. 1/2
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI e
+CHIMICA ANALITICA STRUMENTALE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Da un processo si ottiene un prodotto grezzo costituito da liquidi organici altobollenti. Per purificare il
+prodotto d’interesse dai sottoprodotti pesanti, si distilla il grezzo in continuo sotto vuoto in una colonna a
+piatti.
+Nelle condizioni di lavoro, i vapori di testa sono condensabili totalmente con acqua di raffreddamento. Il
+distillato e il prodotto di coda sono avviati ad ulteriori lavorazioni. Come fluidi di servizio, sono
+disponibili acqua industriale di raffreddamento e vapore di rete.
+Il candidato disegni lo schema di processo dell’operazione proposta, completo delle apparecchiature
+accessorie (pompe, valvole, serbatoi, ecc.) e delle regolazioni automatiche principali, prevedendo gli
+eventuali recuperi termici ritenuti necessari e seguendo per quanto possibile le norme UNICHIM.
+Il candidato, inoltre, sapendo che il prodotto d’interesse è un composto alifatico ossigenato, individui la
+tecnica analitica adeguata a determinarlo, sia nell’alimentazione sia nel distillato. Di tale tecnica descriva
+il principio teorico e l’applicazione al prodotto in oggetto.
+
+SECONDA PARTE
+1. Il prodotto grezzo, di cui alla prima parte, arriva alla distillazione con una portata di 1,8 kg/s. La frazione
+in massa del prodotto volatile nell’alimentazione è del 64%, nel distillato è del 98% e nel prodotto di
+coda è dell’8%. Nelle condizioni di esercizio, i vapori di testa condensano a 130 °C con un calore latente
+di 350 kJ/kg. Si opera con un rapporto di riflusso di 2,5. Come fluido di raffreddamento per il
+condensatore di testa è disponibile acqua con una temperatura di 27 °C ed una portata di 12,4 kg/s; il
+calore specifico dell’acqua è 4,18 kJ/(kg·°C). Il coefficiente globale di scambio termico del condensatore
+di testa vale 2,2 kW/(m2·°C).
+Si calcolino le portate del distillato e del prodotto di coda, la portata dell’acqua di raffreddamento e la
+superficie di scambio del condensatore di testa
+2. Sono molti i campi in cui i processi biotecnologici trovano una valida applicazione. Il candidato analizzi
+un processo biotecnologico, affrontato nel proprio corso di studi, individuando le materie prime e le
+relative caratteristiche, descrivendo il biochimismo del processo e le varie fasi di lavorazione
+riassumendole anche in uno schema a blocchi.
+
+Pag. 2/2
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI e
+CHIMICA ANALITICA STRUMENTALE
+
+3. Per determinare il contenuto di un metallo in una lega si utilizza l’assorbimento atomico di fiamma
+(AAF). Allo scopo si prepara una soluzione trattando opportunamente 0,4893 g di lega. Tale soluzione
+si porta a volume in un matraccio da 250 mL.
+Sapendo che il campione contiene circa il 90% dell’analita e che l’intervallo di linearità ricade tra
+1 e 5 ppm, si eseguano i calcoli necessari per preparare le opportune soluzioni standard diluite, ognuna
+del volume di 50 mL, utilizzando una soluzione standard di 1000 ppm. Determinare inoltre quale
+potrebbe essere una diluizione adeguata della soluzione del campione per effettuare l’analisi.
+4. Due meccanismi di separazione cromatografica sono l’adsorbimento e la ripartizione. Descrivere
+brevemente i principi su cui si basano, i sistemi analitici in cui sono prevalenti e quali sono le differenze.
+Indicare inoltre quali altri meccanismi chimico-fisici possono essere sfruttati per le separazioni
+cromatografiche, descrivendo brevemente i principi su cui si basano.
+
+_______________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali relativi alle simbologie UNICHIM, di tabelle con dati numerici, di diagrammi relativi a parametri
+chimico-fisici, di mascherine da disegno e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’istituto prima che siano trascorsi 3 ore dalla dettatura del tema.
+
+

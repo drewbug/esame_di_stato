@@ -1,0 +1,221 @@
+Pag.1/5
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPIE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIE – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA MECCANICA
+Tema di: TECNICHE DI PRODUZIONE E DI ORGANIZZAZIONE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Il candidato esegua lo studio di fabbricazione di un lotto di 1000 pezzi della vite in materiale C40 come
+da disegno costruttivo sotto riportato:
+
+Pag.2/5
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPIE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIE – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA MECCANICA
+Tema di: TECNICHE DI PRODUZIONE E DI ORGANIZZAZIONE
+In particolare sono richiesti:
+
+•
+•
+•
+
+ciclo di lavorazione;
+calcolo del costo di produzione;
+stesura e commento del programma ISO di una lavorazione.
+
+SECONDA PARTE
+1.
+
+Il candidato sulla base del project management indichi come possono essere formulati gli obiettivi
+della gestione di progetto e spieghi in cosa consiste la tecnica del WBS (work breakdown structure).
+In tale contesto di gestione descriva come il concetto di rischio possa intervenire nella
+pianificazione del progetto stesso rifacendosi anche al risk based thinking presente nelle ISO
+9001/2015.
+
+2.
+
+Il candidato illustri gli aspetti salienti del problem solving e del metodo delle 5W e 2H quali
+strumenti per l’individuazione e analisi dei problemi e come questi influiscano sul miglioramento
+dell’efficacia e dell’efficienza dell’organizzazione produttiva. In tale contesto inoltre descriva il
+metodo di Ishikawa e i possibili errori che si possono commettere nella sua applicazione.
+
+3.
+
+Il candidato illustri le mansioni svolte dall’ufficio tecnico evidenziando quelle relative al servizio
+impianti e alla manutenzione produttiva-zero fermi. Inoltre, sulla base dell’esperienza di alternanza
+scuola lavoro, descriva quale tipo di produzione ha visto attivato in azienda e le differenze
+dell’organizzazione del posto di lavoro rispetto alla tecnica delle cosiddette 5S (lean productionzero inefficienze).
+
+4.
+
+Il candidato illustri, per il pezzo meccanico di riferimento, le principali fonti di rischio associate ad
+agenti fisici e il processo di normalizzazione a cui è sottoposto giustificandone la scelta. Inoltre
+descriva i contenuti della nuova direttiva macchine a tutela della sicurezza.
+
+____________________________
+Durata massima della prova: 8 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario di lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag.3/5
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Si forniscono di seguito le tabelle che i candidati possono utilizzare facoltativamente per svolgere la
+prima parte dell’elaborato.
+
+CICLO DI LAVORAZIONE
+A.S.
+
+2017/2018
+
+CLASSE
+
+Ciclo N.
+
+Compilatore
+
+Foglio N.
+
+Disegno N.
+
+Data
+
+Progr. N.
+
+Denominazione
+Quantità
+
+Materiale (designazione)
+
+Stato
+Semilavorato di partenza
+
+Fabbisogno materia prima
+
+Trattamenti Termici (descrizione)
+
+Elenco sintetico delle Operazioni
+
+Rm (MPa)
+
+Durezza
+
+Pag.4/5
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Macchine utensili
+
+Utensili
+
+Dispositivi di fissaggio
+
+Strumenti di controllo
+
+Calcolo dei tempi macchina
+
+Pag.5/5
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+a.s.:
+
+Materiale:
+
+2017 / 2018
+Classe:
+
+Stato:
+
+Denominazione elemento:
+
+Data:
+
+Quantità:
+
+Durezza:
+
+Disegno N.:
+
+Compilatore:
+
+Rev.:
+
+Peso grezzo:
+
+Rm:
+
+Particolare N.:
+
+CARTELLINO
+PER CICLO DI LAVORAZIONE
+
+N.
+
+OPERAZIONE
+
+MACCHINA
+REPARTO
+
+STAFFAG
+GIO
+UTENSILI
+STRUMENTI DI CONTROLLO
+
+Ciclo N.:
+Foglio N.:
+
+Vt
+m/min
+
+ng
+Giri/min
+
+a
+mm/giro
+
+Va
+Mm/mn
+
+P
+mm
+
+np
+Pass.
+
+N
+Kw
+
+Tpm
+min
+
+Tempi
+Ta
+min
+
+Tm
+min
+
+

@@ -1,0 +1,167 @@
+Pag. 1/5
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB7 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG ERZEUGNISSE AUS INDUSTRIE UND HANDWERK
+SCHWERPUNKT INDUSTRIE
+Arbeit aus: FERTIGUNGSTECHNIK UND PRODUKTION
+
+Bearbeiten Sie im Teil I die Ihrem Berufsbildungsdiplom entsprechende Problemstellung
+und
+bearbeiten Sie außerdem zwei der im Teil II gegebenen Fragestellungen!
+TEIL I
+A) Problemstellung für „MÖBELBAU“
+Überprüfen Sie die Außenwand in Elementenbauweise nach DIN 4108-2.
+Berechnen Sie dabei:
+- den erforderlichen Mindestwert des Wärmedurchlasswiderstandes
+- den vorhandenen Wärmedurchlasswiderstand und
+- den mittleren Wärmedurchgangskoeffizienten der Außenwand.
+
+Abbildung 1: Querschnitt
+Außenwand in Elementenbauweise
+
+Abbildung 2: Ansicht der Außenwand in Elementenbauweise
+
+1.
+
+Für einen Kunden sollen Sie einen offenen Einbauschrank für Aktenordner in einer Außenwandnische
+fertigen. Was ist grundsätzlich bei Einbauschränken, die an Außenwände angrenzen, zu beachten? Nehmen
+Sie dazu Stellung.
+
+2.
+
+Erstellen Sie von dem vorderen Bereich des Einbauschrankes den Teilhorizontalschnitt (Detail A) im
+Maßstab 1:1. Verdeutlichen Sie in der Skizze eine Möglichkeit für den seitlichen Wandanschluss. Erstellen
+und benennen Sie zudem noch drei mögliche Teilhorizontalschnitte für die Gestaltung und den Einbau der
+Rückwand. Beachten Sie dabei, dass der Schrank aus einer Spanplatte mit furnierter Eiche sowie
+Massivholzkanten ausgeführt werden soll.
+
+Pag. 2/5
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB7 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG ERZEUGNISSE AUS INDUSTRIE UND HANDWERK
+SCHWERPUNKT INDUSTRIE
+Arbeit aus: FERTIGUNGSTECHNIK UND PRODUKTION
+
+Wenn sich ein Einlegeboden in einem Möbel unter der Belastung nach unten
+durchbiegt, kann er aus den Bodenträgern rutschen. Auch ein fest mit den Seiten
+verbundener Boden kann sich stark verformen. Damit es keine Reklamation von
+Seiten des Kunden gibt, müssen Berechnungen durchgeführt werden.
+3.
+
+Berechnen Sie für den Einbauschrank (Abbildung 3) die zu erwartende
+Durchbiegung sowohl für Einlegeböden als auch für Böden. Nehmen Sie eine
+Flächenlast von 0,0017 N/mm² für die Aktenordner an. Die Böden bestehen
+aus 19 mm dick furnierter Spanplatte mit einem Elastizitätsmodul von
+4.500 N/mm². Welche Maßnahmen würden Sie treffen, um einer zu starken
+Durchbiegung entgegenzuwirken?
+
+Abbildung 3: Grundriss
+Einbauschrank
+
+Pag. 3/5
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB7 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG ERZEUGNISSE AUS INDUSTRIE UND HANDWERK
+SCHWERPUNKT INDUSTRIE
+Arbeit aus: FERTIGUNGSTECHNIK UND PRODUKTION
+
+TEIL I
+B) Problemstellung für „MASCHINENBAU“
+In der nachfolgenden Zeichnung ist ein Mischbehälter zum Zusammenführen verschiedener Granulate dargestellt.
+1.
+
+Der Befestigungsflansch (Pos. 5) und der Haltebügel (Pos. 6) sind
+nach der Gesamtzeichnung und Stückliste herzustellen.
+a) Nennen Sie die notwendigen Fertigungsverfahren zur
+Herstellung des Haltebügels und geben Sie an in welcher
+Reihenfolge die Fertigungsverfahren eingesetzt werden.
+b) Nennen Sie die notwendigen Fertigungsverfahren zur
+Herstellung des Befestigungsflansches und geben Sie an in
+welcher Reihenfolge die Fertigungsverfahren eingesetzt
+werden.
+
+2. Die wichtigsten Maße des Mischbehälters sind in der Zusammenbauzeichnung ersichtlich. Erstellen Sie in Bezug auf diese Maße
+realistische Werkstattzeichnungen der herzustellenden Einzelteile. Die Maße für das Rohmaterial sind vor
+der Fertigung mit Hilfe des Tabellenbuches zu bestimmen.
+a) Erstellen Sie eine Handskizze des Befestigungsflansches und tragen Sie die nötigen Fertigungsmaße
+mit Toleranzen ein.
+b) Berechnen Sie den genauen Zuschnitt des Haltebügels (Rechenweg muss ersichtlich sein)!
+c) Wie viel m² Blech würde man für die Herstellung von 100 Stück solcher Haltebügel benötigen, wenn
+Sie den Verschnitt mitrechnen?
+3. Erstellen Sie für die Fertigung der beiden Einzelteile einen Arbeitsplan.
+a) Wählen Sie ein Fertigungsverfahren zur Herstellung der Einzelteile aus und beschreiben Sie dieses.
+Nennen Sie auch Vor- und Nachteile des Verfahrens (max. 1 Seite).
+b) Die einzelnen Teile des Mischbehälters müssen zusammengefügt werden. Nennen Sie drei
+Verbindungsmöglichkeiten der Einzelteile des Behälters. Vergleichen Sie die einzelnen Verfahren
+miteinander und beschreiben Sie ihre Eigenschaften und ihre Vor- und Nachteile.
+
+Pag. 4/5
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB7 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG ERZEUGNISSE AUS INDUSTRIE UND HANDWERK
+SCHWERPUNKT INDUSTRIE
+Arbeit aus: FERTIGUNGSTECHNIK UND PRODUKTION
+
+Für alle nicht tolerierten Maße sind die Allgemeintoleranzen DIN ISO 2768 –m anzuwenden.
+
+Pag. 5/5
+
+Ordentlicher Termin 2015
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB7 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG ERZEUGNISSE AUS INDUSTRIE UND HANDWERK
+SCHWERPUNKT INDUSTRIE
+Arbeit aus: FERTIGUNGSTECHNIK UND PRODUKTION
+
+TEIL II
+Bearbeiten Sie zwei der folgenden Fragestellungen!
+
+1.
+
+Welche Sicherheitsvorschriften müssen beim Bearbeiten von Materialien, die für Ihren beruflichen
+Bereich charakteristisch sind, mit konventionellen und CNC-Maschinen beachtet werden?
+
+2.
+
+Was versteht man unter einem Investitionsprojekt? Erklären Sie die wichtigsten Kennzeichen und
+beschreiben Sie ein Beispiel eines Investitionsprojektes in Ihrem beruflichen Bereich.
+
+3.
+
+Was ist eine Nutzwertanalyse und in welchen Situationen wird sie typischerweise eingesetzt?
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Tabellenbuch Holztechnik, Europa Lehrmittel Verlag
+ Tabellenbuch Metall, Verlag Europa-Lehrmittel
+ Dreikantmaßstab
+ nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+

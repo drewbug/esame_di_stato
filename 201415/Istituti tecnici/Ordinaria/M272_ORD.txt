@@ -1,0 +1,66 @@
+Pag. 1/1
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M272 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: TF65 - ELETTRONICA E TELECOMUNICAZIONI (PROG. SIRIO)
+Tema di: SISTEMI ELETTRONICI AUTOMATICI
+Un’azienda automobilistica nel corso di un test su pista di un prototipo intende monitorare in tempo
+reale la temperatura di funzionamento di quattro punti del motore e la pressione dell’olio nei
+condotti dei freni.
+Per la rilevazione della temperatura vengono utilizzate delle termoresistenze la cui dipendenza dalla
+temperatura è data dalla relazione:
+𝑅(𝑇) = 𝑅0 ∗ (1 + 𝛼𝑇)
+
+con 20° < T < 400° C
+R0 = 100 
+= 3,675 * 10-3
+Tali dispositivi vengono posti in quattro diversi punti, ciascuno con una escursione termica
+differente come di seguito riportato:
+S1: liquido di raffreddamento del motore
+ 50° < T < 200°
+S2: liquido lubrificante
+ 100° < T < 250°
+S3: collettore di scarico
+ 200° < T < 350°
+S4: guarnizioni della testata
+ 150° < T < 300°
+Per la rilevazione della pressione si utilizza un trasduttore a membrana osmotica che fornisce in
+uscita una corrente secondo la relazione:
+𝐼(𝑝) =
+
+ln(𝑝)
+103
+
+con 500 < p < 2500 [kPascal]
+
+L’insieme dei valori rilevati deve essere acquisito dal computer di bordo ad intervalli di 10 secondi:
+per quanto riguarda la temperatura inoltre si richiede uno scarto massimo di  1,5° C nella
+precisione della misura.
+Il candidato, fatte le opportune ipotesi aggiuntive, deve:
+1.
+2.
+3.
+4.
+
+elaborare uno schema a blocchi di principio dell’intero sistema di acquisizione evidenziando le
+funzioni di ciascun blocco e motivandone l’aderenza alle specifiche richieste;
+definire il campo di variabilità delle grandezze in uscita ai sensori in funzione del
+corrispondente range di variazione della temperatura e pressione;
+progettare, nel dettaglio, la rete di condizionamento dei segnali provenienti dai trasduttori;
+definire le caratteristiche del sistema di conversione adottato affinché siano rispettate le
+specifiche di precisione richieste.
+
+Inoltre, il candidato, dopo aver sviluppato lo schema di interfaccia tra i sensori e il sistema
+programmabile scelto per l’acquisizione dei dati, descriva una procedura di acquisizione mediante
+un algoritmo rappresentativo del processo.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

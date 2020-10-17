@@ -1,0 +1,505 @@
+Pag. 1/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+ACHTUNG
+Die vorliegende Arbeit enthält die jeweils unterschiedlichen Prüfungsarbeiten für die Kandidatinnen
+und Kandidaten mit folgenden Berufsbildungsdiplomen:
+
+A) ELEKTRO-, GEBÄUDE- UND INFRASTRUKTURTECHNIK (Bozen)
+
+Seiten 2-3
+
+B) INDUSTRIE- UND GEBÄUDEAUTOMATION (Bruneck)
+
+Seiten 4-5
+
+C) INFORMATIK – NETZWERKTECHNIK (Brixen)
+
+Seiten 6-7
+
+D) IT-SYSTEMELEKTRONIK UND ANWENDUNGSENTWICKLUNG (Bozen) Seite 8
+E) MECHATRONISCHE SYSTEME (Bozen)
+
+Seiten 9-11
+
+Die Vorsitzende/der Vorsitzende der Kommission ist gebeten, darauf zu achten, dass alle
+Kandidatinnen und Kandidaten die ihrem Berufsbildungsdiplom entsprechenden Prüfungsarbeiten
+erhalten.
+
+Zu bearbeiten sind jeweils die Problemstellung in Teil I und zwei der in Teil II gestellten Fragen.
+
+Pag. 2/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+A) ELEKTRO-, GEBÄUDE- UND INFRASTRUKTURTECHNIK (Bozen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Es soll die Planung der Elektroanlage für eine dreistöckige Villa mit 150 m² Wohnfläche und 100 m²
+Garten realisiert werden.
+Der Übergabepunkt des Netzbetreibers (PdC = punto di consegna) für die elektrische Energieversorgung
+erfolgt an der Grundstücksgrenze, wo der Energiezähler in einer Mauernische installiert wird.
+Für die Leitung vom Energiezähler zum Hauptverteiler in der Villa wurde ein in der Erde eingegrabenes
+Schutzrohr vorgesehen und die spätere Leitungslänge soll mit l = 25 m angenommen werden.
+Bearbeiten Sie folgende Aufgabenstellungen, begründen Sie Ihre Einschätzungen und formulieren Sie
+eventuell zusätzliche Hypothesen:
+1. Bestimmen Sie die notwendige Netzanschlussleistung!
+2. Dimensionieren Sie die Zuleitung vom Energiezähler zum Hauptverteiler unter den Aspekten des
+maximal zulässigen Spannungsfalls, dem Schutz vor Überlast und Kurzschluss!
+3. Entwerfen Sie den Schaltplan für den Hauptverteiler und erstellen Sie eine zugehörige Tabelle mit den
+Charakteristiken der Schutzorgane!
+4. Definieren Sie die Charakteristik der Erdungsanlage!
+
+TEIL II: Bearbeiten Sie zwei der folgenden Fragestellungen
+1. Gegeben sind folgende Verbraucher einer Wohnung:
+
+
+Verbrauchertyp
+
+
+
+Beleuchtung
+
+
+
+Küche: Elektrokochplatte
+
+2.200
+
+
+
+Küche: Backofen
+
+2.000
+
+
+
+Küche: Dunstabzugshaube
+
+
+
+Küche: Spülmaschine
+
+1.800
+
+
+
+Küche: Kühlschrank
+
+150
+
+
+
+Feststehender Verbraucher:
+Waschmaschine
+
+
+
+20 Steckdosen
+
+Maximale Leistung eines
+Verbrauchers [W]
+500
+
+450
+
+1.900
+
+Pag. 3/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+Bestimmen Sie für die oben genannten Verbraucher:
+o die konventionellen Leistungen der einzelnen Verbraucher unter Berücksichtigung der
+Gleichzeitigkeits – und Korrekturfaktoren.
+o die notwendige Netzanschlussleistung.
+2. Ein Klassenzimmer für den Technikunterricht hat eine Länge von 10 m und eine Breite von 5 m.
+Der Raum soll mit abgehängten LED-Panelleuchten ausgestattet werden. Der Raum hat insgesamt
+eine Höhe von hges. = 2,70 m, ist mit einer hellen Holzverkleidung an den Wänden und einer
+weißen Decke ausgestattet. Die Arbeitsflächen befinden sich in einer Höhe von 0,85 m und die
+Lampen werden 0,25 m von der Decke abgehängt. Es ist von einer sauberen Umgebung
+auszugehen und das Wartungsintervall beträgt 300 Tage.
+o Berechnen Sie die für den Raum notwendige Lampenanzahl
+o Zeichnen Sie im Maßstab den Grundriss des Klassenzimmers, zeichnen Sie darin eine
+sinnvolle Aufteilung der Beleuchtungskörper ein und begründen Sie ihre Wahl!
+Daten Pendelleuchte:
+
+Lichtverteilungskurve:
+
+Pges. = 95 W, t = 50.000 h, φL = 10.400 lm, T = 4.000 K, RA > 80, UGR < 16 und
+Maße: 1.543 x 359 x 26 mm,
+
+3. Eine Gruppe von 4 gleichen 4-poligen Drehstromasynchronmotoren mit einer Nennleistung von je
+Pn = 5,5 kW, einem Wirkungsgrad η = 0,84 und einem Wirkleistungsfaktor cosϕ = 0,85 soll durch
+Einzelkompensation auf den gewünschten Wirkleistungsfaktor cosϕf = 0,95 kompensiert werden.
+Berechnen Sie:
+o Die konventionelle Leistung, unter Berücksichtigung der Gleichzeitigkeits – und
+Nutzungsfaktoren.
+o Die notwendige Kapazität der Kondensatorbatterien.
+o Zeichnen Sie den Schaltungsaufbau für die Kompensation auf.
+o Legen Sie den Querschnitt für die Leitung zu den Kompensationsbatterien und den
+Nennstrom für deren Absicherung fest.
+4. Für ein neues Gebäude mit den rechteckigen Grundrissmaßen von 11 m Länge und 8 m Breite soll
+die Erdungsanlage dimensioniert werden. Es wird eine Ringerdung im Fundament angestrebt. Der
+Untergrund besteht aus einem landwirtschaftlichen Boden. Im neuen Gebäude soll nach
+Fertigstellung eine Gemeinschaftspraxis von Ärzten untergebracht werden.
+Bestimmen Sie:
+o den maximalen Erdungswiderstand REmax und überprüfen Sie ob dieser eingehalten wird.
+o die theoretische Mindestlänge Lmin. des Erders!
+Begründen Sie, welche Aspekte bei der Installation der Erdung zu berücksichtigen sind.
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel: Nicht programmierbarer Taschenrechner; Tabellenbuch „Manuale degli impianti elettrici“ Verlag „Ed.
+Delfino“.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 4/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+B) INDUSTRIE- UND GEBÄUDEAUTOMATION (Bruneck)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Ein Industrieunternehmen möchte sich erweitern und baut hierfür eine neue Halle mit einer gesamten
+Fläche von 250 m². In dieser Halle befinden sich ein kleines Büro, Hygieneräume und eine
+Maschinenhalle. In der Maschinenhalle sind 27 neue Maschinen geplant, welche auf 3 identischen
+Produktionslinien eingesetzt werden. Alle Maschinen werden von Drehstrom-Asynchronmotoren
+angetrieben und jede Linie setzt sich aus 3 Maschinen zu je 4kW, 3 Maschinen zu je 2,2kW und 3
+Maschinen zu je 1,5kW. Weiters befinden sich noch folgende Verbraucher in dieser neuen Fabrikhalle:
+-
+
+Beleuchtung; P1; 3 kW
+
+-
+
+Büro und WC; P2; 3 kW
+
+-
+
+Steckdosen allgemein; P3; 3 kW
+
+-
+
+Lüftungsanlage; P4; 6 kW
+
+-
+
+Reserve; P5; 3,5 kW
+
+-
+
+Beleuchtung P1 3 kW
+
+Das Industrieunternehmen hat bereits einen eigenen Transformator mit einer Leistung von 400 kVA,
+welcher auch die neue Halle versorgen soll. Vom bestehenden Hauptverteiler (HV) bis zum neuen
+Unterverteiler (UV) in der neuen Halle sind es 30 m und für die Stromversorgung wird ein Rohr
+vorgesehen, welches unterirdisch verlegt wird.
+Treffen Sie, falls notwendig, zusätzliche Annahmen und bearbeiten Sie folgende Aufgaben:
+1.
+
+Bestimmen Sie die benötigte Netzanschlussleistung der neuen Fabrikhalle.
+
+2.
+
+Berechnen Sie den benötigten Querschnitt der Zuleitung vom bestehenden HV zum neuen UV.
+
+3.
+
+Berechnen Sie die benötigte Größe der Kondensatorbatterien, um eine Kompensation auf cosφ=0,95
+vorzunehmen;
+
+4.
+
+Skizieren Sie das gesamte Schema des Unterverteilers und bestimmen Sie die Charakteristiken der
+jeweiligen Schutzorgane für die Maschinenlinien, wenn die Leitungslänge zu den jeweiligen Linien jeweils
+20 m beträgt und die Leitungen alle gemeinsam in einer gelochten Kabelwanne verlegt werden.
+
+Pag. 5/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+TEIL II: Bearbeiten Sie eine der folgenden Fragestellungen.
+1. Ein Metallverarbeitungsbetrieb möchte eine neue Produktionshalle (Grundfläche 20 x 30 m, Höhe 4 m)
+errichten. Planen Sie hierfür eine Beleuchtungsanlage, wenn die mittlere Beleuchtungsstärke 300 lx
+betragen soll. Bestimmen Sie die Anzahl der Leuchten, die Aufteilung der Leuchten und den
+elektrischen Anschlusswert der gesamten Beleuchtung.
+2. In einem Industrienetz Drehstrom 400V/50 Hz wird eine Verteilung mit einer Leistung von 80 kW bei
+cosφ = 0,8 über ein 75m langes Kabel versorgt. Die Verteilung erfolgt in einer gelochten Kabelwanne,
+in welcher zusätzlich noch drei andere Stromkreise verlaufen. Der maximale Spannungsabfall wird mit
+3% festgelegt. Folgende Aufgaben sind zu lösen:
+a. Auswahl des Kabeltyps für die Leitung
+b. Berechnen Sie den Querschnitt der Leitung
+c. Berechne Sie den effektiven Spannungsfall entlang der Leitung
+3. Beschreiben Sie die Eigenschaften der eingesetzten Systeme für den Schutz gegen direktes und
+indirektes Berühren.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel: Nicht programmierbarer Taschenrechner; Tabellenbuch „Manuale degli impianti elettrici“ Verlag „Ed. Delfino“.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und Schüler mit
+Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 6/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+C) INFORMATIK – NETZWERKTECHNIK (Brixen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+
+Die Firma ProPhoenix ist ein aufstrebendes, junges Unternehmen, das in der Anwenderentwicklung tätig
+ist. Um die steigende Nachfrage an Aufträgen bewältigen zu können, müssen sowohl der Hauptsitz in
+Bozen als auch die Außenstellen in Rom, Wien und München umgebaut und vergrößert werden. Daher
+braucht die Firma eine komplett neue Netzwerk-Infrastruktur. So bekommen alle Standorte neue Router
+von der Firma Cisco. Zudem sind die einzelnen Standorte und der Hauptsitz mit entsprechender neuer
+Hardware auszustatten. Jeder Standort muss allerdings über mindestens zwei Leitungen erreichbar sein. In
+Bozen wird der PDC installiert und konfiguriert.
+Der Hauptsitz in Bozen wird mit 3 Servern, 54 PCs, 52 Laptops und 7 Netzwerkdruckern
+ausgestattet. Außerdem 1 PC für die Buchhaltung und 1 PC für den Firmenchef. Da am Standort des
+Hauptsitzes die Möglichkeit besteht, ein Nebengebäude zu kaufen, um vielleicht später nochmals zu
+erweitern, soll eine Erweiterungsmöglichkeit um 60% vorgesehen werden.
+Der Standort in Rom wird mit einem Server, 35 PCs, 21 Laptops und 5 Netzwerkdruckern
+ausgestattet. Eine Erweiterungsmöglichkeit um 40% soll vorgesehen werden.
+Der Standort in Wien wird mit einem Server, 68 PCs, 42 Laptops und 15 Netzwerkdruckern
+ausgestattet. Eine Erweiterungsmöglichkeit um 15% soll genügen.
+Der Standort in München wird mit einem Server, 15 PCs, 12 Laptops und 2 Netzwerkdruckern
+ausgestattet. Eine Erweiterungsmöglichkeit um 10% soll genügen.
+Die Anbindung an den Hauptsitz erfolgt jeweils über einen Router. Die IP-Adresse 172.28.226.111/22
+stammt aus dem Firmennetz.
+
+
+Analysieren und berechnen Sie (Schätzung) anhand einer genauen Aufstellung die anstehenden
+Investitionskosten.
+
+
+
+Berechnen Sie aus der oben angegebenen IP-Adresse das eigentliche Netz (Subnetting).
+
+
+
+Entwerfen Sie die Netzwerkstruktur (Skizze) mit der jeweiligen IP-Adressierung.
+
+
+
+Konfigurieren Sie den Router (Basiskonfiguration) des Hauptsitzes und jene der einzelnen
+Standorte. Beachten Sie dabei, dass zu den grundlegenden Sicherheitsfunktionen die Verwendung
+von Passwörtern für den Zugriff auf die Geräte und deren Konfiguration gehört. Bei der
+Konfiguration des Routers sollen nur 2 Telnet-Verbindungen eingerichtet werden, die sich nach
+2½ Minuten schließen, falls in diesem Zeitraum keine Eingabe erfolgt.
+
+
+
+Verwenden Sie für das Routing das Open-Shortest-Path-First-Protokoll.
+
+Pag. 7/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+
+
+Verhindern Sie anhand von Access Control List, dass alle PCs im LAN auf die Buchhaltung und
+den Rechner des Chefs zugreifen können. Umgekehrt soll es jedoch möglich sein. Konfigurieren
+Sie die Router entsprechend um.
+
+Im Hauptsitz in Bozen soll ein WLAN eingerichtet werden, damit sich die Laptops mit dem Internet
+verbinden können. Ebenfalls ist ein LAN für die PCs vorhanden. Außerdem sind im Hauptsitz drei
+Server. Auf den Servern sollen die Dienste so konfiguriert werden, dass eine maximale Ausfallssicherheit
+gegeben ist (Backup, Mail, Daten, Drucker, DHCP, DNS ...). Eine Telefonanlage ist im Hauptsitz
+ebenfalls vorhanden. Eine Hardware-Firewall soll angekauft und konfiguriert werden.
+Kundendaten, Produktionsdaten, aber auch die gesamte Buchhaltung stellen einen nicht zu
+unterschätzenden Wert für das Unternehmen dar. Jeder Unternehmer sollte sich fragen, ob und wie das
+Unternehmen weitergeführt werden kann, wenn zentrale Datenspeicher ausfallen. Um einen solchen
+Notfall zu vermeiden, sollte ein Sicherheitskonzept für die Datensicherung erstellt werden.
+ Erstellen Sie ein IT-Konzept für die Infrastruktur des Hauptsitzes, wobei mit den vorhandenen
+Geräten (Servern, Firewall, Switch, Router, ...) die größtmögliche Ausfallsicherheit gegeben ist.
+(Skizze und Beschreibung) Beachten Sie dabei die Verlässlichkeit der Werkzeuge und die anpassbare
+Funktionalität.
+ Erstellen Sie ein Sicherheitskonzept, das die Methode und den zeitlichen Rhythmus der
+Datensicherungen (Backups) umfasst. (Skizze)
+
+TEIL II: Bearbeiten Sie zwei der folgenden Fragestellungen
+
+1. Welche Anforderungen muss eine Hardware-Firewall erfüllen?
+2. Beschreiben Sie die verschiedenen Konzepte zur Erstellung einer Datensicherung
+3. Je nach Größe, Branche und Bedeutung der IT in einem Unternehmen ergeben sich individuelle
+Sicherheitsanforderungen. Führen sie einige Maßnahmen für das in Teil I angeführte Unternehmen
+(ProPhoenix – Anwenderentwicklung) an.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ xxx.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und Schüler mit
+Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 8/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+D) IT-SYSTEMELEKTRONIK UND ANWENDUNGSENTWICKLUNG (Bozen)
+
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Eine Großkonditorei benötigt einen neuen Onlineshop. Die einzelnen Produkte sind in Produktkategorien
+unterteilt und mit allen üblichen Informationen zu versehen, die für eine Bestellung notwendig sind. Der
+Kunde kann auch Statusinformationen zu seiner Bestellung einsehen.
+1) Fertigen Sie einen Datenbankentwurf an, der diese Informationen widerspiegelt.
+2) Folgendes Szenario sei gegeben: ein Neukunde möchte zwei unterschiedliche Produkte bestellen.
+Es sind alle dafür notwendigen SQL-Anweisungen zu verfassen.
+3) Das Teilszenario einer Darstellung eines einzelnen Produktes aufgrund einer vorhergehenden
+Kategorieauswahl, mit der Möglichkeit der Ablage in den Warenkorb, soll praktisch umgesetzt werden.
+Die Informationen zum Produkt kommen dabei aus der Datenbank. Zur Überprüfung soll auch noch der
+Warenkorb auf einer eigenen Ansicht eingesehen werden können. Der Bestellvorgang selbst muss nicht
+implementiert werden. Eine Vorgangsweise nach dem MVC Design Pattern ist erwünscht.
+Sie können weitere Informationen ergänzen, falls Sie das für notwendig erachten.
+
+TEIL II: Bearbeiten Sie zwei der folgenden Fragestellungen
+1) Für die Erstellung des Onlineshops aus Teil I soll eine Projektplanung in Form eines Gantt-Diagramms
+erstellt werden. In die Überlegungen sollen die bereits gesammelten Erfahrungen bei der Umsetzung von
+Webprojekten einfließen.
+2) Digital Natives vs. Digital Immigrants. Was hat es mit diesen beiden Begriffen auf sich und wo liegen
+die Unterschiede dieser beiden Zielgruppen?
+3) Der Projektmanager sorgt dafür, dass die Projektziele mittels „The Triple Constraint“ erreicht werden.
+Erläutern Sie diesen Begriff aus der PM-Literatur.
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel: Die Nutzung eines zur Verfügung gestellten PCs ohne Internetzugang samt darauf installierter Software ist
+erlaubt. Bewertet wird nur, was in Papierform vorliegt, also entweder manuell erstellt oder ausgedruckt ausgehändigt wird.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 9/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+E) WARTUNG UND INSTANDHALTUNG MECHATRONISCHER SYSTEME (Bozen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Ein Drehstrom-Motor treibt über einen Riemenantrieb ein Kreissägeblatt an.
+Die Leistung des Drehstrom-Motors beträgt P = 4,0 kW und dreht mit einer Drehzahl von nM = 1435
+min-1.
+Das Kreissägeblatt hat einen Durchmesser von dS = 360 mm und sollte mir einer
+Schnittgeschwindigkeit von vc = 50 -55 m/s zum Einsatz kommen.
+Der Riemenantrieb wird mit einer Kraft von FV = 200 N vorgespannt.
+Zu berechnen sind folgende Unterpunkte der Anlage:
+1. Berechnen Sie die erforderliche Anschlussleistung des Drehstrom-Motors und dimensionieren Sie den
+Querschnitt der Leitungen, wenn diese 50 m lang sind.
+2. Bestimmen und berechnen Sie die Antriebseinheit, die durch einen Schmalkeilriemen angetrieben wird
+(Achsabstand a = 300 mm). Berechnen Sie nach der Auslegung der Antriebseinheit die effektive
+Schnittgeschwindigkeit am Kreissägeumfang, wenn ein Riemenschlupf von s = 1 % berücksichtigt
+wird.
+3. Dimensionieren und konstruieren Sie die Antriebswelle sowie das Verbindungselement zur
+Riemenscheibe unter Berücksichtigung einer dreifachen Sicherheit, der funktionellen Demontage und
+die daraus entstehenden lokalen Spannungsspitzen.
+Erstellen Sie ein CAD-3D Modell und leiten Sie von diesem eine vollständige, technisch richtige
+Zeichnungsableitung mit Bemaßungen, Toleranzen (Länge, Form und Lage) sowie mit Angaben der
+Oberflächenbeschaffenheit ab. Drucken Sie die Zeichnungsableitung aus.
+4. Berechnen Sie die erforderliche Spannkraft der Befestigungsflanschen zum Kreissägeblatt
+(Reibdurchmesser dR = 75 mm) unter Berücksichtigung der Reibung (μ = 0,12) und einer 2-fachen
+Sicherheit sowie die Handkraft zum Spannen der Befestigungsflanschen. Der mittlere Durchmesser der
+Befestigungsflanschen beträgt dm = 75 mm, die Hebellänge des Schraubenschlüssels beträgt l = 200
+mm.
+Wichtiger Hinweis:
+Sämtliche Auslegung- und Dimensionierungsarbeiten sollen nachvollziehbar und unter Angabe der
+verwendeten Quellen schriftlich zusammengefasst werden.
+
+Pag. 10/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+Abbildung Kreissäge
+
+Abstände: Lagerabstand l1 = 550 mm; l2 = 55 mm; l3 = 60 mm
+Die abgebildete Grafik ist weder im Maßstab noch entspricht sie der realen Konstruktion. Sie gibt
+lediglich eine grafische Hilfe für die Aufgabenstellung.
+
+Pag. 11/11
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+TEIL II: Bearbeiten Sie zwei der folgenden Fragestellungen
+Eine Antriebswelle eines Transportbandes muss das Drehmoment von Mt = 300 Nm übertragen.
+Das Drehmoment wird von einer Riemenscheibe über eine Passfeder nach DIN 6885 – B 8 x 7 x 40 auf
+die Antriebswelle übertragen.
+Werkstoff Antriebswelle
+Werkstoff Passfeder
+Sicherheit bei Torsionsbeanspruchung
+Sicherheit bei Abscherung
+zulässige Flächenpressung
+
+16MnCr5
+S235
+vT = 4
+vA = 2
+pzul = 150 N/mm2
+
+Beantworten Sie nach eigener Wahl zwei der folgenden vier Fragestellungen:
+1. Dimensionieren Sie den Mindestdurchmesser D der Antriebswelle (auf nächsten Durchmesser
+aufrunden).
+2. Weisen Sie nach, ob die genannte Passfeder bei einem Wellendurchmesser von D = 30 mm die
+geforderte Sicherheit erfüllt.
+3. Erstellen Sie eine saubere Handskizze und bemaßen Sie den Einstich samt Passungsangaben für
+den Sicherungsring nach DIN 471 für einen Wellendurchmesser D = 25 mm.
+4. Beschreiben Sie eine festigungssteigernde Maßnahme für den Werkstoff der Antriebswelle.
+
+Die abgebildete Grafik ist weder im Maßstab noch entspricht sie der realen Konstruktion. Sie gibt
+lediglich eine grafische Hilfe für die Aufgabenstellung.
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel: Tabellenbuch Metall (Europa Lehrmittel; 46. oder 47. Auflage); Tabellenbuch Elektrotechnik (Manuale
+degli impianti elettrici); nicht programmierbarer Taschenrechner; PC mit 3D-Konstruktionsprogramm „Autodesk Inventor“.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+

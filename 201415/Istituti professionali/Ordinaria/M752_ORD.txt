@@ -1,0 +1,189 @@
+Pag. 1/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M752 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ IPE9 - MANUTENZIONE E ASSISTENZA TECNICA CURVATURA
+ELETTRICO ELETTRONICO
+ IPI9 – MANUTENZIONE E ASSISTENZA TECNICA CURVATURA
+INFORMATICA
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M752 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+L’impresa responsabile della manutenzione di un centro commerciale deve, tra l’altro, controllare
+l’impianto delle scale mobili. Il movimento delle scale è comandato da un motore asincrono trifase
+mentre la trasmissione del moto dal gruppo motore/riduttore al gruppo di trascinamento dei gradini è
+ottenuta mediante l'impiego di una catena.
+Il candidato, fatte eventuali ipotesi aggiuntive:
+1.
+
+descriva, anche tramite uno schema, l’impianto comprendente sia la parte elettrica con il motore
+che quella meccanica con particolare riferimento alla trasmissione del moto;
+
+2.
+
+indichi i principali dispositivi da monitorare per garantire l’utilizzo in sicurezza dell’impianto e
+in particolare quelli relativi al motore elettrico;
+
+3.
+
+illustri i criteri per verificare se i componenti elettrici scelti per la protezione del motore sono
+adeguati;
+
+4.
+
+indichi i possibili guasti che impediscono l’avvio del motore e come effettuare le relative
+verifiche.
+
+Infine proponga un format per la registrazione delle verifiche e degli interventi di manutenzione
+effettuati.
+SECONDA PARTE
+1.
+
+Si desidera determinare l’affidabilità di un componente attraverso test su 10 unità che hanno i
+seguenti risultati in termini di TTF (Time To Failure):
+Componente TTF (ore)
+1
+610
+2
+350
+3
+1270
+4
+790
+5
+560
+6
+680
+7
+560
+8
+460
+9
+250
+10
+410
+Il candidato calcoli il MTTF (Mean Time To Failure) e, considerando un tempo di osservazione
+pari a 10 cicli di 50 ore, l’affidabilità del componente dopo 500 ore.
+
+Pag. 3/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M752 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+2.
+
+Il candidato, dopo aver descritto la struttura e le funzioni di un impianto di illuminazione
+d’emergenza di un centro congresso, indichi, di conseguenza, le tipologie di verifiche, gli
+interventi correttivi e di manutenzione da effettuare (UNI CEI 11222) anche in riferimento al
+risparmio energetico.
+
+3.
+
+Il multivibratore astabile di figura è utilizzato per ottenere un clock a frequenza variabile con i
+livelli 1 e 0 corrispondenti rispettivamente a 0V e 5V.
+
+Il candidato illustri la funzione del diodo zener, dica quali sono i parametri da considerare nella
+scelta del componente elettronico e come individuare la resistenza R (Vsat = + 15V). Inoltre
+individui i motivi per i quali la forma d’onda può modificarsi e diventare triangolare.
+
+4.
+
+Il candidato illustri la struttura di un impianto fotovoltaico, indichi quali possono essere i guasti
+più comuni con le relative conseguenze e quale sistema di protezioni dell’impianto è conveniente
+introdurre.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 4/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M876 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPI9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E DI MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+Il candidato presenti un apparato o dispositivo di sua conoscenza, con particolare riferimento alle sue
+componenti informatiche, e ne descriva i guasti più tipici che si possono verificare.
+Prenda quindi in esame uno dei guasti trattati descrivendo:
+-
+
+le attività necessarie a garantire la sicurezza di operatori ed utenti in riferimento alla normativa
+esistente;
+
+-
+
+una procedura per la ricerca e l’individuazione del guasto utilizzando metodi e strumenti di
+diagnostica tipici;
+
+-
+
+la soluzione che ritiene opportuno adottare per la risoluzione del guasto.
+
+Alla luce della soluzione proposta, il candidato predisponga un preventivo in cui siano riportate le
+attività, i materiali ed i corrispondenti costi stimati per l’intervento di riparazione.
+Descriva infine le procedure che si rendono necessarie per il processo di certificazione di qualità.
+SECONDA PARTE
+Il candidato (che potrà eventualmente avvalersi delle conoscenze e competenze maturate attraverso
+esperienze di alternanza scuola-lavoro, stage o formazione in azienda) risponda a due quesiti a scelta
+tra quelli sotto riportati.
+1.
+2.
+3.
+4.
+
+In riferimento al tema proposto nella prima parte, proponga un capitolato di manutenzione per
+assicurare assistenza continua nel tempo.
+In riferimento al tema proposto nella prima parte, compili il documento di collaudo relativo
+all’intervento effettuato.
+Esponga le differenze tra i metodi di manutenzione tradizionali e quelli innovativi.
+Esponga alcune tecniche e strumenti della telemanutenzione e della teleassistenza.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall'inizio della prova.
+
+

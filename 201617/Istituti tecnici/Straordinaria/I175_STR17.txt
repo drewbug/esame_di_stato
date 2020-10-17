@@ -1,0 +1,107 @@
+Pag. 1/3
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Si vuole realizzare il sistema di controllo di un impianto di automazione per la foratura, sulla parte
+circolare di una flangia utilizzando un trapano a colonna. L’impianto viene messo in funzione tramite
+un pulsante di START che avvia un opportuno sistema di trasporto dove sono predisposte le varie
+flange sulle quali eseguire i 4 fori come mostrato nella figura seguente.
+
+L’avvio dell’automatismo è consentito solo se la punta del trapano è in condizioni di riposo, ovvero
+posizionata in alto rispetto al punto di foratura e segnalata da un sensore di finecorsa. Il dispositivo
+inoltre, per motivi di sicurezza, è provvisto di schermo protettivo a discesa.
+Quando un pezzo raggiunge la zona di foratura, un opportuno sensore ne rileva la presenza e il sistema
+di trasporto viene fermato: se lo schermo protettivo è posizionato nella zona di foratura il trapano può
+iniziare la discesa. La testa del trapano scende grazie ad un motore alimentato a 24 Vdc, mentre la
+rotazione della punta è affidata ad un ulteriore motore a 12 Vdc.
+Eseguito ciascun foro, un sensore di posizione determina la risalita della testa del trapano di 30 mm
+e un opportuno servomeccanismo provvede quindi a far ruotare la flangia di 90 gradi per permettere
+la seconda foratura. La testa del trapano quindi scende nuovamente per effettuare il secondo foro.
+L’operazione si ripete per altre due volte con rotazioni ognuna di 90 gradi, effettuando così in totale
+le 4 forature previste.
+
+Pag. 2/3
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+Terminato il processo di foratura il trapano ritorna nella posizione iniziale arrestando la rotazione e
+il sistema di trasporto riprende a muoversi portando il pezzo successivo nella zona di foratura.
+Il sistema di foratura, per motivi di sicurezza, è provvisto di un pulsante di STOP che determina
+l’immediato arresto di tutti i motori e la segnalazione di stato di emergenza tramite una lampada spia
+di colore giallo.
+Il candidato utilizzando un PLC o un sistema a microcontrollore di propria conoscenza e fatte le
+ipotesi aggiuntive ritenute necessarie:
+1. fornisca uno schema a blocchi di massima del sistema di controllo dell’intero processo di
+foratura, descrivendo i singoli blocchi dal punto di vista funzionale;
+2. rappresenti, mediante un diagramma di flusso, e codifichi, in un linguaggio di propria
+conoscenza, il sistema di controllo per l’azionamento del nastro trasportatore, la foratura e le
+rotazioni della flangia;
+3. elabori un opportuno sistema di azionamento dello schermo protettivo inserendo i necessari
+sensori.
+
+SECONDA PARTE
+1. Con riferimento alla prima parte della prova e in particolare al sistema di rotazione della flangia,
+ipotizzando di utilizzare un encoder per la misura dell’angolo, il candidato realizzi la procedura
+per la rotazione sui 4 fori previsti.
+2. Con riferimento alla prima parte della prova, il candidato preveda un sistema di segnalazione
+luminosa nelle fasi di movimentazione e foratura della flangia, motivando le scelte effettuate.
+
+Pag. 3/3
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+3. Dato il sistema di controllo rappresentato dallo schema a blocchi di figura:
+
+Dove:
+
+𝐴 (𝑠 ) = 
+
+𝐵 (𝑠 ) =
+
+𝑠+5
+𝑠+10
+
+𝐻 (𝑠 ) =
+
+1
+2𝑠
+
+Il candidato, dopo aver verificato che il sistema ad anello chiuso è stabile per ogni valore del
+parametro  >0, determini per quali valori di  l’errore a regime permanente è minore del 2% per
+un segnale d’ingresso r(t) a rampa unitaria.
+4. Il candidato dopo aver tracciato i diagrammi di Bode della funzione di trasferimento seguente, ne
+determini il relativo margine di fase:
+2 ∙ 104 ∙ (𝑠 + 10)
+𝐹(𝑠) = 2
+𝑠 ∙ (𝑠 + 2000)
+
+_______________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

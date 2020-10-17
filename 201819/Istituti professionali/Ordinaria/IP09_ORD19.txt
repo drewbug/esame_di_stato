@@ -1,0 +1,49 @@
+Pag. 1/1
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO/ELETTRONICO
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E MANUTENZIONE
+PRIMA PARTE
+Una ditta di manutenzione deve garantire il funzionamento del gruppo elettrogeno di uno stabilimento
+industriale.
+Il gruppo è costituito dalle parti principali di seguito elencate:
+ motore diesel 4 tempi, 8 cilindri con relative apparecchiature:
+- pompa d’iniezione gasolio e relativo filtro;
+- pompa olio motore e relativo filtro;
+- pompa di circolazione liquido di raffreddamento;
+- filtro dell’aria;
+- radiatore con ventola di raffreddamento;
+- turbocompressore;
+- motorino di avviamento;
+- batteria.
+ generatore sincrono trifase a magneti permanenti;
+ serbatoio del gasolio interrato, relativa pompa di aspirazione con filtro gasolio e linea di
+adduzione gasolio;
+ quadro elettrico di comando, regolazione e controllo.
+Il candidato, in funzione della propria esperienza di studio:
+1. ipotizzi le cause che hanno impedito l’avviamento del gruppo e descriva le caratteristiche
+funzionali e tecniche dell’apparecchiatura che ritiene abbia subito il guasto;
+2. indichi il piano d’intervento descrivendo i mezzi e le attrezzature necessarie anche in
+riferimento alla sicurezza sul lavoro;
+3. indichi un format per la registrazione degli interventi di manutenzione di una parte
+dell’impianto e/o componente di sua scelta;
+4. supposto che il tasso di guasto del gruppo elettrogeno sia pari a 0,03 anni-1, determini dopo
+quanto tempo l’affidabilità è pari al 90%.
+____________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda è
+predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione scolastica
+e della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

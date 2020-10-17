@@ -1,0 +1,79 @@
+Pag. 1/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M988 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIL - PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA ELETTRICO ELETTRONICA
+Tema di: TECNICHE DI PRODUZIONE E DI ORGANIZZAZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+
+Una piccola azienda elettronica riceve da un cliente una richiesta per la realizzazione di schede
+elettroniche per il controllo della velocità di coppie di motori in corrente continua. Il sistema di
+controllo deve rilevare la velocità dei motori, effettuare il confronto per segnalare se la differenza
+supera il 10% della velocità nominale prevista per entrambi.
+Il candidato, fatte eventuali ipotesi aggiuntive:
+1.
+
+indichi le varie fasi della procedura da mettere in atto per analizzare la fattibilità e la
+realizzazione del progetto;
+
+2.
+
+individui i dispositivi necessari alla realizzazione della scheda e rappresenti il progetto tramite
+un disegno;
+
+3.
+
+effettui una valutazione in termini tecnico-economici della logica scelta, hardware o software,
+per realizzare il controllo;
+
+4.
+
+descriva le varie fasi per lo sviluppo del progetto della scheda elettronica;
+
+5.
+
+indichi le principali informazioni tecniche da comunicare al cliente.
+
+Pag. 2/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M988 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIL - PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA ELETTRICO ELETTRONICA
+Tema di: TECNICHE DI PRODUZIONE E DI ORGANIZZAZIONE
+
+SECONDA PARTE
+1.
+2.
+3.
+4.
+
+Il candidato dopo aver descritto le fasi della progettazione esecutiva dell’impianto elettrico di
+un piccolo condominio, composto da 6 appartamenti, relazioni, a propria scelta, su una di essa.
+Il candidato descriva i fattori che influenzano la progettazione e la programmazione del piano
+di produzione di un’azienda produttrice di pannelli fotovoltaici.
+Il candidato illustri, in riferimento alla conformità del prodotto, i controlli che deve effettuare
+un’azienda produttrice di trasformatori.
+Il candidato descriva il percorso che deve fare un’azienda produttrice di cavi elettrici per
+eseguire la marcatura CE sui propri prodotti.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

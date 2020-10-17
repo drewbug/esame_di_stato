@@ -1,0 +1,99 @@
+Pag. 1/2
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M841 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPM9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Il candidato prenda come riferimento uno degli impianti tecnici, civili o industriali, caratterizzanti
+il proprio indirizzo di studio e, relativamente ad esso:
+
+
+Lo rappresenti mediante uno schema a blocchi, elencandone i principali componenti e
+descrivendone il funzionamento;
+
+
+
+individui i possibili guasti a cui è soggetto l’impianto, elaborando un metodo per filtrare le
+cause di guasto, mettendo in evidenza quelle più probabili;
+
+
+
+scelta una causa di guasto, pianifichi come intende risolverla, evidenziando attrezzi utilizzati,
+materiale di consumo e pezzi di ricambio, dispositivi di sicurezza da usare e modalità di
+intervento;
+
+
+
+rappresenti, infine, su scala temporale, le successive fasi di intervento.
+
+SECONDA PARTE
+1.
+
+Durante un intervento di manutenzione il fattore sicurezza rappresenta sicuramente una priorità.
+Il candidato faccia riferimento ad un intervento manutentivo svolto durante le attività di
+laboratorio o nel corso di un'esperienza lavorativa o di stage, metta in rilievo i rischi connessi a
+tale attività, elenchi e descriva i dispositivi protettivi individuali e collettivi atti alla protezione
+del corpo. Elabori infine una scheda a supporto del lavoratore per svolgere la manutenzione in
+oggetto in sicurezza.
+
+2.
+
+Una ditta di manutenzione ha acquisito il contratto di manutenzione degli impianti di
+riscaldamento di una catena di alberghi. Esso prevede la pulizia periodica dei bruciatori delle
+caldaie, l’ispezione visiva delle parti meccaniche ed elettriche, il controllo e la regolazione dei
+corpi scaldanti, l’analisi dei fumi e la compilazione dei relativi documenti, secondo quanto
+previsto dalla normativa vigente. Si chiede al candidato di:
+
+
+stilare un rapporto di intervento che documenti e comprovi le attività svolte dal responsabile
+della manutenzione;
+
+
+
+stimare i costi annuali di manutenzione, tenendo conto dell'utile dell'impresa.
+
+Pag. 2/2
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M841 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPM9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE E MANUTENZIONE
+3.
+
+Il candidato metta in evidenza la differenza tra costi fissi e costi variabili, spiegando il concetto
+di punto di pareggio (break even point, BEP). Stabilisca inoltre il BEP di un’attività avente costi
+fissi annuali quantificabili in 35000 euro, costo di produzione di 4,20 euro/pezzo, prezzo di
+vendita del prodotto pari a 9,50 euro. Calcoli infine il numero di pezzi da produrre per avere un
+utile di 25000 euro. Si rappresentino graficamente i problemi.
+
+4.
+
+Il candidato, dopo aver descritto l'immagine riportata sotto, spieghi il concetto di affidabilità.
+Stabilisca poi se è maggiore l'affidabilità di due componenti disposti in serie o in parallelo,
+motivando la risposta data. Calcoli infine il valore dell'affidabilità di un sistema composto da due
+componenti aventi affidabilità rispettivamente pari a 80% e 70% disposti prima in serie e poi in
+parallelo.
+
+Tasso di
+guasto
+
+Tempo
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

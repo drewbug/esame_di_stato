@@ -1,0 +1,59 @@
+ISTITUTO PROFESSIONALE Settore INDUSTRIA E ARTIGIANATO
+Indirizzo: MANUTENZIONE E ASSISTENZA TECNICA
+ESEMPIO DI SECONDA PROVA di “TECNOLOGIE E TECNICHE DI
+INSTALLAZIONE E MANUTENZIONE”
+INDIRIZZO: IPM9 - MANUTENZIONE E ASSISTENZA TECNICA (CURV. MECCANICA) –
+INDIRIZZO: IPS9 - MANUTENZIONE E ASSISTENZA TECNICA (CURV. SISTEMI ENERGETICI) –
+INDIRIZZO: IPAM - MA.AS.TE.OPZ."APP.IMP.SERV.TECN.IND.LI CIVILI" (CURV.MECCANICA)
+INDIRIZZO: IPAN - MAN.ASS.TEC.OPZ."APPAR.IMP.SERV.TECN.IND.LI CIVILI" (CURV.SISTEMI ENERGET.)
+
+PRIMA PARTE
+Il responsabile dei servizi tecnici di un albergo, rilevato il non corretto funzionamento dell'impianto
+di climatizzazione della sala meeting, richiede l'intervento del servizio di manutenzione.
+Lo schema di principio dell’impianto è riportato in figura.
+
+Il candidato fatte le ipotesi che ritiene più opportune:
+1. descriva i principali componenti che costituiscono l’impianto;
+2. formuli un elenco dei possibili è più probabili guasti che hanno determinato l’avaria;
+3. pianifichi come intende risolvere le problematiche ipotizzate.
+
+Seconda Parte
+Il candidato risponda a due dei seguenti quesiti e presenti per ognuno le linee operative, le motivazioni delle
+soluzioni prospettate.
+
+QUESITO N. 1
+In uno stabilimento industriale sono presenti 40 motori elettrici uguali funzionanti nella fase di
+guasti casuali. Supposto che in un intervallo di tempo di 2000 ore si verifichino 5 guasti e
+precisamente dopo 400, 700, 1100, 1300 e 1750 ore, il candidato determini il tasso di guasto dei
+motori esaminati e calcoli l’affidabilità nel lasso di tempo preso in considerazione. Il candidato
+rappresenti inoltre la curva del tasso di guasto e ne descriva le varie fasi individuabili.
+QUESITO N. 2
+Il candidato descriva le politiche di manutenzione e le tipologie di manutenzione secondo le norme
+UNI. Si richiede inoltre di riportare in funzione delle proprie esperienze acquisite anche in contesti
+operativi, un esempio applicativo che riporti ad una tipologia di manutenzione. Indichi la
+documentazione che dovrà essere redatta in funzione dell’esempio descritto.
+QUESITO N. 3
+Una ditta di manutenzione ha in gestione la manutenzione ordinaria di un gruppo termico
+alimentato a gas metano a servizio di un condominio. Tra le voci previste nel contratto di
+manutenzione si ha:
+a. manutenzione ordinaria dei bruciatori con pulizia, lubrificazione e controllo delle parti
+meccaniche, elettriche, componenti ed automatismi;
+b. verifica tenuta circuiti liquido riscaldamento sezione interna al gruppo termico;
+c. esecuzione di analisi dei fumi/combustione e relativa regolazione dei bruciatori,
+finalizzata ad ottenere il miglior funzionamento in termini di risparmio energetico e la
+limitazione nei termini di legge delle emissioni inquinanti in atmosfera.
+Il candidato, fatte le opportune considerazioni, pianifichi gli interventi previsti nel contratto di
+manutenzione avendo cura di descrivere quali mezzi, attrezzature e risorse umane prevede di
+utilizzare. In funzione delle scelte effettuate, analizzi la tipologia dei possibili rischi valutandone la
+probabilità e il danno per ciascun pericolo individuato. Indichi inoltre, le misure di prevenzione e
+protezione e la tipologia del DPI (Dispositivi di Protezione Individuale) necessari per effettuare gli
+interventi in sicurezza.
+QUESITO N. 4
+Un manutentore è chiamato per la sostituzione di una pompa di ricircolo a servizio di un impianto
+di riscaldamento. La nuova elettropompa ha un costo di listino pari a 2.200,00 euro. Per eventuali
+accessori si consideri un 10% del prezzo di listino dell’elettropompa. Il candidato facendo le
+opportune considerazioni, effettui un preventivo dettagliato da esporre al committente che tenga
+conto dei costi di materiale, manodopera, e dell’utile d’impresa. Rediga inoltre, un rappresentazione
+su scala temporale o reticolare di tutte le fasi necessarie.
+
+

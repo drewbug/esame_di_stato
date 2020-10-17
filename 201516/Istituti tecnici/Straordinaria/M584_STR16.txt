@@ -1,0 +1,257 @@
+Pag. 1/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M584 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+R
+
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+
+IU
+
+ARTICOLAZIONE ELETTRONICA
+
+IM
+
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+AT
+T
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+
+LI
+
+In occasione degli open-day, le giornate di orientamento dedicate agli studenti delle scuole medie
+inferiori, il team di docenti del dipartimento di elettronica di un istituto tecnico prepara delle
+esperienze didattiche relative al campionamento dei segnali e all’acquisizione dati da parte di un
+sistema programmabile.
+
+AG
+
+Le attività proposte sono le seguenti:
+
+
+Misura della temperatura ambiente.
+
+
+
+Misura della velocità di rotazione dell’asse di un motore passo-passo.
+
+M
+
+E
+
+Per la misura della temperatura si utilizza un sensore di che produce una corrente in uscita
+proporzionale alla temperatura secondo la relazione:
+
+dove
+T è la temperatira rilevata
+
+𝐾𝑣 (𝑇 − 𝑇𝑚𝑖𝑛)
+(𝑇𝑚𝑎𝑥 − 𝑇𝑚𝑖𝑛)
+
+FO
+
+R
+
+𝑉𝑡𝑒𝑚𝑝=
+
+N
+
+Kv =1 V/°C è la costamte caratteristica del trasduttore
+
+O
+
+Tmax =150°C, Tmin = – 50°C rappresentano, rispettivamente, la massima e la minima temperatura
+di esercizio.
+
+PI
+
+A
+
+C
+
+Per la rilevazione della velocità di rotazione si utilizza un sensore ad effetto hall con uscita di tipo
+differenziale il cui valore massimo è proporzionale alla velocità di rotazione del motore secondo la
+relazione:
+𝑉𝑑 = 𝐾 ∗ 𝜔
+
+con K = 5 [mV∙s/rad].
+
+C
+
+O
+
+In relazione al contesto specificato, si può assumere che la temperatura ambientale sia compresa tra
+10°C e 40°C, che la velocità angolare massima del motore sia  = 1500 giri/minuto e che l’errore
+massimo tollerato per la misura delle due grandezze a fondo scala sia, rispettivamente, dello 0,5% e
+dello 0,1%.
+Il candidato, formulate le ipotesi aggiuntive che ritiene necessarie.
+1.
+
+Produca lo schema a blocchi dell’intero sistema e definisca la funzione svolta dai singoli blocchi
+e le interazioni tra gli stessi;
+
+2.
+
+Scelga un’adeguata frequenza di campionamento;
+
+3.
+
+Scelga un ADC di sua conoscenza, o indichi le caratteristiche che un tale dispositivo dovrebbe
+avere, per rispettare le condizioni relative all’errore ammissibile;
+
+Pag. 2/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M584 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+R
+
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+
+IU
+
+ARTICOLAZIONE ELETTRONICA
+
+IM
+
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+Dimensioni le interfacce necessarie ad una corretta acquisizione dei dati provenienti dai sensori;
+
+5.
+
+Determini il codice prodotto dall’ADC rispettivamente per la temperatura ambiente standard
+TA=25°C e per una velocità di 500 giri/minuto.
+
+AT
+T
+
+4.
+
+SECONDA PARTE
+
+In riferimento alla soluzione proposta al problema della parte prima il candidato allestisca un
+idoneo banco di misura sperimentale per il collaudo delle interfacce progettate e indichi le
+tecniche operative necessarie alla loro eventuale taratura.
+
+2.
+
+Si proponga una soluzione circuitale per generare un segnale onda quadra a frequenza fissa f0 =1
+KHz e duty cycle variabile con continuità tra il 10% ed il 90% avente in uscita livelli di tensione
+compatibili con la logica TTL.
+
+3.
+
+Il circuito di figura è un monostabile cui viene applicato un segnale di trigger Vtr come
+rappresentato
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+AG
+
+LI
+
+1.
+
+Pag. 3/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M584 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+R
+
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+
+IU
+
+ARTICOLAZIONE ELETTRONICA
+
+IM
+
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+Gli induttori tradizionali, realizzati mediante avvolgimenti di rame in aria o su nuclei
+ferromagnetici, sono componenti che hanno diverse caratteristiche che ne limitano l’uso e
+pertanto, in talune applicazioni, sono sostituiti con induttori simulati come quello di figura.
+
+LI
+
+4.
+
+AT
+T
+
+Si descriva brevemente il funzionamento del circuto e si deterninino le condizioni che devono
+soddisfare C ed R affinchè il circuito generi un impulso la cui durata sia indipendente da essi e
+se ne determini il valore.
+
+AG
+
+Illustrare sotto quali condizioni l’impedenza di ingresso Vi/Ii è assimilabile ad una induttanza
+equivalente e resistenza equivalente di valori rispettivamente:
+𝑅𝑒𝑞 = R 𝐿
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+𝐿𝑒𝑞 = R 𝐿 · C · R ;
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

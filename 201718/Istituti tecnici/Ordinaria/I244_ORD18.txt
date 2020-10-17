@@ -1,0 +1,70 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I244 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITTC – GRAFICA E COMUNICAZIONE
+OPZIONE TECNOLOGIE CARTARIE
+Tema di: IMPIANTI DI CARTIERA E DISEGNO
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+L’impasto uscente da un pulper in continuo cade in una tina da dove viene inviato ad un depuratore
+a pasta densa che elimina le impurità grossolane con portata trascurabile. Successivamente l’impasto
+depurato attraversa un turboseparatore dal quale esce un accettato con una concentrazione del 4%. Lo
+scarto pesante ha una portata trascurabile mentre quello leggero viene riciclato al pulper previo
+passaggio in un vaio vibrante.
+L’accettato è depastigliato e poi mandato in un impianto di addensamento costituito da due coclee
+disposte in serie.
+Le acque bianche drenate hanno una concentrazione dello 0,28% e vengono in parte riciclate al pulper
+che è alimentato anche da acque chiare.
+L’addensato con portata pari a 46 t/h viene infine inviato in un trituratore in cui arriva vapore saturo
+con entalpia pari a 640 kcal/t; la temperatura di entrata dell’impasto è di 32°C quella di uscita di 82°C.
+L’impasto triturato esce con una portata di 52 t/h e una concentrazione del 30%.
+Con i dati a disposizione il candidato calcoli:
+1. la portata del vapore saturo;
+2. la portata dell’impasto che entra nella prima coclea e la portata delle acque drenate.
+Il candidato disegni lo schema grafico funzionale del processo produttivo descritto, completo delle
+apparecchiature ausiliarie necessarie e delle regolazioni automatiche principali, seguendo, per quanto
+possibile, la normativa specifica. Inoltre descriva in una relazione le caratteristiche dell’impianto e la
+funzionalità di ciascun componente indicando la tipologia delle materie prime trattabili con queste
+apparecchiature.
+SECONDA PARTE
+1. Nei processi cartari la fase di raffinazione è un processo fondamentale per le modifiche che apporta
+alle fibre cellulosiche e le conseguenze che ne determinano sul prodotto finito. Il candidato
+commenti questa affermazione, descrivendo i vari effetti che il processo può apportare alle fibre,
+le diverse tipologie di raffinatori, le condizioni per ottenere una raffinazione magra e grassa
+(e scegliendo i tipi di fibre per ottenere un’elevata resistenza alla trazione nel foglio di carta
+prodotto).
+2. Il candidato descriva l’importanza del vapore nei processi cartari, soprattutto nella seccheria della
+macchina continua.
+
+I244 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Indirizzi: ITTC – GRAFICA E COMUNICAZIONE
+OPZIONE TECNOLOGIE CARTARIE
+Tema di: IMPIANTI DI CARTIERA E DISEGNO
+
+3. Nell’essiccamento della carta la sezione presse rimuove la maggior parte dell’acqua presente nel
+contesto fibroso tramite la pressione di due cilindri. Il candidato descriva la costituzione delle
+presse, il fenomeno della rimozione dell’acqua tramite esse e sinteticamente alcune delle diverse
+tipologie disponibili.
+4. In una cartiera l’uso e il riciclo delle acque sono processi capitali da un punto di vista economico.
+Il candidato indichi dove le varie tipologie di acque vengono usate, riciclate e i motivi.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’utilizzo del manuale del perito tecnico.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’istituto prima che siano trascorsi 3 ore dalla dettatura del tema.
+
+

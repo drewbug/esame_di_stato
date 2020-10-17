@@ -1,0 +1,45 @@
+Pag. 1/1
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+X957 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPLI - PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE ARTIGIANATO (LIUTERIA)
+Tema di: FISICA ACUSTICA
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+In una camera anecoica si stanno eseguendo misure di interferenza e battimento.
+Due sorgenti sonore, poste alla distanza di 5,10 m l’una dall’altra, emettono, in fase, suoni di uguale
+potenza e uguale frequenza. Un sensore si trova di fronte ad esse in una posizione distante 7,35 m
+dalla retta congiungente le due sorgenti ed equidistante da entrambe. In queste condizioni il sensore
+rileva interferenza costruttiva. Se si sposta il sensore, parallelamente alla suddetta congiungente, di
+0,95 m si osserva la prima condizione di interferenza distruttiva.
+Calcolare la frequenza del suono supponendo che la velocità di propagazione di questo sia di
+343 m/s. Successivamente si riporta il sensore nella posizione iniziale e si modifica la frequenza di
+una delle due sorgenti facendola diventare 267 Hz.
+Calcolare, in queste condizioni, la frequenza risultante e la frequenza di battimento.
+SECONDA PARTE
+1. Se il livello dell’intensità sonora misurato dal sensore, nella condizione iniziale descritta nel
+problema proposto nella prima parte, è 50 dB il candidato calcoli la potenza di ciascuna
+sorgente nell’ipotesi che queste emettano onde sferiche. Si ricorda che la soglia di udibilità è
+10-12 W/m2.
+2. Facendo riferimento alla seconda posizione del sensore, descritta nel problema proposto nella
+prima parte, se le sorgenti emettono suoni in opposizione di fase il candidato calcoli la
+frequenza minima che serve per osservare interferenza costruttiva.
+3. Una corda ha due armoniche consecutive di frequenza rispettivamente 20 Hz e 30 Hz.
+Determinare l’ordine delle due armoniche considerate.
+4. Mentre si cerca di accordare una corda di chitarra, confrontandone il suono con quello di un
+diapason che vibra alla frequenza di 440 Hz (La), si osserva una frequenza di battimento di
+10 Hz ed una frequenza risultante più alta di quella del La. Di quanto deve essere variata la
+tensione della corda per accordare la chitarra?
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

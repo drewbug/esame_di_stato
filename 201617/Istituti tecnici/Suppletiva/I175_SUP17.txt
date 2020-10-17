@@ -1,0 +1,116 @@
+Pag. 1/3
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Lo schema in figura riporta la struttura di un distributore automatico di bevande:
+
+Le polveri di latte, cioccolato, caffè e l’acqua preventivamente riscaldata tramite caldaia vengono
+convogliate in un apposito raccoglitore a forma circolare conica dove vengono opportunamente
+miscelati mediante un “frullino” azionato da un motore a 24 Vdc durante l’erogazione della bevanda
+scelta.
+Premendo un pulsante di start si avvia il ciclo la cui prosecuzione è legata alla temperatura raggiunta
+dall’acqua. Infatti in funzione della temperatura T dell’acqua abbiamo:
+1. se T > 70°C vengono abilitati i 3 pulsanti relativi a caffè, cappuccino e cioccolato e quello premuto
+viene illuminato da una luce verde; la caldaia non si accende;
+2. se 60°C < T < 70°C rimane possibile l’erogazione della bevanda scelta ma la caldaia si accende e
+l’accensione di una luce rossa segnala la fase di riscaldamento;
+3. se T < 60°C non è più possibile scegliere la bevanda e ovviamente la caldaia è accesa.
+Si prevede la presenza di un sistema di controllo della temperatura che non deve essere superare 80°C.
+L’erogazione della bevanda è vincolata alla presenza del bicchiere. L’assenza del bicchiere viene
+segnalata da una luce verde lampeggiante. Le polveri di latte, cioccolato e caffè vengono convogliate
+attraverso coclee azionate da motori 24 Vdc. La quantità di acqua è misurata tramite un contatore
+volumetrico che fornisce impulsi ad onda quadra (100 impulsi/litro).
+
+Pag. 2/3
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+La preparazione della cioccolata o del caffè richiede che venga erogata la quantità di acqua richiesta
+mentre la coclea provvede a convogliare le polveri nel raccoglitore formando un composto liquido; il
+frullino completa quindi l’operazione di miscelazione. Per il cappuccino, è necessario azionare
+contemporaneamente i distributori di latte e caffè ed aumentare la quantità d'acqua del 30% rispetto
+alle altre 2 bevande. Per tutte le bevande la durata dell’erogazione dei soluti è pari a quella dell’acqua.
+Al termine di ogni erogazione il distributore torna nello stato iniziale ed effettua un nuovo controllo
+di temperatura, accendendo la luce rossa o verde come descritto in precedenza.
+Il candidato, utilizzando un sistema programmabile di propria conoscenza e fatte le ipotesi
+aggiuntive ritenute necessarie:
+1. descriva il sistema di controllo del distributore di bevande tramite uno schema a blocchi
+illustrando la funzionalità di ognuno e approfondendo, in particolare, la struttura del sistema di
+controllo della temperatura;
+2. rappresenti, mediante un diagramma di flusso e codifichi in un linguaggio di propria conoscenza,
+l’azionamento dei motori per l’immissione dei soluti, il controllo della caldaia e la miscelazione
+dei prodotti mediante il frullino;
+3. elabori un opportuno sistema di controllo in grado di selezionare il prodotto richiesto tramite i
+pulsanti posti sul distributore e le quantità richieste.
+SECONDA PARTE
+1. Con riferimento alla prima parte della prova e in particolare al sistema di caricamento delle polveri,
+si supponga che i serbatoi contenenti il latte, cioccolato e caffè siano provvisti di indicatori di
+livello a ultrasuoni che segnalano la quota delle polveri presenti durante il processo e forniscano
+un’uscita in tensione nell’intervallo 010 Vdc corrispondenti rispettivamente al livello massimo e
+minimo.
+Il candidato realizzi un sistema di blocco temporaneo del processo di produzione quando almeno
+un rilevatore ad ultrasuoni segnala il livello minimo di cioccolato, latte o caffè all’interno dei
+contenitori e la successiva ripartenza una volta che il serbatoio è stato nuovamente riempito.
+2. Con riferimento alla prima parte della prova, il candidato preveda un sistema di segnalazione
+luminosa nelle fasi di pompaggio dell’acqua, motivando le scelte effettuate.
+
+Pag. 3/3
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+3. A seguito di misure condotte su un impianto, si è ricavato il modello lineare rappresentato in figura:
+
+Le funzioni di trasferimento dei blocchi valgono rispettivamente:
+
+𝐺(𝑠) =
+
+1
+𝑠+2
+
+2
+
+𝑇(𝑠) = ,
+𝑠
+
+mentre il blocco C(s) è un controllo di tipo proporzionale.
+Il candidato, dopo aver ricavato la funzione di trasferimento dell’intero sistema, determini per quali
+valori del coefficiente del controllore C(s), il sistema risulta asintoticamente stabile.
+Successivamente, supponendo di applicare in ingresso al sistema un gradino di tensione pari a 8 V,
+calcoli il valore da assegnare al blocco di controllo C(s) affinché l’errore in uscita sia uguale a 0.2.
+4. Si consideri un sistema S avente funzione di trasferimento della forma:
+
+Il candidato, dopo aver determinato i valori dei parametri α, β e G0 in maniera tale che il sistema
+presenti una pulsazione naturale uguale a 100 rad/sec, poli complessi con coefficiente di
+smorzamento pari a 0.7 e guadagno 5, rappresenti nel piano di Gauss i poli della P(s) così ottenuti
+e valuti approssimativamente il tempo di assestamento al 99% della risposta del sistema ad un
+gradino in ingresso di ampiezza unitaria.
+Il candidato inoltre, sulla base delle proprie conoscenze, fornisca almeno un esempio a cui può
+essere ricondotto il modello del sistema in esame.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

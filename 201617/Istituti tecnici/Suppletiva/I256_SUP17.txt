@@ -1,0 +1,92 @@
+Pag. 1/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I256 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Alle ore 09:45 UTC del 23 Agosto un S64 decolla dall’aeroporto LIBD, Bari Palese (41°08’N;
+016°46’E, FE=187 ft), per una missione anti incendio su un focolaio avvistato in località
+Serracapriola (41°49’N; 015°09’E). La missione consiste nel rifornirsi d’acqua presso il lago di
+Varano sul punto identificato dalle coordinate 41°53'N; 015°44'E, al fine di riversarla sull’incendio.
+Il candidato determini la posizione del TOC e del TOD lungo la rotta diretta, entrambi sono previsti
+a FL90. Calcoli, inoltre, le coordinate del PNR sulla tratta di rifornimento prima di dover rientrare a
+LIBD considerando che il pilota impiega circa 1 minuto per le manovre di rifornimento d’acqua. Il
+velivolo ha una CAS=104kts, V/V=1300ft/m sia in salita che discesa e un’autonomia di 2.5h. I dati
+meteorologici di interesse possono essere estratti dal seguente bollettino:
+LIBD 230930Z 30020KT 9999 FEW050 35/04 Q1024
+Alle 10:20 UTC le squadre accorse sul luogo richiedono l’intervento di un mezzo di supporto per il
+trasporto di alcuni passeggeri gravi. Un’autoambulanza si sta allontanando dal luogo dell’incendio in
+direzione SW con velocità media di 83 km/h in attesa di essere intercettata dall’elicottero di soccorso.
+Un AW139 parte dall’eli-superficie di Vieste (41°53’N;16°11’E, FE=45ft) con la missione di
+intercettare l’autoambulanza nel minor tempo possibile e di portare i feriti presso il Politecnico
+Consorziale di Bari (41°07' N; 16°51' E; FE=155 ft). La TAS media da utilizzare per la missione sia
+di 132 kts.
+Considerando che le pratiche di imbarco durano circa 25 minuti, il candidato determini l’orario di
+arrivo e rappresenti su un grafico con scala a scelta la missione congiunta degli elicotteri.
+SECONDA PARTE
+1. Alle ore 15:40 UTC il volo EZY367, a FL260 con CAS=200 kts in navigazione con TC=030°
+inbound ad un punto di riporto distante 21 NM, richiede all’Ente di controllo di salire a FL280.
+Nello stesso istante il volo AZA248 a FL270 con CAS=230 kts è diretto, con rotta TC=210°, verso
+lo stesso punto di riporto distante 34 NM.
+Sono noti: il vento in zona per entrambi i livelli di volo W/V = 070°/45 kts e la SAT=ISA–4°C.
+Il candidato, tenendo in considerazione che i due aa/mm volano in uno spazio aereo dove sono
+fornite separazioni procedurali in tempo, determini l’orario UTC in cui il volo EZY367 può essere
+autorizzato dall’Ente ATC a salire al livello richiesto. Il candidato riporti inoltre le comunicazioni
+T/B/T tra controllore ATC e pilota del volo EZY367 a partire dalla richiesta di cambio di livello.
+
+Pag. 2/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I256 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+2. La procedura VOR-Y per RWY 07 dell’aeroporto di Bari/Palese (LIBD) prevede Holding Pattern
+attestato su BAR VOR con inbound 255° e MHA a 4000ft. La procedura di avvicinamento finale
+è una Reversal con virata base con tratto outbound, di 3 minuti, su 259° per IAS≤140kts, mentre è
+di 2 minuti su 270° per IAS≤200kts. Il finale è previsto su 067°.
+Dalla pagina AIP Italia si legge la seguente descrizione per la procedura di Missed Approach:
+Continue on TR 067 (RDL 067 BAR VOR) and climb to 4000ft. Crossing 3000ft turn left to BAR
+VOR to be reached at 4000ft.
+Il Candidato rappresenti su una Carta di Mercatore, in scala 1:250.000 sul parallelo 41°10’N, la
+vista in pianta dell’intera procedura essendo note le seguenti informazioni: BAR VOR
+(41°08’40”N, 016°46’35”E) e la VAR=3°E.
+3. Si lavori per una compagnia aerea che intenda pianificare un volo notturno da S. Francisco
+(3737N12223W) a Tokyo (3546N14024E) con un B777 che segua il percorso più breve.
+Il candidato determini una GS media lungo il percorso in modo che il volo parta da S. Francisco
+dopo la mezzanotte ZT e arrivi a Tokyo prima delle ZT=06:00. Valuti, inoltre, quale è il punto di
+uscita della rotta OTS del Pacifico tra quelli riportati di seguito: KALNA (4024N15000E),
+EMRON (3818N15000E), LEPKI (3719N15000E).
+4. Si rappresentino su una ipotetica carta SWLL le condizioni meteorologiche relative alla FIR di
+Roma supposta limitata tra i paralleli 38°N e 44°N e i meridiani 008°E e 017°E, deducibili dalla
+lettura dei seguenti bollettini AIRMET:
+LIRR AIRMET 13 VALID 171100/171300 LIIB-LIRR ROMA FIR MT OBSC FCST WI N4252
+E01300 - N4235 E01229 - N3953 E01548 - N4115 E01506 - N4121 E01419 - N4252 E01300
+STNR WKN=
+LIRR AIRMET 14 VALID 171100/171300 LIIB-LIRR ROMA FIR MOD ICE FCST WI N3831
+E01319 - N3825 E00930 - N3858 E00808 - N4115 E00800 - N4111 E01155 - N3935 E01420 N3831 E01319 FL050/130 STNR NC=
+LIRR AIRMET 15 VALID 171100/171300 LIIB - LIRR ROMA FIR ISOL TS FCST WI N4116
+E01047 - N3907 E01046 - N3925 E01308 - N4117 E01221 - N4116 E01047 TOP FL200 STNR
+WKN=
+Il candidato valuti il livello di volo ottimale, nello spazio aereo previsto dalla SWLL, che potrebbe
+consentire lo svolgimento del volo in sicurezza e la possibilità di poter svolgere il volo in VFR
+nell’ipotesi di un decollo da Ciampino (4148N01236E).
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

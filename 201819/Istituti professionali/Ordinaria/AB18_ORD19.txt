@@ -1,0 +1,204 @@
+Pag. 1/5
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIE – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA MECCANICA
+Tema di: TECNICHE DI PRODUZIONE E DI ORGANIZZAZIONE e
+TECNOLOGIE APPLICATE AI MATERIALI E AI PROCESSI PRODUTTIVI
+DOCUMENTO n.1
+ANALISI DEI RISCHI
+La valutazione dei rischi è definita dal Decreto Legislativo 9 aprile 2008, n. 81 come la “valutazione globale
+e documentata di tutti i rischi per la salute e sicurezza dei lavoratori presenti nei luoghi di lavoro finalizzata
+a individuare le misure di prevenzione e protezione e ad elaborare il programma delle misure di
+miglioramento nel tempo dei livelli di salute e sicurezza”.
+fonte: Testo unico sulla sicurezza sul lavoro
+“Un’efficace conduzione della salute e sicurezza sui luoghi di lavoro nasce da una preventiva ed accurata
+analisi, valutazione e successiva gestione dei rischi. Da qui la necessità di disporre di metodologie e
+strumenti di supporto che attraverso l’acquisizione e la gestione di dati consentano il riconoscimento e la
+caratterizzazione dei rischi che si intende analizzare, valutare e gestire in scenari e contesti operativi.”
+fonte: Valutazione e gestione del rischio sicurezza INAIL
+CONTESTO OPERATIVO
+Il candidato ipotizzi di essere stato assunto in un’azienda metalmeccanica e di occuparsi sia di studi di
+fabbricazione, che gli permettono di conoscere a fondo i problemi di produzione, sia di analisi, valutazione
+e gestione dei rischi in collaborazione con l’RSPP. Il responsabile della sicurezza e il responsabile della
+produzione gli chiedono di preparare un testo informativo sui rischi alle macchine utensili in modo da
+sensibilizzare i lavoratori alla visione e conoscenza dei DVR.
+Al candidato si chiede di:
+
+
+stendere il ciclo di lavoro del lotto di 25000 semigiunti scanalati come da disegno rispettando lo stato
+del grezzo;
+
+
+
+indicare da quali figure e come viene eseguita la valutazione dei rischi, i possibili rischi relativi alle
+macchine utensili utilizzate per la produzione del semigiunto e come viene inteso il rischio secondo
+le ISO 9001-15 (risk based thinking).
+
+Si forniscono di seguito le tabelle che i candidati possono utilizzare facoltativamente per svolgere
+l’elaborato.
+________________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda è
+predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione scolastica e
+della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+
+Pag. 2/5
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/5
+
+CICLO DI LAVORAZIONE
+A.S.
+
+CLASSE
+
+Ciclo N.
+
+Compilatore
+
+Foglio N.
+
+Disegno N.
+
+Denominazione
+Quantità
+
+Materiale
+(designazione)
+
+Semilavorato di partenza
+
+Fabbisogno materia prima
+
+Trattamenti Termici (descrizione)
+
+Macchine utensili
+
+Calcolo dei tempi macchina
+
+Utensili
+
+Data
+
+Progr. N.
+
+a.s.:
+
+Materiale:
+
+Classe:
+
+Stato:
+
+Denominazione elemento:
+
+Data:
+
+Quantità:
+
+Durezza:
+
+Compilatore:
+
+Rev.:
+
+Peso grezzo:
+
+Rm:
+
+FASE
+
+CARTELLINO
+PER CICLO DI LAVORAZIONE
+
+N.
+
+OPERAZIONE
+
+MACCHINA
+REPARTO
+
+STAFFAGGIO
+UTENSILI
+STRUMENTI DI CONTROLLO
+
+Vt
+m/min
+
+ng
+giri/min
+
+a
+mm/giro
+
+Va
+mm/min
+
+P
+mm
+
+np
+Pass.
+
+Tempi
+Tpm
+min
+
+Ta
+min
+
+Tm
+min
+
+Pag. 5/5
+
+Tempi
+
+N.
+
+OPERAZIONE
+
+MACCHINA
+REPARTO
+
+STAFFAGGIO
+UTENSILI
+STRUMENTI DI CONTROLLO
+
+Vt
+m/min
+
+ng
+giri/min
+
+a
+mm/giro
+
+Va
+mm/min
+
+P
+mm
+
+np
+Pass.
+Tpm
+min
+
+Ta
+min
+
+Tm
+min
+
+

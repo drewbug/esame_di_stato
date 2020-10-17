@@ -1,0 +1,115 @@
+Esame di Stato di Istituto Tecnico – Settore Tecnologico
+Indirizzo Elettronica ed Elettrotecnica – Articolazione “Elettronica” (ITEC)
+Esempio di seconda prova di Sistemi Automatici
+PARTE PRIMA
+Per controllare la deformazione di un tirante per cabinovia e la sua resistenza all’usura se ne simula
+il reale funzionamento sottoponendo un campione del cavo a trazione crescente e rilevandone la
+risposta come misura della differenza dei diametri tra due sezioni, poste rispettivamente ad una
+estremità e alla metà del campione.
+La misura dei diametri è effettuata mediante due calibri elettronici che forniscono in uscita una
+corrente I proporzionale al diametro misurato essendo:
+0 ≤ I ≤ 1,5*10-6 [A]
+rispettivamente per sezione minima e massima del cavo. Un apposito dispositivo ad uscita digitale,
+invece, rileva e codifica istantaneamente in 8 bit il valore della forza di trazione applicata.
+Il processo da controllare, affidato ad un sistema di acquisizione ed elaborazione programmabile,
+prevede la lettura ciclica ad intervalli di 5 secondi dei due valori misurati dai calibri, il calcolo della
+loro differenza e il confronto con un valore di riferimento presente nella memoria del dispositivo
+programmabile, che ne rappresenta il valore di criticità.
+Quando i due valori coincidono deve essere acquisito il dato corrispondente allo sforzo applicato e
+il processo ha temine.
+Il candidato, utilizzando un sistema programmabile di sua conoscenza deve:
+1. Formulare le ipotesi necessarie allo sviluppo del progetto con riferimento alle
+problematiche legate alla conversione del dato analogico proveniente dai calibri.
+2. Proporre un possibile schema a blocchi dell’intero sistema definendo il
+comportamento dei singoli blocchi e la funzionalità dell’intero sistema ai fini della
+soluzione del problema.
+3. Descrivere la logica di controllo ipotizzata per la gestione del processo indicando gli
+eventuali punti di criticità.
+4. Strutturare un algoritmo di gestione del processo congruente con la descrizione di cui
+al punto precedente.
+
+SECONDA PARTE
+Il candidato risponda a due dei seguenti quesiti e presenti per ognuno le linee operative e le
+motivazioni delle soluzioni prospettate.
+1. In relazione allo schema a blocchi individuato nella proposta della prima parte, si ipotizzi
+una soluzione che consenta la visualizzazione del dato relativo allo sforzo di trazione su un
+visualizzatore a display in concomitanza alle acquisizioni dei valori dei calibri. Il candidato
+esponga le scelte della componentistica che intende utilizzare e discuta delle problematiche
+di conversione del dato a 8 bit in dato visualizzabile in base decimale su display.
+2. In relazione allo schema a blocchi individuato nella proposta della prima parte si ipotizzi
+una soluzione che consenta, al raggiungimento del valore di criticità, l’attivazione di un
+
+segnalatore ottico. Inoltre si preveda la memorizzazione dei dati relativi alle due misure di
+diametro e del corrispondente valore di forza di trazione applicata ottenuti fino a quel
+momento in apposite strutture dati.
+
+3. Descrivere la struttura dello schema riportato in figura e calcolare la funzione di
+trasferimento. Verificare la stabilità del sistema e calcolare la risposta a regime in caso di
+ingresso a gradino unitario. Inoltre, il candidato discuta un caso reale individuabile mediante
+il modello proposto sulla base delle proprie conoscenze applicative dei sistemi di controllo,
+
+X(s)
+
+A
+
++
+_
+
++
++
+
+B
+
+Y(s)
+
+C
+
+
+
+
+
+10
+1
+)
+s
+(
+C
+
+3
+5
+s
+)
+s
+(
+B
+
+0
+1s
+)
+s
+(
+A
+
+
+
+
+4. Determinare la funzione di trasferimento dello schema di figura considerando il blocco  di
+tipo proporzionale puro. Calcolare quindi il margine di fase M ottenuto per un fattore di
+retroazione unitario e il valore da assegnare al blocco  per ottenere M = 45°.
+
+X(s)
+
++
+_
+
+A
+
+b
+
+Y(s)
+
+10 4
+A(s) 
+s  1s  500
+
+

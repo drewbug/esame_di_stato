@@ -1,0 +1,100 @@
+Pag. 1/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M997 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIZ - PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA EDILIZIA
+Tema di: TECNICHE DI PRODUZIONE E DI ORGANIZZAZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+Un’Amministrazione desidera intervenire sul dislivello di un parco pubblico mediante spianamento
+secondo due piani orizzontali posti ad una differenza di quota pari a 3 m.
+Per realizzare il terrazzamento dovrà essere progettato un muro di sostegno a gravità. Si supponga
+che la superficie superiore del terrapieno sia orizzontale ( = 0°) e che il terreno sia privo di
+coesione (ck = 0). Si trascuri, inoltre, l’attrito tra paramento e terreno in elevazione (k = 0).
+Il progettista possiede le seguenti informazioni relative ai dati geotecnici del terreno:
+-
+
+φk = angolo di attrito interno del terreno = 35°
+
+-
+
+γtk = peso volumico del terreno = 16 kN/m3
+
+-
+
+σt,lim = carico limite unitario = 0,6 N/mm2
+
+-
+
+σt,amm = tensione ammissibile sul terreno di fondazione 0 0,2 N/mm2
+
+-
+
+cautelativamente si assuma: fk = coefficiente di attrito terreno-fondazione = tg  k 
+
+2
+3
+
+
+
+
+Dopo aver stabilito tutti i dati eventualmente mancanti e trascurando l’azione sismica, il candidato
+proceda alla progettazione e verifica di stabilità dell’opera ed alla rappresentazione grafica della
+soluzione proposta, in scala liberamente scelta.
+Il candidato inoltre ha facoltà di integrare il tema svolto con la determinazione della spinta
+nell’ipotesi alternativa in cui sul piano di campagna che delimita superiormente il terrapieno sia
+previsto un sovraccarico a folla compatta: qk = 5,00 kN/m2.
+
+Pag. 2/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M997 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPIZ - PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE INDUSTRIA
+CURVATURA EDILIZIA
+Tema di: TECNICHE DI PRODUZIONE E DI ORGANIZZAZIONE
+
+SECONDA PARTE
+Dovranno essere sviluppati due dei seguenti quesiti, eventualmente avvalendosi delle conoscenze e
+competenze maturate attraverso le esperienze, qualora effettuate, di alternanza scuola-lavoro, stage e
+formazione in azienda:
+1.
+
+In riferimento alla soluzione progettuale proposta, il candidato effettui il computo metrico del
+muro e della sua fondazione nell’ipotesi che il fronte della terra da sostenere abbia una
+lunghezza di 20 m.
+
+2.
+
+In riferimento alla soluzione progettuale proposta, il candidato rediga una relazione sui motivi
+delle scelte operate e sui criteri adottati nella progettazione.
+
+3.
+
+Il candidato illustri i documenti occorrenti per la tenuta contabile dei lavori.
+
+4.
+
+Il candidato illustri sinteticamente l’evoluzione delle norme per l’esecuzione dei Lavori
+Pubblici in Italia.
+
+____________________________
+Durata massima della prova: 6 ore.
+L’elaborato scritto-grafico potrà essere redatto a mano libera, con l’ausilio di righe e squadre, oppure con l’ausilio del CAD (o
+programmi di grafica computerizzata equivalenti), ma comunque eseguito in scala.
+È consentito l’uso del manuale del geometra, di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

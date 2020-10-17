@@ -1,0 +1,72 @@
+Pag. 1/1
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M292 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: TF66 - ELETTRONICA E AUTOMAZIONE (PROG. SIRIO)
+Tema di: IMPIANTI ELETTRICI
+
+Si deve dimensionare l’impianto elettrico di un negozio, avente una superficie di circa 170 m2,
+adibito a vendita di abbigliamento e calzature, dotato di vetrine e scaffalature di esposizione.
+Il negozio è composto da un locale vendita, comprendente tre cabine per prova e quattro vetrine, un
+magazzino, uno spogliatoio e servizi igienici.
+Le principali utenze elettriche previste sono:
+a.
+
+illuminazione della zona vendita e di esposizione 2,5 kW;
+
+b.
+
+illuminazione delle vetrine 1,5 kW;
+
+c.
+
+illuminazione del magazzino e dello spogliatoio 500 W;
+
+d.
+
+insegna luminosa esterna 600 W;
+
+e.
+
+motori comando serrande e tende 3 kW;
+
+f.
+
+impianto di climatizzazione 12 kW;
+
+g.
+
+utilizzatori vari 2 kW.
+
+Il candidato, fatte le ipotesi aggiuntive che ritiene necessarie e stabilite le caratteristiche generali del
+progetto, determini:
+1.
+
+la potenza contrattuale;
+
+2.
+
+lo schema a blocchi della distribuzione dell’energia elettrica;
+
+3.
+
+il disegno dello schema elettrico unifilare del quadro elettrico generale, illustrando i criteri da
+seguire per il calcolo delle caratteristiche delle apparecchiature presenti;
+
+4.
+
+i sistemi da adottare per le protezioni contro i contatti diretti e indiretti.
+
+Inoltre il candidato descriva gli eventuali accorgimenti progettuali da adottare nell’ottica del
+risparmio energetico.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

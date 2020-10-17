@@ -1,0 +1,55 @@
+Pag. 1/1
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M495 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP04 - SERVIZI SOCIO-SANITARI
+ARTICOLAZIONE ARTI AUSILIARIE PROFESSIONI SANITARIE - OTTICO
+Tema di: OTTICA, OTTICA APPLICATA
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Una fibra ottica immersa in aria ha il diametro del nucleo pari a 50,0 µm, l’indice di rifrazione del
+nucleo è 1,478; l’indice di rifrazione del mantello è 1,464. Per una radiazione di lunghezza d’onda
+di 1300 nm calcolare:
+1. il numero dei possibili percorsi (modi di propagazione) che la luce può compiere per propagarsi
+all’interno della fibra;
+2. la dispersione modale per ogni 1,0·103 m della fibra;
+3. l’angolo del cono di accettazione.
+SECONDA PARTE
+1. In riferimento al problema proposto nella prima parte, il candidato calcoli il diametro del
+nucleo per rendere la fibra monomodale.
+2. In riferimento al problema proposto nella prima parte, il candidato calcoli l’indice di rifrazione
+del nucleo per rendere la fibra monomodale nel caso che il diametro del nucleo fosse 9,0 µm,
+considerando sempre la radiazione di 1300 nm e l’indice di rifrazione del mantello pari a 1,464.
+3. Il candidato calcoli il lavoro di estrazione di un metallo che viene illuminato da una radiazione di
+lunghezza d’onda pari a 350 nm sapendo che il potenziale di arresto degli elettroni emessi è 0,65 V.
+4. In un laboratorio di spettroscopia si rileva una radiazione di lunghezza d’onda pari a 656 nm
+emessa da un atomo di idrogeno nella transizione da uno stato eccitato al livello energetico
+caratterizzato dal numero quantico principale n=2. Il candidato calcoli il raggio dell’elettrone
+nello stato precedente la transizione.
+Si ricorda che:
+Costante di Planck
+Velocità della luce nel vuoto
+Carica dell’elettrone
+Massa dell’elettrone
+Costante dielettrica nel vuoto
+Costante di Rydberg
+
+h = 6,63 ·10-34 J·s
+c = 3,00 ·108 m/s
+e = 1,60 ·10-19 C
+me = 9,11 ·10-31 kg
+ε0 = 8,85· 10-12 F/m
+R = 1,097· 10-2 nm-1
+1 eV = 1,60 · 10-19 J
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,85 @@
+Esame di Stato di Istituto Tecnico – Settore Tecnologico
+Indirizzo Elettronica ed Elettrotecnica – Articolazione “Elettrotecnica” (ITET)
+Esempio di seconda prova di Tecnologie Progettazione Sistemi Elettrici ed Elettronici
+
+Prima Parte
+In un negozio di generi alimentari, ubicato al primo piano di un centro commerciale e avente una superficie di
+150 m2, sono previste le seguenti utenze, alimentate alla tensione di 400/230 V – 50Hz:
+
+
+impianto di illuminazione da 35 kW;
+
+
+
+due banchi frigo da 10 kW ciascuno;
+
+
+
+un banco per surgelati da 30 kW;
+
+
+
+un impianto di condizionamento da 15 kW;
+
+
+
+apparecchi utilizzatori vari che assorbono una potenza totale pari a 12 kW.
+
+Il candidato, dopo aver ipotizzato una idonea disposizione degli utilizzatori e formulato le ipotesi aggiuntive che
+ritiene più opportune, individui la collocazione del quadro di distribuzione nel rispetto delle norme di legge e
+1. disegni il quadro di distribuzione generale, giustificando i criteri seguiti per la scelta delle caratteristiche
+delle apparecchiature adoperate;
+2. calcoli la sezione delle linee;
+3. valuti gli accorgimenti tecnici per ottenere un adeguato risparmio energetico.
+
+Seconda Parte
+Il candidato risponda a due dei seguenti quesiti e presenti per ognuno le linee operative e le motivazioni delle
+soluzioni prospettate.
+
+1. Per il trasporto delle merci dal piano terra al negozio di generi alimentari si prevede di installare un
+montacarichi di portata pari a 4 kN. Il candidato dimensioni il motore elettrico idoneo a comandare il
+montacarichi e individui i dispositivi di protezione da utilizzare.
+
+2. Il candidato disegni lo schema elettrico unifilare di una sottostazione di trasformazione comprensivo di
+un gruppo elettrogeno di emergenza e descriva le caratteristiche e le funzioni di tutti i dispositivi
+rappresentati.
+
+3. Dai dati delle misure effettuate presso una utenza industriale in BT, alimentata a 400 V - 50 Hz, è stato
+tracciato il diagramma di carico giornaliero, riportato in figura. Il valore del fattore di potenza medio
+dell’impianto è pari a 0,7.
+
+P(kW)
+
+210
+200
+190
+180
+170
+160
+150
+140
+130
+120
+110
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
+t(h)
+
+Il candidato, dopo aver illustrato le diverse soluzioni circuitali previste per il rifasamento, scelga e dimensioni
+l’impianto che ritiene più idoneo per rifasare l’utenza, giustificando la soluzione adottata.
+
+4. Il candidato, dopo aver descritto le caratteristiche e le funzioni dei dispositivi presenti nello schema
+elettrico rappresentato in figura, lo analizzi e ne spieghi il funzionamento.
+
+

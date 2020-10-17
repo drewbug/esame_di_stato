@@ -1,0 +1,70 @@
+Pag. 1/1
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPM9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E MANUTENZIONE
+L’officina macchine utensili di un’azienda metalmeccanica è suddivisa nei seguenti reparti:
+
+
+torneria, con 8 torni paralleli;
+
+
+
+fresatura, con 5 fresatrici;
+
+
+
+foratura, con 4 trapani a colonna;
+
+
+
+molatura, con 2 molatrici.
+
+I reparti sono suddivisi per tipologia di macchina e queste sono, nel singolo reparto, identiche tra di
+loro.
+Si chiede al candidato di:
+
+
+schematizzare l’officina, ipotizzando un possibile layout delle macchine sulla base delle
+informazioni sopra riportate, indicando anche le possibili lavorazioni che si possono eseguire
+con le diverse macchine;
+
+
+
+scegliere, tra quelle previste dalla normativa, le politiche di manutenzione che si ritengono
+più idonee per l’officina in oggetto, motivando opportunamente la risposta e assumendo con
+giustificato criterio eventuali dati non presenti nel testo;
+
+
+
+elaborare, per ognuna delle macchine utensili dell’officina, un documento contenente la
+check-list dei controlli da eseguire per mantenere le macchine efficienti, indicando le
+precauzioni che l’operatore dovrà prendere per lavorare in sicurezza ed ogni altra
+informazione ritenuta utile;
+
+
+
+supponendo che sui torni, in un intervallo di tempo di 1000 ore, si verifichino 3 guasti ed in
+particolare dopo 430 ore, 680 ore e 920 ore, calcolare il tasso di guasto e la relativa affidabilità;
+
+
+
+rappresentare la curva dell’affidabilità, descrivendone le diverse fasi.
+
+___________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda è
+predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione scolastica e
+della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

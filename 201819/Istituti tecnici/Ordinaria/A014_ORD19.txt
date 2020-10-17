@@ -1,0 +1,64 @@
+Pag. 1/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCT – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO AEREO
+Il candidato svolga il tema indicato nella prima parte e risponda a due quesiti tra i quattro proposti
+nella seconda parte.
+PRIMA PARTE
+Un aereomobile esegue un decollo su una pista di cemento posta a 1000 m sul livello del mare.
+Determinare lo spazio percorso se l’aeromobile ha le seguenti caratteristiche:
+ Carico alare 34,5 kg/m2
+ Allungamento alare 6,98
+ Superficie alare 13 m2
+ Coefficiente di resistenza di profilo 0,030
+ Coefficiente di portanza max con flap estesi 1,9
+ Incremento di resistenza di profilo per effetto
+della deflessione dei flap in decollo 0,035
+ Trazione massima disponibile 1 kN
+
+Inoltre ipotizzando che il ruotino anteriore del carrello
+dell’aeromobile sia rappresentato nel disegno in figura,
+nel quale tutti i vincoli sono cerniere tranne nel punto B,
+dove vi è un appoggio di tipo scorrevole in direzione
+verticale parallelo all’asse della trave, si determinino le
+forze agenti sulle aste e la reazione vincolare in B nel
+caso in cui l’intera struttura sia sollecitata con carico F
+di 13,2 kN inclinato di 22° nel punto G.
+Infine, il candidato, sulla base dei calcoli effettuati, proceda al dimensionamento delle aste AD e CE
+dopo avere opportunamente scelto il materiale e assunto, con ragionevoli ipotesi, gli altri dati
+eventualmente mancanti.
+
+Pag. 2/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCT – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO AEREO
+
+SECONDA PARTE
+1) Il candidato determini il diagramma di inviluppo di volo del velivolo progettato.
+2) Illustrare il funzionamento dell’impianto combustibile del velivolo.
+3) Determinare la sollecitazione agente sul longherone nel punto di attacco alla fusoliera nelle
+condizioni di g-stallo alla velocità 1,3 Vs.
+4) Descrivere la procedura di applicazione del CND magnetoscopico.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di normative, tavole numeriche, manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non
+siano dotate di capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,41 @@
+Pag. 1/1
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I241 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCT - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI MEZZO AEREO
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Sia dato un velivolo dalle seguenti caratteristiche
+ peso massimo al decollo 599 Kg;
+ fattore di carico limite nlim = 4;
+ fattore di carico limite nlimR = -3;
+ apertura alare 9,7 m;
+ ala di forma in pianta rettangolare con superficie 13,5 m², monolongherone controventata ai 2/5
+della semiapertura.
+Il candidato, assumendo ragionevoli ipotesi per gli ulteriori dati necessari e motivandone le scelte:
+• esegua il progetto di massima dell’asta di controvento e del collegamento mediante forcella
+dell’asta al longherone con disegni quotati;
+• indichi inoltre il relativo ciclo di lavorazione di uno dei componenti progettati.
+
+SECONDA PARTE
+1. Determinare la distanza ed il tempo di atterraggio, per il velivolo di cui sopra, ipotizzando una
+decelerazione di rullaggio costante e pari ad a = - 2 m/s2.
+2. Indicare i principali controlli da eseguire per una regolare manutenzione del velivolo.
+3. Illustrare le caratteristiche principali della propulsione ad elica.
+4. Fornire una descrizione schematica dell’impianto combustibile idoneo per il velivolo sopra
+descritto.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

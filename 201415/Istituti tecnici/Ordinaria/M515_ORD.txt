@@ -1,0 +1,1102 @@
+Pag. 1/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M515 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMP – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELLE MATERIE PLASTICHE
+Tema di: TECNOLOGIE MECCANICHE E PLASTURGICHE, DISEGNO ED ORGANIZZAZIONE
+INDUSTRIALE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Un’azienda di stampaggio materie plastiche deve realizzare, per l’industria degli elettrodomestici,
+200.000 ruote dentate a denti dritti. Sono noti la coppia trasmessa 1860 Nxmm, il valore del modulo
+pari a 1,5 mm, il numero di denti pari a 48, il materiale Nylon 6 (vedi figura). Il fissaggio della
+ruota all’albero è assicurato da tre grani M5.
+Il candidato, avvalendosi delle schede tecniche allegate e assumendo con giustificato criterio ogni
+altro dato, esegua:
+-
+
+il disegno costruttivo della ruota completo di quote, tolleranze e rugosità;
+
+-
+
+la stima del fabbisogno di materiale necessario per l’evasione dell’ordine;
+
+-
+
+la scelta della taglia della pressa da impiegare, nell’ipotesi di uno stampo a 8 impronte.
+
+Figura. Ruota dentata in Nylon 6
+
+Pag. 2/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M515 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMP – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELLE MATERIE PLASTICHE
+Tema di: TECNOLOGIE MECCANICHE E PLASTURGICHE, DISEGNO ED ORGANIZZAZIONE
+INDUSTRIALE
+
+SECONDA PARTE
+1.
+
+Descrivere, anche mediante schizzi e schemi funzionali, il gruppo di plastificazione della
+pressa;
+
+2.
+
+Determinare il punto di pareggio alle seguenti condizioni: costo stampo 55.000,00 euro, costo
+globale di stampaggio 60,00 euro/ora, tempo ciclo 45 secondi, ricavo unitario 2,45 euro/pezzo;
+
+3.
+
+Definire le condizioni di accettazione del manufatto nell’ipotesi di utilizzare un piano di
+campionamento semplice, collaudo ordinario, livello corrente II, LQA = 0,10;
+
+4.
+
+Il candidato, facendo riferimento a proprie esperienze di stage – alternanza scuola lavoro –
+visite aziendali, illustri anche mediante uno schema a blocchi un possibile layout dell’impianto
+di trasformazione (estrusione, stampaggio iniezione, rotazionale o di altra tecnologia).
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ABS
+
+Copolimero ABS
+
+Amorfo
+
+Allungamento a rottura
+
+15 - 30
+
+%
+
+Contropressione
+
+50 - 150
+
+bar
+
+Corsa dosaggio
+
+0.5 - 4 D
+
+mm
+
+Cuscino
+
+2-8
+
+mm
+
+Densità
+
+1,02 - 1,21
+
+g/cm3
+
+Essiccamento
+
+2 ore a 70
+
+ore/°C
+
+Modulo di elasticità
+
+1300 – 2700 Mpa
+
+Pressione di mantenimento
+
+30% - 60% bar
+
+Pressione d'iniezione
+
+1000 - 1500 bar
+
+Resistenza Trazione
+
+32 - 45
+
+N/mm2
+
+Ritiro
+
+0.4 - 0.7
+
+%
+
+Temperatura fuso
+
+200 - 270
+
+°C
+
+Temperatura stampo
+
+50 - 90
+
+°C
+
+Velocità periferica vite
+
+0.6
+
+m/s
+
+PA6 Poliammide 6
+
+Semicristallino
+
+Allungamento a rottura
+
+200 - 300
+
+%
+
+Contropressione
+
+20 - 80
+
+bar
+
+Corsa dosaggio
+
+0.5 - 3.5 D
+
+mm
+
+Cuscino
+
+2-6
+
+mm
+
+Densità
+
+1.13
+
+g/cm3
+
+Essiccamento
+
+8 / 15 ore a ore/°C
+
+Modulo di elasticità
+
+1400
+
+Mpa
+
+Pressione di mantenimento
+
+50 % Pi
+
+bar
+
+Pressione d'iniezione
+
+1000 - 1600 bar
+
+Resistenza Trazione
+
+70 - 85
+
+N/mm2
+
+Ritiro
+
+0.8 - 2.5
+
+%
+
+Temperatura fuso
+
+240 -290
+
+°C
+
+Temperatura stampo
+
+60 - 120
+
+°C
+
+Velocità periferica vite
+
+<1
+
+m/s
+
+Pag. 4/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PA66
+
+Poliammide 6/6 Semicristallino
+
+Allungamento a rottura
+
+150 - 300
+
+%
+
+Contropressione
+
+20 - 80
+
+bar
+
+Corsa dosaggio
+
+0.5 - 3.5 D
+
+mm
+
+Cuscino
+
+2-6
+
+mm
+
+Densità
+
+1.14
+
+g/cm3
+
+Essiccamento
+
+8 / 15 ore a ore/°C
+
+Modulo di elasticità
+
+2000
+
+Mpa
+
+Pressione di mantenimento
+
+50 % Pi
+
+bar
+
+Pressione d'iniezione
+
+1000 - 1600 bar
+
+Resistenza Trazione
+
+77 - 84
+
+N/mm2
+
+Ritiro
+
+0.8 - 2.5
+
+%
+
+Temperatura fuso
+
+260 -300
+
+°C
+
+Temperatura stampo
+
+40 - 120
+
+°C
+
+Velocità periferica vite
+
+<1
+
+m/s
+
+PC
+
+Policarbonato Amorfo
+
+Allungamento a rottura
+
+100 - 130
+
+%
+
+Contropressione
+
+100 - 150
+
+bar
+
+Corsa dosaggio
+
+0.5 - 3.5 D
+
+mm
+
+Cuscino
+
+2-6
+
+mm
+
+Densità
+
+1.2
+
+g/cm3
+
+Essiccamento
+
+4 ore a 110 ore/°C
+
+Modulo di elasticità
+
+2100 - 2400 Mpa
+
+Pressione di mantenimento
+
+40 - 60 % Pi bar
+
+Pressione d'iniezione
+
+1300 - 1800 bar
+
+Resistenza Trazione
+
+56 - 67
+
+N/mm2
+
+Ritiro
+
+0.6 - 0.8
+
+%
+
+Temperatura fuso
+
+270 - 320
+
+°C
+
+Temperatura stampo
+
+80 - 120
+
+°C
+
+Velocità periferica vite
+
+0.6
+
+m/s
+
+Pag. 5/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PE-HD Polietilene HD Semicristallino
+
+Allungamento a rottura
+
+100 - 1000
+
+%
+
+Contropressione
+
+50 - 200
+
+bar
+
+Corsa dosaggio
+
+0.5 - 4 D
+
+mm
+
+Cuscino
+
+2-8
+
+mm
+
+Densità
+
+0.94 - 0.928 g/cm3
+
+Essiccamento
+
+-
+
+ore/°C
+
+Modulo di elasticità
+
+700 - 1400
+
+Mpa
+
+Pressione di mantenimento
+
+30 - 60 % Pi bar
+
+Pressione d'iniezione
+
+800 - 1400
+
+bar
+
+Resistenza Trazione
+
+18 - 35
+
+N/mm2
+
+Ritiro
+
+1,5 - 3
+
+%
+
+Temperatura fuso
+
+180 - 250
+
+°C
+
+Temperatura stampo
+
+10 - 60
+
+°C
+
+Velocità periferica vite
+
+< 1.3
+
+m/s
+
+PE-LD
+Allungamento a rottura
+
+Polietilene LD Semicristallino
+300 - 1000
+
+%
+
+Contropressione
+
+200
+
+bar
+
+Cuscino
+
+3
+
+mm
+
+Densità
+
+0.914 -
+
+g/cm3
+
+Essiccamento
+
+-
+
+ore/°C
+
+Modulo di elasticità
+
+200 - 500
+
+Mpa
+
+Pressione di mantenimento
+
+750
+
+bar
+
+Pressione d'iniezione
+
+800 - 1300
+
+bar
+
+Resistenza Trazione
+
+8 - 23
+
+N/mm2
+
+Ritiro
+
+1.5 - 5
+
+%
+
+Temperatura fuso
+
+160 - 220
+
+°C
+
+Temperatura stampo
+
+20 - 60
+
+°C
+
+Velocità periferica vite
+
+< 0.8
+
+m/s
+
+Pag. 6/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PMMA Polimetilmetacrilato
+Allungamento a rottura
+
+2 - 10
+
+%
+
+Contropressione
+
+100 - 300
+
+bar
+
+Corsa dosaggio
+
+= 0,6 m/s
+
+mm
+
+Cuscino
+
+0.5 - 3 D
+
+mm
+
+Densità
+
+1.17 - 1.20
+
+g/cm3
+
+Essiccamento
+
+2 - 6 ore a
+
+ore/°C
+
+Modulo di elasticità
+
+1600 - 3600 Mpa
+
+Pressione di mantenimento
+
+40 - 60 % Pi bar
+
+Pressione d'iniezione
+
+1000 - 1700 bar
+
+Resistenza Trazione
+
+50 - 77
+
+N/mm2
+
+Ritiro
+
+0.3 - 0.8
+
+%
+
+Temperatura fuso
+
+190 - 270
+
+°C
+
+Temperatura stampo
+
+40 - 90
+
+°C
+
+Velocità periferica vite
+
+-
+
+m/s
+
+PP
+
+Polipropilene
+
+Amorfo
+
+Semicristallino
+
+Allungamento a rottura
+
+20 - 80
+
+%
+
+Contropressione
+
+50 - 200
+
+bar
+
+Corsa dosaggio
+
+0.5 - 4 D
+
+mm
+
+Cuscino
+
+2-8
+
+mm
+
+Densità
+
+0.90 - 0.97
+
+g/cm3
+
+Essiccamento
+
+-
+
+ore/°C
+
+Modulo di elasticità
+
+1100 - 1300 Mpa
+
+Pressione di mantenimento
+
+30 - 60% Pi bar
+
+Pressione d'iniezione
+
+800 - 1400
+
+bar
+
+Resistenza Trazione
+
+21 - 37
+
+N/mm2
+
+Ritiro
+
+1.3 - 2.5
+
+%
+
+Temperatura fuso
+
+200 - 270
+
+°C
+
+Temperatura stampo
+
+20 - 90
+
+°C
+
+Velocità periferica vite
+
+< 1.3
+
+m/s
+
+Pag. 7/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PS
+Allungamento a rottura
+
+Polistirene
+
+Amorfo
+
+3-4
+
+%
+
+Contropressione
+
+50 - 100
+
+bar
+
+Corsa dosaggio
+
+0.5 - 4 D
+
+mm
+
+Cuscino
+
+2-8
+
+mm
+
+Densità
+
+1.05
+
+g/cm3
+
+Essiccamento
+
+No
+
+ore/°C
+
+Modulo di elasticità
+
+3200 - 3250 Mpa
+
+Pressione di mantenimento
+
+30% - 60% bar
+
+Pressione d'iniezione
+
+800 1400
+
+bar
+
+Resistenza Trazione
+
+45 - 65
+
+N/mm2
+
+Ritiro
+
+0.4 - 0.7
+
+%
+
+Temperatura fuso
+
+170 - 280
+
+°C
+
+Temperatura stampo
+
+10 - 60
+
+°C
+
+Velocità periferica vite
+
+1.3
+
+m/s
+
+PVC-P
+
+Polivinilcloruro plastic Amorfo
+
+Allungamento a rottura
+
+170 - 400
+
+%
+
+Contropressione
+
+50 - 100
+
+bar
+
+Corsa dosaggio
+
+1.0 - 3.5 D
+
+mm
+
+Cuscino
+
+2-6
+
+mm
+
+Densità
+
+1.16 - 1.35
+
+g/cm3
+
+Essiccamento
+
+1 ora a 70
+
+ore/°C
+
+Pressione di mantenimento
+
+30 - 50 % Pi bar
+
+Pressione d'iniezione
+
+800 - 1200
+
+bar
+
+Resistenza Trazione
+
+10 - 25
+
+N/mm2
+
+Ritiro
+
+0.7 - 3
+
+%
+
+Temperatura fuso
+
+160 - 190
+
+°C
+
+Temperatura stampo
+
+20 - 60
+
+°C
+
+Velocità periferica vite
+
+< 0.5
+
+m/s
+
+Pag. 8/8
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PVC-U Polivinilcloruro rigido Amorfo
+Allungamento a rottura
+
+10 - 50
+
+%
+
+Contropressione
+
+fino a 300
+
+bar
+
+Corsa dosaggio
+
+1.0 - 3.5 D
+
+mm
+
+Cuscino
+
+1-5
+
+mm
+
+Densità
+
+1.38 - 1.55
+
+g/cm3
+
+Essiccamento
+
+1 ora a 70
+
+ore/°C
+
+Modulo di elasticità
+
+1000 - 3500 Mpa
+
+Pressione di mantenimento
+
+40 - 60 % Pi bar
+
+Pressione d'iniezione
+
+800 - 1600
+
+bar
+
+Resistenza Trazione
+
+50 - 75
+
+N/mm2
+
+Ritiro
+
+0.4 - 0.8
+
+%
+
+Temperatura fuso
+
+170 - 210
+
+°C
+
+Temperatura stampo
+
+20 - 60
+
+°C
+
+Velocità periferica vite
+
+< 0.3
+
+m/s
+
+SAN
+Allungamento a rottura
+
+Stirene acrilonitrile
+5
+
+%
+
+Contropressione
+
+50 - 100
+
+bar
+
+Corsa dosaggio
+
+0.5 - 4 D
+
+mm
+
+Cuscino
+
+2-8
+
+mm
+
+Densità
+
+1.08
+
+g/cm3
+
+Essiccamento
+
+da 2 - 4 ore ore/°C
+
+Modulo di elasticità
+
+3600
+
+Pressione di mantenimento
+
+30 - 60% Pi bar
+
+Pressione d'iniezione
+
+1000 - 1500 bar
+
+Resistenza Trazione
+
+75
+
+Ritiro
+
+0.4 - 0.7 % %
+
+Temperatura fuso
+
+200 - 260
+
+°C
+
+Temperatura stampo
+
+50 - 80
+
+°C
+
+Velocità periferica vite
+
+0.6
+
+m/s
+
+Mpa
+
+N/mm2
+
+Amorfo
+
+

@@ -1,0 +1,172 @@
+Pag. 1/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: DISEGNO, PROGETTAZIONE E ORGANIZZAZIONE INDUSTRIALE e
+MECCANICA, MACCHINE ED ENERGIA
+
+Il candidato, dopo aver analizzato i documenti proposti ed il contesto operativo, svolga la prima parte della
+prova e due dei quesiti proposti nella seconda parte.
+DOCUMENTO N. 1
+Con l’entrata in vigore del DPR 459/1996 “Regolamento per l'attuazione delle direttive 95/063/CE che
+modifica la direttiva 89/655/CEE relativa ai requisiti minimi di sicurezza e salute per l'uso di attrezzature di
+lavoro da parte dei Lavoratori” l’Italia entra a far parte dell’insieme degli Stati Europei che, avendo recepito la
+“Direttiva Macchine”, garantiscono la libera circolazione nel mercato comune europeo soltanto alle macchine
+che, rispettando determinati requisiti di sicurezza, possiedono la marcatura CE di conformità, la quale può
+essere dichiarata dal fabbricante della macchina o certificata da un organismo verificatore ufficiale. La Direttiva
+Macchine porta un nuovo approccio al tema della sicurezza: in sostanza, le nuove norme tendono a garantire la
+sicurezza delle macchine, non tramite l’ausilio di rigidi e dettagliati requisiti tecnici, ma richiedendo alle
+macchine alcune prestazioni minime di sicurezza da soddisfare.
+REQUISITI ESSENZIALI DI SICUREZZA:
+Secondo l’art. 2 comma 1 – DPR 459/1996, le macchine e i componenti di sicurezza che possono essere
+immesse sul mercato o messe in servizio, devono essere conformi alle disposizioni del sopraccitato DPR ed ai
+requisiti essenziali di sicurezza espressi nell’allegato I dello stesso. Inoltre, risulta necessario che le macchine e
+i componenti di sicurezza siano debitamente installati, mantenuti in efficienza ed utilizzati secondo la loro
+destinazione, senza pregiudicare la sicurezza e la salute dei lavoratori.
+MARCATURA “CE” DI CONFORMITÀ’:
+Tutte le macchine costruite, vendute ed installate nel Mercato Comune Europeo a partire dall’emanazione del
+DPR 459/1996 devono essere conformi a precisi requisiti tecnici al fine della sicurezza e salute dei lavoratori e
+devono essere dotate dei seguenti elementi:
+• Marcatura “CE” di conformità della macchina;
+• Manuale d’uso e manutenzione;
+• Targhetta di identificazione con indicato:
+⁃ Nome fabbricante ed indirizzo;
+⁃ Designazione N° di serie e tipo;
+⁃ Anno di costruzione;
+⁃ Marchio “CE”.
+Oggi la prima direttiva Macchine del 96 è stata sostituita dalla nuova Direttiva che è entrata a far parte della
+legislazione italiana con l’emanazione del D.Lgs 17/2010 e che è in vigore dal 6 marzo 2010; comunque a parte
+alcune modifiche la situazione è sostanzialmente rimasta identica.
+
+Pag. 2/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: DISEGNO, PROGETTAZIONE E ORGANIZZAZIONE INDUSTRIALE e
+MECCANICA, MACCHINE ED ENERGIA
+
+LE MACCHINE COSTRUITE PRIMA DELLA DIRETTIVA 459/96 CHE FINE FANNO?
+In Italia al giorno d’oggi sono ancora utilizzate moltissime macchine utensili costruite prima della Direttiva
+Macchine del 96, quindi senza marcatura CE, tuttavia la loro operatività in piena sicurezza deve essere garantita
+dall’adeguamento delle stesse ai requisiti generali di sicurezza di cui all’allegato V del D.Lgs. 81/08. Tutto ciò
+si concretizza con la verifica da parte del datore di lavoro della rispondenza del macchinario alla normativa di
+sicurezza vigente fino al settembre del 1996, ossia i decreti: D.P.R. 547/55, D.P.R. 791/77, D.Lgs. 304/91,
+D.Lgs. 476/95, D.Lgs. 626/94 all. XVI. In sostanza l’iter è quello di valutare quali siano gli interventi idonei per
+rendere la macchina sicura, per poi effettuare gli adeguamenti necessari; adeguamenti che nella gran parte dei
+casi vengono affidati a ditta specializzata che ne certificherà l’esecuzione.
+CONTESTO OPERATIVO
+Ci troviamo all’interno di un reparto di macchine utensili posto indifferentemente presso un’officina meccanica
+o in un padiglione di uno dei tanti istituti ad indirizzo professionale e/o tecnico meccanico, ove di norma si
+effettuano le esercitazioni pratiche e ove sovente si trovano macchinari “datati” che tuttavia continuano ad
+essere utilizzati, sia per scopi didattici che di supporto a piccoli lavori di manutenzione all’interno dell’istituto.
+Nell’ambito degli obblighi che il datore di lavoro deve espletare, sia esso pubblico o privato, c’è quello della
+valutazione dei rischi connessi all’utilizzo di macchinari. È questo il contesto operativo in cui inquadrare
+l’ipotesi oggetto di studio, tenendo conto che tra i macchinari utilizzati esiste un trapano a colonna costruito
+negli anni 60 che, nonostante l’ex decreto 547 prevedesse alcuni standard di sicurezza “- Artt. 68, 72, 75, 55 Gli alberi, le pulegge, le cinghie (…) e tutti gli altri organi o elementi di trasmissione devono essere protetti
+ogni qualvolta possono costituire un pericolo… 104 - I pezzi da forare al trapano, che possono essere
+trascinati in rotazione dalla punta dell’utensile, devono essere trattenuti mediante morsetti od altri mezzi
+appropriati.”, allo stato attuale risulta ancora non sicuro e quindi necessita di adeguamento ai requisiti generali
+di sicurezza di cui all’allegato V del D.Lgs.81/08.
+
+PRIMA PARTE
+Il trapano a colonna è dotato di un cambio di velocità con pulegge a gradini uguali con trasmissione a cinghia
+piatta, come indicato nello schema grafico allegato. Il cambio di velocità avviene con arresto della macchina e
+spostamento della cinghia da una coppia di pulegge all’altra. L’albero motore, con la posizione della cinghia
+indicata nello schema proposto, compie 400 giri/min mentre quello condotto 1200 giri/min; il diametro del
+gradino più piccolo in entrambe le pulegge è pari a 100 mm.
+La potenza del motore elettrico della macchina è pari a 5kW e il rendimento del trapano è 0,7.
+Il candidato, facendo riferimento alla situazione su rappresentata e valutando ogni parametro/ipotesi che ritenga
+necessari e congrui, effettui il calcolo dei diametri degli altri gradini e i rispettivi numeri di giri nelle tre
+possibili posizioni della cinghia.
+
+Pag. 3/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: DISEGNO, PROGETTAZIONE E ORGANIZZAZIONE INDUSTRIALE e
+MECCANICA, MACCHINE ED ENERGIA
+
+Il candidato, considerando che l’interasse delle pulegge è pari a 500 mm e che le stesse, costruite in lega di
+alluminio, sono calettate su un albero motore in acciaio avente diametro di 35 mm, effettui il dimensionamento
+del gruppo pulegge con relativo disegno di fabbricazione comprensivo di quote, smussi, tolleranze e gradi di
+lavorazione.
+Il candidato allestisca il ciclo di lavorazione del gruppo pulegge indicando i macchinari utilizzati, gli utensili e
+attrezzi necessari, nonché gli strumenti di misura e controllo.
+
+SECONDA PARTE
+1. Dovendo effettuare un foro del diametro di 24 mm e profondo 30 mm su una piastra di acciaio con carico di
+rottura σR 500 N/mm2, con una punta in acciaio super rapido avente un angolo tra i taglienti pari a 120°, il
+candidato, scegliendo opportunamente dalle tabelle disponibili sul manuale la velocità di taglio e quella di
+avanzamento ottimali (per quel materiale e quel tipo di utensile), determini:
+•
+
+la potenza di taglio necessaria all’esecuzione del foro;
+
+•
+
+la potenza richiesta al motore elettrico;
+
+•
+
+il tempo di lavoro per eseguire il foro considerando un’extra corsa di 3 mm.
+
+2. Il candidato, facendo riferimento all’esperienze nell'ambito dei percorsi per le competenze trasversali e per
+l'orientamento o al percorso di studi effettuato, indichi quali, a suo avviso, siano i possibili pericoli connessi
+all’utilizzo di un macchinario “datato”, non del tutto a norma, e quindi quali siano gli interventi da effettuare
+sulla macchina per eliminare o quantomeno ridurre i rischi connessi all’utilizzo della stessa, sia in fase di
+lavoro che di manutenzione.
+3. Il candidato, in base ai dati disponibili, calcoli il numero di giri al minuto della punta da trapano, nonché il
+valore della resistenza di taglio esercitata da ciascun tagliente; indichi altresì quale sia l’assetto adeguato del
+cambio di velocità (posizione della cinghia) più idoneo al tipo di lavorazione da fare.
+4. Il candidato, facendo riferimento allo schema di cambio proposto, effettui una verifica del diametro
+dell’albero motore, indicando quale sia il tipo di collegamento albero-mozzo più adeguato al caso.
+
+Pag. 4/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: DISEGNO, PROGETTAZIONE E ORGANIZZAZIONE INDUSTRIALE e
+MECCANICA, MACCHINE ED ENERGIA
+
+D1
+D3
+D5
+
+500
+
+albero motore
+
+albero condotto
+D2
+D4
+D6
+
+__________________________
+Durata massima della prova: 8 ore.
+È consentito soltanto l’uso di tavole numeriche, manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di
+capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso di un laboratorio CAD.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

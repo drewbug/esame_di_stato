@@ -1,0 +1,307 @@
+Pag. 1/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Competenze LLG-MIUR:
+Organizzare il trasporto in relazione alle motivazioni del viaggio ed alla sicurezza degli spostamenti.
+Gestire l’attività di trasporto tenendo conto delle interazioni con l’ambiente esterno (fisico e delle
+condizioni meteorologiche) in cui viene espletata. Operare nel sistema qualità nel rispetto delle
+normative di settore sulla sicurezza.
+Una nave da crociera ha le seguenti caratteristiche:
+lunghezza fuori tutto: 300.0 m; tonnellate di stazza lorda: 85000; velocità di servizio: 22 kn; potenza
+apparato motore: 35200 kW, diesel elettrici, due sistemi di propulsione Azipod.
+Il bridge team deve pianificare la seguente navigazione:
+1.
+2.
+3.
+
+New York: 40°30’ N 068°30’ W
+Great Banks: 45°30’ N 053°00’ W
+Bishop Rock: 49°37’ N 006°36’ W
+
+per poi dirigere verso il canale della Manica. La pianificazione prevede di seguire nel primo tratto un
+percorso lossodromico per poi seguire un arco di circolo massimo sino al WP di arrivo.
+Le previsioni meteo marine forniscono un vento al traverso per tutta la navigazione in forte
+intensificazione oltre il parallelo 50°N. ed un periodo dell’onda molto prossimo al periodo di rollio
+della nave nella zona a cavallo del vertice.
+Tenendo in considerazione le condizioni meteo marine attese, la pianificazione prevede un percorso
+misto fino al parallelo 50°N.
+Determinare l’ETA a Bishop Rock essendo l’ETD = 2100, 21/06/2017 da NY.
+La velocità della traversata fino all’incontro del parallelo limite è stabilita in 12.0 Kn, velocità che
+sarà ridotta nella navigazione per parallelo a 8 Kn.
+Descrivere i motivi della riduzione della velocità.
+
+Pag. 2/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+Competenze LLG-MIUR:
+Interagire con i sistemi di assistenza, sorveglianza e monitoraggio del traffico e gestire le relative
+comunicazioni nei vari tipi di trasporto.
+Dopo essere atterrata su Bishop Rock,ed entrata nella Manica, la nave sta navigando nella corsia di
+NE del Dover Strait Traffic Separation Scheme con destinazione l’estuario del Tamigi, costa sud
+orientale del Regno Unito.
+La pianificazione del viaggio prevede una navigazione nella corsia di NE con rotta iniziale 042°/T ed
+una velocità rispetto al fondo di 13.5 kn.
+Tenendo conto delle guide/regolamenti da applicare e delle particolarità della zona, occorre
+determinare le rotte da seguire per arrivare nella Inshore Traffic Zone britannica dove si trovano le
+boe: S Goodwin (51°11’N; 001°33’E) ed East Goodwin (51°13’N; 001°37’E) entrambe da tenere a
+sinistra a non meno di 1 NM.
+Vista la complessità della navigazione da seguire, si reputa opportuno giungere sul
+WP#1 (50°55’N; 001°26’E) che coincide con il punto d’inizio accostata - wheel over point, nel
+periodo della slack water della corrente di marea.
+Le regole locali raccomandano di effettuare l’attraversamento della corsia di SW del TSS entro
+5 NM a NE della MPC light-buoy.
+Dalla carta nautica UKHO n.323, rombo K, si estraggono i seguenti dati relativi alle correnti di marea
+della zona. I dati della corrente di marea sono riferiti alla HW Dover:
+190
+0.9
+0.5
+-6
+
+191
+2.3
+1.3
+-5
+
+195
+3.1
+1.7
+-4
+
+196
+3.2
+1.8
+-3
+
+195
+2.0
+1.1
+-2
+
+0.0
+0.0
+-1
+
+013
+1.3
+0.7
+0
+
+015
+2.4
+1.4
++1
+
+014
+3.1
+1.7
++2
+
+017
+2.6
+1.5
++3
+
+018
+1.7
+1.0
++4
+
+018
+0.6
+0.3
++5
+
+189
+0.5
+0.3
++6
+
+Ora dell’alta marea a Dover alle 1500 (BST), full moon.
+Descrizione del sistema di separazione del traffico nella sola zona interessata alla navigazione
+dell’unità (Estratto dalla pubblicazione IMO Ships’Routeing):
+A traffic lane for south-westbound is establish between the separation line and a line connecting the
+following geographical positions:
+51° 00’N, 001°17’E; 51°10’N, 001°37’E.
+A separation line connecting the following geographical positions:
+50° 57’N, 001°23’E (MPC light-buoy); 51° 08’N, 001°41’E.
+A traffic lane for north-eastbound is establish between the separation line and a line connecting the
+following geographical positions:
+50° 53’N, 001°31’E; 51°05’N, 001°48’E.
+
+Pag. 3/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+
+Determinare:
+ l’ora locale di arrivo sul WP #1 e la durata di un intervallo che consenta il passaggio con la
+corrente di marea nulla;
+ le coordinate dei WP specificando gli elementi geometrici necessari alla condotta della
+navigazione durante le accostate tenendo conto del particolare tipo di nave;
+ l’ETA (BST) al traverso della boa East Goodwin;
+ le pubblicazioni nautiche ed ogni altro tipo di documento di origine interna o esterna da impiegare
+nella fase di appraisal della pianificazione della navigazione elaborandone una check list.
+Competenze LLG-MIUR:
+Organizzare il trasporto in relazione alle motivazioni del viaggio ed alla sicurezza degli spostamenti.
+Durante l’attraversamento del TSS, in navigazione con navi in vista l’una dell’altra, Pv= 329°,
+velocità rispetto all’acqua=13.6 kn, l’OOW rileva al radar i seguenti bersagli:
+Minuto
+0
+3
+6
+
+Bersaglio A
+Rilv
+008°
+008°
+008°
+
+Distanza
+3.9 NM
+3.1 NM
+2.3 NM
+
+Bersaglio B
+Rilv
+009°
+009°
+009°
+
+Distanza
+5.3 NM
+4.5 NM
+3.7 NM
+
+Bersaglio C
+Rilv
+149°
+149°
+149°
+
+Distanza
+7.0 NM
+6.6 NM
+6.2 NM
+
+Dopo aver specificato chi è tenuto a manovrare, determinare la manovra evasiva tenendo conto quanto
+stabilito dalle COLREGs e dalle regole locali che non consentono un passaggio ravvicinato con una
+distanza al CPA inferiore a 0.5 NM, determinare:
+ la presenza di un’eventuale segnalamento marittimo;
+ l’istante d’inizio e di fine manovra;
+ le regole delle COLREGs da applicare alla situazione cinematica proposta;
+ commentare la regola 2 con particolare riferimento alle “circostanze particolari” citate nel
+paragrafo (a).
+ verificare se la prora vera della nave propria rispetti quanto stabilito dalla regola 10,
+paragrafo (c).
+
+Pag. 4/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+
+Competenze LLG-MIUR:
+Gestire in modo appropriato gli spazi a bordo e organizzare i servizi di carico e scarico, di
+sistemazione delle merci e dei passeggeri. Gestire l’attività di trasporto tenendo conto delle
+interazioni con l’ambiente esterno (fisico e delle condizioni meteorologiche) in cui viene espletata.
+Operare nel sistema qualità nel rispetto delle normative di settore sulla sicurezza.
+Durante la navigazione nella zona adibita al traffico costiero, la nave urta un isolated danger che
+provoca una falla in alcuni compartimenti stagni e, a seguire, a causa della perdita della propulsione,
+l’incaglio della nave su di un fondale roccioso a prora e a poppa. Considerare l’allagamento
+simmetrico di compartimenti non comunicanti liberamente con il mare, non saturati dall’allagamento.
+Sono noti i seguenti dati prima della falla:
+KM= 11.53 m, KG= 10.45 m, dislocamento = 50.000 t, TAFT = 9.3 m, TFWD = 7.7 m,  = 1.025 t/m3
+Dimensioni del volume allagato: lunghezza = 40 m, larghezza = 35 m.
+Considerare il baricentro della massa liquida pari al baricentro del volume allagato ed una
+permeabilità dei due compartimenti allagati del 30%.
+Dopo la falla, dalle tavole delle CCDD si ottiene: KM’ = 11.75 m, TPC’= 35.4 t/cm.
+Gli incagli nella zona prodiera e nella zona poppiera provocano una variazione d’immersione
+T= 0.37 m senza variazione d’assetto, rimanendo sempre nullo l’angolo di sbandamento trasversale.
+ Verificare la stabilità trasversale della nave determinando l’altezza GM dopo la falla e dopo
+l’incaglio.
+ Individuare la situazione a cui la nave potrebbe andare incontro essendo la marea montante.
+A causa del sinistro, le autorità locali hanno aperto un’inchiesta tecnica dalla quale si è potuto dedurre
+che una delle cause dell’urto con l’isolated danger, è stata un lacunoso impiego dell’ECDIS da parte
+dell’OOW essendo la nave una primary ECDIS.
+ Individuare le ipotetiche cause del non corretto impiego dell’ECDIS descrivendo il giusto
+settaggio del sistema in navigazione costiera.
+ L’isolated danger non era segnalato da alcuna boa. Descrivere la boa IALA per questo tipo di
+pericolo soffermandosi sui colori, forma della boa, del top mark e il tipo di segnale luminoso che
+deve emettere.
+
+Pag. 5/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+
+SECONDA PARTE
+1) L’IMO ha stabilito il criterio meteorologico da applicare a navi come le moderne navi da crociera.
+Descrivere: l’ipotesi del criterio; a ciò che viene sottoposta la nave e ciò che viene richiesto dalla
+Risoluzione dell’IMO.
+2) La portata del radar viene modificata dal gradiente verticale della temperatura dell’aria.
+Descrivere le diverse situazioni in cui un radar può trovarsi ad operare. Gli echi di seconda traccia
+sono causati da situazioni particolari. Descrivere come il radar sia in grado di eliminarli.
+3) In data 21/06/2017, nella posizione 40°N, 009°E verificare se il pianeta Venere può essere
+impiegato durante il crepuscolo vespertino per effettuare i giri di bussola della bussola magnetica
+di governo. Le deviazioni dovranno essere determinate in funzione della prora magnetica.
+Indicare come orientare la nave su di una determinata prora magnetica e come ricavare la
+deviazione magnetica noto l’azimut dell’astro.
+4) Un nave specializzata in trasporti heavy lift ha un ∆ = 5000 t. Si deve imbarcare un manufatto
+industriale del peso di 150 t con le gru di bordo. Nel momento in cui la gru inizia ad alare ed il
+carico risulta sospeso, la gru ha uno sbraccio di 15 m, dal piano diametrale, mentre la testa della
+gru dista dalla linea di costruzione 20 m. Prima del sollevamento del manufatto la nave ha un
+KG =8.5 m ed un KM= 11.5 m. Porre il KM a sollevamento avvenuto uguale al precedente valore.
+Determinare l’angolo di sbandamento e il valore del nuovo GM.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice scientifica non programmabile, tavole numeriche, manuali tecnici, formulari, pubblicazioni
+nautiche.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,44 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCT – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONI DEL. MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI MEZZO AEREO
+ESEMPIO PROVA
+
+Il candidato svolga il tema indicato nella prima parte e risponda a due quesiti tra i quattro proposti
+nella seconda parte
+PRIMA PARTE
+Sia dato un velivolo dalle caratteristiche sottoelencate che affronta una virata con angolo di bank di 30° a
+velocità di crociera. Determinare le componenti di sollecitazione agenti sul longherone in un punto a 1/6
+dell’apertura alare.
+Eseguire un dimensionamento di massima del longherone assumendo opportune ipotesi sui dati
+mancanti.
+
+
+
+
+
+
+W=17000 N
+S=17 m2
+
+ (rapporto di rastremazione)=0,4
+b (apertura alare)=10,90 m
+cD0 =0,03
+
+SECONDA PARTE
+1) Disegnare il diagramma di manovra del velivolo precedente, adottando, per i dati mancanti, valori
+opportunamente scelti e giustificati.
+2) Illustrare una possibile motorizzazione e dimensionare di massima il serbatoio combustibile per
+garantire un’autonomia di volo di almeno 3 ore.
+3) Illustrare brevemente le caratteristiche del velivolo e le norme che ne consentono la
+certificazione.
+4) Descrivere il procedimento di una prova non distruttiva utilizzata in campo aeronautico.
+
+Durata massima della prova: 6 ore.
+E' consentito soltanto l'uso di tavole numeriche, manuali tecnici e calcolatrici non programmabili.
+
+1
+
+

@@ -1,0 +1,94 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M762 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAM - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI CIVILI E INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Con il termine macchina si indica, in campo tecnologico, un dispositivo composto da diversi
+componenti, a volte complesso, che ha lo scopo di compiere un lavoro, potenziando il lavoro fatto
+dall’uomo, o in grado di trasformare l’energia da una forma ad un’altra. Sono esempi di macchina i
+torni, le fresatrici, i trapani, ma anche le caldaie, i compressori, i frigoriferi.
+Il candidato, dopo aver scelto una delle macchine studiate durante il proprio percorso di studio:
+
+
+ne dia una definizione, elenchi e descriva i componenti principali e spieghi come questi
+concorrono al funzionamento della macchina stessa;
+
+
+
+predisponga un piano di manutenzione della macchina, evidenziando la periodicità degli
+interventi, gli strumenti da utilizzare, i rischi connessi alle attività da svolgere e tutto quanto
+concorra ad eseguire la manutenzione in sicurezza;
+
+
+
+faccia un stima dei costi di manutenzione annuali legati alla macchina, elaborando il relativo
+preventivo di spesa.
+
+Eventuali dati non espressamente presenti nel testo possono essere assunti dal candidato, purché
+risultino contestualizzati e giustificati appropriatamente.
+SECONDA PARTE
+1.
+
+Il candidato, facendo riferimento ad un’attività pratica svolta in ambiente scolastico o durante
+un’esperienza lavorativa e/o di stage, descriva un intervento di smontaggio e rimontaggio di un
+componente tecnico, spiegando le successive fasi dell’intervento. Si delinei la strategia operativa,
+mettendo in risalto gli attrezzi necessari, i dispositivi di sicurezza da adottare, eventuale materiale
+di consumo o pezzi di ricambio da utilizzare. Elabori inoltre un documento di collaudo che
+garantisca, al termine dell’intervento, il corretto funzionamento del dispositivo.
+
+2.
+
+Un impianto di generazione dell’aria compressa è alimentato da due compressori che possono
+lavorare contemporaneamente o alternativamente, a seconda della portata di aria richiesta
+dall’utenza. Si chiede al candidato di scegliere, tra le tipologie di manutenzione previste dalla
+normativa, quelle che si ritengono più idonee, motivando le scelte fatte. Si chiede inoltre un
+parere sulla telemanutenzione e/o teleassistenza, valutando se tale tecnologia potrebbe fornire un
+valido supporto al servizio di manutenzione richiesto.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M762 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAM - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI CIVILI E INDUSTRIALI
+
+3.
+
+Il termine inglese “troubleshooting” indica il processo di identificazione ed eliminazione di un
+guasto. Il processo deve essere sequenziale, logico, progressivo ed è necessario per un approccio
+sistematico ad una manutenzione efficace. Il candidato predisponga un foglio di diagnosi atto a
+selezionare, catalogare, filtrare le cause di guasto di un impianto o di una macchina, allo scopo
+di ridurre al minimo il numero di cause possibili. Si contestualizzi eventualmente il foglio di
+diagnosi richiesto mediante un caso applicativo.
+
+4.
+
+Un’officina meccanica è provvista di 18 torni uguali funzionanti nella fase dei guasti casuali. In
+un intervallo di tempo di 1500 ore si verificano 6 guasti ed in particolare dopo 250, 600, 680,
+720, 1230 e 1350 ore. Si chiede al candidato di calcolare il tasso di guasto delle macchine e di
+calcolarne l’affidabilità nell’intervallo di tempo considerato. Rappresenti inoltre la curva
+dell’affidabilità, descrivendone le diverse fasi.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

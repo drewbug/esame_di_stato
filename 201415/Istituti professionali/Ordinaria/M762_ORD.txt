@@ -1,0 +1,916 @@
+Pag. 1/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M762 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ IPAM – MANUTENZIONE E ASSISTENZA TECNICA OPZIONE
+APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E
+CIVILI CURVATURA MECCANICA
+ IPAN – MANUTENZIONE E ASSISTENZA TECNICA OPZIONE
+APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E
+CIVILI CURVATURA SISTEMI ENERGETICI
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M762 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+In una piccola azienda meccanica sono presenti le seguenti macchine utensili:
+-
+
+n. 4 torni manuali paralleli;
+
+-
+
+n. 2 fresatrici universali;
+
+-
+
+n. 2 trapani a colonna;
+
+-
+
+n. 1 seghetto a nastro;
+
+-
+
+n. 2 molatrici a banco.
+
+Si chiede al candidato, dopo aver assunto con motivato criterio i dati ritenuti necessari:
+
+
+di predisporre il piano di manutenzione ordinaria annuale per mantenere in perfetta efficienza le
+macchine;
+
+
+
+di predisporre le schede di manutenzione per ciascuna macchina;
+
+
+
+di analizzare la tipologia dei rischi possibili durante le operazioni di manutenzione, valutando la
+probabilità e il danno per ognuno dei pericoli individuati e indicando, inoltre, le misure di
+prevenzione e protezione e la tipologia del DPI da adottare;
+
+
+
+di stimare un preventivo di spesa per la manutenzione ordinaria annuale da proporre al
+committente.
+
+Pag. 3/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M762 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+SECONDA PARTE
+1.
+
+2.
+
+Si calcoli il costo di fermo macchina dovuto a un intervento di manutenzione straordinaria su una
+fresatrice utilizzando i seguenti dati:
+
+
+Cma = 0,7 €/min;
+
+
+
+Ci = 0,6 €/min;
+
+
+
+Tp = 2,5 min/pezzo;
+
+
+
+MC = 10,0 €/pezzo;
+
+
+
+Cmp = 1,0 €/pezzo;
+
+
+
+Costi consumi = 0,5 €/min.
+
+Un condominio ha un impianto centralizzato alimentato da una caldaia a gas metano da
+375 kW.
+Il candidato elenchi i principali obblighi a cui deve adempiere l’impresa incaricata della gestione
+dell’impianto, per il rispetto delle relative leggi e norme di riferimento.
+
+3.
+
+Il candidato illustri, sulla base dell’esperienza da lui fatta direttamente o svolta nell’ambito di
+stage aziendali o di alternanza scuola-lavoro, le mansioni e/o le attività lavorative normalmente
+svolte, evidenziando le competenze acquisite e gli obiettivi raggiunti.
+
+4.
+
+Il candidato rappresenti, ipotizzando un livello prestazionale richiesto dal committente, la pianta
+di un appartamento tipo indicando a sua scelta: l’impiantistica elettrica (quadro elettrico, punti
+prese e luce, linee elettriche in cavidotti, ecc.), quella termica (caldaia, elementi, tubazioni, ecc.),
+quella idrico-sanitaria (autoclave, utenze varie, tubazioni, ecc.).
+Il candidato inoltre, assumendo con motivato criterio ogni altro dato necessario, proceda ad un
+dimensionamento di massima dell’impiantistica prescelta.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 4/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M983 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAN – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+In un appartamento di 96 mq si vuole installare un impianto a pannelli radianti del tipo bugnato,
+alimentato da una caldaia a condensazione a gas metano della potenzialità di 24 kW. L’impianto è
+cosi costituito:
+
+
+camera da letto da 22 mq con impianto a pannelli radianti;
+
+
+
+camera da letto da 14 mq con impianto a pannelli radianti;
+
+
+
+sala/soggiorno da 35 mq con impianto a pannelli radianti;
+
+
+
+cucina da 12 mq con impianto a pannelli radianti;
+
+
+
+servizio principale da 9 mq con scaldasalviette alimentati a 50 °C;
+
+
+
+servizio secondario da 4 mq con scaldasalviette alimentati a 50 °C.
+
+Tutti i locali hanno una altezza di 2,80 mt.
+Nel rispetto al D.M 311/06, in particolare ai coefficienti di trasmissione globale del calore U per una
+zona climatica E, ne deriva un carico termico per unità di volume pari a 23 W/mc.
+Il candidato, dopo aver effettuato le opportune scelte impiantistiche, utilizzando le tabelle allegate,
+tratte da cataloghi tecnici, dimensioni l’impianto a pannelli radianti a pavimento indicando il numero
+di circuiti e la quantità di tubazione necessaria. Effettui inoltre la scelta degli scaldasalviette
+indicandone le misure.
+Disegni uno schema di funzionamento evidenziando i diametri delle tubazioni.
+
+Pag. 5/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M983 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAN – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+TABELLA 1 - RESA SCALDASALVIETTE
+
+TABELLA 2 - RESA PANNELLI RADIANTI
+
+Pag. 6/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M983 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAN – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+Temperatura di mandata in base a UNI EN 1264-3:2009; curve di resa ricavate dalle rese determinate
+numericamente dal DFT di Padova secondo UNI EN 15377
+passo cm >
+es.
+ceramica
+
+es.
+parquet
+
+es. legno
+a norma
+
+m2K/W
+0,010
+m2K/W
+0,035
+m2K/W
+0,060
+m2K/W
+0,085
+m2K/W
+0,125
+m2K/W
+0,150
+m2K/W
+0,100
+
+t. pav.
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+28
+
+29
+
+31
+
+30
+
+32
+
+33
+
+32
+
+34
+
+36
+
+34
+
+36
+
+39
+
+36
+
+38
+
+41
+
+38
+
+41
+
+44
+
+29
+
+30
+
+31
+
+31
+
+33
+
+34
+
+33
+
+35
+
+37
+
+36
+
+38
+
+40
+
+38
+
+40
+
+43
+
+40
+
+43
+
+46
+
+30
+
+31
+
+32
+
+32
+
+34
+
+35
+
+35
+
+37
+
+39
+
+37
+
+39
+
+42
+
+40
+
+42
+
+45
+
+42
+
+45
+
+48
+
+31
+
+32
+
+33
+
+33
+
+35
+
+37
+
+36
+
+38
+
+40
+
+39
+
+41
+
+44
+
+42
+
+44
+
+47
+
+44
+
+47
+
+51
+
+32
+
+33
+
+34
+
+35
+
+37
+
+38
+
+38
+
+40
+
+42
+
+42
+
+44
+
+46
+
+45
+
+47
+
+50
+
+48
+
+51
+
+54
+
+33
+
+34
+
+35
+
+36
+
+38
+
+40
+
+40
+
+42
+
+44
+
+43
+
+45
+
+48
+
+47
+
+49
+
+52
+
+50
+
+53
+
+57
+
+31
+
+32
+
+34
+
+34
+
+36
+
+37
+
+37
+
+39
+
+41
+
+40
+
+42
+
+45
+
+43
+
+45
+
+48
+
+46
+
+49
+
+52
+
+10,8 W/m2K Alfa pavimento caldo secondo UNI EN 1264-2:2009 e UNI
+EN 1264-5:2009
+
+Temperatura media superficiale al pavimento
+passo cm >
+es.
+ceramica
+
+es.
+parquet
+
+es. legno
+a norma
+
+m2K/W
+0,010
+m2K/W
+0,035
+m2K/W
+0,060
+m2K/W
+0,085
+m2K/W
+0,125
+m2K/W
+0,150
+m2K/W
+0,100
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+Pag. 7/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M983 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAN – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+SECONDA PARTE
+1.
+
+Il candidato esegua un’analisi di un impianto a pannelli radianti a pavimento, indicando i
+vantaggi e gli eventuali svantaggi rispetto ad un impianto tradizionale a radiatori.
+
+2.
+
+Il candidato dopo aver effettuato un’analisi dei possibili guasti, compili un piano di manutenzione
+programmata inglobando anche la manutenzione obbligatoria della caldaia a condensazione.
+
+3.
+
+Il candidato compili una lista dei materiali in termini di apparecchiature principali, valvolame e
+minuterie per realizzare l’impianto.
+
+4.
+
+Il candidato illustri, sulla base dell’esperienza da lui fatta direttamente o svolta nell’ambito di
+stage aziendali o di alternanza scuola-lavoro o in attività di laboratorio durante l’anno scolastico,
+le mansioni e/o le attività lavorative normalmente svolte, evidenziando le competenze acquisite
+e gli obiettivi raggiunti preferibilmente in relazione alla messa in opera delle tubazioni per la
+realizzazione dei circuiti radianti a pavimento.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

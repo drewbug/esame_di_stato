@@ -1,0 +1,201 @@
+Pag. 1/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M553 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+R
+
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+
+IM
+
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+IU
+
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+
+AT
+T
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+
+AG
+
+LI
+
+Un nastro trasportatore di un impianto siderurgico viene rifornito tramite una tramoggia di carico di
+minerale di ferro, la cui massa volumica è di 2t/mc. Il tracciato del nastro avviene per 20 metri in piano
+ad una velocità di 2m/s ed una portata di 250t/h. Lo stesso è azionato tramite un tamburo di comando
+in acciaio C40 bonificato, avente un diametro di 400 mm e un peso complessivo (P) di 1000 N.
+Il candidato, dopo aver scelto i dati mancanti, facendo riferimento allo schema proposto deve:
+calcolare la potenza da assegnare al motore del riduttore considerando che per tener conto degli
+attriti, dell’inerzia, nonché del peso del nastro di trasporto, conviene aumentare il carico
+complessivo gravante sullo stesso(t/m) del 10%; il rendimento verrà assunto pari a 0,75;
+
+b.
+
+completare il dimensionamento dell’albero in acciaio C40 bonificato nella parte dei perni A e B,
+lunghi rispettivamente 200mm tra supporto e flangia tamburo. Per essi scegliere i cuscinetti più
+idonei sapendo che il nastro lavora ininterrottamente 24 ore su 24;
+
+c.
+
+effettuare il dimensionamento di massima della coppia di ruote dentate a denti dritti 1 e 2 il cui
+rapporto di trasmissione risulta pari a 4.
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+a.
+
+Pag. 2/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M553 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+R
+
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+AG
+
+LI
+
+IM
+
+AT
+T
+
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+IU
+
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+
+Pag. 3/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M553 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+R
+
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+
+IM
+
+AT
+T
+
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+IU
+
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+
+SECONDA PARTE
+
+Eseguire il dimensionamento completo dell’albero dal supporto A fino a punto C dove è calettato
+il giunto a dischi.
+
+2.
+
+Dimensionare i cuscinetti a sfere dei rulli superiori di diametro 110 mm e calettati su perni da 20
+mm, posti ad interasse di 1,2 m, sapendo che vi grava il 60% del carico del nastro nel tratto dagli
+stessi interessato.
+
+3.
+
+Eseguire il dimensionamento modulare completo della coppia di ruote a denti dritti.
+
+4.
+
+Calcolare la sezione del nastro trasportatore, sollecitato prevalentemente a trazione, considerando
+una larghezza indicativa di 1 metro e un carico di rottura pari a 200N/mmq.
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+AG
+
+LI
+
+1.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di tavole numeriche, manuali tecnici e calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

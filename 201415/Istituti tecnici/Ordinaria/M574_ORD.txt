@@ -1,0 +1,85 @@
+Pag. 1/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M574 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+Un ATR 42 MP della Guardia Costiera si trova in missione di vigilanza ambientale marittima sul
+Mar Tirreno al FL65 con CAS = 240 kt e SAT = ISA – 7°C.
+Alle UT 11:30 il pilota, determinata la posizione dell’aereo in: lat. 37° 55’.3 N, long. 010° 37’.8 E,
+con MC = 015° (VAR = 2° 30’ Est) dirige per il VOR di Ostia in presenza di un vento (grecale) di
+intensità 20 kt.
+Il pilota viene a conoscenza del seguente avviso TAD (Thunderstorm Area Detection) emesso
+dall’Unità di Previsione Meteo ENAV di Roma Fiumicino:
+LIRF MET RADAR 02 VALID 271200/271400 MOD/HVY FRQ ECHOES AREA RAD 028NM
+TSRA 41DEG 50MIN N 12DEG 13MIN E TOP 8000M MOV S 06KT INTST
+Il candidato determini il probabile punto e l’ora in cui le condizioni meteorologiche riportate dal
+suddetto avviso interesseranno la rotta dell’ATR 42 e se, in tale momento, l’aereo verrà investito
+dalla perturbazione.
+SECONDA PARTE
+Quesito 1
+Un aeromobile dirige per ortodromia da un waypoint A di coordinate (lat. 70° S; long. 068° W) e
+una base posta nel punto B (lat. 78° S; long. 170° E).
+Il candidato calcoli la distanza tra i due punti, le coordinate del vertice e la rotta da inserire al
+girodirezionale (supposto compensato per la rotazione terrestre) rispetto a un reticolo formato da
+rette parallele al meridiano di Greenwich.
+Risolva, ancora, il quesito in modo grafico costruendo una carta stereografica polare relativa a una
+sfera rappresentativa terrestre di raggio uguale a 150 mm e sovrapponendo a essa il reticolo.
+Calcoli, infine, la scala della carta alla latitudine di 80° S nell’ipotesi di Terra sferica di raggio
+uguale a 6371 km.
+
+Pag. 2/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M574 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+Quesito 2
+Alle 09.00 UT, un aeromobile decolla da un aeroporto, di elevazione di 800 ft, effettuando la salita con
+una VS di 800 ft/min e una GS di 160 kt fino al FL150 (SAT = ISA +16°C; QNH = 28.92 inches).
+Arrivato al TOC, il pilota intende intercettare un secondo aeromobile in volo con TC = 0° e GS = 180
+kt, posto sul rilevamento 100° a una distanza di 80 MN, assumendo una TAS pari a 260 kt.
+Il candidato calcoli la TH dell’aereo intercettatore e l’ETI nell’ipotesi che sulla intera area soffi un
+vento 315°/20 kt.
+Quesito 3
+Un aereo da turismo ha due compartimenti di stiva, anteriore e posteriore, situati rispettivamente ad
+una distanza di 28 e 175 inches rispetto al sistema di riferimento (datum).
+Dal manuale di volo, sono noti il peso a vuoto d’impiego dell’aereo, pari a 9175 libbre, e
+l’intervallo di escursione del baricentro compreso tra il limite anteriore posto a 85 inches e quello
+posteriore a 97 inches.
+L’equipaggio di volo ha un peso complessivo di 170 kg e vengono imbarcate 645 libbre di
+carburante necessarie per il volo e 443.7 kg di passeggeri e bagagli, distribuiti questi ultimi nei
+suddetti compartimenti.
+In funzione della distribuzione del carico in stiva e dal calcolo del peso totale risulta che il
+baricentro dell’aereo dista 83 inches dal datum.
+Il candidato determini il peso a vuoto d’esercizio e il peso in libbre del bagaglio che deve essere
+spostato dal compartimento anteriore a quello posteriore per effettuare un carico e centraggio con
+baricentro entro il limite anteriore.
+Quesito 4
+La stazione meteo di Roma Fiumicino (LIRF) emette il seguente messaggio:
+METAR LIRF 271650Z 34004KT CAVOK 07/M01 Q1012 NOSIG RMK VIS MIN 9999=
+Il candidato illustri il significato del termine METAR e provveda alla decodifica del messaggio.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall'inizio della prova.
+
+

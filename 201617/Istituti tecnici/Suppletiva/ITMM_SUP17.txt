@@ -1,0 +1,65 @@
+Pag. 1/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: DISEGNO, PROGETTAZIONE ORGANIZZAZIONE INDUSTRIALE
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Lo schema in figura rappresenta un riduttore con ruote a denti diritti. La ruota motrice (1) muove la
+ruota (2) calettata sull’albero b, che mediante la ruota (3) trasmette il moto alla ruota (4) calettata
+sull’albero c. La distanza tra i cuscinetti posti in P e Q è 280 mm. (La figura non è in scala).
+L’albero motore (a) trasmette un momento torcente di 160 Nm alla velocità di 1200 giri/min.
+L’utilizzatore, calettato in S mediante una linguetta, applica all’albero c una sollecitazione di pura
+torsione. I diametri primitivi delle ruote sono: D1 = 100 mm; D2 = 360 mm; D3= 140 mm;
+D4 = 400 mm.
+Il candidato, fissato opportunamente ogni altro dato necessario, esegua:
+a) Il dimensionamento dell’albero c.
+b) Il disegno esecutivo dell’albero c comprensivo dei sistemi di calettamento della ruota dentata e
+dei cuscinetti, di smussi, raccordi e quotatura completa nonché delle tolleranze di lavorazione.
+c) Il ciclo di lavorazione dell’albero c indicando la successione delle fasi, le macchine e gli
+strumenti di misura utilizzati, considerato che la produzione deve essere di 600 pezzi.
+
+Pag. 2/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: DISEGNO, PROGETTAZIONE ORGANIZZAZIONE INDUSTRIALE
+SECONDA PARTE
+1 Considerato l’albero (c) della prima parte:
+a. dopo avere assunto con giustificato criterio ogni dato necessario, calcolare il tempo macchina
+richiesto per la esecuzione di una delle fasi di tornitura e la corrispondente potenza massima
+richiesta alla macchina utensile che realizza la lavorazione;
+b. descrivere le possibili e pertinenti prove di collaudo e controlli di qualità.
+2 Con riferimento alla produzione dell’albero (c) della prima parte, in relazione alla tipologia delle
+macchine scelte, definito il numero delle macchine utilizzate per la fabbricazione dell’intero lotto,
+si delinei il tipo di layout del reparto e la quantità di barre commerciali necessarie per la intera
+produzione.
+3 Con riferimento alla Sicurezza nei luoghi di lavoro, il candidato illustri i principali rischi presenti
+nelle macchine utensili utilizzate nell’ambito della produzione dell’albero (c), illustri altresì le
+corrispondenti iniziative normalmente utilizzate per ridurre e/o eliminare tali rischi. Il candidato
+può portare esempi concreti, da lui conosciuti e/o esperienze da lui fatte direttamente o verificate
+nell’ambito di stage aziendali e/o percorsi di alternanza scuola-lavoro.
+4 Nell’ambito della organizzazione della produzione industriale di componenti meccanici, illustrare
+e discutere i sistemi di produzione CAD-CAM, sotto gli aspetti organizzativi, della produttività,
+della flessibilità della produzione, della qualità, nonché gli aspetti economici dei costi e dei ricavi;
+eventualmente in confronto con altri possibili sistemi di produzione. (L’argomento può anche
+essere sviluppato con riferimento ad un esempio ipotetico o reale di reparto produttivo).
+
+___________________________
+Durata massima della prova: 8 ore.
+È consentito soltanto l’uso di tavole numeriche, manuali tecnici e calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

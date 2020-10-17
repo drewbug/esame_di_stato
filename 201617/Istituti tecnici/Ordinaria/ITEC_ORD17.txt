@@ -1,0 +1,166 @@
+Pag. 1/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una rete sperimentale per la rilevazione della fase strong motion dei terremoti, il cui campo di
+frequenze significative è compreso tra 0,03 Hz e 25 Hz, funziona utilizzando sismometri sia mobili
+che fissi: i sistemi mobili si avvalgono degli accelerometri interni degli smartphone, quelli fissi sono
+realizzati come dispositivi dedicati controllati da un sistema programmabile.
+In entrambi i casi, al superamento di un valore di soglia dell’accelerazione rilevata aTH pari a g/20
+(con g = 9,81 m/s2 accelerazione di gravità) viene inviato un segnale di allarme ad un server centrale:
+sulla rete cellulare per gli smartphone; mediante la rete internet, avvalendosi di una apposita periferica
+dedicata, per i sistemi fissi.
+Ogni sismometro fisso utilizza un accelerometro triassiale che fornisce tre diverse tensioni secondo i
+tre assi direzionali:
+𝑉𝑗 = 𝐾 ∙ 𝑎𝑗 + 1,5
+con j = x, y, z
+Dove
+𝑎𝐽 accelerazione lungo il generico asse spaziale j
+K = 300 mV/g sensibilità del sensore
+Le modalità di intervento dei sistemi fissi sono cosi strutturate:
+ a partire dall’istante in cui il modulo dell’accelerazione 𝑎 = √𝑎𝑥2 + 𝑎𝑦2 + 𝑎𝑧2 supera il valore di
+soglia aTH si invia la segnalazione di allarme al server remoto e si inizia la trasmissione di record,
+la cui struttura è riportata nella seguente tabella.
+Codice sismometro
+(2 byte)
+
+Time Stamp
+(2 byte)
+
+𝑎𝑥
+(2 byte)
+
+𝑎𝑦
+(2 byte)
+
+𝑎𝑧
+(2 byte)
+
+(I primi due campi riportano, rispettivamente, le coordinate per la localizzazione del sismometro
+e l’identificativo temporale (Time Stamp) dei campioni inviati; i restanti tre campi contengono i
+valori delle tre componenti spaziali dell’accelerazione)
+ Se a supera un valore pari al 125% di aTH si attivano segnalazioni ottiche e acustiche;
+ al superamento del 150% di aTH si interrompono le forniture di gas e acqua mediante due
+elettrovalvole nonché la fornitura dell’energia elettrica mediante un dispositivo di sezionamento;
+ la trasmissione dei dati viene interrotta se il modulo dell’accelerazione si riduce, per almeno 100
+campionamenti successivi, a un valore inferiore al 10% di aTH.
+Il sistema si completa con due pulsanti U e D, gestiti in polling, mediante i quali si può incrementare
+(U) o ridurre (D) il valore di soglia aTH. Sono inoltre presenti relè di potenza per attivare l’avvisatore
+acustico e il segnalatore ottico e per disconnettere la fornitura dei servizi.
+
+Pag. 2/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+Il candidato, formulate le ipotesi aggiuntive che ritiene opportune:
+1. Disegni uno schema a blocchi, che utilizzi un dispositivo programmabile di sua conoscenza, del
+sismometro e descriva i singoli blocchi dal punto di vista funzionale, evidenziando in particolare
+le modalità di interconnessione tra periferiche e sistema di gestione.
+2. Descriva le interfacce hardware necessarie alla corretta acquisizione dei dati provenienti
+dall’accelerometro, evidenziando in particolar modo le problematiche connesse al
+campionamento e le tecniche utilizzate per limitare l’effetto dell’aliasing.
+3. Indichi, mediante un diagramma di flusso dettagliato o altra rappresentazione idonea, la struttura
+del software di gestione dell’intero processo.
+4. Effettui, in un linguaggio di programmazione coerente con il sistema programmabile scelto, la
+codifica del segmento di software di gestione che controlla l’acquisizione dei dati provenienti
+dall’accelerometro e l’attivazione dei relè.
+
+SECONDA PARTE
+QUESITO N. 1
+In relazione alla prima parte della prova, si descriva una modifica del sistema che consenta la gestione
+dei pulsanti U e D con una tecnica di interrupt utilizzabile con il sistema programmabile scelto e si
+specifichino le variazioni da apportare al software precedentemente sviluppato.
+QUESITO N. 2
+In relazione alla prima parte della prova, si descriva una possibile modalità per l’acquisizione dei dati
+provenienti dai sensori, indicando le modifiche da apportare all’hardware ed al software del sistema,
+nel caso in cui questi producano dati digitali e comunichino, a scelta del progettista, mediante una
+delle interfacce seriali SPI o I2C.
+
+Pag. 3/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+QUESITO N. 3
+Un sistema di controllo a retroazione è caratterizzato dai diagrammi di Bode ad anello aperto riportati
+in figura. Si valuti la stabilità del sistema e si proponga una tecnica idonea per assicurare un margine
+di fase di /4 rad e una banda non inferiore a 1 kHz.
+80
+
+0
+-0,5
+
+60
+
+-1
+40
+-1,5
+-2
+
+0
+10
+
+100
+
+1000
+
+-20
+
+10000
+
+-2,5
+100000
+-3
+
+rad
+
+dB
+
+20
+
+-3,5
+-40
+-60
+-80
+
+-4
+
+MdB
+Fase
+MdB asintotico
+
+-4,5
+-5
+Hz
+
+QUESITO N. 4
+Si consideri il sistema rappresentato in figura e si determini il range dei valori possibili di k per i quali
+l’ampiezza di un disturbo additivo d(t), di natura sinusoidale con pulsazione =1 rad/s, venga ridotta
+di almeno 14 dB rispetto al suo valore originario.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema
+
+

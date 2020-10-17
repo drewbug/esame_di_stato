@@ -1,0 +1,200 @@
+Pag. 1/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M547 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Il Cantiere Navale presso cui lavorate ha completato un’imbarcazione e deve effettuare il suo
+trasferimento dall’officina sul molo a una chiatta galleggiante in mare calmo.
+
+L’imbarcazione è poggiata su due selle posizionate come indicato in figura (misure in mm).
+Le caratteristiche dell’imbarcazione (selle comprese) sono le seguenti:
+ peso = 80 t
+ distanza della sella AD dalla poppa dell’imbarcazione = 5 m
+ distanza fra le selle = 16 m
+ lunghezza delle selle = trascurabile
+ distanza del baricentro dalla poppa dell’imbarcazione = 10,92 m
+ quota del baricentro dalla base della sella = 2,9 m
+Le caratteristiche della chiatta, di forma parallelepipeda, sulla quale l’imbarcazione deve essere
+spostata, pure visibili nella figura, sono le seguenti:
+ L = 30 m
+ B = 10 m
+ D=4m
+ dislocamento della chiatta scarica ∆sc = 100 t
+
+Pag. 2/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M547 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+
+
+
+
+
+
+lunghezza dei gavoni AV e AD (da utilizzare per la zavorra) = 5 m
+larghezza dei gavoni AV e AD = larghezza della chiatta (10 m)
+quota del baricentro della chiatta ZG dalla base della chiatta = 2,2 m
+posizione longitudinale XG del baricentro della chiatta = 15 m (a metà lunghezza)
+
+La chiatta ha struttura trasversale, e la sezione maestra è schematizzata nel disegno. Se presenti, le
+ossature rinforzate longitudinali sono trascurate.
+
+Il livello del molo è 2,4m al di sopra del livello del mare. La chiatta verrà avvicinata e ormeggiata al
+molo.
+L’imbarcazione verrà trascinata in modo continuo dal molo alla chiatta, ma comunque si possono
+definire le seguenti fasi più importanti:
+1) la chiatta viene zavorrata riempiendo le casse di assetto della chiatta con un’opportuna quantità
+di acqua di zavorra in modo che il livello del ponte della chiatta e il livello del molo coincidano
+2) si inizia a trascinare l’imbarcazione fino a quando la prima sella poggia sull’estremità AD della
+chiatta, variando la quantità di zavorra nelle due casse di assetto in modo che il livello del ponte
+resti invariato nonostante l’imbarco del peso
+
+Pag. 3/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M547 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+3) si continua a trascinare l’imbarcazione sulla chiatta, in un certo momento la sella AV si troverà
+esattamente al centro della chiatta, continuando a variare la quantità di zavorra nelle due casse
+per mantenere la chiatta in assetto diritto
+4) si continua a trascinare l’imbarcazione sulla chiatta, fino a quando la sella AD poggia
+sull’estremità AD della chiatta, variando la quantità di zavorra nelle due casse per mantenere la
+chiatta in assetto diritto e bilanciando il nuovo carico
+5) si continua a trascinare l’imbarcazione sulla chiatta fino a una posizione opportuna sulla
+chiatta, continuando a variare la quantità di zavorra nelle due casse per mantenere la chiatta in
+assetto diritto
+6) le
+casse
+di
+assetto
+vengono
+completamente svuotate dalla zavorra,
+gli ormeggi rimossi e la chiatta, che
+dovrà restare in assetto diritto (e
+sovraemersa), verrà portata via da un
+rimorchiatore.
+Durante tutta l’operazione la chiatta dovrà
+restare esattamente diritta e a livello del
+molo
+solo
+tramite
+un
+opportuno
+zavorramento. I disegni a lato rappresentano
+le varie fasi, precisando che il livelli dei
+liquidi indicati sono del tutto casuali.
+Si chiede di verificare la fattibilità
+dell’operazione, e descrivere le necessarie
+manovre da effettuare. In particolare si
+chiede di effettuare le analisi come indicato
+nella seguente tabella.
+
+fase 1
+fase 2
+fase 3
+fase 4
+fase 5
+fase 6
+
+A)
+calcolo
+zavorra
+sì
+sì
+sì
+sì
+sì
+-
+
+B)
+stabilità
+
+C)
+sollecitazioni
+
+sì
+sì
+-
+
+sì
+sì
+-
+
+Pag. 4/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M547 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+
+Più precisamente, le analisi da effettuare e sintetizzate con i titoli della tabella sono:
+A. calcolo zavorra = calcolare il livello dell’acqua di zavorra da imbarcare nei due gavoni di
+assetto AV e AD
+B. stabilità = calcolare se la chiatta è stabile
+C. sollecitazioni = calcolare i diagrammi di Taglio e Momento flettente, il Momento flettente
+massimo, e infine gli stress fondo e ponte della sezione maestra dovuti al solo momento flettente
+massimo rilevato.
+Si consiglia, per una soluzione più rapida, di calcolare le fasi nell’ordine 1-3-5-2-4.
+SECONDA PARTE
+Completata l’analisi richiesta, si chiede di svolgere due dei temi indicati di seguito, e sempre
+relativi al precedente studio di trasferimento dell’imbarcazione dal molo alla chiatta:
+1.
+
+Disegnare schematicamente le strutture della chiatta (senza la necessità di calcolarne il
+dimensionamento), proponendo sezioni trasversali, longitudinali, orizzontali e dettagli, per
+descrivere la conformazione proposta.
+
+2.
+
+Disegnare lo schema dell’impianto di zavorra della chiatta, in una conformazione adatta ad
+eseguire all’operazione descritta, e descriverne il funzionamento.
+
+3.
+
+Calcolare i diagrammi di Taglio e Momento flettente e il Massimo momento flettente, relativi
+alla fase 4 (quattro).
+
+4.
+
+Calcolare il dimensionamento delle strutture del ponte (fasciame e ossature comuni),
+utilizzando un Regolamento o un metodo di calcolo a scelta, tale da permettere un carico
+uniformemente distribuito di 3 t/m2, stimando opportunamente le spaziature più adatte allo
+scopo.
+
+____________________________
+Durata massima della prova: 8 ore.
+È consentito l'uso di manuali tecnici, di Regolamenti di Registri di Classifica (anche sotto forma di estratto), di calcolatrici
+tascabili, di personal computer forniti dall’Istituto (se disponibili) per l’eventuale realizzazione dei disegni con software CAD.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

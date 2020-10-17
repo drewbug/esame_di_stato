@@ -1,0 +1,181 @@
+Pag. 1/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ IPAE – MANUTENZIONE E ASSISTENZA TECNICA OPZIONE
+APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E
+CIVILI CURVATURA ELETTRICO ELETTRONICO
+ IPAI – MANUTENZIONE E ASSISTENZA TECNICA OPZIONE
+APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E
+CIVILI CURVATURA INFORMATICA
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+L’impianto elettrico di un supermercato prevede, tra l’altro, all’interno del proprio magazzino, un
+quadro elettrico BT con in uscita 3 linee monofase e 3 linee trifase, una delle quali serve per
+alimentare un montacarichi. Il candidato, fatte eventuali ipotesi aggiuntive:
+1.
+
+descriva, anche tramite uno schema, questa parte di impianto presente nel magazzino e illustri le
+caratteristiche funzionali sia degli elementi principali costituenti il motoriduttore che comanda il
+montacarichi sia di quelli presenti nel quadro;
+
+2.
+
+indichi i controlli che il servizio di manutenzione deve effettuare sul motoriduttore per mantenere
+la sua efficienza;
+
+3.
+
+indichi i criteri per la scelta dei cavi in uscita dal quadro e, in particolare, verifichi che la sezione
+S = 35mm2 per una delle 3 linee trifase lunga 80 m è adeguata sapendo che la corrente d’impiego
+vale IB = 60A e cos = 0.9;
+
+4.
+
+illustri le tipologie di controllo che il servizio di manutenzione deve effettuare periodicamente
+sul quadro BT e su gli elementi presenti al suo interno per mantenere la loro efficienza;
+
+5.
+
+indichi come redigere un documento per la registrazione degli interventi di manutenzione
+effettuati.
+
+SECONDA PARTE
+1.
+
+Dopo aver illustrato l’importanza che riveste l’impianto di messa a terra dal punto di vista della
+sicurezza, il candidato indichi i controlli da effettuare per accertare l’efficienza dell’impianto
+stesso.
+
+2.
+
+Si desidera misurare la potenza e la corrente assorbite da un motore asincrono trifase aventi le
+seguenti caratteristiche: tensione V = 400V; potenza P = 5kW; rendimento  = 0,84; cos = 0,92.
+Il candidato calcoli la corrente assorbita dal motore per avere indicazioni sulla portata degli
+strumenti di misura da utilizzare e rappresenti lo schema elettrico di montaggio degli strumenti
+stessi, specificando le cause che possono provocare un sovraccarico di corrente.
+
+Pag. 3/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+3.
+
+Un test di affidabilità su 50 lampadine ha fornito i seguenti risultati:
+
+Il candidato determini l’andamento dell’affidabilità in funzione dell’invecchiamento e, in
+particolare, quando cambiare la lampadina se si desidera un’affidabilità del 90% o dell’80%.
+4.
+
+Il multivibratore astabile di figura è utilizzato per ottenere un clock a frequenza variabile con i
+livelli 1 e 0 corrispondenti rispettivamente a 0V e 5V.
+
+Il candidato illustri la funzione del diodo zener, dica quali sono i parametri da considerare nella
+scelta del componente elettronico e come individuare la resistenza R (Vsat = + 15V). Inoltre
+individui i motivi per i quali la forma d’onda può modificarsi e diventare triangolare.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 4/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M761 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAI – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E DI MANUTENZIONE DI
+APPARATI E IMPIANTI CIVILI E INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+Il candidato presenti un apparato o dispositivo di sua conoscenza, con particolare riferimento alle sue
+componenti informatiche, e ne descriva i guasti più tipici che si possono verificare.
+Prenda quindi in esame uno dei guasti trattati descrivendo:
+-
+
+le attività necessarie a garantire la sicurezza di operatori ed utenti in riferimento alla normativa
+esistente;
+
+-
+
+una procedura per la ricerca e l’individuazione del guasto utilizzando metodi e strumenti di
+diagnostica tipici;
+
+-
+
+la soluzione che ritiene opportuno adottare per la risoluzione del guasto.
+
+Alla luce della soluzione proposta, il candidato predisponga un preventivo in cui siano riportate le
+attività, i materiali ed i corrispondenti costi stimati per l’intervento di riparazione.
+Descriva infine le procedure che si rendono necessarie per il processo di certificazione di qualità.
+SECONDA PARTE
+Il candidato (che potrà eventualmente avvalersi delle conoscenze e competenze maturate attraverso
+esperienze di alternanza scuola-lavoro, stage o formazione in azienda) risponda a due quesiti a scelta
+tra quelli sotto riportati.
+1.
+2.
+3.
+4.
+
+In riferimento al tema proposto nella prima parte, proponga un capitolato di manutenzione per
+assicurare assistenza continua nel tempo.
+In riferimento al tema proposto nella prima parte, compili il documento di collaudo relativo
+all’intervento effettuato.
+Esponga le differenze tra i metodi di manutenzione tradizionali e quelli innovativi.
+Esponga alcune tecniche e strumenti della telemanutenzione e della teleassistenza.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall'inizio della prova.
+
+

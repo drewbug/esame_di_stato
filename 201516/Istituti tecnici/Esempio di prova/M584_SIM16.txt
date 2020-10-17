@@ -1,0 +1,95 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC – ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+ESEMPIO PROVA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Il miscelatore di un colorificio utilizza per la realizzazione di tinture uno strumento che rileva,
+mediante appositi sensori, la composizione del colore scelto dal campionario (pantone). Tale sistema
+fornisce in uscita tre tensioni dipendenti dalle lunghezze d’onda delle tre componenti fondamentali del
+colore (Red, Green, Blue) secondo la relazione generale:
+
+V c 10 1 e K c c [V]
+Dove il pedice “c” indica il colore (R, G, B) e λc rappresenta la relativa lunghezza d’onda delle
+componenti fondamentali, che sono:
+λR = 0,65 [μm]
+
+λG = 0,51
+
+[μm]
+
+λB = 0,45
+
+[μm]
+
+Il termine Kc rappresenta il coefficiente relativo alla percentuale della singola componente di colore
+presente nella luce composta (0 ≤ KR/G/B ≤ 1 [μm]-1) . Si tenga conto che il colore bianco è ottenuto
+con KR = KG = KB = 1 e il nero con KR = KG = KB = 0.
+Un sistema programmabile è proposto all'acquisizione dei singoli segnali e della loro somma mediante
+un convertitore ADC con dinamica di ingresso compresa tra 0 e 5 Volt.
+Il candidato, fatte le eventuali ipotesi aggiuntive che ritiene opportune deve:
+1.
+
+progettare i circuiti che implementano il condizionamento dei singoli segnali provenienti dai
+sensori e del circuito che ne effettua la somma, sapendo che la luce rilevata può variare in tutto la
+gamma di colori, dal bianco al nero;
+
+2.
+
+determinare la dipendenza funzionale tra la tensione prodotta dal circuito di somma e le tre
+lunghezze d’onda componenti la luce;
+
+3.
+
+determinare le caratteristiche del convertitore adatto alle specifiche richieste, sapendo che l’errore
+massimo accettabile nella rilevazione, riferito ai massimi livelli della dinamica, è di 0,25%;
+
+4.
+
+definire un apparato di misura per la messa a punto delle interfacce precedentemente dimensionate
+specificando strumenti e procedure sperimentali.
+
+SECONDA PARTE
+1.
+
+Si vuole comandare lo Start of Conversion di un ADC con un segnale di clock a frequenza
+variabile e Duty Cycle del 20%. Si dimensioni un circuito di temporizzazione sapendo che il
+tempo di conversione dell’ADC è di 200 μs e l'intervallo massimo tra due successive acquisizioni
+non può superare i 400 μs.
+
+2.
+
+Al segnale proveniente da una sorgente sinusoidale di frequenza 4 KHz si sovrappone un disturbo
+alla frequenza di 850 Hz. Il segnale in oggetto deve essere filtrato del disturbo per essere poi
+successivamente trattato. Volendo assicurare un guadagno della componente segnale pari a 23 dB
+e inferiore a –10 dB per la componente disturbo, determinare la tipologia e l’ordine del filtro
+necessario allo scopo e dimensionarne i componenti.
+
+3.
+
+Il circuito di figura, in cui R = 2,2 KΩ produce una tensione in uscita proporzionale al valore della
+resistenza presentata dal termistore Rt. Sapendo che il range di temperatura rilevata T è compreso
+tra 10°C e 90°C e il termistore varia la propria resistenza secondo la relazione:
+Rt (T) = 12,5 ∙ T + 50 [Ω]
+
+determinare il valore della tensione di riferimento Vref in modo che l'Amplificatore Operazionale
+non esca dal suo campo di linearità.
+4.
+
+Si vogliono valutare le prestazioni di un oscillatore a ponte di Wien come in figura:
+
+Si proponga l’allestimento di un banco di prova individuando le grandezze oggetto di misura, gli
+strumenti idonei e la configurazione del banco nel suo complesso. Si definiscano quindi le
+procedure di misura da effettuare e una modalità di rappresentazione dei risultati ottenuti
+(tabellare, grafica, relazione tecnica o altro)
+
+__________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,76 @@
+Pag. 1/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I188 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Uno stabilimento industriale di nuovo insediamento necessita di essere dotato di una propria cabina
+di trasformazione.
+Lo stabilimento prevede solo cicli lavorativi diurni ed è composto dalle seguenti strutture:
+ reparto di lavorazione, richiedente una potenza totale di 200 kW per alimentare l’impianto di
+illuminazione e di forza motrice;
+ laboratorio prove e collaudi, richiedente una potenza di 15 kW;
+ magazzino, richiedente una potenza di 10 kW;
+ zona uffici di 300 m2 complessivi, per la quale si può ipotizzare una potenza specifica di
+60 W / m2;
+ servizi generali dello stabilimento (riscaldamento, pompe acqua ecc.) che assorbono una potenza
+di 30 kW;
+ illuminazione notturna una potenza pari a 15 kW.
+I dati forniti dalla società fornitrice dei servizi elettrici sono:
+ Tensione nominale di alimentazione Vn = 20 kV;
+ Potenza di corto circuito nel punto di installazione SCC = 700 MVA;
+ Corrente convenzionale di terra IFC = 150 A;
+ Eliminazione dei guasti a terra entro 0.5 s.
+Il candidato, facendo le ipotesi aggiuntive che ritiene necessarie, dimensioni la cabina elettrica
+MT/BT da realizzare, definendo in particolare:
+ lo schema unifilare della cabina;
+ il dimensionamento degli apparecchi di manovra e protezione del lato BT;
+ l’impianto di terra.
+
+Pag. 2/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I188 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+
+SECONDA PARTE
+QUESITO N.1
+Con riferimento alla cabina proposta, il candidato dimensioni i conduttori ed apparecchi di manovra
+e protezione del lato MT.
+QUESITO N.2
+All’interno di un capannone industriale è presente un dispositivo di sollevamento e movimentazione
+pesi azionato da motori asincroni trifase. Il movimento di tale dispositivo è di tipo salita/discesa e
+rotatorio per il posizionamento di carichi in scaffali. L’azionamento viene avviato sotto carico e
+mantenuto in funzione manualmente attraverso opportuni comandi.
+Il candidato, dopo aver effettuato eventuali ipotesi aggiuntive, proponga una soluzione
+dell’automatismo mediante l’impiego di una tecnologia di propria conoscenza.
+QUESITO N.3
+In un reparto di lavorazione di una piccola azienda è presente un gruppo di otto motori asincroni trifase
+ciascuno di potenza pari a 30 kW alimentati a tensione nominale Vn = 400 V con frequenza f = 50 Hz.
+Dei motori sono noti il fattore di potenza pari a 0,78 e il rendimento nominale pari a 0,82.
+Dopo aver brevemente illustrato i diversi tipi di impianti di rifasamento, il candidato determini le
+caratteristiche della batteria di condensatori necessaria per rifasare il gruppo motori.
+QUESITO N.4
+Il candidato spieghi in cosa consiste la fibrillazione ventricolare e illustri da quali fattori dipende la
+soglia di fibrillazione ventricolare e come tali fattori influiscono sul suo valore.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

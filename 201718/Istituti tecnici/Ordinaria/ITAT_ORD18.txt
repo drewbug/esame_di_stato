@@ -1,0 +1,97 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAT – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+All’interno di un sito archeologico sono presenti anche due locali affrescati aperti al pubblico.
+Al fine di preservare gli affreschi è necessario regolamentare in maniera precisa l’ingresso dei
+visitatori e mantenere costante il microclima all’interno dei locali.
+L’accesso al sito è consentito ad un massimo di 30 visitatori per volta e allo scopo sono installati
+tornelli all’ingresso e all’uscita per verificare il numero di visitatori presenti, mentre l’accesso ai due
+locali affrescati è consentito a non più di cinque visitatori alla volta. Ai locali si accede mediante una
+porta che non può essere aperta dall’esterno quando all’interno sono presenti cinque persone.
+All’interno dei locali devono essere garantite opportune condizioni di temperatura e umidità.
+In particolare:
+a)
+la temperatura deve essere mantenuta tra i 6°C e i 12°C nel periodo invernale e tra i 20°C e i
+24°C nel periodo estivo; quando la temperatura scende al di sotto dei valori minimi si attivano
+delle piccole piastre riscaldanti, poste a 1 metro dal pavimento, fino al raggiungimento della
+temperatura media, mentre se la temperatura è troppo elevata si attiva il sistema di aerazione
+che al raggiungimento della temperatura media si disattiva;
+b)
+l’umidità relativa deve essere mantenuta nel range 45%  5% per evitare la proliferazione di
+muffe; tale livello viene garantito azionando per 10 minuti, se si è fuori dal range, gli aeratori
+o il sistema di nebulizzazione a pompa posto a muro.
+L’illuminamento interno deve essere di 150 lux ed è garantito da un adeguato numero di lampade.
+Il candidato, fatte le eventuali ipotesi aggiuntive, dopo aver definito il numero di sensori che ritiene
+opportuno installare, nel sito e nei locali, per la gestione dei visitatori nonché per assicurare le
+condizioni ambientali richieste:
+1.
+proponga un possibile sistema di controllo degli accessi al sito archeologico e, in particolare, ai
+locali affrescati;
+2.
+rappresenti tramite uno schema a blocchi il sistema di acquisizione dei dati, descriva le funzioni
+dei singoli blocchi e indichi i componenti utilizzati;
+3.
+specifichi le caratteristiche dei sensori, ne progetti i relativi circuiti di condizionamento del
+segnale di uscita e discuta il sistema di alimentazione dell’impianto elettrico e dei dispositivi
+previsti, con particolare riferimento al sistema di distribuzione e ai sistemi di protezione;
+4.
+rappresenti, mediante un diagramma di flusso o un altro linguaggio di propria conoscenza,
+l’algoritmo di gestione dell’impianto;
+5.
+elabori un opportuno programma che, con l’ausilio di un sistema programmabile di propria
+conoscenza, gestisca l’automatismo proposto.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAT – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+
+SECONDA PARTE
+
+QUESITO 1
+Con riferimento alla prima parte, vista la particolarità di integrazione architettonica tra sistemi di
+controllo previsti e il sito archeologico, il candidato illustri quali procedure vanno seguite per la
+valutazione di impatto ambientale nel rispetto della normativa vigente.
+QUESITO 2
+Si consideri un sensore di pressione a diaframma in cui si utilizza un estensimetro come elemento
+sensibile.
+L’estensimetro ha resistenza a riposo pari a 100 Ω (corrispondente ad allungamento λ = 0) e gauge
+factor pari a 2.
+Si vogliono misurare pressioni che determinano deformazioni della membrana di ± 100 μλ.
+Il candidato progetti un circuito di acquisizione del segnale utilizzando un convertitore AD con range
+0 ÷ 10 V.
+QUESITO 3
+È necessario gestire il ciclo di funzionamento di un motore asincrono trifase a 4 poli e funzionante
+alla frequenza di rete.
+L’avviamento avviene mediante un pulsante di start, la velocità del motore aumenta in modo graduale
+fino a raggiungere il suo valore massimo dopo 15 secondi e tale velocità va mantenuta per 30 secondi,
+dopodiché il motore comincia a decelerare fino ad arrestarsi completamente dopo 15 secondi.
+Il candidato discuta le problematiche relative alla fase di avviamento del motore e proponga le
+modalità di gestione del suddetto ciclo di funzionamento.
+QUESITO 4
+Il candidato illustri il principio di funzionamento dei dispositivi IGBT e ne discuta vantaggi e
+svantaggi in rapporto alle caratteristiche dei MOSFET e BJT; inoltre fornisca un esempio di possibile
+applicazione nell’ambito del controllo di velocità dei motori.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

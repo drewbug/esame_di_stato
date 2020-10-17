@@ -1,0 +1,70 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO
+NAVALE
+ESEMPIO PROVA
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+Nella tarda mattinata del 22 maggio 2015 da una nave che si trova nella posizione stimata:
+s = 28° 10’,5 N; s = 069° 50’,8W si osserva il Sole per: Tc = 03h49m50s; hiO = 76° 48’,2.
+La velocità della nave rispetto al fondo, come si evince dalla “strumentazione di bordo” , dà i
+seguenti valori:
+-
+
+longitudinalmente verso prora v1 = 18,5 nodi;
+trasversalmente verso sinistra. V2 = 2,6 nodi.
+
+La nave segue: Pv = 092°.
+A mezzodì vero di bordo si osserva nuovamente il Sole ottenendo: hiO = 82° 04’,1.
+Si conoscono: K = + 10s; e = 16m; c =+ 0’,2.
+Il candidato determini:
+1) punto nave a mezzodì vero, commentando la sua bontà, ed il tf corrispondente;
+2) il tempo medio locale ( tm ) per tale istante specificando quale utile informazione può
+venirne all’ufficiale di guardia la conoscenza di tale valore.
+Giustifichi la necessità di una certa accuratezza nella determinazione del punto stimato a
+mezzodì vero.
+
+1
+
+SECONDA PARTE
+1) Su uno schermo radar in rappresentazione relativa stabilizzata rispetto al Nord, con
+nave propria (Np): Pv = 010°; vp = 10 nodi. Si rileva uno scoglio (X) su Rilv = 310° a
+distanza d = 3,5 mg.
+Dal plotting si ricava:
+- Rotta e velocità relativa dello scoglio: RrX = 202°; vrX = 12 nodi;
+- Rotta e velocità dello scoglio: RX = 246°; vX = 3 nodi.
+Il candidato determini:
+1) La Rv e la veff della Np.
+2) L’azimut e la velocità della corrente.
+2) Una nave parte da A( = 30° 20’,0 S;  = 170° 50’,0W) al tempo medio locale
+tm = 17h 30m del 27.05.2015 e naviga per ortodromia sul punto B ( = 00° 00’,0;
+ = 150° 40’,0E) alla velocità v = 22 nodi. La navigazione, avviene per spezzata
+lossodromica scegliendo, sull’arco ortodromico, tra due punti equidistanti in
+longitudine.
+Il candidato calcoli:
+1) L’istante espresso in tempo medio legale e la data di arrivo nel 1° punto della
+spezzata.
+2) L’angolo al polo e l’angolo azimutale della stella Capella al tramonto all’orizzonte
+astronomico del primo punto della serie, nonché il simultaneo angolo al polo della
+stella Deneb.
+3) Un osservatore annota che un certo pianeta è in opposizione ogni 665,25 giorni.
+Il candidato calcoli la distanza del pianeta dal Sole, in unità astronomiche.
+4) Sul ponte di una nave di dislocamento tonnellate e con altezza metacentrica
+trasversale GM = 0,10m si imbarca un contenitore del peso p = 120 ton, il cui
+baricentro è alto 4,0 m al di sopra del centro di gravità (G) della nave e sulla stessa
+verticale di esso. Il raggio metacentrico trasversale, dopo l’imbarco è BM = 3,20 m .
+Il candidato calcoli il valore della variabile che caratterizza il nuovo equilibrio della
+nave.
+
+Durata della prova: 6 ore.
+Durante lo svolgimento della prova è consentito l’uso di tavole numeriche, manuali tecnici, del regolo
+calcolatore e di calcolatrici tascabili non programmabili.
+
+2
+
+

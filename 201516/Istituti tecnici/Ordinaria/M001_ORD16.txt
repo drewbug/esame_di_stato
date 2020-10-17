@@ -1,0 +1,74 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M001 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCT - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI MEZZO AEREO
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Determinare spazio e tempo di atterraggio di un velivolo leggero biposto con le seguenti
+caratteristiche:
+
+
+
+
+
+Massa di 350 kg
+Superficie alare di 17 m2
+Apertura alare 11 m
+CR0 0,042 e CPmax 1,4
+
+Inoltre la struttura del suo carrello triciclo anteriore è costituita da due aste
+tubolari collegate direttamente alla struttura della fusoliera, con le
+seguenti caratteristiche (A vedi disegno):
+
+
+
+
+σR =750 N/mm2
+E = 200000 N/mm2
+angolo di 38°
+
+Se durante l'atterraggio si verifica, al contatto con il terreno, un incremento
+del peso di 3 volte, il candidato, facendo le dovute ipotesi semplificative, assumendo con motivati
+criteri gli ulteriori dati necessari, effettui la verifica di resistenza nella sezione più sollecitata dell'asta
+del carrello, verificandola anche a carico di punta (nell’ ipotesi di solo sforzo normale).
+SECONDA PARTE
+1.
+
+Descrivere una prova non distruttiva eseguita su un componente strutturale di velivolo.
+
+2.
+
+Calcolare il consumo di carburante per percorrere 450 Km alla velocità di crociera a quota
+8000 ft. dell’ aeromobile della prima parte.
+
+3.
+
+Descrivere l’impianto di pressurizzazione di un velivolo commerciale trasporto passeggeri.
+
+4.
+
+Descrivere la funzione (strutturale, aerodinamica, funzionale) di tutti gli elementi costruttivi
+della semiala del velivolo proposto nella prima parte.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

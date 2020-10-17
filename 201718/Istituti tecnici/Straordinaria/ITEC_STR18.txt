@@ -1,0 +1,91 @@
+Pag. 1/2
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un impianto di irrigazione a goccia di un frutteto viene alimentato mediante un serbatoio di accumulo ed è
+controllato da un sistema microprogrammabile che provvede alle seguenti attività:
+a) misura della temperatura dell’aria mediante un sensore ST;
+b) consultazione dello stato di uno switch crepuscolare (SW1) a soglia regolabile che apre il suo contatto
+di uscita all’alba (al superamento di un livello di luminosità prestabilito) e lo chiude al tramonto
+(quando l’intensità luminosa si riduce al di sotto del medesimo livello);
+c) misura della umidità relativa del terreno, una volta iniziata la fase notturna identificata dalla chiusura
+di SW1, mediante tre sensori identici SRH1, SRH2, SRH3;
+d) controllo del livello di riempimento del serbatoio di alimentazione dell’impianto mediante un
+dispositivo a galleggiamento che chiude uno switch (SW2), se il livello scende al di sotto di un valore
+minimo LMIN, e lo apre se il livello supera un valore massimo LMAX.
+Le caratteristiche dei sensori sono le seguenti:
+
+
+Il sensore ST produce 10 mV per ogni grado Celsius di temperatura;
+
+
+
+I sensori SRH1, SRH2, SRH3 producono ognuno una corrente IRH direttamente proporzionale all’umidità
+relativa percentuale (variabile tra 0 ed il 100%) e contenuta nel range 0 ≤ IRH ≤ 20 mA.
+
+Assumendo che nelle condizioni di funzionamento dell’impianto la temperatura non scenda mai al di sotto
+dello zero Celsius, la gestione del medesimo deve seguire la procedura di seguito riportata:
+ nelle ore diurne (SW1 OFF) non si attua nessuna attività di irrigazione mentre si acquisiscono i valori
+di temperatura una volta ogni 30 minuti e si memorizzano in un’apposita struttura software;
+ con l’inizio del ciclo notturno (SW1 ON) si acquisiscono i valori dei sensori di umidità
+determinandone il valore medio: se tale valore è inferiore ad una soglia RHMIN di intervento viene
+avviata una fase di irrigazione della durata di tre ore mediante una pompa di irrigazione, che può
+essere considerata come un dispositivo di uscita di tipo ON-OFF, che attinge al serbatoio di accumulo;
+ contestualmente all’avvio della fase notturna viene calcolata la media giornaliera delle temperature
+registrate da ST: se questa è superiore ad una soglia preimpostata TTH , la durata della fase di irrigazione
+viene raddoppiata;
+ nel caso in cui il livello di riempimento del serbatoio di accumulo scenda al di sotto del livello
+minimo LMIN (SW2 ON) viene attivata una pompa sommersa (anche essa da considerarsi come un
+dispositivo di uscita di tipo ON OFF) posta alla base di un pozzo freatico fino al raggiungimento del
+livello massimo LMAX (SW2 OFF).
+
+Pag. 2/2
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+Il candidato, formulate le eventuali ipotesi aggiuntive e individuati i dispositivi, gli apparati e gli strumenti
+necessari alla realizzazione del sistema:
+1) Proponga uno schema a blocchi realizzativo dell’impianto e descriva le funzioni dei singoli blocchi
+e le caratteristiche del sistema programmabile scelto;
+2) Progetti e discuta le interfacce necessarie all’acquisizione dei dati provenienti dai sensori ed evidenzi
+le connessioni elettriche relative alla consultazione dello stato degli switch SW1 e SW2;
+3) Illustri la struttura dell’algoritmo di gestione dell’intero processo;
+4) Espliciti il segmento di software inerente il controllo del livello di riempimento del serbatoio e la
+generazione del segnali di comando per la pompa sommersa.
+
+SECONDA PARTE
+Quesito 1
+Si illustrino le modifiche e le integrazioni da apportare al sistema per l’aggiunta di un pulsante P alla
+pressione del quale venga attivata immediatamente una fase di irrigazione manuale della durata di un’ora.
+Quesito 2
+Si illustri una possibile soluzione per contrastare gli effetti di degrado che si manifestano sui segnali inviati
+dai sensori nel caso in cui questi ultimi fossero ubicati a distanze considerevoli dal sistema di gestione.
+Quesito 3
+Il testo unico in materia di sicurezza negli ambienti di lavoro, DLGS 81/ 08, definisce e disciplina il
+responsabile del servizio di prevenzione e protezione (RSPP); se ne discutano esaurientemente
+caratteristiche professionali, funzioni e responsabilità.
+Quesito 4
+Nell’ambito del “Sistema di gestione della qualità” (SGQ), illustrare la differenza tra certificazione e
+accreditamento.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema
+
+

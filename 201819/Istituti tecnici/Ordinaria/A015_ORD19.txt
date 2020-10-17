@@ -1,0 +1,146 @@
+Pag. 1/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+Il candidato svolga il tema indicato nella prima parte e risponda a due soli quesiti tra i quattro
+proposti nella seconda parte
+PRIMA PARTE
+Lo Studio Tecnico presso il quale siete impiegati deve esaminare il sollevamento di un carico su un
+pontone, e vi viene chiesto di effettuare le analisi richieste, integrandole con vostri commenti e
+considerazioni.
+Il pontone parallelepipedo in acciaio con sezione maestra come rappresentata in figura, che galleggia
+in acqua di mare con assetto iniziale diritto, ha dimensioni e caratteristiche:
+
+
+L = 54 m;
+
+
+
+B = 15 m;
+
+
+
+D = 4 m;
+
+
+
+SCARICO = 350 t;
+
+
+
+ZG = 1,7 m;
+
+
+
+XG (da poppa) = 27 m (a metà lunghezza).
+
+Pag. 2/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+Inizialmente il pontone non trasporta
+carico.
+Sul pontone viene quindi imbarcata una
+gru semovente che viene posizionata e
+rizzata
+all’estremità
+di
+prua.
+Le caratteristiche e la posizione della gru
+(rappresentate sul disegno in mm) sono:
+ massa 10.000 kg;
+ lunghezza impronta della gru = 3 m;
+ XG = 1,5 m dall’inizio dell’impronta
+(cioè G della gru scarica si trova a metà
+dell’impronta);
+ ZG = 2 m (gru scarica) sopra il ponte,
+ posizione dell’asse di rotazione
+dell’asse della gru = 1,5 m dall’inizio
+dell’impronta (cioè a metà impronta);
+ quota dell’estremità del braccio di
+sollevamento = 10 m sopra il ponte;
+ posizione longitudinale dell’estremità del braccio di sollevamento = 6,5 m dall’asse di rotazione
+della gru.
+È previsto l’imbarco di un carico di 200.000 kg lungo 4 m sul pontone come segue:
+Fase 1) La gru effettua il sollevamento del carico dal molo.
+Di questa fase non viene chiesta alcuna analisi.
+
+Pag. 3/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+
+Fase 2) La gru con il carico appeso ruota su se stessa di 90°.
+
+Si chiede di calcolare l’angolo di sbandamento del pontone e di
+commentare il risultato.
+
+Fase 3) La gru prosegue la sua rotazione di altri 90° disponendosi longitudinalmente e posa il carico
+sul ponte. A causa del peso della gru e del carico a prua, il pontone è appruato. Per mantenere l’assetto
+diritto si decide di imbarcare acqua di mare di zavorra nel compartimento di poppa, che ha lunghezza
+18 m e larghezza 15 m.
+
+Si chiede di calcolare la quantità di acqua da imbarcare per avere il pontone in assetto diritto.
+Si chiede inoltre di calcolare la distribuzione delle sollecitazioni longitudinali del pontone, il
+momento flettente massimo e lo stress  indotto nella sezione maestra a causa della distribuzione
+dei carichi, in mare calmo.
+
+Pag. 4/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+
+SECONDA PARTE
+1) Proporre lo studio e il dimensionamento dell’armamento del pontone (ancore, catene, bitte, cavi
+d’ormeggio, ecc.), stimando le misure necessarie non fornite, utilizzando un Regolamento di
+Registro Navale.
+2) Proporre lo studio degli impianti antincendio da prevedere per il pontone, sapendo che è previsto
+un locale diesel-generatore per l’alimentazione degli impianti elettrici di bordo, e che i
+compartimenti sono previsti per contenere anche un eventuale carico liquido.
+3) Effettuare lo studio, utilizzando un Regolamento di Registro Navale, dell’asse di collegamento
+fra il motore diesel e l’alternatore di cui sopra, sapendo che ha potenza di 500 kW a 3600 giri/1’,
+calcolando le dimensioni dell’asse, della flangia e di tutti i dettagli previsti, e proponendo il
+disegno di come dovrà essere realizzato. Tutte le rimanenti caratteristiche del collegamento
+dovranno essere decise in base alla consuetudine e opportunamente spiegate.
+4) Calcolare, utilizzando un Regolamento di Registro Navale, e disegnare le strutture del fondo del
+pontone, assumendo un’immersione massima di progetto di 3 m, prevedendo una paratia
+longitudinale sul piano di simmetria e una struttura di tipo longitudinale (tralasciate nel disegno
+della sezione maestra), e decidendo in base alla consuetudine tutte le altre misure e caratteristiche.
+
+____________________________
+Durata massima della prova: 8 ore.
+È consentito l'uso di manuali tecnici, di Regolamenti di Registri di Classifica (anche sotto forma di estratto), di calcolatrici scientifiche
+e/o grafiche purché non siano dotate di capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9), di personal computer forniti
+dall’Istituto (se disponibili) per l’eventuale realizzazione dei disegni con software CAD.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,86 @@
+Pag. 1/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITTC – GRAFICA E COMUNICAZIONE
+OPZIONE TECNOLOGIE CARTARIE
+Tema di: IMPIANTI DI CARTIERA E DISEGNO e
+TECNOLOGIA DEI PROCESSI PRODUZIONE E LABORATORIO
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una cartiera che dispone di una macchina continua con tavola piana classica produce all’arrotolatore carta
+con grammatura di 74 g/m2 e un secco del 94%.
+La velocità del pope è di 1180 m/min e il formato utile della carta prodotta è pari a 9,6 metri.
+La cassa d’afflusso distribuisce sulla tela di formazione un impasto alla concentrazione dello 0,8%.
+Il rapporto tra la velocità del getto e quella dell’arrotolatore è uguale a 0,96.
+La tela di formazione presenta una ritenzione dell’84% e il formato totale è di 9,8 metri.
+L’ultimo elemento drenante al termine della tavola piana è costituito da un cilindro aspirante collegato al
+vuoto, sul quale il manto fibroso prodotto ha una concentrazione pari al 18%.
+Le acque drenate dalla tela di formazione vengono raccolte in due distinte tine: le acque prime sono usate
+per la diluizione degli impasti nel circuito di testa macchina, le acque seconde alla concentrazione dello
+0,22%, vanno ad altre lavorazioni nella cartiera.
+Il circuito di testa macchina è così strutturato: la pasta densa in arrivo dalla preparazione degli impasti alla
+concentrazione del 3,2%, viene diluita in una tina con acque bianche prime; successivamente la sospensione
+è spinta dalla fan-pump in un impianto di epurazione i cui scarti finali sono trascurabili ai fini dei calcoli,
+mentre l’accettato, prima di arrivare alla cassa d’afflusso, viene disaerato.
+Con i dati a disposizione il candidato calcoli:
+1. la portata della pasta densa;
+2. l’apertura dello slice.
+Il candidato disegni lo schema grafico funzionale del processo produttivo descritto, completo delle
+apparecchiature ausiliarie necessarie e delle regolazioni automatiche principali, seguendo, per quanto
+possibile, la normativa specifica.
+Inoltre descriva in una relazione le caratteristiche dell’impianto e la funzionalità di ciascun componente in
+base alle informazioni fornite dal testo con particolare riferimento alle scelte effettuate per:
+
+
+
+
+
+
+
+
+le tipologie di apparecchiature usate nell’epurazione;
+le tipologie di apparecchiature usate nella disaerazione;
+le tipologie di apparecchiature usate per la distribuzione dell’impasto sulla tela;
+la costituzione della tavola piana;
+le tipologie di apparecchiature ausiliarie;
+i possibili ricicli delle acque;
+i controlli automatici per ogni apparecchiatura.
+
+Pag. 2/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITTC – GRAFICA E COMUNICAZIONE
+OPZIONE TECNOLOGIE CARTARIE
+Tema di: IMPIANTI DI CARTIERA E DISEGNO e
+TECNOLOGIA DEI PROCESSI PRODUZIONE E LABORATORIO
+
+SECONDA PARTE
+1. La grammatura rappresenta una caratteristica basilare del foglio di carta. Il candidato delinei brevemente
+questa proprietà e indichi in quali punti dell’impianto cartario essa può essere regolata e in che modo.
+2. Descrivere tramite un diagramma a blocchi il sistema di controllo ad anello chiuso in retroazione; inoltre
+tratteggiare concisamente le caratteristiche e il funzionamento dell’elemento finale di controllo usato nelle
+regolazioni dei vari parametri negli impianti di cartiera.
+3. Il candidato descriva in maniera sintetica con uno schema il processo di preparazione degli impasti dal
+pulper alla tina di miscelazione, soffermandosi maggiormente sulla fase chiamata raffinazione, trattandola
+brevemente da un punto di vista teorico, impiantistico e laboratoriale.
+4. La seccheria toglie dal nastro di carta l’acqua rimanente dopo le presse sfruttando grandi quantità di
+energia termica. Descrivere i componenti di questa parte della macchina continua concentrandosi
+sull’importanza dell’uso del vapore.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’utilizzo del manuale del perito tecnico.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’istituto prima che siano trascorsi 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,82 @@
+Pag. 1/3
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: IMPIANTI ENERGETICI, DISEGNO E PROGETTAZIONE e
+MECCANICA, MACCHINE ED ENERGIA
+Il candidato svolga il tema indicato nella prima parte e risponda solo a due quesiti tra i quattro proposti
+nella seconda parte.
+PRIMA PARTE
+Una macchina frigorifera a compressione di vapori, funzionante con fluido refrigerante R134a, ha una
+potenzialità frigorifera pari a 24.000 W alle seguenti condizioni di regime:
+temperatura di condensazione:
+
+tc = 50 °C
+
+temperatura di evaporazione:
+
+te = 0 °C
+
+sottoraffreddamento del liquido alla valvola di espansione:
+
+15 °C
+
+surriscaldamento del vapore aspirato:
+
+10 °C
+
+Tracciare sull’allegato diagramma entalpico dell’R134a (Figura 1) il ciclo frigorifero.
+Tenendo conto, inoltre, che il compressore impiegato è del tipo alternativo e assumendo liberamente ogni
+dato mancante, dandone debita motivazione, eseguire il dimensionamento di massima del compressore e
+calcolare, nelle unità di misura del S.I. (Sistema Internazionale):
+a. gli scambi energetici subiti dal fluido per unità di massa dello stesso;
+b. il coefficiente di prestazione come frigorifero e pompa di calore ideale e reale;
+c. la portata in massa di refrigerante circolante nell'impianto;
+d. la potenza meccanica necessaria;
+e. la potenza termica da smaltire al condensatore;
+f. la portata volumetrica di fluido generato dal compressore.
+
+Pag. 2/3
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: IMPIANTI ENERGETICI, DISEGNO E PROGETTAZIONE e
+MECCANICA, MACCHINE ED ENERGIA
+
+SECONDA PARTE
+1) In relazione al dimensionamento oggetto del tema proposto, il candidato esegua lo schema
+dell’impianto, indicando le trasformazioni termodinamiche nei singoli componenti.
+2) Scopi della climatizzazione estiva ed invernale: il candidato descriva i criteri di determinazione delle
+condizioni del punto di immissione in un impianto a tutta aria sia nel caso estivo che invernale.
+3) Il candidato definisca tutti i componenti costruttivi di un impianto turbogas a rigenerazione del tipo più
+evoluto, specificando le loro singole funzioni.
+4) Il candidato definisca le ragioni dell'impossibilità del superamento del limite teorico di una pressione
+di 20 atmosfere nei compressori monofase alternativi.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di normative, tavole numeriche, manuali tecnici e di calcolatrici scientifiche e/o grafiche purché
+non siano dotate di capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non
+italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla lettura del tema.
+
+Pag. 3/3
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Figura 1
+
+

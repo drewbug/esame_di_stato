@@ -1,0 +1,299 @@
+Pag. 1/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+
+SISTEMA DI CONTROLLO E TRATTAMENTO DEI GAS DI SCARICO
+Con riferimento ad un mezzo di trasporto a sua scelta, il candidato svolga il tema proposto
+seguendo le indicazioni sotto riportate:
+a)
+
+descrivere i principi fisico-chimici su cui si basa il processo di trattamento dei gas di scarico;
+
+b) descrivere le funzioni che il sistema di controllo e trattamento dei gas di scarico svolgono nel
+mezzo;
+c)
+
+eseguire graficamente uno schema di principio dell’impianto e facoltativamente uno schizzo
+dello schema elettrico;
+
+d)
+
+indicare i principali componenti dell’impianto e descriverne le funzioni;
+
+e)
+
+esplicitare le operazioni di manutenzione ordinaria necessarie a mantenere in efficienza
+l’impianto, eventualmente facendo riferimento a normative e/o indicazioni del costruttore,
+anche con specifico riferimento alla salvaguardia della salute delle persone e dell’ambiente;
+
+f)
+
+elencare una serie di probabili difetti che possono rendere parzialmente o totalmente inefficace
+il sistema, descrivendone le cause;
+
+g) descrivere le modalità di segnalazione dei difetti dal sistema di autodiagnosi di bordo
+all’utilizzatore o conduttore del mezzo;
+h) indicare la strumentazione utile a diagnosticare i possibili difetti e le attrezzature necessarie a
+ripristinare e rendere efficiente il sistema;
+i)
+
+indicare le misure di sicurezza da adottare, i DPI da utilizzare nell’eseguire un intervento di
+manutenzione sul sistema e le procedure per lo smaltimento dei componenti eventualmente
+sostituiti;
+
+Pag. 2/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+j)
+
+risolvere il seguente caso:
+
+IL MEZZO PRESENTA UNA ECCESSIVA ED ANOMALA FUMOSITÀ NERA ALLO SCARICO.
+
+Un utente si è presentato con il mezzo presso un centro di assistenza segnalando il problema.
+Con riferimento al mezzo scelto, introducendo con motivato criterio ogni elemento ritenuto
+necessario, risolvere il caso proposto descrivendone la procedura seguita, a partire dalla
+segnalazione del problema fino alla sua completa risoluzione.
+In funzione del caso sviluppato, si proceda alla compilazione della documentazione tecnica che
+precede e segue l’intervento, utilizzando i modelli idonei al mezzo scelto.
+(Nel caso la modulistica allegata non soddisfi le esigenze del caso sviluppato dal candidato la
+Commissione può, a sua discrezione, fornirne diversa documentazione).
+
+Pag. 3/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+SECONDA PARTE
+SCHEDA PER LA RISOLUZIONE DEL QUESITO N°1 DELLA SECONDA PROVA SCRITTA
+QUESITO N°1
+Nonostante sia stato inserito il comando del condizionatore manuale, il compressore non si attiva.
+Indicare, attraverso l’analisi dello schema elettrico di principio del condizionatore dell’aria sotto
+riportato, quali possono essere le cause nel caso in cui il relè della frizione elettromagnetica non si
+attiva e nel caso in cui il relè della frizione elettromagnetica si attiva. Per entrambi i casi specificare
+le azioni necessarie per ripristinare l’efficienza del sistema.
+
+Pag. 4/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+Il relè non si attiva:
+cause:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+Azioni necessarie per ripristinare l’efficienza del sistema:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+Il relè si attiva:
+cause:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+Azioni necessarie per ripristinare l’efficienza del sistema:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+Pag. 5/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+SCHEDA PER LA RISOLUZIONE DEL QUESITO N°2 DELLA SECONDA PROVA SCRITTA
+QUESITO N°2
+Spesso per velocizzare la ricerca di dati utili in fase di controllo periodico (tagliando), in officina si
+usano delle schede che raccolgono i dati di più frequente utilizzo.
+Riferendosi alle schede 1 e 2 allegate, si estrapolino i dati sottoelencati, riportandone anche le
+relative unità di misura SI, sapendo che il motore del mezzo è identificato con la sigla GGI-20
+mentre il cambio di velocità è identificato con la siglaYXZ-15.
+RICHIESTA
+1) Il valore di convergenza per il modello
+provvisto di 5 porte
+2) Il gioco libero del pedale del freno
+3) La resistenza interna dei cavi candele
+4) La coppia di serraggio con relativa sequenza di
+serraggio della testa cilindri
+5) I gradi d’anticipo d’accensione
+6) La percentuale di monossido di carbonio al
+minimo
+7) Il valore minimo consentito di ferodo nelle
+pastiglie dei freni anteriori
+8) La quantità e tipo di olio da immettere nel
+cambio manuale
+9) L’anticipo d’accensione al minimo
+10) La coppia di serraggio dei bulloni delle ruote
+11) Il valore della percentuale di CO
+12) La massima differenza di pressione di fine
+compressione ammessa fra i vari cilindri
+
+VALORE
+
+UNITÀ DI
+MISURA
+
+Pag. 6/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+Pag. 7/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+Pag. 8/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+SCHEDA PER LA RISOLUZIONE DEL QUESITO N°3 DELLA SECONDA PROVA SCRITTA
+QUESITO N°3
+In un motore a gasolio dotato di Common Rail si verifica che la pressione è al di sotto della
+pressione minima per l’avviamento del motore. Individuare quali elementi, tra quelli presenti nello
+schema in figura, possono essere responsabili del guasto e descrivere le funzioni che svolgono
+utilizzando lo schema sottostante (il numero di righe è indicativo).
+
+Pag. 9/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ELEMENTO
+
+FUNZIONE SVOLTA
+
+Pag. 10/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+SCHEDA PER LA RISOLUZIONE DEL QUESITO N°4 DELLA SECONDA PROVA SCRITTA
+QUESITO N°4
+Teoricamente la potenza di un motore termico è proporzionale al numero di giri. I motori comuni
+effettivamente hanno dei limiti, circa 418 o 628 rad/s (4000 o 6000 giri/minuto) a seconda del ciclo
+termico adottato. Commentare e descrivere i diagrammi seguenti e spiegare perché oltre un certo
+numero di giri, la potenza diminuisce nonostante i giri continuino ad aumentare.
+
+Pag. 11/11
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+Descrizione diagramma 1:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+Descrizione diagramma 2:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+Spiegazione del perché oltre un certo numero di giri la potenza diminuisce nonostante i giri
+continuino ad aumentare:
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+________________________________________________________________________________
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

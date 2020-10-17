@@ -1,0 +1,40 @@
+Pag. 1/1
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M296 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: TF68 – MECCANICA (PROG. SIRIO)
+Tema di: DISEGNO, PROGETTAZIONE ED ORGANIZZAZIONE INDUSTRIALE
+
+Sull’albero di trasmissione, schematicamente rappresentato in figura, è calettata una macchina
+utilizzatrice, tramite un mozzo di lunghezza L = 100 mm (estremità A dell’albero).
+Sull’altra estremità del medesimo è calettata una ruota dentata con diametro D = 140 mm, che
+riceve il movimento da una ruota motrice (non rappresentata nel disegno) con rapporto di
+trasmissione t = 1/2, azionata da un motore elettrico della potenza di 18 kW a n = 2000 g/min.
+L’albero, in acciaio C60, è sostenuto da due cuscinetti radiale a sfere.
+Il candidato, accompagnando l’elaborato con considerazioni tecniche congrue e coerenti, e dopo
+aver fissato con motivati criteri ogni altro parametro o elemento di calcolo eventualmente mancante
+e necessario, esegua relativamente all’albero:
+
+
+il dimensionamento del medesimo e il calcolo dei cuscinetti, sapendo che la durata di base
+prevista è di h = 10000 ore;
+
+
+
+il disegno esecutivo di fabbricazione completo di quote, tolleranze e rugosità;
+
+
+
+il ciclo di lavorazione per un numero di 200 pezzi.
+
+___________________________
+Durata massima della prova: 8 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

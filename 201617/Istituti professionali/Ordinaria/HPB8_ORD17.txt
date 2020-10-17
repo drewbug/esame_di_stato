@@ -1,0 +1,307 @@
+Pag. 1/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB8 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+ACHTUNG
+Die vorliegende Arbeit enthält die jeweils unterschiedlichen Prüfungsarbeiten für die Kandidaten
+und Kandidatinnen mit folgenden Berufbildungsdiplomen:
+A)
+
+IT-SYSTEMELEKTRONIK UND ANWENDUNGSENTWICKLUNG (Bozen) Seiten 2-3
+
+B)
+
+MECHATRONISCHE SYSTEME (Bozen)
+
+Seiten 4-5
+
+C)
+
+ELEKTRO-, GEBÄUDE- UND INFRASTRUKTURTECHNIK (Bozen)
+
+Seiten 6-7
+
+Die Vorsitzende/Der Vorsitzende der Kommission ist gebeten, darauf zu achten, dass alle
+Kandidaten und Kandidatinnen die ihrem Berufbildungsdiplom entsprechenden Prüfungsarbeiten
+erhalten.
+Zu bearbeiten sind jeweils die Problemstellung im Teil I und zwei der in Teil II gestellten Fragen.
+
+Pag. 2/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB8 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+A) IT-SYSTEMELEKTRONIK UND ANWENDUNGSENTWICKLUNG (Bozen)
+Für alle Kandidaten dieser Gruppe ist die Nutzung eines von der Schule zur Verfügung gestellten
+PCs samt installierter Software ohne Internetzugang erlaubt. Für die Bewertung muss die Arbeit
+ausgedruckt und in Papierform abgegeben werden.
+
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Das Unternehmen „WartSys“ installiert und wartet Systeme für andere Firmen.
+Zur Unterstützung der Wartung von bereits installierten Systemen soll eine Website eingerichtet
+werden, auf der Wartungsvorgänge eingepflegt, bearbeitet und abgeschlossen werden können.
+Gleiche Systeme können in mehreren Firmen installiert worden sein und Firmen können auch
+mehrere verschiedene Systeme des Unternehmens „WartSys“ im Einsatz haben. Jeweils ein
+Mitarbeiter des Unternehmens „WartSys“ wartet nun eines oder mehrere dieser installierten
+Systeme an einem Tag und benötigen dafür x Stunden. Zusätzlich ist festzuhalten, ob die Wartung
+schon erledigt ist oder nicht. Ein in einer Firma installiertes System kann natürlich über die Zeit
+gesehen von verschiedenen Mitarbeitern gewartet werden und ein Mitarbeiter wartet Systeme in
+unterschiedlichen Firmen.
+1) Fertigen Sie einen Datenbankentwurf an, der diese Informationen widerspiegelt und folgende
+Datenbankanfragen in SQL notieren:
+a) zu einem bestimmten Mitarbeiter die Gesamtsumme der im Jahr 2015 absolvierten
+
+Wartungsstunden ausgeben
+b) alle Firmen samt installierter Systeme ausgeben
+c) alle noch offenen Wartungsaufträge mit Angabe des Namens des Mitarbeiters und der Firma,
+
+wo das System installiert ist, angeben.
+2) Fertigen Sie zusätzlich, nach Erstellung eines sogenannten Wireframes, ein statisches
+Grundgerüst für die Ausgabe der Daten aus Abfrage b) in HTML und CSS an.
+Falls Sie es für sinnvoll bzw. nötig erachten, können sie die Informationen aus dem Angabenteil
+ergänzen.
+
+Pag. 3/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB8 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+A) IT-SYSTEMELEKTRONIK UND ANWENDUNGSENTWICKLUNG (Bozen)
+
+TEIL II: Bearbeiten Sie eine der folgenden zwei Fragestellungen.
+
+Zur Unterstützung der hausinternen Wartung und Instandhaltung einer Montageanlage soll eine
+Website eingerichtet werden, welche folgende Informationen verwaltet:
+Zu jeder Wartungstätigkeit werden eine Tätigkeitsbeschreibung und ein Datum erfasst. Außerdem
+umfasst eine Tätigkeit immer die Wartung einer von mehreren Maschinen. Weiters soll es die
+Möglichkeit geben einen „Wartungsplan“ zu erstellen, durch den man eine Wartungstätigkeit einem
+oder mehreren Mitarbeitern zuordnen kann. Von jedem dieser Mitarbeiter wird in Anschluss an die
+Tätigkeit die Dauer derselben in Minuten erfasst.
+1) Entwerfen Sie eine Datenbank samt Beziehungen, in der diese Informationen abgebildet sind.
+2) Erstellen Sie folgende SQL Anweisungen:
+a) Es sollen alle Tätigkeiten für die nächsten Tage samt Beschreibung der betroffenen
+Maschinen ausgegeben werden.
+b) Es soll eine neue Tätigkeit zu einem bestimmten Datum erfasst werden.
+c) Zu einer bestimmten Tätigkeit soll angezeigt werden, welcher oder welche Mitarbeiter diese
+gemacht hat bzw. haben und wie viel Zeit er bzw. sie dafür benötigt hat bzw. haben.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+Die Nutzung eines von der Schule zur Verfügung gestellten PCs samt darauf installierter Software ohne Internetzugang ist
+erlaubt. Für die Bewertung muss die Arbeit ausgedruckt und in Papierform abgegeben werden.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 4/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB8 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+B) MECHATRONISCHE SYSTEME (Bozen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Ein Handhabungsgerät befördert ein Bauteil von A nach B. Das Gerät bewegt sich in 3 Richtungen.
+Es wird über eine Elektrospindel (Drehstrommotor) und zwei Pneumatik Zylinder ø40 (Zylinder 1
+mit 500mm Hub und Zylinder 2 mit 300mm Hub) betrieben. Die zu befördernden Bauteile haben
+eine Masse von 1,2Kg und werden beim Transport über eine Vakuumpumpe angesaugt und
+festgehalten.
+
+Wählen und begründen Sie die noch fehlenden Angaben und berechnen Sie:
+1. Dimensionieren Sie den Durchmesser der Vakuummembrane, wenn ein max. Unterdruck von
+0.75Bar erzeugt werden kann.
+2. Berechnen Sie den Luftverbrauch der Zylinder, wenn 10 Takte in der Minute ausgeführt werden,
+Betriebsdruck 6Bar. Kalkulieren Sie eine Reserveluftmenge von 50%.
+3. Entwerfen Sie eine Steuerung für die Anlage, berücksichtigen Sie dabei, dass alle Positionen
+über Endschalter abgefragt werden.
+4. Berechnen Sie die Auflagekräfte an den Führungen im ausgefahrenen und eingefahrenen Zustand
+der Zylinder. Die Last der Zylinder inklusiv angesaugtem Bauteil beträgt 92N.
+Wichtige Hinweise:
+Sämtliche Auslegung- und Dimensionierungsarbeiten sollen nachvollziehbar und unter Angabe der
+verwendeten Quellen schriftlich zusammengefasst werden.
+
+Pag. 5/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB8 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+B) MECHATRONISCHE SYSTEME (Bozen)
+TEIL II: Bearbeiten Sie zwei der folgenden vier Fragestellungen
+
+Ein Aufzug wird über einen Elektromotor und einer Winde mit einem Trommeldurchmesser von
+500mm angetrieben. Der Aufzug ist für eine maximale Last von 5kN ausgelegt und soll sich mit
+einer Betriebsgeschwindigkeit von 2m/s bewegen. Der Wirkungsgrad für das Getriebe liegt bei 0,9.
+
+a. Berechne Sie die Drehzahl der Antriebswelle und das unter Last vorherrschende Drehmoment.
+b. Dimensionieren Sie die Antriebswelle und wählen Sie den Werkstoff so, dass diese auf fünffache
+Sicherheit ausgelegt wird.
+c. Dimensionieren Sie den Motor und das passende Übersetzungsverhältnis.
+d. Berechnen Sie den Querschnitt der Zuleitung, wenn diese 100m lang sein wird und planen Sie dessen
+elektrische Schutzeinrichtung.
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Tabellenbuch Metall, Verlag Europa-Lehrmittel
+ nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 6/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB8 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+C) ELEKTRO-, GEBÄUDE- UND INFRASTRUKTURTECHNIK (Bozen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+Ein Kondominium, welches sich auf einem rechteckigen Grundstück befindet, beinhaltet:
+ drei Stockwerke mit internem Treppenhaus
+ drei Wohneinheiten pro Stockwerk mit je 40m², 80m² und 120m² Fläche.
+ Aufzuganlage mit Wartungsraum im obersten Stockwerk
+ Zählerraum für elektrische Leistung und Wasseranschluss
+ Garten, welcher das Gebäude umgibt
+Die benötigten Leistungen sind:
+ Antrieb und Beleuchtung Aufzug:
+
+5,5kW+500W
+
+ Beleuchtung Garten:
+
+800W
+
+ Bewässerung:
+
+2,2kW
+
+ Beleuchtung Treppenhaus und Eingangsbereich:
+
+800W
+
+ Zusätzliche Verbraucher:
+
+400W
+
+Bearbeiten Sie folgende Aufgabenstellungen, begründen Sie Ihre seine Einschätzungen und
+formulieren Sie eventuell zusätzliche Hypothesen.
+1. Zeichnen Sie den Hauptverteiler und legen Sie die Auswahlkriterien der benötigten Apparaturen
+fest.
+2. Berechnen Sie die
+Gemeinschaftsanlagen.
+
+benötigten
+
+Anschlussleistungen
+
+der
+
+Wohnungen
+
+und
+
+der
+
+3. Berechnen Sie den benötigten Querschnitt der Hauptleitung, den maximal zulässigen
+Spannungsabfall beachtend.
+4. Definieren Sie die Charakteristik der Erdungsanlage.
+
+Pag. 7/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB8 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+C) ELEKTRO-, GEBÄUDE- UND INFRASTRUKTURTECHNIK (Bozen)
+TEIL II: Bearbeiten Sie zwei der folgenden vier Fragestellungen zur Aufgabenstellung
+Für eine Wohneinheit mit angrenzender Gartenanlage soll die Installation der Elektroanlage
+vorgenommen werden. In der Wohneinheit sind folgende Verbraucher vorgesehen:
+Induktionskochfeld:
+
+2,2kW
+
+Backröhre:
+
+1,5kW
+
+Waschmaschine:
+
+1,2kW
+
+Spülmaschine:
+
+900W
+
+Sonstige Verbraucher:
+
+400W
+
+Beleuchtung:
+
+800W
+
+Außerdem soll die Beleuchtung für die Gartenanlage, bestehend aus 4 Halogenscheinwerfern zu je
+500W, geplant werden.
+Die Versorgungsleitung vom Zähler zum Hauptverteiler der Wohneinheit hat eine Länge von 15m,
+jene zum Hauptverteiler der Gartenanlage 45m.
+Der Wirkleistungsfaktor wird für die gesamte Anlage als 0,95 angenommen.
+Bearbeiten Sie folgende Aufgabenstellungen, begründen Sie Ihre Einschätzungen und formulieren
+Sie eventuell zusätzliche Hypothesen:
+1. Zeichnen Sie den Hauptverteiler und legen Sie die Auswahlkriterien der benötigten Apparaturen
+fest.
+2. Berechnen Sie die nötige Netzanschlussleistung, die Gleichzeitigkeits– und Ausnutzungsfaktoren
+annehmend.
+3. Berechnen Sie den benötigten Querschnitt der Leitungen, den maximal zulässigen
+Spannungsabfall beachtend.
+4. Definieren Sie die Charakteristik der Erdungsanlage.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Tabellenbuch Elektrotechnik (Manuale degli impianti elettrici)
+ nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+

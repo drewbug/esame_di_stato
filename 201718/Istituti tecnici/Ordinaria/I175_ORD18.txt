@@ -1,0 +1,83 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+All’interno di un prosciuttificio è presente una stazione di smistamento dei prosciutti per procedere
+alle operazioni di marchiatura selezione per la vendita e timbratura.
+I prosciutti vengono posti su un nastro trasportatore e arrivano su una piattaforma girevole e provvista
+di una cella di carico con portata di fondo scala pari a 150 N, dove vengono pesati e successivamente
+distribuiti in funzione del loro peso.
+Il nastro trasportatore di arrivo alla piattaforma si ferma per 5 secondi per permettere l’operazione di
+pesatura, al termine della quale, in base al peso, il prosciutto viene smistato.
+I prosciutti di peso inferiore a 5 kg vengono convogliati verso uno scivolo di raccolta posto a 180°
+per destinarli ad altri usi. Gli altri vengono indirizzati verso due nastri trasportatori, posti
+rispettivamente a 90° e 270° rispetto al nastro di arrivo attorno alla piattaforma. In particolare se il
+peso è compreso tra 5 e 10 kg la base ruota di 90° verso destra, se il peso supera i 10 kg la base ruota
+di 90° verso sinistra. Alla fine dei due nastri è posto un contenitore di raccolta, che una volta pieno
+determinerà un arresto temporaneo del sistema per permettere all’operatore la sua sostituzione.
+La rotazione della piattaforma è affidata ad un opportuno motore, mentre lo spostamento del
+prosciutto dalla base ruotante alla linea di destinazione è affidato ad una serie di micro rulli solidali
+alla base rotante stessa e azionati da un ulteriore motore.
+Ogni linea di smistamento è provvista di un opportuno sensore che permette il conteggio dei prosciutti
+commerciabili da quelli destinati ad altri usi.
+Il candidato, fatte le ulteriori ipotesi aggiuntive che ritiene necessarie:
+1. descriva l’impianto attraverso uno schema e individui i dispositivi necessari alla sua
+realizzazione, fornendo una tabella di I/O rappresentante i principali segnali elettrici di controllo;
+2. rappresenti mediante un diagramma di flusso di propria conoscenza, l’algoritmo di gestione
+dell’impianto;
+3. elabori il programma in grado di gestire l’automatismo utilizzando un sistema programmabile di
+propria conoscenza;
+4. progetti un sistema in grado di effettuare una stima percentuale dei prosciutti commerciabili da
+quelli destinati ad altri usi.
+Inoltre, il candidato progetti un idoneo sistema di segnalazioni luminose nelle fasi di movimentazione
+dei nastri, nonché i pulsanti di marcia e arresto dell’impianto.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: SISTEMI AUTOMATICI
+SECONDA PARTE
+QUESITO 1
+Con riferimento alla prima parte della prova, il candidato progetti un sistema per il controllo della
+temperatura del locale in cui è presente la stazione di smistamento in modo che siano garantite le
+corrette condizioni di conservazione nel caso in cui la temperatura superi una soglia prefissata T (°C)
+azionando un opportuno sistema di ventilazione.
+QUESITO 2
+Il candidato, dopo aver discusso da quali parametri dipende la velocità di un motore trifase, descriva,
+dettagliandone gli aspetti principali, l’impiego dell’inverter per la modulazione della velocità con
+particolare riferimento alla tecnica PWM (Pulse Width Modulation).
+QUESITO 3
+Si consideri lo schema di controllo di figura:
+
+2∙103
+
+in cui 𝑃(𝑠) = 𝑠(𝑠+10)2 mentre il controllo C(s) è di tipo Proporzionale – Derivativo.
+Il candidato, dopo aver tracciato i diagrammi di Bode della funzione di trasferimento ad anello aperto
+con C(s)=1, progetti successivamente il controllore C(s) in grado di garantire un margine di fase non
+inferiore a 45°.
+QUESITO 4
+Con riferimento sia all’ambito civile che industriale, il candidato descriva le tipologie e le
+caratteristiche dei sistemi di controllo fornendo per ognuno di essi un esempio di applicazione sulla
+base delle proprie conoscenze.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

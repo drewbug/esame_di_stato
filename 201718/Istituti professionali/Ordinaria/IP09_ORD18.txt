@@ -1,0 +1,71 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IP09 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+La ditta incaricata della manutenzione deve sostituire il sistema di elettropompe di un campeggio.
+Il candidato, dopo aver descritto il funzionamento delle elettropompe, fatte eventuali ipotesi
+aggiuntive:
+1. indichi i parametri caratteristici da considerare nella scelta delle elettropompe da installare;
+2. illustri, anche tramite diagramma, la sequenza delle fasi operative dall’installazione delle
+elettropompe fino al collaudo del sistema, anche in riferimento alla sicurezza;
+3. proponga un format per registrare gli interventi di manutenzione sul sistema di elettropompe.
+Inoltre si deve sostituire la modalità di accesso al parcheggio per le auto con un sistema automatico
+che prevede l’apertura della sbarra in caso di vicinanza di un veicolo in entrata e la segnalazione
+quando il parcheggio è pieno. Il candidato descriva, anche tramite schema, il sistema specificando le
+caratteristiche funzionali da considerare per la scelta dei dispositivi.
+
+SECONDA PARTE
+1.
+
+Nell’ambito dell’ampliamento del campeggio si desidera sostituire il trasformatore all’interno
+della cabina. Il candidato, fatte le considerazioni che ritiene opportune, indichi i criteri di scelta
+dello stesso e rediga un preventivo di spesa per l’intervento.
+
+2.
+
+Un sistema è composto da 3 dispositivi collegati come in figura, sapendo che il tasso di guasto
+dei vari dispositivi valgono A = 0,0002 h -1 B = 0,0001 h -1 C = 0,0002 h -1.
+Il candidato determini:
+a. dopo quanto tempo l’affidabilità di ogni dispositivo è pari al 90%;
+b. l’affidabilità del sistema dopo 500 ore.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IP09 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+3.
+
+L’impianto di distribuzione alimenta 20 docce, portata 0,15 litri/s, 10 lavabo, portata 0,1 litri/s
+ed infine 10 WC portata 0,1 litri/s. Ipotizzando un tasso di contemporaneità pari a 0,5, il
+candidato determini la portata totale e la potenza della pompa sapendo che la prevalenza vale
+10 metri.
+
+4.
+
+Il candidato, in riferimento al circuito raddrizzatore di figura, indichi:
+a. le differenze rispetto al semplice diodo;
+b. l’influenza dei parametri caratteristici dell’amplificatore operazionale sulle prestazioni del
+circuito (ampiezza e frequenza del segnale) e le metodologie e gli strumenti da utilizzare
+per analizzare queste prestazioni.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

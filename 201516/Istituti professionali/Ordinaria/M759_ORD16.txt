@@ -1,0 +1,141 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE APPARATI, IMPIANTI
+CIVILI E INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+L’impianto elettrico di un’officina meccanica prevede, oltre ai carichi interni, un impianto
+fotovoltaico per l’autoproduzione di energia elettrica a servizio dell’officina stessa.
+Il contratto di fornitura elettrica dell’officina è di 20 kW, trifase (230-400 V).
+L’impianto fotovoltaico, posizionato sulla copertura dell’edificio, è collegato in parallelo alla rete e
+presenta i seguenti componenti principali:
+
+
+Moduli fotovoltaici
+
+
+
+Inverter
+
+
+
+Protezioni
+
+
+
+Cavi
+
+
+
+Contatore di misura dell’energia prodotta
+
+
+
+Contatore di misura dell’energia scambiata con la rete.
+
+Il contatore di scambio si trova installato sul muro di cinta ad una distanza di circa 100m dal quadro
+generale dell’officina.
+Il candidato, fatte eventuali ipotesi aggiuntive:
+1.
+
+Disegni lo schema di principio dell’impianto fotovoltaico a servizio dell’officina, collegato in
+parallelo alla rete (in regime di scambio sul posto), sapendo che la potenza di picco prevista è
+pari a 20 kW.
+
+2.
+
+Descriva le caratteristiche funzionali degli elementi principali costituenti l’impianto fotovoltaico
+e i criteri di scelta.
+
+3.
+
+Verifichi che la sezione del cavo della linea di collegamento tra il contatore di scambio e il quadro
+generale (rif. Tab.1) sia idonea ed indichi le caratteristiche che deve avere il dispositivo di
+protezione posto a monte della linea stessa.
+Tab.1
+Sezione
+(mm2)
+10
+
+4.
+
+Portata (A)
+63
+
+Resistenza unitaria
+mW/m
+2.27
+
+Reattanza unitaria
+mW/m
+0.0864
+
+Rediga un piano di manutenzione per mantenere l’impianto efficiente e sicuro nel tempo.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE APPARATI, IMPIANTI
+CIVILI E INDUSTRIALI
+SECONDA PARTE
+1.
+
+Il candidato determini l’affidabilità, dopo 5 anni, della parte dell’impianto fotovoltaico
+comprendente linea di alimentazione, inverter e pannelli considerando che i tassi di guasti sono
+i seguenti:
+-
+
+linea di alimentazione per chilometri di linea 1 = 0,01 (guasti/.anno)
+
+-
+
+moduli fotovoltaici 2 = 0,005 (guasti/anno)
+
+-
+
+inverter 3 = 0,004 (guasti/anno)
+
+Infine, il candidato verifichi dopo quanti anni l’affidabilità è pari al 90%.
+2.
+
+Il candidato, fatte le considerazioni che ritiene opportune, pianifichi l’intervento di collaudo
+dell’impianto fotovoltaico e valuti gli aspetti organizzativi del lavoro di installazione in relazione
+alla sicurezza avendo cura di descrivere quali mezzi, attrezzature e risorse umane prevede di
+utilizzare.
+
+3.
+
+Il candidato illustri gli strumenti di misura e le tecniche per controllare l’efficienza del BJT di
+figura e misurare il valore di hFE. Infine verifichi che il BJT è in saturazione per Vi=5V sapendo
+che VCEsat = 0,2V VBEsat = 0,7V hFE = 100
+
+4.
+
+In seguito ad un corto circuito bisogna sostituire 10 moduli fotovoltaici, 2 inverter e la linea di
+alimentazione che collega gli inverter al quadro generale. Il candidato, fatte eventuali ipotesi
+integrative, rediga un computo metrico contenente tutte le attività previste e un diagramma di
+Gantt con i relativi tempi di tutte le fasi di lavoro.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

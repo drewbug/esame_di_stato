@@ -1,0 +1,48 @@
+Pag. 1/1
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+YABC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: TF45 - PROGETTO "ABACUS"- INFORMATICA
+Tema di: INFORMATICA
+Un gruppo di stabilimenti balneari si costituisce in consorzio allo scopo di informatizzare la
+gestione degli stessi per incentivare il turismo locale. La stagione balneare apre il 1 aprile e termina
+il 30 ottobre di ogni anno. Gli stabilimenti possono offrire numerosi servizi quali fornitura di lettini,
+ombrelloni, cabine, ristorazione, attività programmate di diverso tipo (spettacoli musicali, serate
+con animazione, elezione “miss/mister mare”, attività ludico-sportive, ecc.).
+Di ogni stabilimento sono noti: denominazione, indirizzo, categoria, tariffe per i servizi offerti.
+Riguardo alle attività che in essi si svolgono vanno tenuti in considerazione il calendario (periodo di
+svolgimento e orario), una breve descrizione, se si tratta di attività a pagamento.
+Alcune attività possono essere sponsorizzate; in tal caso si vuole registrare il nome dello sponsor ed
+il tipo di finanziamento (monetario o fornitura di beni).
+Agli stabilimenti accedono sia clienti occasionali che quelli forniti di abbonamento ai vari servizi.
+Il candidato, fatte le opportune ipotesi aggiuntive, realizzi:
+1) un’analisi della realtà di riferimento individuando le possibili soluzioni e scelga quella che a
+suo motivato giudizio è la più idonea a rispondere alle specifiche indicate
+2) uno schema concettuale della base di dati
+3) uno schema logico della base di dati
+4) la definizione in linguaggio SQL di un sottoinsieme delle relazioni della base di dati in cui
+siano presenti alcune di quelle che contengono vincoli di integrità referenziale e/o vincoli di
+dominio, laddove presenti
+5) le seguenti interrogazioni espresse in linguaggio SQL:
+a. elencare i servizi offerti da uno specifico stabilimento;
+b. elencare i clienti con abbonamento ai servizi di uno specifico stabilimento;
+c. elencare in ordine di stabilimento le attività che iniziano in un periodo specificato;
+d. visualizzare per ogni stabilimento il numero di clienti occasionali in una specifica
+giornata;
+e. visualizzare lo stabilimento che organizza il maggior numero di attività nella stagione
+balneare;
+f. visualizzare lo sponsor che ha finanziato il maggior numero di attività
+6) l’architettura del sito web sviluppato per presentare al pubblico gli stabilimenti del consorzio e
+la loro offerta
+7) la codifica in un linguaggio a scelta di un segmento significativo dell'applicazione Web che
+consente l'interazione con la base di dati.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici (references riportanti solo la sintassi, non guide) dei linguaggi utilizzati.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dall’inizio della prova.
+
+

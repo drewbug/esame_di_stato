@@ -1,0 +1,189 @@
+Pag. 1/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITSI - AMMINISTRAZIONE FINANZA E MARKETING
+ARTICOLAZIONE SISTEMI INFORMATIVI AZIENDALI
+Tema di: ECONOMIA AZIENDALE e INFORMATICA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Dal bilancio di Alfa spa, impresa operante nel settore industriale, si estrae quanto di seguito riportato.
+Bilancio di Alfa spa al 31/12/2017
+1) Relazione sulla gestione
+Profilo
+Alfa spa produce e commercializza serramenti caratterizzati da soluzioni tecnologiche innovative in grado di
+garantire isolamento termico, isolamento acustico e protezione dai raggi solari.
+L’impresa in particolare produce porte, porte finestre, finestre, lucernai; ciascuno di questi prodotti è
+caratterizzato da una classe di isolamento acustico, di isolamento termico e di resistenza alle effrazioni, una
+colorazione, telai tradizionali o innovativi (in legno, PVC, alluminio o loro combinazioni). L’impresa acquista
+materie prime (es. barre di alluminio o di legno, vernici, componenti chimici, …) e semilavorati (es. maniglie,
+vetri, cerniere, ...) da fornitori a livello europeo.
+Il successo straordinario ottenuto da alcuni prodotti è dovuto alle caratteristiche dei materiali che consentono il
+miglioramento del comfort delle abitazioni, molto apprezzato dai consumatori.
+L’innovazione realizzata da Alfa spa, frutto di costanti investimenti in ricerca e sviluppo, si basa, tra l’altro,
+sull’ideazione e realizzazione di guarnizioni riprogettate per svolgere al meglio l’isolamento acustico e la
+resistenza agli agenti atmosferici.
+Strategie
+Il piano strategico di Alfa spa prevede per l’esercizio 2018 una crescita sostenibile ed economicamente
+significativa e si basa su alcuni elementi principali tra cui:
+ l’innovazione di prodotto, fondamentale per il consolidamento del vantaggio competitivo, che verrà
+realizzata con il lancio di una nuova linea di serramenti che utilizza materiali innovativi;
+ l’espansione attraverso il bilanciamento geografico delle vendite realizzate con:
+- la focalizzazione sui mercati “core”;
+- lo sviluppo nei nuovi mercati nazionali e internazionali ad alto potenziale di crescita;
+ la riqualificazione del canale distributivo attraverso:
+- la crescita sul wholesale, con la specializzazione della forza vendita, l’aumento della penetrazione
+commerciale e la fidelizzazione dei clienti multimarca;
+- la razionalizzazione del canale retail, con la riorganizzazione dei punti vendita;
+- la crescita del canale online in linea con le tendenze di comportamento dei consumatori.
+Produzione
+Il sistema produttivo di Alfa spa è organizzato in modo da garantire il perseguimento dei seguenti obiettivi:
+ mantenimento di elevati standard qualitativi;
+
+Pag. 2/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITSI - AMMINISTRAZIONE FINANZA E MARKETING
+ARTICOLAZIONE SISTEMI INFORMATIVI AZIENDALI
+Tema di: ECONOMIA AZIENDALE e INFORMATICA
+ miglioramento continuo della flessibilità e del “time to market”;
+ aumento della produttività;
+ contenimento dei costi.
+La selezione dei fornitori delle materie prime viene realizzata con particolare attenzione tenendo conto delle
+competenze tecniche, degli standard qualitativi e della capacità di far fronte alle forniture nei tempi richiesti.
+Rischi di credito
+Alfa spa tende a ridurre il più possibile il rischio derivante dall’insolvenza dei propri clienti adottando politiche
+di credito volte a concentrare le vendite su clienti affidabili e solvibili.
+Rischio di liquidità
+Il rischio in esame si può manifestare con l’incapacità di reperire, a condizioni economiche sostenibili, le risorse
+finanziarie necessarie per il supporto delle attività operative nella giusta tempistica. I flussi di cassa, le necessità
+di finanziamento e la liquidità dell’impresa sono costantemente monitorati dal responsabile di tesoreria al fine di
+garantire un’efficace ed efficiente gestione delle risorse finanziarie.
+…………
+2) Dati patrimoniali
+Capitale sociale
+Il capitale sociale, interamente sottoscritto e versato, è costituito da 1.200.000 azioni del valore nominale
+unitario 1,00 euro.
+Riserve
+La tabella che segue evidenzia il dettaglio delle riserve:
+Riserve
+Riserva legale
+Riserva statutaria
+Altre riserve
+
+Anno 2017
+156.000
+156.000
+100.000
+
+Anno 2016
+150.000
+150.000
+100.000
+
+…………
+3) Risultati economici di sintesi
+Dai documenti di bilancio riclassificati sono stati ricavati i seguenti indicatori:
+ ROI 8%
+ ROS 6%.
+…………
+
+Variazione
+6.000
+6.000
+-
+
+Pag. 3/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITSI - AMMINISTRAZIONE FINANZA E MARKETING
+ARTICOLAZIONE SISTEMI INFORMATIVI AZIENDALI
+Tema di: ECONOMIA AZIENDALE e INFORMATICA
+
+Il candidato, dopo aver analizzato il documento, tragga da questo gli elementi necessari per:
+1) presentare lo Stato patrimoniale e il Conto economico civilistici in forma abbreviata al 31/12/2018 di
+Alfa spa dal quale emerge un miglioramento del risultato;
+2) descrivere la porzione del sistema informativo di Alfa spa che gestisce il catalogo dei prodotti e i
+fornitori di materie prime e dei semilavorati, sviluppando in particolare:
+a) uno schema concettuale della relativa base di dati, tenendo conto:
+-
+
+dei prodotti, come descritti nel Profilo di Alfa spa
+
+-
+
+delle materie prime e dei semilavorati (caratterizzati almeno da una denominazione, una
+descrizione, un prezzo unitario, un campo note con eventuali caratteristiche tecniche di
+dettaglio)
+
+-
+
+dei fornitori, di cui è utile memorizzare oltre ai dati anagrafici, ai dati fiscali, alle
+informazioni di contatto, anche i tempi medi di consegna e la percentuale media di non
+idoneità dei materiali forniti
+b) il corrispondente schema logico relazionale;
+c) le query in linguaggio SQL che consentono di ottenere le seguenti informazioni:
+-
+
+elenco dei prodotti di tipo finestra con una data classe di isolamento termico;
+
+-
+
+per ogni materia prima, il numero di fornitori da cui è possibile rifornirsi.
+
+SECONDA PARTE
+Il candidato scelga due dei seguenti quesiti e presenti le linee operative, le motivazioni delle soluzioni
+prospettate e i relativi documenti, secondo le richieste.
+1. L’interpretazione dell’andamento della gestione aziendale richiede, tra l’altro, l’analisi di bilancio per
+indici. Redigere il report contenente l’analisi patrimoniale e finanziaria del bilancio di Alfa spa al
+31/12/2018 utilizzando gli opportuni indicatori.
+2. La crescita del canale online di vendita dei serramenti induce Alfa spa a potenziare il sito web. Il
+candidato realizzi le pagine web del sito dell’impresa che visualizzano l’elenco dei prodotti con una
+determinata classe di isolamento acustico scelto dall’utente della pagina, codificandole in un
+linguaggio di programmazione a propria scelta.
+
+Pag. 4/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITSI - AMMINISTRAZIONE FINANZA E MARKETING
+ARTICOLAZIONE SISTEMI INFORMATIVI AZIENDALI
+Tema di: ECONOMIA AZIENDALE e INFORMATICA
+
+3. Beta spa, impresa industriale monoprodotto, ha rilevato nell’esercizio 2018 uno scostamento negativo
+dei ricavi del 12%. Redigere il report dal quale risultino:
+ le cause che hanno determinato lo scostamento in termini di quantità e di prezzo;
+ le indicazioni per l’elaborazione del budget delle vendite del 2019.
+4. Un gruppo di studenti intende partecipare ad un progetto europeo di cooperazione transnazionale con
+partner coetanei. Il progetto prevede momenti di incontri in presenza e attività di lavoro svolte online.
+Sarà necessario condividere documenti, piani di lavoro, materiali, ma anche garantire momenti di
+confronto diretto non in presenza. Al termine del progetto dovrà essere prodotto un magazine
+informativo da restituire alle scuole di provenienza. Il candidato illustri quali strumenti di
+collaborazione online possono essere adottati discutendo quali sono quelli a suo parere più idonei alla
+situazione presentata.
+
+Dati mancanti opportunamente scelti.
+
+______________
+Durata massima della prova: 6 ore.
+Sono consentiti la consultazione del Codice Civile non commentato, di manuali tecnici dei linguaggi di programmazione e di
+calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dall’inizio della prova.
+
+

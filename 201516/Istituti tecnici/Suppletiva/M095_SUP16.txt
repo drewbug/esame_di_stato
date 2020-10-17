@@ -1,0 +1,202 @@
+Pag. 1/4
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M095 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Gestione della navigazione tra La Valletta (Malta) e Piraeus (Greece) e gestione di un sinistro
+Loading plan
+La propria nave (M/V pax AMBER, call sign IALR, MMSI 247234000), avente LPP=125,6 m e
+B=23 m, galleggia con le seguenti immersioni estreme:
+TA=6,84 m
+TF=6,16 m
+Sono noti dalle curve idrostatiche =14050 t, LCF=61,40 m from AP, TPC=23,70 t,
+MCTC=202,60 t·m, KM=8,10 m (con AP perpendicolare addietro, LCF ascissa del centro della
+figura di galleggiamento dalla perpendicolare addietro, TPC dislocamento unitario, MCTC
+momento unitario d’assetto, KM quota del metacentro trasversale sulla baseline).
+Determinare quanta zavorra caricare a prua, in due casse simmetriche (length=10,0 m, width=5,4 m,
+depth=2,5 m) poste 18 m a poppavia della perpendicolare avanti, per rispettare i vincoli di
+compagnia che richiedono un TRIM non maggiore di 0,30 m, tenendo altresì presente che si deve
+riempire una piscina con acqua di mare (length=8,0 m, width=5,5 m, depth=2,0 m) posta ad una
+distanza di 40 m a proravia della perpendicolare addietro.
+Sapendo che prima della caricazione delle quantità di acqua descritte si aveva KG=6,90 m,
+determinare la nuova altezza metacentrica tenendo conto degli specchi d'acqua liberi, sapendo che
+la quota del baricentro delle ballast tanks è 3,5 m, mentre quella della piscina è 31 m.
+Passage planning – appraisal/planning
+La nave deve essere condotta da La Valletta (Malta) a Piraeus (Greece), con partenza alle tf=21:30
+del 22/06/2015 ed ETA UTC 04:00 del 24/06/2015; relativamente alla crociera in corso sono
+presenti a bordo 1036 passeggeri e 358 persone componenti l'equipaggio.
+
+Pag. 2/4
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M095 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+Si pianifica la navigazione per rhumb line con velocità 16,5 kts tra le seguenti posizioni:
+Punto
+Pilot Station La Valletta (ETD tf=22:00)
+WP1
+WP2
+WP3
+WP4
+WP5
+Pilot Station Piraeus
+
+Coordinate
+35°54,9'N 014°32,3'E
+36°19,6'N 022°29,0'E
+36°23,8'N 022°57,1'E
+36°22,1'N 023°15,7'E
+37°04,6'N 023°46,0'E
+37°38,0'N 023°46,0'E
+37°55,0'N, 23°37,0'E
+
+Si predispone il Sailing Plan (messaggio iniziale) ARES: redigere l'elenco delle informazioni da
+comunicare.
+Determinare la rotta per il primo leg e le prore gyro e bussola da mantenere considerando
+sostanziale assenza di corrente e presenza di vento di scirocco per il quale si ipotizza un angolo di
+scarroccio di 3°. Sono note d(2012) =3°36'E(6'E) e =2°W.
+Passage planning – execution/monitoring
+Subito dopo la partenza da Malta si registrano condizioni meteorologiche pessime in termini di
+vento, con onda al mascone di dritta che rende necessario il pilotaggio manuale.
+Durante la navigazione lungo il primo leg, assumendo PV=090° e V=16,5 kts, si rilevano al radar i
+seguenti target:
+Target
+A
+B
+
+UT
+23:12
+23:18
+23:12
+23:18
+
+Relative
+bearing
++012°
++012°
++053°
++054°
+
+Range
+[NM]
+9,8
+7,6
+12,0
+10,5
+
+Dopo aver determinato gli elementi cinematici rilevanti e valutato la situazione, intraprendere le
+iniziative ritenute più idonee, conformemente alle prescrizioni COLREG, descrivendo e
+motivando accuratamente le proprie scelte in una breve relazione tecnica.
+
+Pag. 3/4
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M095 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+L'utilizzo di un sistema di posizionamento integrato GPS/GLONASS suggerisce una sostanziale
+discordanza tra i due sistemi satellitari, per cui si decide di eseguire un FIX astronomico; all'inizio
+del crepuscolo mattutino del 23/06, al momento del passaggio al meridiano a Sud di Scheddi, si
+misurano:
+Tc= 02:34:21
+
+Scheddi
+
+hi = 38°03,1’
+
+Tc= 02:36:56
+
+Stella di collegamento tra Pegaso e Andromeda
+
+hi = 60°18,9'
+
+Determinare le coordinate del punto nave nota l'elevazione dell'occhio, pari a 36m (stato assoluto
+del cronometro e correzione d'indice del sestante assenti).
+Si tenga presente, nel determinare il punto stimato, che la velocità effettiva è risultata, nella media,
+pari a 16 kts e che va considerata l'ora di partenza dalla Pilot Station de La Valletta ETD tf =22:00
+come tempo fuso effettivo, cioè comprensivo dell'ora estiva.
+
+SECONDA PARTE
+1) Alle ore 21:22 UTC del 23/7 un engine failure costringe la nave ad inviare un distress: la
+situazione è particolarmente grave perché risultano danneggiati anche alcuni generatori di
+emergenza è la propulsione disponibile non è sufficiente a governare, a causa delle pessime
+condizioni del mare. Descrivere le modalità di invio dell'allerta in ambito GMDSS e scrivere
+nella forma corretta la distress call ed il distress message considerando quanto previsto dalle
+SMCP (anche in base alle eventuali esperienze lavorative del candidato).
+2) L'engine failure conduce la nave verso la costa del Peloponneso, dove si incaglia assumendo
+immersioni:
+TA=6,76 m
+TF=6,32 m
+Determinare la reazione del fondo e l'ascissa del punto di incaglio (nella determinazione dei
+dati di incaglio trascurare il consumo di combustibile avvenuto nella prima parte della
+traversata ed utilizzare i dati idrostatici di partenza).
+3) I sinistri gravi in mare implicano l'attivazione del sistema SAR: descriverne le caratteristiche
+specificando i principali ruoli e relative responsabilità, le fasi dell'emergenza e i principali
+contenuti operativi del manuale di riferimento per questo ambito (anche in base alle eventuali
+esperienze lavorative del candidato).
+
+Pag. 4/4
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M095 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+4) Il salvage master predispone i dati per il trasporto della nave una volta disincagliata; essa verrà
+rimorchiata presso i bacini del Pireo con istante stimato di arrivo nella notte tra il 30/06/2016 e
+il 01/07/2016; sono noti i seguenti dati di marea in tf (senza considerare l'ora estiva):
+HW
+
+02:27 01/07
+
+h=0,8m
+
+LW
+
+08:49 01/07
+
+h=0,2m
+
+Per l'ingresso in bacino occorre superare una barra segnata a 9 m di profondità.
+Per transitare in sicurezza si intende sfruttare la prima alta marea del mattino ma si vogliono
+iniziare le operazioni dopo il sorgere del Sole, da ricavare dalle effemeridi (coordinate drydock
+37°57,2'N 023°33,1'E); determinare l'UKC per tale istante considerando la sovraimmersione
+della nave rimorchiata legata alla falla provocata dall'incaglio e allo sbandamento della stessa.
+La nave è infatti sostanzialmente even keel, ma sbandata di 8° sulla dritta, inoltre rispetto
+all'immersione pre-incaglio ha imbarcato 600 t d'acqua.
+
+___________________________
+Durata massima della prova: 6 ore.
+E’ consentito l’uso della calcolatrice scientifica non programmabile, tavole numeriche, manuali tecnici, formulari,
+pubblicazioni nautiche.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

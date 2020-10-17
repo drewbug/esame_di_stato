@@ -1,0 +1,93 @@
+Pag. 1/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAT – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Il ciclo di produzione di prodotti vernicianti per l’edilizia è composto essenzialmente da tre fasi:
+ dosaggio dei componenti della tinta;
+ miscelazione;
+ confezionamento del prodotto.
+La fase di miscelazione avviene in un serbatoio all’interno del quale vengono introdotti solvente e
+soluto mediante due pompe.
+Il sistema si avvia mediante il riempimento del serbatoio col solvente a cui si aggiunge il soluto.
+Nel serbatoio sono presenti due indicatori di livello che segnalano il livello minimo e massimo della
+miscela all’interno di esso e un sensore che fornisce la concentrazione del soluto.
+Il livello di concentrazione del soluto deve essere mantenuto costantemente nell’intervallo 0.15-0.35
+moli; quando il soluto supera la concentrazione massima viene attivata una valvola di erogazione per
+aggiungere ulteriore solvente, mentre se la concentrazione del soluto è troppo bassa si attiva una
+valvola che aggiunge ulteriore soluto.
+Il serbatoio deve essere riempito fino al raggiungimento del livello massimo e deve essere
+nuovamente riempito ogni qualvolta il contenuto del serbatoio scende al di sotto del livello minimo.
+Quando il serbatoio è pieno viene attivato un mixer per 20 secondi per la miscelazione del composto.
+Il serbatoio è dotato di una valvola di sfogo che deve attivarsi per 20 secondi nel caso in cui si dovesse
+rendere necessario aggiungere sostanze per ripristinare le corrette proporzioni e venga superato il
+livello massimo.
+La miscela ottenuta viene erogata attraverso l’apertura di un’apposita valvola in contenitori
+opportunamente posizionati al di sotto del punto di erogazione e trasportati da un nastro.
+La presenza del contenitore al di sotto della stazione di erogazione, viene rilevata da un apposito
+sensore ed il riempimento richiede 5 secondi di apertura della valvola che viene attivata solo in
+presenza di un contenitore; il processo di erogazione si interrompe quando la miscela non contiene
+più i corretti livelli di soluto.
+Durante l’erogazione della tinta, la concentrazione del soluto non varia.
+Il nastro si avvia per un secondo per consentire il posizionamento di un nuovo contenitore.
+Il candidato fatte le eventuali ipotesi aggiuntive che ritiene necessarie:
+1. rappresenti tramite uno schema a blocchi il sistema di acquisizione e distribuzione dei dati,
+descrivendo gli attuatori e i sensori utilizzati motivando adeguatamente le scelte effettuate;
+2. progetti i circuiti di interfaccia dei sensori e degli attuatori;
+3. rappresenti, mediante un diagramma di flusso o un altro linguaggio di propria conoscenza, il
+programma di gestione del riempimento dei contenitori e della movimentazione del nastro e
+quello che consente di mantenere i livelli dei soluti negli intervalli richiesti;
+4. elabori un opportuno programma che, con l’ausilio di un sistema programmabile di propria
+conoscenza, gestisca l’automatismo proposto.
+
+Pag. 2/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITAT – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+SECONDA PARTE
+QUESITO 1
+Con riferimento alla prima parte della prova e in particolare al problema dello smaltimento dei rifiuti
+prodotti nel suddetto ciclo, il candidato definisca, in maniera dettagliata, i criteri di valutazione da
+adottare durante tutte le fasi procedurali di VIA (Valutazione Impatto Ambientale) e spieghi in cosa
+differiscono VIA e VAS (Valutazione Ambientale Strategica).
+QUESITO 2
+Con riferimento alla prima parte della prova e in particolare al sistema di trasporto dei contenitori, il
+candidato scelga il gruppo azionamento - motore più idoneo allo scopo motivando adeguatamente le
+scelte effettuate con particolare riferimento alle procedure di manutenzione ordinaria previste.
+QUESITO 3
+All’interno di un capannone industriale il trasporto di pezzi lavorati dal magazzino alla zona di
+etichettatura è affidato ad un carrello automatizzato di capienza massima pari a 20 unità.
+Il carrello viene riempito da un braccio robotico che preleva i pezzi dalla zona di stoccaggio e li
+deposita all’interno del carrello. Il sistema esegue ciclicamente le seguenti azioni:
+- riempimento completo del carrello o, alternativamente, attesa di 30 s;
+- movimentazione carrello con segnalazione luminosa;
+- arrivo alla stazione di destinazione e scarico: attesa 60 s;
+- ritorno nella posizione di partenza: carrello pronto.
+Opportune lampade di segnalazione indicano lo stato di movimentazione del carrello.
+Il candidato, fatte le ipotesi ritenute necessarie, descriva il programma per la gestione
+dell’automatismo proposto utilizzando uno tra i linguaggi previsti dalla normativa IEC 63111-3.
+QUESITO 4
+Considerata la rapida trasformazione del mercato del lavoro, legata alle continue innovazioni
+tecnologiche e al ciclo di vita delle posizioni lavorative, il candidato illustri le principali forme di
+contratto di lavoro vigenti e ne fornisca gli elementi caratterizzanti.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,104 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M887 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: SISTEMI E RETI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un lussuoso centro residenziale di nuova costruzione è strutturato su due vie (come visualizzato nella
+piantina dell’area, in Fig. 1) in ciascuna delle quali sono presenti 20 villette unifamiliari per ogni lato,
+edificate su porzioni di terreno di 50m x 50m, per un totale di 80 unità abitative; si intende dotare le
+abitazioni di connettività a larga banda per supportare servizi innovativi basati su Internet.
+1
+
+2
+
+…
+
+Fig. 1: piantina dell'area
+
+19
+
+20
+
+Sono fornite le seguenti specifiche:
+1.
+
+Ogni singola abitazione sarà dotata di connessione Internet a larga banda e internamente saranno
+predisposte due prese di rete per impiego generale, due prese dedicate alle Smart TV e la
+connettività WiFi.
+
+2.
+
+Si vuole dotare tutta l'area di un sistema di videosorveglianza per scopo di controllo, basato su
+una rete distinta, posizionando lungo le due strade non meno di 8 telecamere IP che verranno
+collegate ad un centro di vigilanza remoto.
+
+3.
+
+Tutti gli apparati di rete saranno supervisionati tramite una postazione di gestione che verrà
+installata presso la server room dell'impianto, che ospiterà anche il dispositivo di compressione
+video.
+
+4.
+
+L'area sarà collegata alla rete pubblica tramite una connessione a larga banda in fibra ottica,
+fornita da un ISP, e una ADSL a bassa velocità, per eventuali connessioni di servizio.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M887 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: SISTEMI E RETI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+Il candidato, formulate le eventuali ipotesi aggiuntive ritenute necessarie:
+A. proponga una topologia completa di apparati secondo lo standard del cablaggio strutturato e un
+possibile indirizzamento IP, nella tecnologia che ritiene più appropriata per la realizzazione della
+rete, includendo eventuali servizi di sicurezza aggiuntivi;
+B. definisca la topologia e l'indirizzamento per la rete separata di videosorveglianza, considerando
+la necessità del collegamento con il centro di vigilanza remoto, garantendo la riservatezza e la
+sicurezza dei dati;
+C. definisca le configurazioni dei firewall che permettano ai tecnici del centro di gestione di
+amministrare le due reti, ma impediscano agli utenti di accedere alla rete di gestione e di
+videosorveglianza.
+SECONDA PARTE
+Il candidato scelga due fra i seguenti quesiti e per ciascun quesito scelto formuli una risposta
+della lunghezza massima di 20 righe esclusi eventuali grafici, schemi e tabelle.
+1.
+
+In riferimento alla prima parte della prova, illustrare il funzionamento e i principali vantaggi
+dell'implementazione di un servizio DHCP.
+
+2.
+
+In riferimento alla prima parte della prova, proporre e descrivere un possibile servizio di
+autenticazione per gli utenti della rete residenziale.
+
+3.
+
+Confrontare tra loro i principali protocolli di instradamento applicabili a reti di router.
+
+4.
+
+Indicare quali sono le misure minime di sicurezza per il trattamento dei dati personali tramite
+strumenti elettronici, secondo l’art. 34 del Decreto Legislativo 30 giugno 2003, n. 196.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

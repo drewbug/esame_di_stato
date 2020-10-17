@@ -1,0 +1,401 @@
+Pag. 1/4
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+IM
+
+Tema di: MATEMATICA
+
+IU
+
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03, EA09 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+
+R
+
+M557 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+AT
+T
+
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+
+LI
+
+Sei l’amministratore di un condominio che ha deliberato di dotarsi di una sala per le riunioni
+condominiali, sfruttando uno spazio comune già disponibile, da coprire e attrezzare.
+
+A
+
+C
+
+O
+
+N
+FO
+
+R
+
+M
+
+E
+
+AG
+
+La superficie individuata è rappresentata in figura 1:
+
+C
+
+O
+
+PI
+
+La superficie viene chiusa con pareti laterali alte 3,60 metri e con un tetto piano e orizzontale. Uno
+dei condomini ti fa presente la necessità di prevedere un impianto di aerazione nella sala, in quanto
+la mancanza di un adeguato ricambio d’aria in locali chiusi può provocare una serie di disturbi
+fisici, a causa dell’accumulo di CO2 (anidride carbonica o diossido di carbonio). Di norma si
+considera come valore limite della concentrazione di CO2 lo 0,15%: su 1 milione di particelle d'aria
+il massimo numero di molecole di CO2 deve essere dunque 1500.
+Nella scelta dell’impianto di aerazione un parametro fondamentale è la potenza in kilowatt, che
+dipende dal volume dell’ambiente in cui esso viene utilizzato.
+
+Pag. 2/4
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+IU
+
+LI
+
+In base ai dati disponibili e alla scheda tecnica, stima la potenza in kilowatt necessaria,
+giustificando la tua scelta.
+
+AG
+
+1.
+
+AT
+T
+
+41
+68
+108
+135
+162
+216
+270
+
+IM
+
+POTENZA
+RICHIESTA
+(Kilowatt)
+2
+2,6
+3,5
+4,4
+5,3
+6,1
+7,2
+
+METRI CUBI DA
+AERARE
+
+R
+
+La seguente scheda tecnica, fornita dal produttore, fa riferimento alle comuni esigenze di utilizzo:
+
+M
+
+௠య
+
+E
+
+In occasione di una riunione di condominio, un rilevatore di CO2 installato nella sala indica una
+concentrazione dello 0,3%; i condomini chiedono quindi di accendere l’impianto di aerazione, in
+modo che all’ora di inizio della riunione la concentrazione sia stata ridotta allo 0,15%. Il sistema di
+
+మ
+
+inoltre che la funzione ܿ(‫ )ݐ‬ൌ ݇ ή݁ି భయ௧ + ℎ è una soluzione di tale equazione differenziale.
+
+Determina i valori da assegnare alle costanti ݇ e ℎ in modo che la funzione ܿ(‫ )ݐ‬rappresenti
+l’andamento della concentrazione di CO2 a partire dall’istante ‫ݐ‬ൌ Ͳ di accensione
+dell’aeratore. Stabilisci quindi quanto tempo prima dell’inizio della riunione esso deve essere
+acceso, per soddisfare la richiesta dei condomini.
+L’impianto è in funzione da 10 minuti, quando i 50 partecipanti alla riunione accedono alla
+sala. Considerando che l’impianto rimane acceso anche durante la riunione e che un essere
+umano mediamente espira 8 litri/minuto di aria contenente il 4% di CO2 (fonte: OSHA,
+Occupational Safety and Health Administration), descrivi in termini qualitativi come cambierà
+l’andamento di c(t) dopo l’ingresso dei condomini nella sala, giustificando la tua risposta.
+
+O
+
+PI
+
+A
+
+4.
+
+C
+
+O
+
+3.
+
+Approssimando il volume della sala a 130 m3, ricava l’equazione differenziale che descrive
+l’andamento della concentrazione c(t) in funzione del tempo t (espresso in minuti). Verifica
+
+N
+FO
+
+2.
+
+R
+
+aerazione immette nella sala 20 ௠ ௜௡௨௧௢ di aria fresca contenente lo 0,1% di CO2.
+
+C
+
+PROBLEMA 2
+మ
+
+Fissato ݇ ‫ א‬Ը , la funzione ݃௞: ℜ → ℜ è così definita: ݃௞(‫ )ݔ‬ൌ ݁ି௞ή௫ .
+Si indica con Γ௞ il suo grafico, in un riferimento cartesiano ܱ௫௬ .
+
+1) Descrivi, a seconda delle possibili scelte di ݇ ‫ א‬Ը , l’andamento della funzione ݃௞.
+
+2) Determina per quali ݇ ‫ א‬Ը il grafico Γ௞ possiede punti di flesso e dimostra che, in tali casi, le
+ordinate dei punti di flesso non dipendono dal valore di ݇ e che le rette tangenti nei punti di
+ଶ
+flesso, qualunque sia ݇, passano tutte per il punto ܶ ቀͲǡ ௘ቁ.
+√
+
+Pag. 3/4
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Assumi nel seguito ݇ ൐ Ͳ. Sia ܵ௞ la regione di piano compresa tra l’asse ‫ ݔ‬e Γ௞.
+
+IM
+
+IU
+
+R
+
+3) Prova che esiste un unico rettangolo ℛ௞ di area massima, tra quelli inscritti in ܵ௞ e aventi un
+lato sull’asse ‫ݔ‬, e che tale rettangolo ha tra i suoi vertici i punti di flesso di Γ௞. È possibile
+scegliere ݇ in modo che tale rettangolo ℛ௞ sia un quadrato?
+௧
+
+మ
+
+‫ )ݐ(ܩ‬ൌ ʹߨ න ‫ ݔ‬ή݁ି௫ ݀‫ݔ‬ǡ
+଴
+
+determina il valore di
+
+lim ‫)ݐ(ܩ‬,
+
+LI
+
+௧՜ ାஶ
+
+AG
+
+e interpreta il risultato in termini geometrici.
+
+E
+
+QUESTIONARIO
+
+Si consideri questa equazione differenziale: ‫ݕ‬ᇱᇱ ൅ ʹ‫ݕ‬ᇱ ൅ ʹ‫ ݕ‬ൌ ‫ݔ‬. Quale delle seguenti funzioni
+ne è una soluzione? Si giustifichi la risposta.
+
+R
+
+M
+
+1.
+
+AT
+T
+
+4) Posto
+
+b) ‫ ݕ‬ൌ ʹ݁ି௫ ൅ ‫ݔ‬
+
+ଵ
+
+c) ‫ ݕ‬ൌ ݁ି௫(‫ ݔ݊݁ݏ‬൅ ܿ‫ )ݔݏ݋‬+ ଶ ሺ‫ ݔ‬െ ͳሻ
+
+Data la funzione così definita in ℝ:
+
+O
+
+2.
+
+N
+FO
+
+a) ‫ ݕ‬ൌ ݁ି௫(‫ ݔ݊݁ݏ‬൅ ܿ‫ )ݔݏ݋‬൅ ‫ݔ‬
+
+d) ‫ ݕ‬ൌ ݁ିଶ௫ ൅ ‫ݔ‬
+యିଵห
+
+݂(‫ )ݔ‬ൌ ‫ ݔ‬ή݁ିห௫
+
+,
+
+C
+
+determinarne minimi, massimi ed eventuali asintoti.
+Determinare la velocità di variazione dello spigolo di un cubo, sapendo che il volume del cubo
+
+A
+
+3.
+
+O
+
+PI
+
+è pari a Ͳǡͳ݉ ଷ e sta diminuendo alla velocità di 1200
+
+C
+
+4.
+
+5.
+
+6.
+
+ଵ
+
+௖௠ య
+௦௘௖
+
+.
+
+Posto, per ݊ ‫ א‬Գ, ‫ܣ‬௡ = ∫଴ ‫ݔ‬௡ ݁௫݀‫ݔ‬ǡstabilire il valore di ‫ܣ‬ଵ e dimostrare che, per ogni ݊ ൐ Ͳǡsi
+ha ‫ܣ‬௡ ൌ ݁െ ݊‫ܣ‬௡ିଵ.
+
+I lati di un triangolo ABC misurano: ‫ ܤܣ‬ൌ ͷܿ݉ , ‫ ܥܤ‬ൌ ͸ܿ݉ , ‫ ܣܥ‬ൌ ͷܿ݉ . Preso a caso un
+punto P all'interno del triangolo, qual è la probabilità che P sia più vicino al vertice B che al
+vertice A?
+I punti ‫(ܣ‬3, 4, 1)ǡ ‫(ܤ‬6, 3, 2)ǡ ‫(ܥ‬3, 0, 3)ǡ ‫ܦ‬ሺͲǡͳǡʹሻ sono vertici di un quadrilatero ABCD. Si
+dimostri che tale quadrilatero è un parallelogramma e si controlli se esso è un rettangolo.
+
+Pag. 4/4
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+IU
+
+R
+
+‫ ݔ‬൅ ‫ ݕ‬ൌ ‫ݖ‬൅ ͳ
+൜
+‫ ݖ‬ൌ െ‫ ݕ‬൅ ͳ
+
+Supponiamo che l'intervallo di tempo t (in anni) tra due cadute di fulmini in un'area di 100 m2
+sia dato da una variabile casuale continua con funzione di ripartizione:
+௭
+
+ܲ(‫ݐ‬൑ ‫ )ݖ‬ൌ න ͲǡͲͳ ή݁ି଴ǡ଴ଵ௦݀‫ݏ‬
+଴
+
+IM
+
+8.
+
+Determinare la distanza tra il punto ܲሺʹǡͳǡͳሻe la retta:
+
+AT
+T
+
+7.
+
+a) Si calcoli la probabilità che, in tale area, i prossimi due fulmini cadano entro non più di
+200 anni l’uno dall’altro.
+
+Una curva “a spirale” inizia nel punto A, come indicato in
+figura, ed è formata congiungendo un numero infinito di
+semicirconferenze di diametri sempre più piccoli. Il diametro
+݀ଵ della prima semicirconferenza è di ͺ Ͳܿ݉ . Il diametro ݀ଶ
+ଷ
+
+E
+
+9.
+
+AG
+
+LI
+
+b) Si determini qual è il minimo numero di anni z, tale che sia almeno del 95% la probabilità
+che i prossimi due fulmini cadano in tale area entro non più di z anni l’uno dall’altro.
+
+ଷ
+
+ଷ
+
+M
+
+della seconda è pari ai ହ di ݀ଵ. Il diametro ݀ଷ della terza è pari
+
+R
+
+ai ହ di ݀ଶ, e così via: ݀௡ାଵ = ହ ݀௡ per ogni n.
+
+N
+FO
+
+Con lo sviluppo della curva, gli estremi delle varie
+semicirconferenze tendono al cosiddetto “occhio” E della spirale (ossia l’unico punto contenuto
+in tutti i vari diametri).
+Qual è la distanza (in linea retta) tra il punto A e il punto E?
+
+O
+
+E qual è la lunghezza del cammino che va da A a E, percorrendo l’intera curva?
+
+C
+
+10. Si stabilisca il valore del limite:
+
+C
+
+O
+
+PI
+
+A
+
+ߨ
+ʹ െ ͹͵ ήܿ‫ݏ݋‬ଷሺͶ‫ ݔ‬൅ 11)
+lim
+ߨ ,
+௫՜ ାஶ
+ͷ‫ ݔ‬െ ‫݊݁ݏ‬ଶሺ‫ ݔ‬െ 7)
+motivando adeguatamente la risposta.
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,362 @@
+Pag. 1/7
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+Il candidato, dopo aver letto attentamente, scelga una sola delle due tracce ed affronti la soluzione
+del tema e di due quesiti tra i quattro proposti nella traccia selezionata.
+
+TRACCIA A
+
+PRIMA PARTE
+TEMA A
+Si vuole dimensionare un deposito automatizzato per lo stoccaggio di scatole di libri costituito da
+scaffalature bifronti a semplice profondità, servito da trasloelevatori in modo da assicurare una
+potenzialità ricettiva pari a 18.000 U.d.C e una potenzialità di movimentazione almeno pari a 90
+UdC/h.
+Allo scopo sono assegnati i seguenti dati di progetto:
+‐ altezza massima delle scaffalature: 27 m;
+‐ lunghezza massima delle scaffalature: 85 m;
+‐ dimensioni dell’unità di carico: 0,8 x 1,2 x 1,60 (hMAX) m;
+‐ spessore frontale dei montanti: 100 mm;
+‐ spessore frontale dei correnti: 120 mm; portata massima 2000 kg;
+‐ gioco tra due U.d.C. affiancate nello stesso vano: 40 mm;
+‐ gioco tra singola U.d.C. e montante: 80 mm;
+‐ gioco tra singola U.d.C. e corrente: 150 mm;
+‐ distanza tra due U.d.C. contrapposte sulla scaffalatura bifronte: 200 mm;
+‐ larghezza corridoio: 1500 mm;
+‐ prestazioni del trasloelevatore:
+ velocita di traslazione verticale a regime: 0,6 m/s
+ velocita di traslazione orizzontale a regime: 2,2 m/s;
+ tempo fisso per posizionamento, ciclo forche, transitori di accelerazione e decelerazione;
+trasbordo: tF= 62 s;
+Assumendo le seguenti ipotesi:
+‐ equiprobabilità di accesso ai vani;
+‐ punto di I/O del traslo 3° livello;
+‐ il 60% dei cicli sia semplice ed il restante 40% sia combinato;
+‐ le U.d.C. sono costituite da scatole di cartone ondulato di misure esterne 400 x 300 x 200 (h)
+mm e di peso di 0,522 kg contenenti 24 manuali del peso di 0,720 kg ciascuno.
+
+Pag. 2/7
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+Si chiede di determinare:
+1.
+
+le caratteristiche dell’U.d.C.: n° scatole per strato, n° strati, peso totale e altezza totale
+considerando pallet EPAL di altezza 144 mm e tara 22 kg;
+
+2.
+
+il numero di U.d.C. per vano e le dimensioni del singolo vano;
+
+3.
+
+il numero di corridoi;
+
+4.
+
+il numero di livelli di stoccaggio ed il numero di colonne di vani; ed in definitiva le dimensioni
+della singola scaffalatura;
+
+5.
+
+il coefficiente di utilizzazione superficiale del magazzino;
+
+6.
+
+i tempi medi di ciclo semplice e combinato;
+
+7.
+
+la potenzialità di movimentazione del singolo trasloelevatore;
+
+8.
+
+la potenzialità di movimentazione complessiva del sistema.
+
+Il candidato scelga e indichi in modo esplicito tutti i parametri e le assunzioni dimensionali
+necessari per la soluzione.
+SECONDA PARTE
+Quesito 1A
+Un trasloelevatore per magazzino automatico opera da una quota ingresso/uscita Y I/O = 4 livello, e il
+magazzino ha un’altezza di 27 metri; il modulo base relativo alle scaffalature ha un’altezza pari a 1,8
+m che si ripetono sino a copertura.
+La lunghezza complessiva del magazzino risulta essere pari a 60 m.
+‐ Costruire il diagramma delle potenzialità di movimentazione del trasloelevatore.
+‐ Valutare i tempi di lavoro relativi alle due aree per quanto riguarda sia la corsa in altezza che
+quella in lunghezza.
+‐ Determinare i tempi di ciclo semplice e ciclo combinato.
+Il candidato assuma ogni altro dato necessario per lo svolgimento del problema.
+Quesito 2A
+Il candidato illustri le principali disposizioni antinfortunistiche ed i dispositivi di sicurezza da
+prevedere in un magazzino automatizzato; spieghi inoltre cos’è la normativa FEM.
+
+Pag. 3/7
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+Quesito 3A
+L’azienda XYXY deve analizzare i dati raccolti nell’ultimo mese per valutare il grado di puntualità
+delle consegne effettuate.
+Utilizzando i dati della tabella calcolare in valore assoluto e percentuale i seguenti indicatori:
+P1: puntualità (non in ritardo)
+P2: consegne on-time
+P3: non puntualità
+Individuare qual’ è il valore maggiormente
+problematico, ipotizzarne le possibili cause e
+suggerire un intervento di miglioramento
+
+n°totale di consegne/mese
+consegne in anticipo
+consegne in ritardo
+di cui:
+ritardo di 1g
+ritardo di 2g
+ritardo di 3g
+
+6500
+250
+318
+285
+28
+5
+
+Quesito 4A
+Valutare la disposizione dei pallet sui mezzi di trasporto di seguito indicati:
+tipo
+bilico
+autotreno
+
+Dimensioni
+13,60 x 2,44 x 2,60
+(7,5+7,5) x 2,44 x 2,70
+
+Capacità di carico
+24 t
+24 t
+
+Costo viaggio
+100€ costo fisso + 2,5 €/km
+150€ costo fisso + 3 €/km
+
+Considerando una gestione dei trasporti monoprodotto:
+a)
+
+determinare la miglior configurazione delle UDC al fine del trasporto sulle due tipologie di mezzi
+sopra riportate, fornendo uno schema di riferimento in scala;
+
+b) calcolare il costo unitario di trasporto per ciascuna configurazione, valutando un tragitto medio
+di 180 km;
+c)
+
+redigere una sintetica relazione inerente il trasporto della merce.
+
+Pag. 4/7
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+TRACCIA B
+
+PRIMA PARTE
+TEMA B
+Al responsabile della logistica dell’azienda “Lamdadelta” Spa è stato chiesto di valutare le scorte ed
+il costo totale atteso annuale di stoccaggio relativi a due diverse supply chain così costituite:
+Scenario 1: Factory che rifornisce un centro di distribuzione che a sua volta rifornisce 8 rivenditori
+che servono altrettanti mercati.
+Il Lead Time di approvvigionamento Factory→CEDI è di 2 giorni con una deviazione standard di 1
+giorno.
+Il Lead Time di approvvigionamento CEDI→Rivenditore è in media di 3 giorni con una deviazione
+standard di 1 giorno.
+Scenario 2: Factory che rifornisce 2 centri di distribuzione che riforniscono ciascuno 4 rivenditori.
+Il Lead Time di approvvigionamento Factory→CEDI è di 2 giorni.
+Il Lead Time di approvvigionamento CEDI→Rivenditore è pari a 3 giorni con una deviazione
+standard di 1 giorno.
+La “Lamdadelta” Spa rifornisce i rivenditori periferici di zucchero.
+Dai dati storici relativi allo scorso semestre si prevede che la domanda media di zucchero di ogni
+rivenditore sarà di 820 pallet/mese, e la deviazione standard pari a 60.
+Sapendo che:
+‐
+Il costo unitario di un pallet di pasta è di 85 €;
+‐
+Il costo fisso di emissione di un ordine è di 125 €;
+‐
+Il tasso d’interesse mensile maggiorato dei costi di gestione e di magazzino è dell’1,5%;
+‐
+Il livello di servizio da assicurare è pari al 96%;
+‐
+L'approvvigionamento è a lotti;
+‐
+Le domande sono da considerarsi statisticamente indipendenti.
+
+Pag. 5/7
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+Il candidato rappresenti graficamente le due reti distributive e valuti:
+tutti i parametri necessari per calcolare il costo medio (atteso) d’immagazzinamento mensile presso
+ogni rivenditore e l’indice di rotazione di magazzino semestrale (atteso) applicando le seguenti due
+politiche:
+a) fixed order quantity
+b) fixed period quantity
+Sapendo che l’impiego della politica a) presenta un costo mensile di attuazione (indipendente dal
+livello d’inventario) pari a 40 €/mese e quello della politica b) di 10 €/mese, specificare, per ciascuno
+scenario, qual è la miglior politica che minimizza i costi medi d’inventario e di attuazione.
+Supponendo che:
+‐
+
+presso i rivenditori si adotti (per entrambi gli scenari) la politica migliore individuata al punto
+precedente;
+
+‐
+
+presso i CEDI si adotti la politica a fixed order quantity, sulla base degli stessi costi unitari
+considerati per i rivenditori;
+
+‐
+
+il livello di servizio nei CEDI sia almeno pari a quello dei rivenditori;
+
+‐
+
+i CEDI siano a conoscenza dei dati stimati relativi alla domanda di ciascun mercato;
+
+si valuti quale dei due scenari è più conveniente dal punto di vista del costo totale mensile atteso di
+stoccaggio della merce, considerate le scorte on-hand ai centri di distribuzione e ai rivenditori.
+
+Pag. 6/7
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+Il candidato scelga e indichi in modo esplicito tutti i parametri e le assunzioni dimensionali
+necessari per la soluzione.
+SECONDA PARTE
+Quesito 1B
+Relativamente al Tema precedente si supponga che presso un generico rivenditore durante i 3 mesi del
+nuovo trimestre si applichi la politica fixed order quantity e che queste siano le reali domande mensili:
+I mese
+850
+
+II mese
+932
+
+III mese
+1023
+
+Rappresentare graficamente l’andamento del livello di inventario in funzione del tempo, specificando le
+coordinate dei punti in cui cambia la pendenza della spezzata e supponendo che all’inizio del periodo il
+livello delle scorte sia di 320 pezzi (nel grafico: 1 mese = 30 giorni)
+Quesito 2B
+L’Azienda Rossi ha venduto, in f.co domicilio, DAP Azienda Bianchi, la merce sotto descritta (12
+bancali) che verrà trasportata da Genova a Parigi dal trasportatore camionistico Verdi.
+Merce:
+‐
+‐
+
+6 Bancali (marchiati X) aventi dimensioni unitarie 0,80 x 1,20 x 1,00 m e peso unitario 160 kg
+6 Bancali (marchiati Y) aventi dimensioni unitarie 1,20 x 0,80 x 1,40 m e peso unitario 210 kg
+
+Determinare:
+‐
+‐
+‐
+‐
+‐
+‐
+
+Piano di carico (schizzo che evidenzia come posizionare i bancali sul semirimorchio)
+Metri Lineari utilizzati sul Semirimorchio
+Peso reale totale
+Volume totale
+Peso volumetrico
+Peso tassabile
+È nota la T A R I F F A:
+da 21 q a 30 q : 75,00€/q
+da 31 q a 40 q : 70,00€/q
+da 41 q a 50 q : 65,00€/q
+con arrotondamento al quintale superiore
+
+‐
+‐
+
+Nolo
+Tariffa finale Pagata dal Cliente del trasportatore
+
+Pag. 7/7
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+Quesito 3B
+Nelle baie di carico del CEDI XXXXLOGISTIC ogni giorno sono allestiti per essere spediti il giorno
+successivo 180 “groupage” ognuno dei quali è costituito mediamente da 40 codici diversi. Ogni codice
+può avere una diversa quantità. Considerando un errore di quantità all’interno di un codice di un
+groupage come “difetto”:
+
+
+Individuare la numerosità del campione da prelevare, i numeri di accettazione e rifiuto nel caso sia
+applicato un controllo per attributi secondo la norma UNI ISO 2859-1 con un piano di controllo
+generale con livello ordinario, campionamento semplice, LQA=0,4.
+
+
+
+Discutere l’opportunità di applicare un LQA differente.
+
+Quesito 4B
+Il candidato esprima il significato del termine QUALITÀ secondo la norma UNI EN ISO 9000 DICEMBRE 2000 e illustri, anche facendo degli esempi, i concetti di “Requisito” e di “Caratteristica”.
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, calcolatrici non programmabili, schede tecniche ed estratti di tabelle relative
+alla normativa.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

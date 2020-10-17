@@ -1,0 +1,241 @@
+Pag. 1/4
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M884 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+In un sistema automatizzato di riempimento e pesatura di barattoli di vernice spinti su un nastro
+trasportatore vengono impiegati due trasduttori per il posizionamento del contenitore in
+corrispondenza dell’ugello di erogazione del prodotto.
+Il primo è un trasduttore di posizione ad ultrasuoni ed è impiegato per rilevare la posizione del
+barattolo mentre scorre su un nastro trasportatore. Tale dispositivo misura la distanza mediante il
+calcolo del tempo di ritorno di un impulso sonoro che incontra un ostacolo e ha un’uscita in
+tensione con andamento riportato nel grafico1
+
+Sensore di posizione
+Rapporto Input/Output
+7,0
+
+Tensione (mV)
+
+6,0
+5,0
+4,0
+3,0
+2,0
+1,0
+0,0
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+Distanza (mm)
+
+Grafico 1
+
+La distanza minima rilevabile è 100 mm e la massima 600 mm.
+
+700
+
+800
+
+900
+
+Pag. 2/4
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M884 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+Il secondo è un sensore di peso in grado di rilevare il peso con un errore massimo di 2 g fornendo in
+uscita una corrente proporzionale al peso misurato secondo la relazione:
+
+𝐼0 = 𝑘 ∗ 𝑝
+essendo
+
+k = 10-4 [A*g-1]
+20  p  280 [g]
+
+Il sistema si completa con gli attuatori assimilabili a dispositivi ON/OFF rispettivamente per
+l’apertura /chiusura dell’ugello e per il blocco/movimento del nastro trasportatore.
+Il processo da controllare prevede l’acquisizione della distanza del recipiente dal sensore e il blocco
+del nastro quando questa risulta essere pari a 500 mm. Con un tempo di ritardo di 1 secondo, dal
+momento del blocco del nastro, deve essere aperto l’ugello erogatore che verrà richiuso quando il
+peso del contenitore sarà pari a 250 g. Con un ulteriore ritardo di 1 secondo il nastro trasportatore
+deve essere rimesso in moto e consentire così la ripresa del processo che prevede il riempimento di
+150 contenitori.
+Il candidato, fatte le ipotesi aggiuntive che ritiene del caso, deve:
+1.
+
+Rappresentare mediante uno schema a blocchi l’hardware della catena di acquisizione e di
+attuazione riferita ad un sistema programmabile di sua conoscenza descrivendolo dal punto di
+vista funzionale.
+
+2.
+
+Progettare un software di gestione che provveda all’esecuzione delle singole fasi di
+lavorazione.
+
+3.
+
+Codificare il software di cui al punto 2 in un linguaggio di programmazione coerente con il
+sistema programmabile adottato.
+
+4.
+
+Riportare lo schema dettagliato dell’hardware relativo allo schema a blocchi accompagnato da
+una relazione tecnica riportante i dati di progetto.
+
+Pag. 3/4
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M884 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+SECONDA PARTE
+1.
+
+In relazione allo schema progettuale presentato si elabori una variazione dell’hardware e del
+relativo software che preveda l’inserimento di un pulsante ON/OFF (che in condizioni normali
+si trova sulla posizione OFF) da utilizzare in caso l’operatore ravveda una situazione anomala:
+la pressione del pulsante deve arrestare il nastro trasportatore e attivare un segnale luminoso di
+avvertimento. Il processo può riprendere solo quando il pulsante torna nella posizione OFF.
+
+2.
+
+In relazione al progetto presentato si elabori una variazione hardware e relativo software che
+preveda il blocco del processo ad intervalli regolari di 15 riempimenti per consentire
+l’inscatolamento dei contenitori: l’interruzione deve essere regolata da un timer esterno che
+viene attivato al termine della sequenza di riempimento prevista e mantiene il sistema in standby per 2 minuti, terminati i quali il processo riprende.
+
+3.
+
+Un sistema rappresentato dallo schema riportato in figura presenta funzioni di trasferimento di
+seguito riportate:
+
+𝐴(𝑠) =
+
+X(s)
+
+50
+𝑠+10
+
+𝐵(𝑠) =
+
+5000
+𝑠+103
+
+𝐻(𝑠) =
+
+1
+2
+
++
+
+Y(s)
+_
+
+A(s)
+
+B(s)
+
+C(s)
+
+H(s)
+
+dopo aver calcolato la funzione di trasferimento ad anello chiuso per C(s) unitario si calcoli il
+margine di fase della funzione ad anello aperto. Si progetti quindi una rete correttrice C(s) che
+soddisfi le condizioni seguenti:
+
+Pag. 4/4
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M884 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+4.
+
+a.
+
+errore statico nullo in uscita per ingresso a gradino unitario;
+
+b.
+
+margine di fase della funzione ad anello aperto non inferiore a 45°.
+
+Dato il sistema rappresentato in figura ricavare la funzione di trasferimento ad anello chiuso in
+funzione dell’ingresso X(s) e del disturbo additivo d
+
+d
+X(s)
+
++
+
++
+
+A(s)
+
+_
+
+C(s)
+
+Y(s)
+
+b
+Considerate quindi:
+
+𝐴(𝑠) =
+
+1000
+𝑠+102
+
+𝛽=
+
+1
+10
+
+determinare la funzione C(s), considerata di tipo proporzionale puro, affinché il disturbo risulti
+a regime attenuato del 50% in assenza di eccitazione X(s) e nell’ipotesi che il disturbo d sia di
+tipo sinusoidale con ampiezza unitaria e pulsazione 80 rad/sec.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,143 @@
+Pag. 1/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M047 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+
+Il candidato (che potrà eventualmente avvalersi delle conoscenze e competenze maturate attraverso
+esperienze di alternanza scuola-lavoro, stage o formazione in azienda) svolga la prima parte della
+prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una scuola superiore con 1000 studenti è ospitata in un moderno edificio a due piani.
+Negli uffici di segreteria e presidenza, situati al piano terra, ci sono 15 postazioni di lavoro fisse
+connesse da un’infrastruttura di rete Ethernet con apparati a 100 Mb/s. Questa rete, d’ora in poi
+denominata “rete amministrativa”, è collegata ad Internet attraverso una linea ADSL a 7 Mb/s.
+I computer presenti nei 10 laboratori didattici e le altre postazioni fisse a disposizione dei docenti
+sono anch’essi collegati tramite una seconda rete Ethernet (d’ora in poi denominata “rete didattica”)
+con apparati a 100 Mb/s; la rete didattica è totalmente separata da quella amministrativa e si connette
+alla rete Internet mediante una seconda linea ADSL a 24 Mb/s. L’attuale separazione fisica delle due
+reti garantisce che le informazioni trattate all’interno della rete amministrativa non siano accessibili
+dalla rete didattica.
+La scuola ha esigenze crescenti di servizi di rete, sia per quanto riguarda l’attività amministrativa (che
+sempre più viene svolta su portali esterni ministeriali e privati come per il registro elettronico), sia
+per quanto riguarda la didattica innovativa e multimediale. Per questo motivo la scuola intende
+aggiornare la sua infrastruttura al fine di conseguire i seguenti obiettivi:
+a)
+
+sostituire, per l’accesso ordinario ad Internet, le due linee ADSL con un’unica linea più
+performante, per connettere alla rete globale sia la rete didattica che quella amministrativa, pur
+continuando a mantenere separato il traffico delle due reti; si decide comunque di mantenere con
+altro scopo una delle due linee ADSL preesistenti, per disporre di una linea di riserva da utilizzare
+in caso di malfunzionamenti sulla nuova connessione Internet unica;
+
+b) aumentare la banda disponibile per i computer presenti nei laboratori didattici e dei docenti;
+c)
+
+offrire una piattaforma interna per la didattica multimediale e per servizi in streaming, accessibile
+sia dalla rete locale interna alla scuola che tramite Internet;
+
+d) garantire la sicurezza della rete interna da possibili minacce, sia interne che esterne.
+
+Pag. 2/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M047 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+
+Il candidato, formulate le opportune ipotesi aggiuntive, sviluppi i seguenti punti:
+1.
+
+rappresenti graficamente uno schema logico dell’infrastruttura di rete esistente;
+
+2.
+
+proponga un progetto anche grafico per l’evoluzione di tale infrastruttura, che soddisfi le
+esigenze sopra esplicitate, indicando le risorse hardware e software necessarie; approfondisca in
+particolare le caratteristiche della nuova connessione Internet, i meccanismi per mantenere la
+separazione del traffico tra le due reti interne, la migrazione degli apparati, gli strumenti di
+sicurezza, la gestione della linea ADSL di riserva;
+
+3.
+
+proponga i principali servizi da implementare, esemplificando le relative configurazioni per uno
+di essi a sua scelta;
+
+4.
+
+specifichi le misure necessarie a prevenire possibili interruzioni nel servizio della piattaforma
+multimediale.
+
+SECONDA PARTE
+1.
+
+In relazione al tema proposto nella prima parte, la scuola intende sviluppare per le classi quinte
+una didattica basata sul principio del BYOD (Bring Your Own Device), che consiste nell’utilizzo
+in classe dei dispositivi mobili degli studenti (smartphone, tablet, Pc portatili, …) per la didattica
+ordinaria, con accesso ad Internet.
+Il candidato integri opportunamente il progetto, evidenziando in particolare:
+
+2.
+
+-
+
+l’hardware e i servizi necessari all’implementazione di tale infrastruttura;
+
+-
+
+le modalità di limitazione dell’accesso a docenti e studenti delle quinte;
+
+-
+
+le problematiche che si potrebbero presentare e le possibili soluzioni.
+
+In relazione al tema proposto nella prima parte, si immagini di volere gestire sul server Web un
+sistema di semplici news interne alla scuola, caratterizzate da un autore, un titolo, un contenuto
+testuale, un possibile contenuto multimediale e una data di inserimento, che potranno essere
+inserite dai membri del comitato di redazione.
+Il candidato progetti lo schema concettuale e logico della porzione della base di dati necessaria
+alla gestione delle news. Progetti poi le pagine Web per la visualizzazione dei dati relativi ad uno
+specifico articolo, e ne codifichi in un linguaggio a sua scelta una parte significativa.
+
+Pag. 3/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M047 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+
+3.
+
+Vista la crescente quantità di informazioni che transitano sulla rete Internet, le tecniche che
+consentono di garantire la riservatezza delle comunicazioni rivestono sempre maggiore
+importanza.
+A tale proposito il candidato esponga le caratteristiche principali della crittografia simmetrica e
+asimmetrica e le loro modalità di impiego.
+
+4.
+
+Le società che possiedono più sedi, o che hanno personale che opera in trasferta, necessitano di
+tecnologie idonee ad uno scambio dati in tempo reale ma al tempo stesso sicuro.
+Si espongano le possibili soluzioni che rispondono a questo tipo di esigenza, discutendone in
+dettaglio le caratteristiche a livello di protocolli.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

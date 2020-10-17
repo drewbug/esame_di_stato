@@ -1,0 +1,62 @@
+Pag. 1/1
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M749 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE E MANUTENZIONE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+All’interno di uno stabilimento industriale, nell’ambito della riqualificazione energetica, sono previsti
+interventi sia sugli impianti elettrici che termici. L’impianto elettrico alimenta fra l’altro due linee
+trifase ed una monofase, mentre l’impianto termico è realizzato solo nella zona uffici per mezzo di
+una caldaia tradizionale a basso rendimento.
+Il candidato, fatte le ipotesi aggiuntive ritenute necessarie:
+1. descriva, anche tramite schemi, la struttura dell’impianto elettrico e quella dell’impianto termico;
+2. individui la tipologia degli interventi adeguati per la riqualificazione energetica;
+3. formuli e giustifichi un elenco dei possibili e più probabili guasti in una delle due tipologie di
+impianti;
+4. indichi le principali attività da svolgere per effettuare la manutenzione ordinaria avendo cura di
+descrivere quali mezzi, attrezzature e risorse umane sono necessari.
+SECONDA PARTE
+1.
+
+Il candidato, ipotizzi le fasi operative comprensive del collaudo finale degli impianti elettrici e
+termici riqualificati e dopo aver valutato la tipologia dei rischi per ciascuna fase indichi le misure
+di prevenzione e protezione e la tipologia del DPI da adottare.
+
+2.
+
+Il candidato ipotizzi un intervento di manutenzione straordinaria su uno dei due impianti e rediga
+un computo metrico di offerta per gli interventi da effettuare da sottoporre al cliente.
+Calcolare l’affidabilità del sistema complessivo per un tempo di missione di 6 anni noti i valori
+dei tassi di guasto dei singoli componenti:
+
+3.
+
+ruota 1
+
+= 2 * 10-7 guasti/ora
+
+ruota 2
+
+= 3 * 10-7 guasti/ora
+
+cuscinetto = 13 * 10-6 guasti/ora
+albero
+4.
+
+= 1 * 10-7 guasti/ora
+
+Il candidato illustri la funzione e il principio di funzionamento degli interruttori magnetotermici
+e ne descriva i parametri caratteristici.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

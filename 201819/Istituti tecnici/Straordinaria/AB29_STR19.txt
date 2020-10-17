@@ -1,0 +1,115 @@
+Pag. 1/3
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un centro commerciale è costituito da un edificio ed un garage sotterraneo; all’interno del centro commerciale
+sono installati tappeti mobili e ascensori per il collegamento tra i piani.
+L’ingresso e l’uscita dal garage sono regolati da due sbarre, che vengono attivate tramite motori elettrici
+(M1 e M2).
+L’accesso al garage è consentito tutti i giorni dalle ore 7:30 alle ore 21:00, mentre l’uscita non ha limiti
+d’orario.
+In prossimità della sbarra di entrata è installata una fotocellula mentre per la sbarra di uscita sono previsti,
+dalla parte interna, un rilevatore magnetico e, in prossimità della sbarra, una ulteriore fotocellula, come in
+figura.
+
+Per abilitare la sbarra d’ingresso, deve essere premuto un pulsante di apertura posto su una apposita colonnina;
+la sbarra si alza solo se ci sono posti disponibili all’interno del garage.
+Quando l’auto sta transitando in prossimità della sbarra, la fotocellula mantiene la sbarra in posizione verticale.
+Un semaforo, posto all’ingresso del garage, segnala con la luce rossa all’auto di arrestarsi, mentre con la verde
+di procedere verso l’interno.
+Se la fotocellula non rileva la presenza di autovetture, dopo tre secondi la sbarra ritorna nella posizione di
+riposo, altrimenti rimane ferma per altri due secondi fino a che non sia transitata tutta l’auto sulla linea del
+fascio luminoso. Le posizioni orizzontali e verticali della sbarra vengono rilevate da due opportuni finecorsa.
+La presenza di un’auto in uscita è rilevata dal sensore magnetico che abilita il funzionamento della sbarra il
+cui comportamento è identico a quello della sbarra di entrata.
+Un contatore ‘avanti-indietro’, attivato dalle fotocellule, verifica il numero delle auto presenti nel garage:
+• se il conteggio è pari al massimo consentito, la sbarra di entrata viene bloccata e il semaforo diventa
+rosso;
+• se non è raggiunta la capienza massima, il semaforo diventa verde.
+
+Pag. 2/3
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Il sistema automatico di gestione del garage è inoltre provvisto di un pulsante di STOP che arresta i motori
+delle sbarre e spegne il semaforo.
+Il candidato, fatte le eventuali ulteriori ipotesi aggiuntive che ritiene necessarie:
+1. rappresenti, usando un linguaggio a sua scelta, l'algoritmo di gestione del garage;
+2. elabori il programma in grado di gestire l'automatismo, utilizzando un sistema programmabile di sua
+conoscenza;
+3. dimensioni la potenza del motore per la movimentazione di uno degli ascensori, considerando che
+l’ascensore è omologato per 6 persone (e quindi per una massa di 450 kg) con una corsa di 25 metri
+alla velocità di 0,63 m/s;
+4. descriva come poter garantire la continuità elettrica nel garage nel caso di interruzione
+dell’alimentazione di rete e scelga un dispositivo idoneo allo scopo.
+
+SECONDA PARTE
+Quesito 1
+Con riferimento alla prima parte della prova, i tappeti mobili installati sono del tipo a risparmio energetico,
+ossia la velocità del motore che li movimenta aumenta quando viene rilevata la presenza di passeggeri sul
+tappeto.
+I tappeti mobili hanno un funzionamento continuo a marcia lenta, con velocità di circa 0,1 m/s in assenza di
+passeggeri, mentre in presenza di passeggeri la velocità nominale è di 0,5 m/s.
+Il candidato, fatte le eventuali ipotesi aggiuntive che ritiene necessarie, descriva come poter effettuare la
+variazione di velocità richiesta e dimensioni il dispositivo idoneo.
+
+Quesito 2
+Con riferimento alla prima parte della prova, il candidato, facendo le ipotesi aggiuntive che ritiene necessarie,
+descriva un algoritmo che fornisca la statistica relativa alla occupazione media giornaliera dei posti disponibili
+e codifichi, nel linguaggio di programmazione coerente con il dispositivo programmabile scelto, l’algoritmo
+suddetto.
+
+Pag. 3/3
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Quesito 3
+Un carico che assorbe una corrente pari a 600 A è alimentato da due dinamo ad eccitazione separata collegate
+in parallelo. Le due dinamo hanno tensione nominale pari a 230 V e sono caratterizzate dai seguenti dati
+caratteristici:
+Potenza nominale
+Variazione di tensione da vuoto a carico
+
+Dinamo A Dinamo B
+80 kW
+100 kW
+6%
+4%
+
+Il candidato, fatte le eventuali ulteriori ipotesi aggiuntive che ritiene necessarie, determini la potenza assorbita
+dal carico e la corrente erogata da ciascuna dinamo.
+
+Quesito 4
+Si consideri il sistema elettrico riportato nella figura seguente:
+
+Il candidato, dopo aver ricavato la funzione di trasferimento del sistema Vo(s) / Vi(s) e calcolato i valori degli
+zeri e dei poli, ne fornisca l’andamento della risposta in frequenza nell’ipotesi che i componenti della rete
+elettrica abbiano tutti valore unitario.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

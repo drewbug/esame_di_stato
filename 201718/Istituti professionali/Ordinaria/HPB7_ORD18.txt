@@ -1,0 +1,449 @@
+Pag. 1/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB7 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG ERZEUGNISSE AUS INDUSTRIE UND HANDWERK
+SCHWERPUNKT INDUSTRIE
+Arbeit aus: FERTIGUNGSTECHNIK UND PRODUKTION
+
+ACHTUNG
+Die vorliegende Arbeit enthält die jeweils unterschiedlichen Prüfungsarbeiten für die Kandidatinnen
+und Kandidaten mit folgenden Berufsbildungsdiplomen:
+A)
+
+BAUTECHNIK (Bruneck)
+
+Seiten 2-6
+
+B)
+
+MASCHINENBAU (Brixen)
+
+Seiten 7-9
+
+C)
+
+MÖBELBAU (Brixen)
+
+Seiten 10-11
+
+D)
+
+MULTIMEDIAGESTALTUNG (Bozen)
+
+Seite 12
+
+Die Vorsitzende/der Vorsitzende der Kommission ist gebeten, darauf zu achten, dass alle
+Kandidatinnen und Kandidaten die ihrem Berufsbildungsdiplom entsprechenden Prüfungsarbeiten
+erhalten.
+
+Pag. 2/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB7 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG ERZEUGNISSE AUS INDUSTRIE UND HANDWERK
+SCHWERPUNKT INDUSTRIE
+Arbeit aus: FERTIGUNGSTECHNIK UND PRODUKTION
+
+A) BAUTECHNIK (Bruneck)
+Für alle Kandidaten dieser Gruppe ist die Nutzung eines von der Schule zur Verfügung gestellten
+PCs samt installierter Software (Architext, Autocad, Excel, Word) ohne Internetzugang erlaubt. Für
+die Bewertung muss die Arbeit ausgedruckt und in Papierform abgegeben werden.
+
+Teil I: Bearbeiten Sie folgende Problemstellung
+
+Die Stadtgemeinde beabsichtigt, die „Alte Turnhalle“ aus dem Jahre 1913 zu sanieren, da die Mauern
+feucht sind. Dazu hat sie von einem Geometer eine Bestandsaufnahme erstellen lassen (siehe
+Grundriss und Ansichten). Der Bürgermeister lädt Ihre Baufirma für die Sanierungsarbeiten zu einem
+Angebot ein. Ein Ingenieur hat empfohlen, eine Drainage rund um das historische Gebäude zu
+errichten.
+Erstellen Sie folgende Unterlagen:
+1. Beschreibung der Arbeiten und gewählten Materialien (in einem Worddokument)
+2. Angebot (Detaillierte Massenberechnung und Kostenschätzung in einem Ausdruck)
+3. Abrechnung (Baufortschritt und Maßbuch, zwei getrennte Ausdrucke)
+4. Zeichnung des Grundrisses und des Schnittes der Drainage mit genauer Angabe der gewählten
+Baumaterialien in der Phase des Angebotes.
+Erläuterungen zur Aufgabenstellung:
+Die Drainage kann am 21,20 m entfernten Regenwasserschacht, der sich östlich der Eingangstür
+befindet, angeschlossen werden.
+Das Angebot darf den Betrag von 40.000 € nicht überschreiten, um eine Direktvergabe zu
+ermöglichen.
+Frei gewählt werden können die Baumaterialien und die Arbeitsschritte. Sie müssen jedoch in einem
+Worddokument beschrieben und im Grundriss und in einem selbst erstellten Schnitt genau definiert
+und klar gekennzeichnet werden.
+Das Angebot kann mit Hilfe der Preise und Positionen aus dem Landesrichtpreisverzeichnis im
+Tiefbau erstellt werden. Die Massenberechnung ist genau aufzuschlüsseln und die Massen sind laut
+beiliegender Zeichnung zu ermitteln.
+
+Pag. 3/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+A) BAUTECHNIK (Bruneck)
+
+Nachdem die Arbeiten erfolgreich durchgeführt wurden, wird die Arbeit mit einem zuvor
+vereinbarten Abschlag von 2,25% abgerechnet. Der Gemeindesekretär fordert eine genaue
+Abrechnung der Arbeiten ein, um diese zu kontrollieren und anschließend zu begleichen.
+Im Zuge der Arbeiten hat die Stadtgemeinde Ihre Baufirma beauftragt, eine Fläche von 18,50 m² vor
+dem Eingang der Alten Turnhalle mit Pflastersteinen aus Granit zu verlegen. Zudem musste die
+Drainage an einen anderen Regenwasserschacht angeschlossen werden, der sich in einer Entfernung
+von 24,65 m westlich der Eingangstür der Alten Turnhalle befindet.
+
+Teil II: Bearbeiten Sie zwei der folgenden vier Fragestellungen.
+1. Um die Sicherheit der Arbeiter auf der Baustelle zu gewährleisten, muss von jeder auf der
+Baustelle beteiligten Baufirma der Einsatzsicherheitsplan (ESP) erstellt werden. Welche Inhalte
+sollte dieser spezifisch für jede Baustelle beinhalten?
+2. Bei Abrechnungen muss vom Bautechniker ein Maßbuch, Baufortschritt und ein
+Buchhaltungsregister erstellt werden. Erklären Sie anhand eines Beispiels mit drei Positionen,
+worin der Unterschied zwischen einem Baufortschritt und einem Buchhaltungsregister liegt.
+3. Damit Vermessungspunkte im Bauwesen abgesteckt werden können, müssen die
+Absteckelemente a und b eines abzusteckenden Punktes P anhand von drei bekannten Punkten,
+deren Koordinaten bekannt sind, errechnet werden. Schreiben Sie die Formeln zur Berechnung
+der Absteckelemente a und b an.
+4. Welche Daten werden in einem Vermessungsgerät gespeichert, um diese dann für die Erstellung
+eines 3D-Lageplans verwenden zu können?
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Für alle Kandidaten der Gruppe „BAUTECHNIK“ ist die Nutzung eines von der Schule zur Verfügung gestellten PCs
+samt darauf installierter Software (Architext, Autocad, Excel, Word) ohne Internetzugang erlaubt. Für die Bewertung
+muss die Arbeit ausgedruckt und in Papierform abgegeben werden.
+ Landesrichtpreisverzeichnisse in Hoch- und Tiefbau der Autonomen Provinz Bozen im pdf-Format im lokalen Ordner
+ Autocadzeichnung des Grundrisses und des Schnittes im lokalen Ordner
+ Taschenrechner
+ Tabellenbuch Bautechnik
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 4/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+A) BAUTECHNIK (Bruneck)
+
+Pag. 5/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+A) BAUTECHNIK (Bruneck)
+
+Pag. 6/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+A) BAUTECHNIK (Bruneck)
+
+Pag. 7/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB7 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG ERZEUGNISSE AUS INDUSTRIE UND HANDWERK
+SCHWERPUNKT INDUSTRIE
+Arbeit aus: FERTIGUNGSTECHNIK UND PRODUKTION
+B) MASCHINENBAU (Brixen)
+Bearbeiten Sie folgende Problemstellung
+
+Thema:
+
+Aufnahmebolzen
+
+Situation:
+
+Für eine Maschine ist ein Aufnahmebolzen zu fertigen. Als Werkstoff wurde
+X38CrMo16 gewählt. Der Bolzen wird mit dem Spannzapfen in die Maschinenspindel
+eingespannt. Im gabelförmigen Aufnahmeteil können unterschiedliche Werkzeuge
+eingespannt werden. Der Aufnahmebolzen wird einer Wärmebehandlung unterzogen. Er
+muss vergütet werden. Planen Sie die Herstellung und dokumentieren Sie die Ergebnisse
+in einem Arbeitsplan, indem Sie die nachstehenden Aufgaben Schritt für Schritt
+ausführen.
+
+1. Erstellen Sie anhand der beiliegenden 3D-Handskizze eine normgerechte Fertigungszeichnung im
+Maßstab 1:1 mit verdeckten Kanten in Normalprojektion. Tragen Sie alle zur Fertigung notwendigen
+Maße und Toleranzen ein. Alle nicht angegebenen Maße sind selbst anzunehmen.
+1.1 Entschlüsseln Sie die Normbezeichnung des Werkstoffes X38CrMo16!
+1.2 Wozu braucht es in der Fertigung Toleranzen? Wie werden Toleranzen eingeteilt bzw.
+unterschieden und nach welchen Kriterien werden sie festgelegt bzw. gewählt?
+1.3 Der Aufnahmebolzen wird in die Maschinenspindel eingespannt. Werden zwei Bauteile
+zusammengefügt, ergeben sich Passungen. Welche Arten von Passungen kennen Sie? Beschreiben
+Sie diese kurz.
+
+2. Die Wahl des Rohmaterials muss getroffen werden. Im Ausgangstext steht, dass der Aufnahmebolzen
+vergütet werden muss. Welche Voraussetzungen muss das Rohmaterial haben, damit diese Art von
+Wärmebehandlung durchführbar ist? Aus welchen Arbeitsgängen besteht das Vergüten und wodurch
+unterscheidet es sich vom Härten?
+3. Legen Sie die Rohteilabmessungen fest. Verwendet wird blank gezogenes Rundmaterial mit dem
+größten Durchmesser des fertigen Teils. Der Rohling wird durch saubere Sägeschnitte abgetrennt.
+Geben Sie die genaue Normbezeichnung an und gehen Sie zusätzlich auf die beiden nachfolgenden
+Fragen ein:
+3.1
+
+Durch welche Vorteile zeichnet sich ein blank gezogenes Rohmaterial aus?
+
+Pag. 8/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+B) MASCHINENBAU (Brixen)
+
+3.2
+
+Berechnen Sie die Masse des Rohmaterials!
+
+4. Als nächsten Schritt werden die Fertigungsverfahren zur Herstellung des Bolzens geplant. Ordnen Sie
+nach der von Ihnen erstellten Fertigteilzeichnung den Bearbeitungsstellen mögliche Fertigungsverfahren
+zu.
+4.1
+
+Wählen Sie ein Fertigungsverfahren aus und beschreiben Sie dieses! (max. 1 Seite)
+
+4.2
+
+Geben Sie die Maschinen und Werkzeuge an, mit denen die Fertigung möglich ist!
+
+4.3
+
+Beschreiben Sie die Sicherheitsvorkehrungen, die bei der Fertigung des Bolzens zu treffen sind!
+
+5. Für die Fertigung des Bolzens sind verschiedene Schritte festzulegen und zu planen! Bestimmen Sie die
+Reihenfolge der Bearbeitung und halten Sie diese stichwortartig fest.
+5.1
+
+Wählen Sie Werkzeuge und Spannmittel aus.
+
+5.2
+
+Bestimmen Sie die Schnitt- und Einstelldaten an den Maschinen.
+
+5.3
+
+Erstellen Sie einen Arbeitsplan.
+
+6. Angenommen, es werden 1000 Stück von diesen Aufnahmebolzen
+Automatisierungsmaßnahmen würden Sie zur Fertigung dieser Bolzen wählen?
+
+benötigt.
+
+Welche
+
+6.1
+
+Schreiben Sie für die Fertigung der Bolzen die CNC-Programme nach PAL-Programmierung!
+Jede Seite des Bauteils muss spanend bearbeitet werden.
+
+6.2
+
+Welche Vorteile haben CNC-Maschinen gegenüber konventionellen Maschinen?
+
+6.3
+
+Worin besteht die Hauptaufgabe einer CNC Steuerung?
+
+7. Zur Automatisierung werden auch Vorrichtungen eingesetzt. Damit werden Werkstücke für die
+Bearbeitung in einer genau bestimmten, eindeutig wiederholbaren Lage festgehalten. Nach welchen
+Merkmalen werden Vorrichtungen unterteilt?
+7.1
+
+Welche Vorteile hat der Einsatz von Vorrichtungen in der spanenden Fertigung?
+
+7.2
+
+Wann rentiert sich der Einsatz einer Vorrichtung?
+
+7.3
+
+Nennen Sie Maßnahmen, durch die das Einlegen von Werkstücken in die Vorrichtung erleichtert
+wird.
+
+Pag. 9/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+B) MASCHINENBAU (Brixen)
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Tabellenbuch Metall, Verlag Europa-Lehrmittel
+ nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 10/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB7 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG ERZEUGNISSE AUS INDUSTRIE UND HANDWERK
+SCHWERPUNKT INDUSTRIE
+Arbeit aus: FERTIGUNGSTECHNIK UND PRODUKTION
+C) MÖBELBAU (Brixen)
+
+Teil I: Bearbeiten Sie folgende Problemstellung
+
+Ein Kunde stellt eine Anfrage für die Fertigung einer halbgewendelten Holztreppe (Abbildung 1) an die
+Tischlerei ABC. Der Privatkunde möchte ein Angebot für die Treppe erhalten. Für die Ermittlung des Preises
+müssen noch zusätzliche Berechnungen getätigt werden.
+X
+Durch die baulichen Gegebenheiten und Vorgaben des Architekten
+zur Treppenausführung stehen die Art der Wendelung, die
+ungefähre Lage des An- und Austrittes sowie die Treppenlaufbreite
+schon fest. Die Geschosshöhe beträgt 330 cm.
+
+1. Berechnen Sie die genaue Lage des An- und Austrittes, die
+Auftrittsbreiten auf der Treppenlauflinie, die Verziehung der
+Auftritte und die Abwicklung der Freiwangen. Beachten Sie,
+dass 13 Trittstufen verzogen werden und die 11. Stufe der
+Spickeltritt ist.
+Dabei sollen Ihnen folgende, noch auszuführende
+Zwischenrechnungen behilflich sein:
+das Steigungsverhältnis, die Treppenlauflänge, die schmalste
+Trittstufenbreite am Krümmling, Lauflinienlänge vom Antritt
+bis zur Achse X - X, Lauflinienlänge von der Achse X – X bis
+zum Austritt, Länge der langen und kurzen Freiwange,
+großer/kleiner Halbkreisbogen.
+
+X
+
+Abbildung 1: Aufriss der Holztreppe
+
+2. Grundlage für das Angebot soll eine Vorkalkulation sein. Bestandteile sind die Materialliste, die
+Materialpreisberechnung sowie eine Zeitgliederung.
+
+C) MÖBELBAU (Brixen)
+
+Pag. 11/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+Material:
+Eiche slawonisch 53 mm
+Eiche slawonisch 63 mm
+Eiche slawonisch 93 mm
+Durchgehende
+Spannschrauben
+Geländerstab
+Edelstahl/Eiche
+
+1.380
+1.420
+1.610
+5
+
+€/m³
+€/m³
+€/m³
+€/St.
+
+Oberflächenbehandlung:
+Für das verwendete Hartöl ist die
+Ergiebigkeit mit 10 m²/Liter angegeben.
+Der Verlust pro Arbeitsgang beträgt
+25%. 1 Liter des Beschichtungsmittels
+kostet im Einkauf 38 €.
+
+13,5 €/St.
+
+3. Zeichnen Sie auf der Grundlage Ihrer errechneten Maße den Grundriss in einem geeigneten Maßstab
+einschließlich Bemaßung und Bezeichnung. Der Bauherr wünscht auf den Stufen eine rutschhemmende
+Lösung. Skizzieren Sie im M 1:1 einen Vorschlag für den Einbau einer Rutschhemmung und geben Sie das
+Material an.
+
+Teil II: Bearbeiten Sie zwei der folgenden Fragestellungen!
+
+1. Nach dem Beratungsgespräch und der Abgabe des Angebotes erhält die Tischlerei ABC den Auftrag, die
+Treppe herzustellen und zu liefern. Die Qualität eines Produktes ist dann gut, wenn die Anforderungen des
+Kunden und die Auftragsbedingungen erfüllt sind. Nennen Sie mögliche Qualitätsmerkmale bzw. anforderungen für den Auftrag aus der Problemstellung im Teil I.
+2. Die Trittstufen werden aus Eichenvollholzkanteln zusammengesetzt. Die Breitenverbindung der Trittstufen
+wird mit Kronenfugenfräser ausgeführt. Beschreiben Sie die Herstellung der Kronenfugenverbindung und
+gehen Sie auf deren Vorteile näher ein!
+3. Nennen Sie Hilfsmittel, mit denen man die Maße auf dem Bau sicher ermitteln kann! Beschreiben Sie die
+Vorgehensweise, um Maß am Bauvorhaben zu nehmen.
+4. Benennen Sie einzelne Lagerräume einer Tischlerei und gehen Sie näher auf die Anforderungen ein, die an
+Lagerräume gestellt werden.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Tabellenbuch Holztechnik, Europa Lehrmittel Verlag
+ Dreikantmaßstab
+ nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 12/12
+
+Ordentlicher Termin 2018
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB7 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG ERZEUGNISSE AUS INDUSTRIE UND HANDWERK
+SCHWERPUNKT INDUSTRIE
+Arbeit aus: FERTIGUNGSTECHNIK UND PRODUKTION
+
+D) MULTIMEDIAGESTALTUNG (Bozen)
+Teil I: Bearbeiten Sie folgende Problemstellung
+Ein Industriebetrieb im Bereich der Fertigung von Verbindungselementen (Schrauben, Muttern, Scheiben
+usw.) benötigt einen neuen Onlineshop.
+1) Ein neues, modernes Logo soll in diesem Zusammenhang entstehen. Entwerfen Sie eine dazu passende
+Bildmarke und dokumentieren Sie die Überlegungen dazu.
+2) Es soll ein entsprechendes Screendesign für eine Produktdetailseite entworfen werden, auf der zumindest
+die Form, die Größe und das Material ausgewählt werden können. Es sollen auch mehrere Varianten für die
+Ausgabe auf unterschiedlichen Geräten (responsive) bereitgestellt werden.
+3) Der Entwurf für ein bestimmtes Ausgabegerät soll nun als statische Webseite (nur eine einzelne Seite mit
+HTML und CSS) umgesetzt werden.
+Die Kandidatin/der Kandidat kann weitere Informationen ergänzen, falls sie/er das für notwendig erachtet.
+
+Teil II: Bearbeiten Sie zwei der folgenden Fragestellungen
+1) Eine häufig eingesetzte Marketingmaßnahme ist die sogenannte Landingpage. Worum handelt es sich
+dabei, welche Ziele werden verfolgt und wie sollte sie gestaltet sein?
+2) Für die grafischen Tätigkeiten am Onlineshop aus Teil 1 soll eine Projektplanung in Form eines Gantt
+Diagramms erstellt werden. In die Überlegungen sollen die bereits gesammelten Erfahrungen bei der
+Umsetzung von Webprojekten einfließen.
+3) Im Projektmanagement werden mehrere Führungsstile angewandt. Welche sind das? Was sind jeweils die
+Vor- bzw. Nachteile?
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+Neben der Nutzung von Zeichenstiften ist auch die Nutzung eines zur Verfügung gestellten PCs ohne Internetzugang samt
+darauf installierter Software erlaubt. Bewertet wird nur, was in Papierform vorliegt, also entweder manuell erstellt oder
+ausgedruckt ausgehändigt wird.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und
+Schüler mit Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+

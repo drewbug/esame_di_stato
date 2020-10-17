@@ -1,0 +1,109 @@
+Pag. 1/3
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+La batimetria è una disciplina della oceanografia e della geodesia che si occupa della misura delle
+profondità e della rappresentazione cartografica dei fondali.
+I rilievi vengono effettuati a mare completamente calmo ed in assenza di vento utilizzando una
+imbarcazione che si muove a velocità costante, compresa tra 1,5 e 4 nodi (1 nodo = 1,852 Km/h),
+lungo rotte prefissate.
+Il natante è equipaggiato con un ecoscandaglio la cui uscita TTL, in condizioni di riposo, è a livello
+alto. Quando il processo viene avviato l'ecoscandaglio emette un impulso sonar e porta l'uscita a
+livello basso. Alla ricezione del segnale di ritorno l'uscita si riporta al valore di riposo. La profondità
+del fondale viene determinata indirettamente, sapendo che la velocità dell'impulso sonar in acqua è
+1,5 km/s, misurando l'intervallo di tempo in cui la tensione in uscita rimane bassa. La misurazione in
+oggetto riguarda profili costieri di 100 Km con fondali di profondità non superiori a 800 metri.
+L'avvio del processo avviene mediante un pulsante di start e la temporizzazione delle acquisizioni
+viene gestita via software in base alla velocità del natante, in modo da garantire distanze di rilevazione
+pari a 10 metri. La velocità di navigazione è data da un solcometro che fornisce una tensione secondo
+la relazione:
+𝑉𝑂𝑈𝑇 (𝜈) = Κ ∙ 𝜈 + 20 ∙ 10−3 [𝑉]
+Dove
+ è la velocità in nodi
+K = 10-2 [V/nodo]
+Il sistema si completa con il rilevatore GPS che fornisce le coordinate di longitudine e latitudine del
+punto di pescaggio.
+Il candidato, formulate le ipotesi aggiuntive che ritiene opportune:
+1. Disegni uno schema a blocchi del sistema, che utilizzi un dispositivo programmabile di sua
+conoscenza, e descriva i singoli blocchi dal punto di vista funzionale.
+2. Descriva le interfacce hardware necessarie alla corretta acquisizione dei dati provenienti
+dall'ecoscandaglio e dal solcometro e proponga un’idonea struttura dati per la loro
+memorizzazione. Si evidenzino, in particolar modo, le problematiche connesse alla valutazione
+del tempo di andata e ritorno dell'impulso sonar in relazione alla precisione della misura che si
+intende ottenere.
+3. Indichi, mediante un diagramma di flusso dettagliato o altra rappresentazione idonea la struttura
+del software di gestione dell’intero processo.
+
+Pag. 2/3
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+4.
+
+Effettui, in un linguaggio di programmazione coerente con il sistema programmabile scelto, la
+codifica del segmento del software di gestione relativo alla valutazione e memorizzazione dei
+valori della profondità.
+
+SECONDA PARTE
+QUESITO N. 1
+In riferimento alla prima parte della prova, si consideri che i dati provenienti dal rilevatore GPS,
+espressi mediate 3 byte per ciascuna coordinata (longitudine e latitudine), debbano essere acquisiti
+dal sistema di controllo in modalità seriale, mediante interfaccia I2C o SPI. Si proponga una soluzione
+hardware, e relativo software, per l’acquisizione di tali valori.
+QUESITO N. 2
+In riferimento alla prima parte della prova il candidato proponga una procedura software per
+l'elaborazione dei dati acquisiti dall’ecoscandaglio che, per ogni chilometro percorso, determini la
+profondità massima e minima rilevata e ne memorizzi i valori.
+QUESITO N. 3
+Si consideri il problema della stabilità di un sistema ad anello chiuso. Data la funzione di
+trasferimento d'anello seguente, si progetti una rete correttrice che garantisca un margine di fase pari
+a /4 aumentando contestualmente la banda passante almeno di una decade.
+𝐺(𝑗𝜔) =
+
+100
+(1 + 𝑗𝜔 ∙
+
+10−1 )(1 +
+
+𝑗𝜔 ∙ 10−2 )
+
+Pag. 3/3
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+QUESITO N. 4
+Il sistema elettrico di figura costituisce un esempio di sistema a fase non minima
+
+Tali sistemi hanno nella loro funzione di trasferimento una radice a parte reale non negativa.
+Dopo aver determinato i valori dei poli e degli zeri e scritto l’espressione della funzione di
+trasferimento, si illustri, mediante una idonea rappresentazione grafica, il comportamento in
+frequenza del sistema.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema
+
+

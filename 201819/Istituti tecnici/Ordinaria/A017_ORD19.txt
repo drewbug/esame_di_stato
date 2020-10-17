@@ -1,0 +1,105 @@
+Pag. 1/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMP – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELLE MATERIE PLASTICHE
+Tema di: TECNOLOGIE MECCANICHE E PLASTURGICHE DISEGNO
+ED ORGANIZZAZIONE INDUSTRIALE
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Si devono produrre i componenti del guscio di telefono cordless e del relativo supporto. Le dimensioni di
+ingombro, in mm, dei componenti sono rispettivamente:
+Guscio frontale
+
+140 x 50 x 7
+
+Gusci posteriori
+
+88 x 50 x 20
+52 x 50 x 20
+
+Base supporto
+
+60 x 70 x 22
+
+Coperchio supporto 60 x 70 x 12
+Tutti i componenti, in ABS, hanno uno spessore parete di 0,7 mm.
+Il reparto di stampaggio a iniezione dell'azienda che li produce dispone del parco presse riportato nel
+prospetto di tabella 1.
+Il candidato, assunto con giustificato criterio ogni altro parametro ed in base a proprie eventuali ipotesi di
+lavoro, predisponga una relazione tecnica ed economica valutando:
+-
+
+quante impronte e quali componenti può contenere ciascuno stampo;
+
+-
+
+il tipo di presse da impiegare;
+
+-
+
+i passaggi per ottimizzare l’avvio macchina.
+
+Pag. 2/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMP – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELLE MATERIE PLASTICHE
+Tema di: TECNOLOGIE MECCANICHE E PLASTURGICHE DISEGNO
+ED ORGANIZZAZIONE INDUSTRIALE
+Tabella 1
+
+Pag. 3/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMP – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELLE MATERIE PLASTICHE
+Tema di: TECNOLOGIE MECCANICHE E PLASTURGICHE DISEGNO
+ED ORGANIZZAZIONE INDUSTRIALE
+SECONDA PARTE
+
+1.
+
+Il candidato esegua il disegno costruttivo di una piastra porta tassello (impronta) e ne imposti il ciclo
+di lavorazione.
+
+2.
+
+Il candidato, anche mediante schizzi, esegua il progetto di massima di uno stampo a una figura per
+la realizzazione di un sottovaso, commentando le proprie soluzioni, in particolar modo riguardo alla
+scelta degli elementi fondamentali dello stampo.
+
+3.
+
+Dal controllo della quota, con tolleranza dimensionale 32 h7 della produzione pilota di un
+componente meccanico, si ricavano i seguenti dati statistici: valor medio 31,983 mm e scarto
+quadratico medio 0,022. Il candidato valuti la riduzione dello scarto, fissando a 32 h8 la tolleranza.
+
+4.
+
+Il candidato elenchi le principali tecniche di riciclo di prodotti polimerici. Di una, a sua scelta, ne
+descriva il processo, indicando, nel dettaglio, le singole fasi.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici scientifiche e/o grafiche purché non siano
+dotate di capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del Paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

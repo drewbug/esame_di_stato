@@ -1,0 +1,128 @@
+Pag. 1/2
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Pianificazione e controllo della traversata tra il faro di Ambrose (40° 27′ 36″ N, 73° 49′ 48″ W) ed il faro
+di Bishop Rock (49° 52′ 22.5″ N, 6° 26′ 44.5″ W).
+Le tavole di marea per il 20/06/2019 forniscono i seguenti dati per il faro di Ambrose:
+
+20
+
+Time
+0451
+
+Ht (m)
+0.6
+
+1101
+
+6.2
+
+1724
+
+0.8
+
+2323
+
+6.1
+
+Calcolare l’altezza di marea per l’istante della partenza essendo pari a 6 m il chart datum.
+La circolazione generale di venti e correnti nell’Oceano Atlantico del Nord consente di pianificare una
+navigazione per circolo massimo e la relativa spezzata lossodromica dovrà avvenire fra cinque punti
+equamente intervallati in differenza di longitudine.
+Tenendo conto che nel primo tratto della spezzata lossodromica è presente una corrente: Dc= 090°;
+Vc= 2.0 kn e che la velocità di propulsione è pari a 12 kn, determinare l’ora fuso di arrivo sul primo way
+point essendo l’ora fuso della partenza tf = 08h30m del 20/06/2019.
+In prossimità del way point si vuole controllare la posizione della nave con metodi astronomici mediante
+osservazioni crepuscolari o meridiane per quanto riguarda la sola latitudine. Stimare l’istante di una delle
+due osservazioni indicate potendo mettere a calcolo le coordinate stimate del way point suddetto.
+In navigazione, prima dell’arrivo sul primo way point, la nave ha iniziato a variare il suo periodo di rollio
+con angoli tendenti ad aumentare pur non avendo avuto variazioni del GM.
+Indicare se esiste pericolo per la nave ed il suo carico e descrivere l’operazione che si reputa più opportuna
+effettuare.
+Durante la navigazione suddetta si osservano al radar, scala 12 miglia, i seguenti bersagli:
+Istanti
+Bersaglio
+A
+B
+C
+
+21h00m
+Rilevamento Vero
+Distanza mg
+090°
+9.0
+320°
+8.0
+235°
+8.0
+
+21h06m
+Rilevamento Vero
+Distanza mg
+090°
+7.5
+333°
+6.0
+235°
+7.5
+
+Determinare il vettore vero di ciascun bersaglio e la manovra evasiva più opportuna stabilendo la distanza
+del CPA tenendo conto che la zona è a bassa densità di traffico e la navigazione avviene con navi in vista
+l’una dell’altra. Determinare l’istante di fine manovra (rientro in prora).
+
+Pag. 2/2
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+Lo stato dell’AIS del bersaglio C indica “N.U.C.” pur non essendo stati avvistati i fanali così come stabilito
+dalle COLREGs. Gli AIS delle altre navi indicano come stato “under way”. Descrivere la scelta effettuata
+dalla nave C che evidenzia una netta differenza tra il rilevamento ottico e la lettura dei dati dell’AIS che
+sembra essere stata eseguita di proposito.
+SECONDA PARTE
+1) Prima della partenza la nave cisterna galleggiava sbandata sul lato dritto. Si vuole determinare il volume
+del carico liquido presente nella cisterna dopo aver misurato l’ullage. Sono noti i seguenti dati:
+• Altezza della cisterna del carico: 18 m;
+• Distanza UB (punto di misura U - paratia di dritta della cisterna D): 4.0 m;
+• Trim: nullo
+• Larghezza della cisterna 10.0 m
+• Starboard draught midship: 5.9 m
+• Port draught (midship): 4.9 m
+• Larghezza nave: 26.00 m
+• Observed Ullage UC: 0.50 m
+• α angolo di sbandamento trasversale.
+Determinare l’ullage corretto US a causa dello sbandamento α. Il dato cercato sarà US=UF+FS consentirà
+di determinare il volume del carico attraverso le tavole di calibrazione della nave a causa della mancanza
+delle tavole di correzione per il list.
+2) L’istante di fine manovra dell’esercizio di cinematica prevedeva il solo rientro in prora ma l’OOW ha
+altri sistemi di governo che gli consentono il rientro in rotta. Descrivere come ciò avvenga.
+3) Una nave trasporto passeggeri è dotata di una riserva di galleggiabilità mentre una nave da carico è
+dotata di una riserva di spinta. Descrivere le differenze fra le due spinte.
+4) In navigazione lungo costa l’OOW si accorge che una boa ha perso l’ancoraggio e non risulta più nella
+posizione riportata sulla carta nautica. Quale sarà la procedura che dovrà seguire e riportare un esempio
+del messaggio che potrà essere letto sul NAVTEX in seguito a ciò.
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9), tavole numeriche, formulari, pubblicazioni nautiche e normativa non commentata.
+Non è invece consentito l’utilizzo di libri di testo e manuali tecnici che riportano contenuti specifici.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

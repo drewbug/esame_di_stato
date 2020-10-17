@@ -1,0 +1,173 @@
+Pag. 1/3
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITSI - AMMINISTRAZIONE FINANZA E MARKETING
+ARTICOLAZIONE SISTEMI INFORMATIVI AZIENDALI
+Tema di: ECONOMIA AZIENDALE e INFORMATICA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Situazione operativa
+Alfa spa, impresa industriale che realizza prodotti dolciari per il mercato nazionale, ha risentito negli ultimi
+anni della crisi economica che ha interessato il settore anche se in misura minore rispetto ad altri.
+Le vendite stagionali, realizzate in prossimità delle feste natalizie e pasquali, sono risultate superiori rispetto
+agli obiettivi e hanno compensato, in parte, la contrazione delle vendite dei prodotti non stagionali.
+In un mercato nazionale, caratterizzato dalla presenza di numerose imprese molto competitive, Alfa spa ha
+saputo fidelizzare un target di consumatori interessati in particolare ai prodotti al gusto di cioccolato.
+L’azienda, per mitigare gli effetti della crisi economica interna e considerando l’apprezzamento dei prodotti
+dolciari italiani all’estero, si orienta su mercati stranieri puntando in modo particolare sulle vendite di
+cioccolato e confetti.
+Il catalogo prodotti contiene le seguenti tipologie: confetti, panettoni, pandori, colombe e praline al cioccolato.
+L’impresa è riuscita a raggiungere un elevato livello di efficienza nella gestione del magazzino grazie
+all’approvvigionamento oculato e puntuale delle materie prime. Anche il costante monitoraggio della
+puntualità nella consegna degli ordini da parte dei fornitori ha permesso di migliorare il processo produttivo.
+Il piano industriale elaborato da Alfa spa prevede l’espansione all’estero da attuare nei prossimi tre esercizi
+attraverso il potenziamento della capacità produttiva e distributiva da realizzare attraverso investimenti
+finanziati con:
+• l’aumento del capitale sociale, come risulta dal Prospetto delle variazioni intervenute negli elementi del
+patrimonio netto;
+• l’indebitamento bancario a medio-lungo termine.
+Prospetto delle variazioni intervenute nel patrimonio netto
+
+4.000.000
+
+Riserva
+soprapprezzo
+azioni
+-
+
+800.000
+
+80.000
+
+4.800.000
+
+80.000
+
+Capitale
+sociale
+Importi all’1/1/2018
+Utile esercizio 2017
+Dividendi agli azionisti
+Emissione 80.000 azioni
+Utile esercizio 2018
+Importi al 31/12/2018
+
+Riserva
+legale
+
+Riserva
+statutaria
+
+Riserva
+straordinaria
+
+Utile
+d’esercizio
+
+600.000
+19.600
+
+300.000
+9.800
+
+2.600
+
+392.000
+-32.000
+-360.000
+
+619.600
+
+309.800
+
+2.600
+
+470.000
+470.000
+
+Totali
+5.292.000
+-360.000
+880.000
+470.000
+6.282.000
+
+Pag. 2/3
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITSI - AMMINISTRAZIONE FINANZA E MARKETING
+ARTICOLAZIONE SISTEMI INFORMATIVI AZIENDALI
+Tema di: ECONOMIA AZIENDALE e INFORMATICA
+
+Il candidato, dopo aver analizzato la situazione operativa, tragga da questa gli elementi necessari per:
+1. redigere lo Stato patrimoniale e il Conto economico civilistici in forma abbreviata al 31/12/2018;
+2. descrivere la porzione del sistema informativo che gestisce l’approvvigionamento delle materie
+prime presso i relativi fornitori sviluppando:
+a) uno schema concettuale della relativa base di dati, tenendo conto che:
+− ogni materia prima ha un fornitore abituale;
+− per ogni materia prima sotto scorta deve essere emesso il relativo ordine d’acquisto per un
+quantitativo di riordino fissato per quella materia prima, con l’indicazione della data di
+consegna prevista e di quella effettiva;
+− l’ordine di acquisto si riferisce ad una sola materia prima;
+b) il corrispondente schema logico relazionale;
+c) le query in linguaggio SQL che consentono di:
+− produrre l’elenco delle materie prime sotto scorta con il nominativo del relativo fornitore
+abituale;
+− visualizzare i nomi dei fornitori ai quali inviare una lettera di sollecito per ordini in cui non
+è stata rispettata la data di consegna.
+
+SECONDA PARTE
+Il candidato scelga due dei seguenti quesiti e presenti le linee operative, le motivazioni delle soluzioni
+prospettate e i relativi documenti, secondo le richieste.
+1. L’interpretazione dell’andamento della gestione aziendale richiede, tra l’altro, l’analisi di bilancio
+per indici. Redigere il report contenente l’analisi economica del bilancio di Alfa spa al 31/12/2018
+utilizzando gli opportuni indicatori.
+2. Il sito web di Alfa spa prevede una pagina di contatto tramite la quale i fornitori, dopo essersi
+accreditati sul portale, hanno la possibilità di richiamare i propri dati e modificarli (es. telefono,
+indirizzo, …). Il candidato progetti le pagine web dinamiche che consentono di svolgere
+l’operazione di lettura dei dati del fornitore.
+
+Pag. 3/3
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITSI - AMMINISTRAZIONE FINANZA E MARKETING
+ARTICOLAZIONE SISTEMI INFORMATIVI AZIENDALI
+Tema di: ECONOMIA AZIENDALE e INFORMATICA
+
+3. Redigere il budget economico annuale elaborato dai responsabili della programmazione di Beta spa,
+all’inizio dell’esercizio 2019, ipotizzando un incremento delle vendite del 5% e del risultato
+economico del 3% considerando i seguenti dati tratti dal bilancio d’esercizio al 31/12/2018:
+• ricavi delle vendite 5.860.000 euro;
+• utile dell’esercizio 184.000 euro.
+4. Gamma spa commercializza articoli sportivi e adotta, tra i vari sistemi di distribuzione, il commercio
+online attraverso un sito web interamente gestito da personale interno. Per migliorare il servizio di
+e-commerce, l’azienda è interessata a ricevere feedback dagli acquirenti sul livello di soddisfazione
+del servizio fornito e dei prodotti acquistati. In particolare si vuole indagare se i tempi di consegna,
+l’efficienza del corriere, la qualità del prodotto corrispondono a quanto dichiarato dall’azienda in
+fase di proposta di vendita. In questo contesto il candidato indichi due o più differenti soluzioni
+tecnologiche, classificandole in base alla complessità ed al costo, con le quali realizzare un
+questionario di customer satisfaction i cui dati possano essere facilmente estrapolati ed elaborati.
+
+Dati mancanti opportunamente scelti.
+
+______________
+Durata massima della prova: 6 ore.
+Sono consentiti la consultazione del Codice Civile non commentato, di manuali tecnici dei linguaggi di programmazione e di calcolatrici
+scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dall’inizio della prova.
+
+

@@ -1,0 +1,110 @@
+Pag. 1/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Si deve dimensionare l’impianto elettrico di un piccolo stabilimento industriale, dedicato alla
+lavorazione di marmi, che viene alimentato alla tensione di 230/400 V. Lo stabilimento è costituito
+da un capannone industriale di forma rettangolare di lati l1 = 60 m e l2 = 50 m suddiviso in tre
+ambienti.
+Nel primo ambiente, destinato alla zona lavorazione, sono previsti i seguenti carichi:
+a. una macchina fresatrice da taglio per grandi blocchi da 20 kW;
+b. frese per taglio di piccoli blocchi per complessivi 12 kW;
+c. una macchina rifinitrice da 10kW;
+d. una lucidatrice da 25 kW;
+e. purificatori d’aria per complessivi 9 kW;
+f. due compressori da 3 kW;
+g. una linea prese a spina per un totale di 11 kW;
+h. una linea illuminazione da 9 kW.
+Il secondo ambiente è destinato agli uffici e sono previsti i seguenti carichi:
+a. una linea illuminazione da 3 kW;
+b. una linea prese a spina da 6 kW;
+c. un impianto di condizionamento da 10 kW;
+d. una zona esposizione da 3 kW.
+Il terzo ambiente è adibito a locale spogliatoio ed assorbe una potenza complessiva di 3 kW.
+Il candidato, dopo aver ipotizzato la suddivisione planimetrica dei tre ambienti e fatte le ipotesi
+aggiuntive che ritiene necessarie:
+1.
+
+determini la potenza complessiva dell’impianto e stabilisca dove collocare il quadro elettrico
+generale;
+
+2.
+
+rappresenti lo schema a blocchi della distribuzione dell’energia elettrica;
+
+3.
+
+disegni lo schema elettrico unifilare dell’impianto e illustri i criteri da seguire per il calcolo
+delle caratteristiche delle apparecchiature presenti nei quadri.
+
+Pag. 2/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+Inoltre, il candidato, dopo aver proposto la soluzione progettuale che ritiene più efficace per il
+funzionamento dei carichi installati nella zona lavorazione, dimensioni le relative linee di
+alimentazione.
+
+SECONDA PARTE
+1.
+
+Dopo aver illustrato le caratteristiche generali degli impianti di terra, il candidato individui la
+tipologia dell’impianto più adatto per lo stabilimento descritto nella prima parte, giustificando
+la scelta operata. Sapendo che il suolo, sul quale è edificato lo stabilimento, è costituito da un
+terreno organico con resistività 100 Ωm, il candidato individui il tipo e il numero di dispersori e
+la loro posizione necessari per realizzare l’impianto di terra.
+
+2.
+
+Lo spazio antecedente allo stabilimento industriale di area pari a 800 m2 è adibito a parcheggio
+all’aperto. Il candidato, dopo aver effettuato tutte le ipotesi aggiuntive per meglio definire le
+specifiche del progetto, dimensioni un impianto fotovoltaico idoneo a soddisfare il bisogno
+energetico relativo all’illuminazione del parcheggio.
+
+3.
+
+Il candidato dimensioni la cabina di trasformazione a servizio dello stabilimento, avente le
+stesse caratteristiche di quello illustrato nella prima parte, sapendo che essa è alimentata da una
+linea in cavo alla tensione nominale di 20 kV.
+
+4.
+
+Il candidato scelga il dispositivo atto a proteggere dalle sovracorrenti un motore che funziona
+secondo il seguente ciclo di lavoro:
+1.
+
+avviamento ta = 4 s con corrente di spunto pari a 8 volte la corrente nominale;
+
+2.
+
+fase di lavoro tl = 30 s con corrente nominale pari a 15 A;
+
+3.
+
+sosta ts = 8 s.
+
+Si illustrino i criteri di scelta.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

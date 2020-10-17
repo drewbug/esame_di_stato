@@ -1,0 +1,94 @@
+ESAME DI STATO DI ISTITUTO TECNICO SETTORE
+TECNOLOGICO
+Indirizzo: INFORMATICA E TELECOMUNICAZIONI
+Articolazione: TELECOMUNICAZIONI
+Esempio di prova di TELECOMUNICAZIONI
+
+PRIMA PARTE
+Una rete aziendale è divisa in sottoreti come illustrato nello schema di massima.
+
+Valgono, inoltre, le seguenti condizioni:
+
+
+
+
+
+
+nelle sottoreti A, B sono presenti, rispettivamente, 30, 60 host;
+la sottorete C, costituita da 20 host connessi ad un unico Ethernet-hub, funziona
+secondo lo standard 100BaseT;
+tutte le sottoreti operano alla velocità di 100 [Mbps];
+le sottoreti A e C appartengono rispettivamente a gruppi di lavoro che si
+occupano di progetti distinti, ma dipendono entrambi dai servizi offerti dalla
+sottorete B.
+l’indirizzamento degli elaboratori è conforme a quanto indicato nella tabella
+seguente:
+Sottorete A
+Sottorete B
+Sottorete C
+Sottorete dei
+Router
+
+Indirizzo IP
+sottorete
+Maschera
+sottorete
+
+192.168.0.0/26
+
+192.168.0.64/26
+
+192.168.0.128/26
+
+192.168.0.192/26
+
+255.255.255.192
+
+255.255.255.192
+
+255.255.255.192
+
+255.255.255.192
+
+Il candidato, formulata ogni ipotesi aggiuntiva che ritiene opportuna, produca
+quanto segue.
+
+ESAME DI STATO DI ISTITUTO TECNICO SETTORE
+TECNOLOGICO
+Indirizzo: INFORMATICA E TELECOMUNICAZIONI
+Articolazione: TELECOMUNICAZIONI
+Esempio di prova di TELECOMUNICAZIONI
+
+a) Individui i punti di debolezza della struttura di rete sia in termini di
+affidabilità, sia in termini di risposta a seguito di incremento nel traffico.
+b) Proponga una struttura alternativa di rete che consenta di superare i problemi
+individuati al punto precedente e motivi le scelte effettuate.
+c) Identifichi e illustri le modifiche da apportare al piano di indirizzamento,
+nell’ipotesi di ampliamento del sistema con l’aggiunta di un’ulteriore sottorete
+comprendente venticinque elaboratori.
+d) Valuti il tempo massimo di consegna dei pacchetti tollerabile (tempo di
+latenza) perché sopra al livello trasporto la velocità non scenda a meno di 1
+[Mbps] in assenza di errori e quando:
+ a livello trasporto lo scambio delle trame è regolato da una procedura di
+controllo di flusso del tipo stop and wait;
+ le intestazioni di ciascun livello di protocollo hanno una dimensione di
+20 [Byte].
+ La dimensione del payload di livello trasporto è fissa e vale 1024 [Byte].
+SECONDA PARTE
+Il candidato scelga due fra i seguenti quesiti e per ciascun quesito scelto formuli
+una risposta della lunghezza massima di 20 righe.
+1. Proporre e discutere brevemente una modifica alle condizioni imposte al
+punto “d” della traccia, per ottenere, a parità di tempo di consegna dei
+pacchetti, un incremento della velocità vista sopra al livello trasporto.
+2. In relazione alla sottorete C, individuare i problemi che si incontrerebbero se
+si volesse aumentare il numero degli elaboratori e indicare una possibile
+soluzione.
+3. Spiegare, nell’ambito dell’architettura OSI, le funzione del livello 4, trasporto,
+mettendo in evidenza le differenze rispetto a quelle del livello 2, data link.
+4. Spiegare in cosa consistono gli indirizzi privati IPv4 e quale uso se ne può fare
+nell’ambito di una rete come quella proposta dalla traccia.
+Durata massima della prova: 6 ore
+È consentito soltanto l’uso di manuali tecnici (references riportanti solo la sintassi, non guide) dei linguaggi utilizzati.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall’inizio della prova.
+
+

@@ -1,0 +1,293 @@
+Pag. 1/6
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+Il candidato, dopo aver letto attentamente, opti per una sola delle due tracce ed affronti la soluzione
+del tema e di due quesiti tra i quattro proposti nella traccia selezionata.
+
+TRACCIA A
+TEMA A
+Al responsabile della logistica dell’azienda XXYY è stato chiesto di valutare le scorte ed i costi totali
+di stoccaggio relativi a due diversi scenari di supply chain così costituiti:
+Scenario 1: Factory che rifornisce un centro di distribuzione che a sua volta rifornisce 6 rivenditori
+che servono altrettanti mercati.
+Il Lead Time Factory→CEDI è certo e pari a 2 giorni;
+Il Lead Time CEDI→Rivenditore è in media di 2 giorni con una deviazione standard di 1 giorno.
+Scenario 2: Factory che rifornisce 3 centri di distribuzione che riforniscono ciascuno 2 rivenditori.
+Il Lead Time Factory→CEDI è certo e pari a 1 giorno;
+Il Lead Time CEDI→Rivenditore è certo e pari a 1 giorno.
+Il candidato, dopo aver rappresentato graficamente i modelli delle due supply chain, esamini i due
+scenari di catena di distribuzione allo scopo di quantificarne i benefici nella gestione delle scorte.
+In particolare:
+1.
+
+Valuti quale sia la politica di gestione delle scorte, presso un generico rivenditore (scenario 1),
+più vantaggiosa tra:
+a.
+
+fixed order quantity con costo di attuazione di 10 €/mese
+
+b.
+
+fixed period quantity con costo di attuazione di 5 €/mese
+
+avendone determinato tutti i parametri necessari per la loro applicazione e riportato l’indice di
+rotazione di magazzino annuale atteso.
+2.
+
+Supponendo:
+‐ che presso i rivenditori si adotti la politica migliore individuata al punto precedente
+‐ che presso i CEDI si adotti la politica a fixed order quantity, sulla base degli stessi costi
+unitari considerati per i rivenditori
+‐ che il livello di servizio nei CEDI sia almeno pari a quello dei rivenditori
+‐ che i CEDI siano a conoscenza dei dati stimati relativi alla domanda di ciascun mercato
+valuti quale dei due scenari è più conveniente dal punto di vista del costo totale mensile atteso di
+stoccaggio della merce, considerate le scorte (in magazzino) ai centri di distribuzione e ai
+rivenditori.
+
+3.
+
+Determinare quale è la differenza in termini di costo totale di stoccaggio mensile.
+
+Pag. 2/6
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+DATI:
+costo unitario del prodotto
+costo unitario di immagazzinamento annuale
+livello di servizio desiderato
+costo fisso di emissione dell’ordine
+domanda media attesa ad ogni rivenditore
+deviazione standard della domanda ad ogni rivenditore
+
+= 280 €/pz
+h = cxi = 30% del costo del prodotto
+ = 95%
+Ce = 200€
+Dm =100pz/g
+D = 16
+
+Le domande sono da considerarsi statisticamente indipendenti
+QUESITI
+1.
+
+Relativamente al TEMA A, il candidato rediga una analisi qualitativa dei risultati ottenuti.
+
+2.
+
+Relativamente al TEMA A si supponga che la reale domanda mensile del nuovo trimestre sia:
+I mese
+2880
+
+II mese
+2700
+
+III mese
+3120
+
+Rappresentare graficamente l’andamento del livello di inventario in funzione del tempo,
+specificando le coordinate dei punti in cui cambia la pendenza della spezzata e supponendo che
+all’inizio del periodo il livello delle scorte sia di 480 pezzi e che la politica applicata sia fixed
+order quantity (1 mese = 30 giorni).
+3.
+
+Chiarendo preliminarmente le differenze tra trasporto multimodale, intermodale e combinato,
+esporre il concetto di “distanza di convenienza” del trasporto intermodale e dimostrare la
+relazione che permette di valutare tale distanza.
+Calcolare la distanza di convenienza per il caso di un trasferimento intermodale gomma – treno
+di un container da 20 t.
+‐ Distanza punto di origine al 1° nodo di interscambio: 170 Km
+‐ Distanza punto di interscambio dal 2° nodo di interscambio al punto di destinazione: 230 Km
+‐ Distanza nodi di interscambio: 750 km
+
+Pag. 3/6
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+‐ Costi di carico e scarico o/d: € 5,00/t; Oneri di trasbordo intermodale: € 18,00 a
+movimentazione.
+‐ Costo unitario trasporto su gomma € 1,20/Km.
+‐ Costo unitario trasporto su ferrovia € 3,50/Km.
+
+4.
+
+Il candidato illustri le problematiche relative al trasporto su strada di merci pericolose e indichi
+in particolare:
+‐ quali caratteristiche tecniche deve avere un imballaggio destinato al contenimento di merci
+pericolose
+‐ quali sono le caratteristiche (dimensioni, colore) dei pannelli di pericolo previsti dalla
+normativa A.D.R. per la segnalazione dei veicoli
+‐ quali sono gli equipaggiamenti di cui deve essere dotato un veicolo perché possa effettuare un
+trasporto in colli in regime A.D.R.
+‐ cosa deve essere riportato su un collo contenente merci pericolose.
+
+Pag. 4/6
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+
+TRACCIA B
+TEMA B
+Una azienda di Brescia produce una vasta gamma di succhi di frutta ed opera con le più grandi società
+di distribuzione italiane. La distribuzione dei prodotti sul mercato avviene mediante trasporto su
+gomma per il collegamento dell’azienda con il principale Ce.Di. di Roma distante da essa 560 km.
+Per i succhi di frutta alla pera e all’arancia, vengono prodotti due formati di brick diversi a seconda
+delle richieste del mercato rispettivamente:
+brick
+1
+2
+
+Dimensioni
+60x40x80h mm
+75x45x145h mm
+
+Peso
+0.22 kg
+0.55 kg
+
+Le caratteristiche degli imballaggi utilizzati per tali prodotti sono:
+brick
+1
+
+2
+
+Imballaggio Primario
+Fardello
+310 x 210x85h mm
+Peso 0.12kg
+Fardello
+300 x190 x150h mm
+Peso 0.12kg
+
+Imballaggio secondario
+Cartone
+320x220x 250 h mm
+Peso 0.23kg
+Cartone
+310x220x300 h mm
+Peso 0.25kg
+
+L’imballaggio terziario utilizzato dall’azienda è l’EPAL 800x1200x150 con capacità di carico di
+2000 kg, tara 25kg, altezza massima UDC 1200 mm e debordo consentito 4%.
+I mezzi di trasporto utilizzati sono:
+a.
+
+autocarro con portata 18 t
+
+b.
+
+autoarticolato con portata 44 t
+
+Calcolare:
+1.
+
+il numero di UDC contenute in ogni imballo e la miglior configurazione degli imballaggi;
+
+2.
+
+il rendimento volumetrico primario, secondario e terziario e complessivo;
+
+3.
+
+il rendimento superficiale per i due mezzi.
+
+Pag. 5/6
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+
+QUESITI
+1.
+
+Relativamente al TEMA B, il candidato determini, considerando le tabelle ministeriali per i costi
+chilometrici del trasporto, il costo complessivo del trasporto per ciascuna configurazione, e
+indichi il mezzo di trasporto più economicamente conveniente.
+
+2.
+
+Un grossista di articoli per il giardinaggio ha una richiesta di 20.000 vasi di terracotta all’anno.
+La quantità prevista per ciascun riordino è di 1200; il lead time di approvvigionamento è di due
+settimane. La domanda media settimanale è di 400 unità con una deviazione standard nelle due
+settimane di 60 unità.
+‒ Volendo mantenere un livello di servizio pari al 97.5% a quale livello di scorta bisogna
+riordinare?
+‒ A quanto ammonta la giacenza media?
+
+3.
+
+Chiarendo preliminarmente le differenze tra trasporto multimodale, intermodale e combinato,
+esporre il concetto di “distanza di convenienza” del trasporto intermodale e dimostrare la
+relazione che permette di valutare tale distanza.
+Calcolare la distanza di convenienza per il caso di un trasferimento intermodale gomma – treno
+di un container da 20 t.
+‐ Distanza punto di origine al 1° nodo di interscambio: 170 Km
+‐ Distanza punto di interscambio dal 2° nodo di interscambio al punto di destinazione: 230 Km
+‐ Distanza nodi di interscambio: 750 km
+‐ Costi di carico e scarico o/d: € 5,00/t; Oneri di trasbordo intermodale: € 18,00 a
+movimentazione
+‐ Costo unitario trasporto su gomma € 1,20/Km
+‐ Costo unitario trasporto su ferrovia € 3,50/Km
+
+4.
+
+Il candidato illustri le problematiche relative al trasporto su strada di merci pericolose e indichi
+in particolare:
+‐ quali caratteristiche tecniche deve avere un imballaggio destinato al contenimento di merci
+pericolose
+‐ quali sono le caratteristiche (dimensioni, colore) dei pannelli di pericolo previsti dalla
+normativa A.D.R. per la segnalazione dei veicoli
+
+Pag. 6/6
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+
+‐ quali sono gli equipaggiamenti di cui deve essere dotato un veicolo perché possa effettuare un
+trasporto in colli in regime A.D.R.
+‐ cosa deve essere riportato su un collo contenente merci pericolose.
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, calcolatrici non programmabili, schede tecniche ed estratti di tabelle relative
+alla normativa.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

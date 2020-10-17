@@ -1,0 +1,102 @@
+Pag. 1/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Le prove dinamiche di tipo impulsivo vengono utilizzate per la caratterizzazione del comportamento di
+manufatti (edifici, ponti e viadotti, stadi, monumenti...) sottoponendoli ad una deformazione iniziale nota e
+rilevando i parametri caratteristici conseguenti al loro rilascio istantaneo (deformazione, velocità e
+accelerazione). L’indagine viene eseguita sia per la verifica e la validazione dei modelli di calcolo utilizzati
+in sede di progetto, sia per l’identificazione dei modi di vibrazione principali della struttura dovuti a
+fenomeni improvvisi (eventi sismici o prodotti dalle attività umane).
+Nel caso degli edifici riveste particolare importanza la caratterizzazione dinamica dei solai che vengono
+sottoposti a deformazioni di crescente entità mediante un pistone idraulico, azionato da una pompa elettrica,
+posto al centro del solaio (vedi figura).
+
+Per la messa a punto dell’apparato di misura, gestito da un sistema programmabile, si effettuano test su un
+solaio in cemento armato di dimensioni limitate per il quale i dati di progetto indicano una frequenza di
+vibrazione massima di 15 Hz.
+
+Pag. 2/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+Il test deve essere effettuato nel rispetto delle norme di sicurezza e quindi, una volta allontanati
+eventuali estranei, si attua la seguente procedura:
+a) la pressione di un pulsante di START avvia l’emissione contemporanea di impulsi luminosi e
+sonori di breve durata ad intervalli di un secondo per due minuti tramite opportuni avvisatori
+ottici e acustici;
+b) successivamente il sistema provvede ad azionare la pompa collegata al pistone e a raddoppiare
+la frequenza delle segnalazioni ottiche e acustiche che continuano per tutta la durata della salita
+del pistone;
+c) durante la fase di spinta viene acquisita l’entità della deformazione mediante apposito sensore
+estensimetrico installato sul solaio in prossimità del pistone;
+d) al raggiungimento di un valore massimo di deformazione prestabilito la pompa si arresta e una
+valvola di apertura, azionata elettricamente, libera il pistone: il solaio viene così rilasciato
+istantaneamente entrando in vibrazione;
+e) un sensore centrale posizionato in prossimità del pistone e altri quattro identici, posti presso gli
+angoli del solaio, forniscono i valori delle deformazioni causate alla struttura producendo in
+uscita una tensione di tipo differenziale, limitata tra 0 e 24 Volt, proporzionale alla deformazione
+misurata;
+f) l’acquisizione dei dati termina quando la deformazione rilevata dal sensore centrale si riduce a
+meno dell’1% di quella iniziale; conseguentemente si arrestano le segnalazioni ottiche e
+acustiche e la prova si conclude.
+Il candidato dopo aver formulato le eventuali ipotesi aggiuntive e individuati i dispositivi, gli apparati
+e gli strumenti necessari alla realizzazione del sistema:
+1) proponga uno schema a blocchi dell’apparato che realizza il processo descrivendo le funzioni dei
+singoli blocchi e illustrando il sistema programmabile scelto;
+2) determini un opportuno intervallo di tempo tra due successive acquisizioni dei dati provenienti
+dai sensori al fine di una corretta acquisizione;
+3) progetti le interfacce necessarie alla gestione dei sensori e degli attuatori presenti;
+4) illustri la struttura dell’algoritmo di gestione del processo ed espliciti, in tale contesto, la parte
+relativa alla generazione dei segnali di comando della pompa e della valvola di apertura che
+possono essere visti, entrambi, come dispositivi di tipo ON-OFF.
+
+Pag. 3/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEC – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+SECONDA PARTE
+QUESITO N. 1
+In relazione alla prima parte della prova, il candidato discuta le problematiche relative al degrado dei
+segnali che insorgono quando si effettua il test in ambienti di grandi dimensioni.
+QUESITO N. 2
+In relazione alla prima parte della prova, il candidato illustri una possibile soluzione per la
+generazione dei segnali ottici e acustici, di preallarme e di esecuzione della prova, scegliendo i
+dispositivi necessari e le tecniche di comando e di attuazione.
+QUESITO N. 3
+Nell’ambito della gestione dei Rifiuti da Apparecchiature Elettriche ed Elettroniche (RAEE), il
+candidato individui le tipologie di tali rifiuti e indichi le fasi salienti del loro ciclo di vita,
+evidenziando le principali norme, nazionali e comunitarie, a cui si fa riferimento per il loro
+smaltimento.
+QUESITO N. 4
+Con riferimento al Decreto Legislativo 81/2008, il candidato individui le voci essenziali e identifichi
+le figure professionali preposte alla compilazione, organizzazione e attuazione del Piano Operativo
+di Sicurezza (POS).
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema
+
+

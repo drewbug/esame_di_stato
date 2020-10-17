@@ -1,0 +1,259 @@
+Pag. 1/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Pianificazione e controllo della traversata tra Fujairah (United Arab Emirates) e Singapore, con gestione
+dei pesi a bordo. Seguono alcuni dati nave.
+Name: M/V Jaz Amira
+Type: Oil tanker
+Call sign: AUXK
+MMSI: 419766000
+LPP=228 m
+B=32,24 m
+DW=74859 t
+
+Cargo handling
+Nelle prime ore del 20/06/2019 la Jaz Amira si trova con alcune cisterne del carico già al 98% di
+riempimento e tre cisterne centrali, tutte di dimensioni length=28 m e width=12 m, in fase di riempimento.
+Contemporaneamente viene sbarcata della zavorra da due casse basse aventi dimensioni length=10 m e
+width=8 m.
+Le condizioni attuali vedono la nave galleggiare con TA=10.56 m TF=8.24 m e KG=11.26 m. La situazione
+delle cisterne è riassunta nella seguente tabella:
+
+TANK
+
+Volume
+m3
+
+CARGO
+CARGO
+CARGO
+BALLAST
+BALLAST
+
+6048
+6048
+6048
+126
+126
+
+Longitudinal Vertical
+position
+position on
+from AP m baseline m
+164.5
+96.5
+48.5
+165.0
+84.0
+
+7.8
+7.8
+7.8
+0.8
+0.8
+
+Required Attained
+Content
+filling
+filling
+density
+level
+level
+[t/m3]
+[%]
+[%]
+98
+20
+0.890
+98
+15
+0.890
+98
+35
+0.890
+0
+74
+1.025
+0
+66
+1.025
+
+Pag. 2/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Il candidato calcoli le immersioni estreme e l’altezza metacentrica a fine caricazione. Si verifichi anche la
+riduzione di altezza metacentrica nelle condizioni iniziali di caricazione tenendo in considerazione la
+presenza di specchi liquidi liberi.
+NB: la quota delle casse si riferisce al loro centro geometrico.
+Sono disponibili i seguenti dati estratti dalla tavola delle carene dritte:
+
+Pag. 3/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Passage planning – appraisal/planning
+L’ETD da Fujairah è previsto per le ore tf=1300 del 20/06/2019 e si stima un ETA tf=1615 del 02/07/2019
+al Pulau Bukom Oil Terminal di Singapore.
+Per la pianificazione ci si avvale della Pilot Chart pertinente, di cui è riportato un estratto. Il Candidato
+descriva le condizioni stimate di mare, vento e corrente risultanti dalla carta citata, applicando le proprie
+conoscenze per contestualizzare i dati climatologici ottenuti in una più ampia trattazione che includa la
+descrizione dei sistemi di circolazione atmosferica della zona considerata.
+
+In fase di pianificazione della traversata l’Ufficiale annoterà anche le posizioni rilevanti ai fini delle aree
+speciali MARPOL (entrata/uscita) e le zone con distanza dalla costa tale per cui è consentita la discarica di
+residui oleosi provenienti dalla zona del carico. Il Candidato descriva i riferimenti della normativa
+internazionale vigente in materia.
+
+Pag. 4/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Passage planning – execution/monitoring
+Durante il pomeriggio del 02/07/2019 si sta attraversando la precautionary area che precede l’accesso
+occidentale a Singapore (Main Strait TSS) con HDG=130° e STW=12 kts. Si riporta estratto dello Ships’
+Routeing della zona coinvolta per migliore contestualizzazione.
+
+A partire dalle tf=1430 si eseguono le seguenti osservazioni radar:
+Target
+A
+B
+
+AIS info
+
+UT
+
+Passenger ship
+underway
+RO-RO Pax
+underway
+
+14:30
+14:36
+14:30
+14:36
+
+Relative
+bearing
++175°
++174°
++60.0°
++60.0°
+
+Range [NM]
+5.0
+4.0
+9.0
+6.9
+
+Subito dopo la seconda battuta, la nave di poppa comunica via VHF che intende manovrare in modo da
+assumere una prora di 140° alle 14:39. L’effettiva esecuzione di quanto comunicato viene verificata sempre
+con il radar con una battuta alle ore 14:42 da cui si ottiene rilevamento polare +168° e distanza circa 3.0
+mg.
+Il Candidato esamini la situazione cinematica proposta in una breve relazione tecnica completa di tutti i
+dati rilevanti (moti relativi e veri dei bersagli, CPA, TCPA), commentando le situazioni di criticità e i
+possibili scenari risolutivi in base alla Convenzione COLREGs, non mancando di analizzare l’adeguatezza
+dell’avvenuta comunicazione via VHF da parte della nave A. Vengano presentate quindi le azioni da
+intraprendere considerando le presumibili condizioni di manovrabilità delle navi coinvolte.
+All’arrivo a Singapore si apprende di dover fare rada per circa 24h, per poi procedere alla banchina OS7,
+che è previsto si liberi a partire dalle tf=0800 del 03/07.
+Le condizioni di traffico in banchina e la presenza di alcuni lavori sottomarini in zona costringerà comando
+e pilota ad eseguire una manovra che condurrà la nave su un bassofondo di 11 m. La propria immersione
+
+Pag. 5/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+massima risulta T=11.30 m, mentre è noto il minimo UKC da SMS, pari a 2.5 m. La pressione atmosferica
+prevista è 993 hPa.
+Il Candidato determini se all’ora stimata di disimpegno della banchina sia possibile transitare in sicurezza.
+Nel caso non siano rispettati i requisiti di Compagnia determinare la prima finestra temporale (tidal window)
+favorevole. Venga infine determinato l’UKC previsto in banchina considerando la bassa marea successiva
+a pressione atmosferica standard per maggior tutela.
+Si riportano di seguito estratti delle Tide Tables e delle Sailing Directions:
+
+SECONDA PARTE
+1) Il giorno 28/06/2019 si è in navigazione con HDG=090° e STW=12 kts. Dalla posizione =05°46,4’N e
+=089°17,3’E, quando il cronometro segna TC=11h42m50s, si rileva l’azimut del Sole al sorgere del suo
+lembo superiore con le bussole, ottenendo su entrambe ag=ab=066.5°. Verificare il buon funzionamento di
+gyro e magnetica, date declinazione magnetica d=2°W e deviazione bussola =2°E. È noto lo stato assoluto
+del cronometro K=+2m10s.
+Durante la risoluzione del problema il Candidato chiarisca perché non è rilevante l’informazione sulla
+presenza o il buon funzionamento dell’auto-correttore della gyro.
+2) Durante la navigazione nello Stretto di Malacca, con HDG=130° e STW=12 kts, si rileva l’isolotto Iyu
+Kecil ottenendo:
+Target
+Pulau Iyu
+Kecil
+
+Relative
+bearing
+13:52
++38°
+13:58
++50°
+UT
+
+Range [NM]
+5.4
+4.5
+
+Pag. 6/6
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Il candidato confronti i dati di corrente che è possibile ottenere dal plotting descritto con quanto riportato
+sulle Sailing Directions e presentato nel seguito, commentandone l’adeguatezza e la verosimiglianza
+considerando il regime di flusso di marea per l’istante di transito.
+“The current is most constant during the period January to April and is least constant from May to
+August. A number of observations, report rates of less than 1 knot. Some have been reported more than
+1 knot and no currents have been reported in excess of 2 knots.
+The flood tidal current sets E on the N coast of Sumatera; the ebb tidal current sets W. At springs the
+current rarely exceeds 2 knots; at neaps they are sometimes imperceptible, except at the points or over
+banks and narrow channels.
+The currents are also affected by the constant current out of the Strait of Malacca, which takes a W
+direction along the N coast, through Malacca Passage, and out through Bengal Passage, so that for the
+greater part of the year the ebb current is longer and stronger than the flood current.
+As a result of the prevailing wind, when the water is rising or falling during the NW monsoon, there may
+be no E set for a day or more; conversely, the flood or E current runs longer and stronger during the
+Southwest Monsoon.”
+3) Durante la traversata descritta nella prima parte si sviluppa un principio di incendio in Engine Room,
+immediatamente controllato ed estinto. Descrivere quali tipologie di impianti antincendio esistono per le
+navi come la Jaz Amira, differenziando tra rivelazione, contenimento ed estinzione per le varie zone della
+nave, specificando inoltre il regime di drills antincendio previsto dalla SOLAS.
+4) During the navigation in the Strait of Malacca, when in position LAT=03°06.5’N and LONG=100°31.5’E,
+some floating containers have been spotted by the OOW. Identify the correct radio communication priority
+level for this kind of events and write down the transcription of the possible radio message that could have
+been sent by the M/V Jaz Amira in order to warn the Authorities and the other ships of the presence of
+dangerous floating objects.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9), tavole numeriche, formulari, pubblicazioni nautiche e normativa non commentata.
+Non è invece consentito l’utilizzo di libri di testo e manuali tecnici che riportano contenuti specifici.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,106 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I256 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Alle UTC=09:12 del 28/06/2018 è prevista una missione di simulazione di un reparto aereo del SAR
+(Search And Rescue) nei dintorni della Sila. L'esercitazione prevede il decollo di un AB-412 dall'a/p
+di Reggio Calabria (3804N01539E) con TC=070°, CAS=115k per raggiungere FL090. A UTC=09:30
+viene segnalato al pilota di intercettare la probabile posizione di un velivolo che, dall'ultima posizione
+nota (3846N01529E) risalente alle UTC=09:18, navigava con TC=040° e GS=80k. Sul punto di
+intercetto, non osservando l'altro velivolo, i piloti ricevono l'ordine di iniziare una procedura di ricerca
+con reticolato quadrato. Il candidato calcoli l'ora di avvistamento e le coordinate da trasmettere ai
+reparti di terra del punto dell'incidente simulato che si avvisterà alla fine della quarta tratta di ricerca.
+Per i dati meteorologici, sul scenario dell'esercitazione, il candidato si riferisca al bollettino emesso
+dalla stazione di Monte Scuro (El=5483 ft):
+
+
+LIBQ 211530Z 12020KT 9200 SCT060 09/02 Q1000
+
+Il candidato, infine, rappresenti su un grafico con scala a scelta, la missione dell’elicottero.
+
+SECONDA PARTE
+1.
+
+Il candidato rappresenti la zona circostante l’a/p di Alicante-Elche (LEAL) su un reticolo di
+mercatore compreso tra i paralleli =38°10’N e =38°25’N e i meridiani =000°50’W e
+=000°20’W con scala 1:350.000 rispetto al parallelo 38°00’N. Alle coordinate (=38°16’N,
+=000°34’W) è ubicato un VOR/DME che funge da punto di riferimento per una procedura di
+attesa con MHA=4000 ft e tratti rettilinei orientati per 279°/099°. La stessa radioassistenza è
+l’IAF per la procedura ILS Y per RWY 10. Le due soglia pista si trovano sulle coordinate:
+(=38°17’04”N, =000°34’30”W) e (=38°16’47”N, =000°32’28”W). Il candidato rappresenti
+nel reticolato il possibile tracciato della procedura d’attesa e della procedura ILS motivandone le
+scelte e sapendo che l’allineamento finale inizia poco oltre un arco DME di 11 NM.
+
+2.
+
+Sia =038°45’E la longitudine del nodo principale di un’ortodromia che passa per l’a/p Indira
+Gandhi di Delhi (=28°34’N, =077°07’E). Il candidato calcoli le coordinate del vertice
+dell’ortodromia e le coordinate dei punti di intersezione con il Tropico del Cancro. Valuti, infine,
+la differenza di percorso, lossodromico e ortodromico, tra le due intersezioni.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I256 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+3.
+
+Sullo schermo radar di un controllore ATCS dell’a/p di Torino/Caselle (FE=991 ft) si osservano
+quattro velivoli che stanno convergendo alla stessa quota sul TOP NDB/VOR/DME.
+Supponendo che si debba utilizzare il controllo procedurale, il candidato, in funzione della
+propria esperienza maturata in progetti di alternanza scuola-lavoro, valuti come risolvere la
+situazione di traffico proposta dettagliando le comunicazioni TBT tra il controllore e i piloti. Si
+ipotizzi la VAR nulla e non si considerino gli effetti del vento per rispondere a questa sezione
+del quesito.
+ AZA 7162, QDM=096°, D=37 NM, TAS=280k
+ DLH 1119, QDM=208°, D=65 NM, TAS=300k
+ RYR 4245, QDM=137°, D=50 NM, TAS=300k
+ VLG 9477, QDM=318°, D=72 NM, TAS=290k
+Supponendo invece di poter svolgere il vettoramento radar ed utilizzando i dati meteorologici del
+successivo bollettino, il candidato calcoli a quale distanza minima transiteranno i voli DLH e
+VLG.
+ METAR LIMF 221720Z 02520KT CAVOK 11/01 Q1007
+
+4.
+
+Un aeromobile si sta avvicinando in rotta ad una stazione VOR/DME, mantenendo costante un
+QDM di 120° con una MH di 126° e una TAS di 280 kts. Per un guasto alla giromagnetica, il
+velivolo perde le informazioni di prua magnetica ed è costretto a proseguire il volo con un
+direzionale che indicava TH 138° al momento dell’avaria. Dal controllo delle informazioni DME,
+si verifica un decontaggio costante di 10 NM ogni due minuti di volo. Il candidato determini il
+vento effettivo in zona.
+Alle ore 11:20 UTC il velivolo, sempre in rotta e a 100 NM DME dal VOR, viene autorizzato
+dagli enti di controllo a riportare direttamente l’IAF (Initial Approach Fix) sulla radiale 090°TO a
+20 NM DME e successivamente sulla verticale VOR.
+Lo stesso velivolo, una volta giunto sulla verticale del VOR, viene autorizzato all’intercettazione
+di un aereo cisterna per eseguire un rifornimento in volo.
+Sapendo che l’aereo cisterna si trova in quel momento su radiale 225° dal VOR, distanza 80 NM,
+e sta mantenendo MC 350°, GS 180 kts, mentre in tutta la zona si mantengono costanti i dati
+relativi al vento e alla declinazione magnetica, il candidato determini le prue finali da assumere
+sia per il raggiungimento del FIX che per la successiva verticale VOR, l’istante di sorvolo dell’IAF
+e del VOR, il tempo stimato d’intercettazione e le coordinate polari dal VOR/DME (radiale e
+distanza) dal punto di intercettazione.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

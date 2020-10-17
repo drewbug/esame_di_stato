@@ -1,0 +1,108 @@
+Pag. 1/3
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un processo di produzione industriale prevede in una fase di lavorazione la timbratura o la trapanatura
+dei pezzi prodotti in funzione del differente colore.
+I pezzi vengono immessi su un nastro trasportatore in uscita dalla linea di produzione primaria, dove
+un opportuno sensore ne rileva il colore.
+I pezzi giungono al termine del nastro dove è posto un pistone monostabile che, partendo dalla
+posizione di riposo e in funzione del colore rilevato, spinge il pezzo su un secondo nastro
+trasportatore, verso il bordo sinistro se di colore bianco, quello destro se nero, come nella figura
+seguente:
+
+Su questo secondo nastro trasportatore i pezzi neri vengono timbrati e quelli bianchi forati, per poi
+proseguire verso una ulteriore fase di lavorazione.
+Nella sottostazione di timbratura/foratura sono presenti opportuni sensori che rilevano il pezzo in
+arrivo e un sistema di ancoraggio che blocca la posizione per consentirne la lavorazione. Nella fase
+di timbratura o foratura il nastro rimane fermo per 4 secondi.
+L’operazione di timbratura dei pezzi neri viene effettuata attivando un pistone a discesa, mentre per
+i pezzi bianchi viene attivato un trapano a colonna azionato da due motori: il primo che determina la
+discesa/risalita del mandrino, il secondo che movimenta la punta per l’operazione di foratura.
+
+Pag. 2/3
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: SISTEMI AUTOMATICI
+
+Il candidato fatte le ulteriori ipotesi aggiuntive che ritiene necessarie:
+1.
+
+descriva l'impianto attraverso uno schema e individui i dispositivi necessari alla sua
+realizzazione, fornendo una tabella di I/O rappresentante i principali segnali elettrici di controllo;
+
+2.
+
+rappresenti, mediante un diagramma di flusso di propria conoscenza, l’algoritmo di gestione
+dell’impianto;
+
+3.
+
+elabori il programma in grado di gestire l'automatismo utilizzando un sistema programmabile di
+propria conoscenza.
+
+Inoltre progetti un sistema in grado di effettuare il conteggio dei pezzi lavorati in base al differente
+colore.
+
+SECONDA PARTE
+QUESITO 1
+Con riferimento alla prima parte della prova, il candidato preveda un sistema di segnalazioni luminose
+nelle varie fasi di movimentazione dei nastri e di lavorazione dei pezzi e opportuni pulsanti di marcia
+e arresto dell’impianto.
+QUESITO 2
+Con riferimento alla prima parte della prova, si supponga di disporre di un pannello operatore (HMI:
+Human Machine Interface), che consenta il monitoraggio e controllo, in tempo reale, del processo di
+lavorazione.
+Il candidato predisponga un opportuno layout che, attraverso controlli grafici e messaggi di avviso,
+consenta di verificare lo stato di funzionamento dell’impianto.
+
+Pag. 3/3
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I175 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: SISTEMI AUTOMATICI
+QUESITO 3
+Un sistema automatico è rappresentato dal modello a blocchi descritto in figura:
+
+𝐾
+
+In cui: 𝐶1 = 2 𝐶2 (𝑠) = 𝑠−4 con K parametro reale, mentre per il blocco di retroazione si ha T=1/3.
+Il SOTTOSISTEMA 1 è caratterizzato dalla seguente funzione di trasferimento:
+𝑃(𝑠) =
+
+12 − 3𝑠
+(𝑠 + 1)(𝑠 + 90)
+
+Il candidato, dopo aver ricavato la funzione di trasferimento complessiva W(s)=U(s)/I(s), determini
+per quali valori del parametro K la risposta a regime permanente del sistema sollecitato ad un gradino
+di ampiezza unitaria, è minore del 2%.
+QUESITO 4
+Il candidato illustri la struttura di un regolatore industriale di tipo Proporzionale - Integrale Derivativo e descriva l’azione esercitata dalle varie componenti in relazione alle specifiche richieste
+dal sistema di controllo. Fornisca quindi un esempio applicativo sulla base delle proprie conoscenze.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

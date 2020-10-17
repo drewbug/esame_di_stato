@@ -1,0 +1,83 @@
+Pag. 1/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCS – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO
+Il candidato svolga il tema indicato nella prima parte e risponda a due soli quesiti tra i quattro proposti
+nella seconda parte
+PRIMA PARTE
+Un’autovettura è impiegata per un servizio navetta tra un’aerostazione e una stazione ferroviaria. Il
+percorso che collega i due siti è di tipo prevalentemente cittadino, pianeggiante, lungo 10 km, con limite
+di velocità posto sempre a 50 km/h. Il traffico e gli incroci obbligano il conducente a fermarsi e ripartire
+mediamente ogni 500 metri.
+Il mezzo viaggia sia all’andata che al ritorno con a bordo, oltre al conducente, tre passeggeri adulti sui
+sedili posteriori, ciascuno di essi con al seguito una valigia di 25 kg posta nel bagagliaio.
+I parametri noti della vettura sono elencati di seguito. Eventuali dati mancanti necessari per il calcolo
+dovranno essere assunti dal candidato, motivando opportunamente la scelta.
+Tipologia vettura: station wagon 5 posti, trazione anteriore, motore anteriore turbodiesel.
+Pneumatici: 205/55 R16.
+Dimensioni note: lunghezza totale 4,7 metri, passo 2,7 metri, distanza frontale-asse anteriore 0,9 metri,
+distanza coda-asse posteriore 1,1 metri.
+Masse: massa a vuoto 1600 kg, con distribuzione pesi 60% anteriore 40% posteriore.
+Il candidato:
+a) a partire dai dati disponibili, esegua uno schizzo quotato del veicolo e indichi chiaramente le misure
+utilizzate per lo svolgimento del tema. Calcoli poi la distribuzione dei pesi del veicolo carico,
+tenendo conto che la pedaliera anteriore e gli schienali dei sedili posteriori sono compresi tra i due
+assi della vettura;
+b) calcoli la potenza massima erogata dal motore lungo il percorso, supponendo che le accelerazioni
+avvengano con intensità costante pari a 2 m/s2;
+c) calcoli lo spazio richiesto per fermare il mezzo con una decelerazione di intensità pari a 3 m/s2;
+d) calcoli il consumo di gasolio per ogni percorso di andata e ritorno, ipotizzando che il motore
+funzioni con un rendimento medio del 33%;
+e) calcoli l’emissione media di anidride carbonica per ogni chilometro percorso considerando che il
+tenore di carbonio nel combustibile sia pari al 86%.
+
+Pag. 2/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCS – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO
+
+SECONDA PARTE
+1) Si ipotizzi di realizzare lo stesso trasporto presentato nella prima parte utilizzando una vettura uguale
+nelle dimensioni, ma con trazione completamente elettrica e massa maggiorata di 200 kg, a causa
+della presenza di un pacco batterie da 70 kWh. L’energia elettrica viene convertita durante la marcia
+in energia meccanica con un rendimento pari all’82%, mentre nelle frenate il 70% dell’energia
+cinetica viene recuperata e trasformata in carica elettrica.
+Calcolare quanti cicli di andata e ritorno si possono percorrere con una carica completa della batteria.
+2) Analizzare, anche mediante l’uso di schemi e formule, come la coppia motrice disponibile al volano
+del motore viene trasmessa fino alle ruote motrici.
+Per la vettura analizzata nella prima parte, calcolare la massima forza di aderenza disponibile alle
+ruote dell’asse anteriore. Quindi dimensionare i semiassi di trasmissione in modo che questi possano
+trasmettere una coppia in grado di portare al limite di aderenza gli pneumatici.
+3) Descrivere con quale logica e mediante quali sensori e attuatori la centralina di controllo dei moderni
+motori a ciclo Otto gestisce la corretta formazione della miscela aria/benzina e l’anticipo di
+accensione in modo da ottimizzare la combustione e il mantenimento degli inquinanti entro i limiti
+di legge.
+Dettagliare per ogni componente la sua costruzione e il relativo funzionamento.
+4) Spiegare in che modo si procede alla valutazione di un rischio: quali sono i dati di input e output del
+processo di valutazione e quali azioni devono essere intraprese sulla base del suo risultato.
+Di seguito, impostare gli elementi di base del Documento di Valutazione dei Rischi ai sensi del
+D.Lgs. 81/08 per un’officina di autoriparazione. A tal fine riportare in una tabella i principali pericoli
+presenti, classificarli per categoria (ad esempio meccanico, chimico, o altro), stimare per ciascuno di
+essi il livello di rischio previsto e indicare per ognuno le misure di prevenzione e protezione più
+idonee.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici, formulari e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di
+calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

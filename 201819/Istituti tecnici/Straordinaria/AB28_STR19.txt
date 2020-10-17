@@ -1,0 +1,195 @@
+Pag. 1/5
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+L’amministrazione comunale di una località di piccole dimensioni, nell’ambito di una serie di interventi per
+la tutela ambientale del territorio e della salute dei cittadini, intende dotarsi di lampioni “green”, per
+l’illuminazione stradale, con alimentazione complementare a quella della rete elettrica. Ogni lampione, di
+potenza nominale 50 W, accumula, in appositi sistemi di stoccaggio, l’energia proveniente da fonte rinnovabile
+per mezzo di un sistema micro-eolico (vedi figura).
+
+La struttura è dotata, inoltre, di un set di sensori funzionali per la rilevazione della velocità del vento, della
+qualità dell’aria e della intensità della luce naturale.
+Il controllo dell’intero sistema è gestito da un sistema programmabile.
+
+Pag. 2/5
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Il micro-sistema eolico è costituito da una turbina verticale di potenza nominale 300 W con una struttura
+semplificata come in figura.
+
+Direzione
+vento 1
+
+Direzione
+vento 2
+
+La turbina inizia a ruotare quando la velocità del vento supera 1,5 m/s e il movimento è nel solo senso orario;
+se la velocità del vento supera i 30 m/s entra in funzione un sistema frenante che mantiene la velocità di
+rotazione costante impedendo danni alla struttura.
+Il singolo impianto di illuminazione è dotato del seguente set di sensori funzionali:
+Anemometro per la rilevazione della velocità del vento.
+In grado di rilevare venti di intensità compresa nel range da 0 m/s a 60 m/s, fornisce in uscita una corrente
+proporzionale alla velocità del vento secondo la relazione:
+𝐼𝑎𝑛𝑒𝑚 = 𝑘𝑣 ∙ 𝑣𝑤 + 4 𝑚𝐴
+Dove:
+Ianem = corrente uscita anemometro [mA]
+vw = velocità del vento [m/s]
+𝑚𝐴
+𝑘𝑣 = 0,267 [𝑠 ∙ 𝑚 ] .
+Sensore crepuscolare per la rilevazione del livello di luce ambientale (Lamb).
+La tensione fornita in uscita da tale sensore varia linearmente nel range 0 – 20 lux secondo la relazione:
+𝑉𝑐𝑟 = 2,5 − 𝐿𝑎𝑚𝑏 ∙ 𝑘𝐿
+essendo
+𝐿𝑎𝑚𝑏
+𝑘𝐿 = 0,15
+
+[𝑙𝑢𝑥]
+𝑉
+[ ]
+𝑙𝑢𝑥
+
+[𝑉]
+
+Pag. 3/5
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Se il livello di luminosità ambientale scende al di sotto di 10 lux il sistema di controllo provvede all’accensione
+del lampione la cui intensità luminosa deve essere adeguata alla luce ambientale in modo proporzionale, come
+riportato in tabella:
+Luce ambientale [lux]
+> 10 (giorno)
+10 (tramonto)
+<10-2 (notte senza luce lunare)
+
+Intensità luminosa della
+lampada [lumen]
+0
+2500
+5000
+
+L’intensità luminosa della lampada, dipendente dal segnale proveniente dal sensore crepuscolare, è regolata
+mediante un segnale PWM a Duty Cycle variabile (256 valori).
+Sensore di polveri sottili (PM10) operante nel range 0 – 100 µg/m3 con uscita in tensione ad offset nullo e
+sensibilità 𝑆 = 50
+
+[
+
+𝑚𝑉∙𝑚3
+𝜇𝑔
+
+]
+
+Sensore di CO (monossido di carbonio) per la rilevazione di concentrazioni di CO nel range 0 – 50 mg/m3,
+con uscita in tensione variabile linearmente nel range 0 – 1 V.
+Il candidato fatte le ipotesi aggiuntive che ritiene opportune deve:
+1) fornire uno schema a blocchi del sistema che gestisca il funzionamento del lampione utilizzando un sistema
+programmabile di sua conoscenza;
+2) dimensionare le interfacce necessarie al condizionamento dei segnali provenienti dal set di sensori;
+3) proporre una soluzione per la gestione della lampada (accensione, spegnimento e variazione di intensità
+luminosa);
+4) sviluppare un algoritmo di gestione del processo, o altra struttura rappresentativa, che:
+a) acquisisca i dati provenienti dai sensori di monitoraggio ambientale ad intervalli di 5 minuti
+calcolandone la media ogni 8 ore memorizzandola in una opportuna struttura dati;
+b) acquisisca il valore della velocità del vento ogni 20 secondi provvedendo ad attivare il sistema frenante,
+assimilabile ad un sistema ON/OFF, secondo necessità.
+
+Pag. 4/5
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+SECONDA PARTE
+Quesito 1
+In riferimento alla prima parte della prova si modifichi l’algoritmo di gestione del processo relativamente
+all’acquisizione dei dati provenienti dai sensori di controllo della qualità dell’aria calcolando il numero di
+volte che i valori medi di polveri sottili e di CO hanno superato, su base mensile, i livelli consentiti da norma
+di legge (50 µg/m3 per le polveri sottili e 10 mg/m3 per il CO). Codificare quindi l’algoritmo in un linguaggio
+coerente con l’hardware utilizzato.
+Quesito 2
+In riferimento alla prima parte della prova e al processo di conversione A/D, si espongano le caratteristiche
+che deve possedere il convertitore per l’acquisizione dei segnali provenienti dai sensori di PM10 e CO
+determinando il numero minimo di bit necessario ad assicurare una precisione di ± 0,05 µg/m3 per il sensore
+di polveri sottili e ± 0,05 mg/m3 per il quello di monossido di carbonio.
+Quesito 3
+Indicare la procedura da attuare in laboratorio per testare la funzionalità del circuito di condizionamento tra
+un trasduttore di una generica grandezza fisica F con uscita in corrente e un ADC, proporre l’allestimento di
+un banco di misura per la rilevazione delle caratteristiche dei singoli blocchi individuando le grandezze oggetto
+di misura, gli strumenti idonei e la configurazione del banco nel suo complesso. Si definiscano quindi le
+procedure di misura da effettuare e una modalità di rappresentazione dei risultati ottenuti (tabellare, grafica,
+relazione tecnica, altro).
+
+Trasduttore
+
+Convertitore I/V
+
+Amplificatore
+differenziale
+
+A
+D
+C
+
+Pag. 5/5
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+Quesito 4
+Calcolare l’errore di posizione εp, di velocità εv e di accelerazione εa per il seguente sistema essendo:
+
+F(s) =
+
+10
+
+;
+
+(𝑠+1)(𝑠+10)
+
+Kp = 1
+
+Determinare, inoltre, il minimo valore di Kp affinché l’errore a regime risulti minore di 0.1 applicando in
+ingresso un gradino di ampiezza 5.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla lettura del tema.
+
+

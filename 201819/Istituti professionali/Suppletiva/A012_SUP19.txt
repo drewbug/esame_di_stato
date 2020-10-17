@@ -1,0 +1,77 @@
+Pag. 1/2
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+PRIMA PARTE
+L’IMPIANTO FRENANTE
+Un cliente porta in un centro di manutenzione un mezzo provvisto di un sistema frenante con
+assistenza alla frenata (ABS) e controllo della stabilità (ESP) in seguito all’accensione della seguente
+spia e dell’anomalo comportamento delle luci stop a volte tremolanti o lampeggianti.
+Il cliente è curioso ed esigente e chiede spiegazioni sul funzionamento del sistema frenante
+ABS ed ESP e su vantaggi e svantaggi che la loro implementazione sul mezzo ha comportato.
+Inoltre, al momento del ritiro, vuole conoscere in dettaglio la procedura seguita e le operazioni che le
+diverse figure professionali presenti in azienda hanno compiuto durante l’iter dell’intervento stesso,
+a partire dall’accettazione, proseguendo con la diagnosi, la riparazione e infine la riconsegna.
+Con riferimento ad un mezzo di trasporto a sua scelta, il candidato, dopo aver con attenzione
+analizzato la traccia del tema proposto, lo svolga seguendo le indicazioni sotto riportate:
+a) descrivere struttura e funzione di un impianto frenante base, disegnando anche lo schema a
+blocchi inserendo la relativa legenda;
+b) descrivere l’evoluzione del sistema frenante con ABS e ESP e le motivazioni che hanno portato
+alla loro evoluzione, diffusione e implementazione sul mezzo;
+c) disegnare uno schema a blocchi dei due sistemi (ABS e ESP) completandoli con i collegamenti
+elettrici, una legenda dei componenti; inoltre descrivere la loro funzione e il loro
+funzionamento;
+d) scrivere l’ipotetico dialogo (domande e risposte) intavolato con il cliente per capire meglio il
+problema;
+e) descrivere quali cause e quali componenti in avaria possono aver provocato l’accensione della
+spia e pianificare i controlli da effettuare sul mezzo per individuare i possibili difetti e le azioni
+per il ripristino della funzionalità;
+f)
+
+descrivere le operazioni effettuate dalle varie figure che hanno operato sul mezzo, le
+attrezzature e gli strumenti diagnostici utilizzati per individuare e ripristinare i possibili difetti
+anche facendo riferimento all’esperienze acquisite nell’ambito dei percorsi per le competenze
+trasversali e per l’orientamento o al percorso di studi effettuato;
+
+Pag. 2/2
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+g) descrivere quali sono i controlli da eseguire durante le attività di manutenzione ordinaria utili a
+mantenere in efficienza il sistema e prevenire possibili guasti o rotture, specificando anche le
+tipologie e le caratteristiche dei fluidi utilizzati nell’impianto frenante;
+h) indicare le misure di sicurezza adottate, i DPI da utilizzare nell’eseguire gli interventi di
+manutenzione sul sistema in avaria e le procedure per lo smaltimento dei componenti
+eventualmente sostituiti;
+i)
+
+elencare la documentazione tecnica da compilare dall’arrivo del mezzo nel centro
+manutenzione fino alla riconsegna al cliente.
+
+____________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda
+è predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione
+scolastica e della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non
+italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,61 @@
+Pag. 1/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPE9– ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti
+nella seconda parte.
+PRIMA PARTE
+In un’industria alimentare si guasta un motore elettrico monofase. Viene richiesto al responsabile
+della manutenzione di sostituire il motore adattando un motore elettrico trifase disponibile nel
+magazzino scorte.
+Dai dati di targa del motore si rileva
+
+Il candidato, fatte eventuali ipotesi aggiuntive:
+1. disegni lo schema di collegamento degli avvolgimenti del motore trifase comprensivo del
+condensatore, in modo da garantire un senso di rotazione orario del motore;
+2. determini il condensatore da installare utilizzando la formula empirica
+C= 50xPx(230/U)2x50/f dove:
+- C = valore della capacità del condensatore espressa in microfarad
+- P = potenza nominale in cavalli vapore
+- U = tensione d’alimentazione monofase
+- f = frequenza
+3. descriva i dati tecnici presenti nella targhetta del motore;
+4. proponga un format per la registrazione delle verifiche e degli interventi di manutenzione.
+
+Pag. 2/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPE9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+SECONDA PARTE
+1. Il candidato, dopo aver descritto il principio di funzionamento del motore asincrono trifase,
+indichi la tipologia di controlli da effettuare secondo la norma vigente.
+2. Il teleruttore che attiva un motore interviene una volta al minuto per 16 ore al giorno. Sapendo
+che il motore mediamente è in funzione per 250 giorni all’anno, il candidato determini
+l’affidabilità del sistema sapendo che il costruttore del relè dichiara B10= 2*107.
+3. Il candidato indichi come individuare e intervenire sul guasto relativa alla non inversione di
+marcia del motore e rediga il particolare del circuito di comando.
+4. Il candidato, fatte le considerazioni che ritiene opportune, pianifichi l’intervento di sostituzione e
+collaudo del motore elettrico, valuti i rischi e gli aspetti organizzativi del lavoro in relazione alla
+sicurezza avendo cura di descrivere quali mezzi, attrezzature e risorse umane prevede di
+utilizzare.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

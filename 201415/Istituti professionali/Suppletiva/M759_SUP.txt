@@ -1,0 +1,135 @@
+Pag. 1/3
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+All'interno di centro commerciale è presente un impianto antincendio con riserva idrica. L’impianto
+è messo in pressione da un gruppo di pressurizzazione composto da:
+a.
+
+pompa primaria azionata da motore elettrico;
+
+b.
+
+pompa di emergenza azionata da motore endotermico;
+
+c.
+
+pompa di mantenimento pressione azionata da motore elettrico;
+
+d.
+
+quadri di comando;
+
+e.
+
+pressostati per il comando di avviamento in automatico;
+
+f.
+
+collettore di mandata con tutto il complesso delle valvole.
+
+Il candidato, fatte eventuali ipotesi aggiuntive che ritiene opportune:
+1.
+
+descriva, anche tramite uno schema, il gruppo di pressurizzazione a servizio dell’impianto
+antincendio;
+
+2.
+
+descriva le caratteristiche del dispositivo di protezione supposto che la pompa di servizio del
+gruppo di pressurizzazione abbia una potenza nominale di 18,5 kW cos =0,8 Vn= 400 V e sia
+alimentato da un cavo di sezione 6 mm2 Iz= 46 A;
+
+3.
+
+verifichi che la caduta di tensione sia inferiore al 3% nell’ipotesi che il quadro di distribuzione
+sia posto ad una distanza di 60 metri.
+
+Il candidato, inoltre, in relazione alle problematiche relative alla manutenzione:
+1.
+
+indichi la tipologia dei controlli da effettuare secondo la norma vigente per il gruppo di
+pressurizzazione;
+
+2.
+
+rediga un documento per la registrazione degli interventi effettuati.
+
+Pag. 2/3
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+SECONDA PARTE
+1.
+
+Il candidato illustri la metodologia per la ricerca e la diagnosi dei guasti. Inoltre, in funzione
+della propria esperienza acquisita in contesti scolastici e non, il candidato riporti un esempio di
+una ricerca di guasti per un impianto a propria scelta.
+
+2.
+
+Un centro commerciale è dotato di porte automatiche, azionate da rilevatori di presenza,
+collegate con un relè che attiva il gruppo motore. Supposto che il centro commerciale sia aperto
+300 giorni all’anno e le porte si aprono mediamente 1500 volte al giorno, il candidato determini
+l’affidabilità del sistema sapendo che il costruttore del relè dichiara B10= 2*107, mentre il
+Tempo Medio di Guasto (MTTF) del gruppo motore è pari a 100 anni.
+
+3.
+
+Lo schema in figura è rappresentativo di un impianto di messa a terra. Il candidato fatte le
+opportune considerazioni, descriva i singoli conduttori che costituiscono l’impianto indicando
+le caratteristiche tecniche (dimensioni e tipologia di materiale) che dovranno essere soddisfatte.
+
+Pag. 3/3
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+4.
+
+Una ditta di manutenzione viene chiamata per la sostituzione dei motoriduttore a servizio di
+una scala mobile di un centro commerciale.
+Il candidato, fatte le considerazioni che ritiene opportune, pianifichi l’intervento avendo cura di
+descrivere quali mezzi, attrezzature e risorse umane prevede di inviare. In funzione delle scelte
+effettuate, analizzi la tipologia dei possibili rischi valutandone la probabilità e il danno per
+ciascun pericolo individuato. Indichi inoltre, le misure di prevenzione e protezione e la
+tipologia dei DPI (Dispositivi di Protezione Individuale) necessari per effettuare l’intervento in
+sicurezza.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

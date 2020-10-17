@@ -1,0 +1,68 @@
+Pag. 1/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMO – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMO – MECCANICA, MECCATRONICA, ENERGIA
+ARTICOLAZIONE MECCANICA MECCATRONICA
+OPZIONE TECNOLOGIA OCCHIALE
+Tema di: DISEGNO, PROGETTAZIONE ORGANIZZAZIONE INDUSTRIALE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Si debba eseguire alle macchine utensili a controllo numerico il frontale in acetato rappresentato nella
+figura in allegato.
+Il candidato:
+1. esegua il disegno del frontale, completo di quote, cartiglio compilato, simboli, sezioni e
+quant’altro si ritenga necessario. Il disegno sia realizzato in formato digitale, dapprima
+bidimensionale e successivamente tridimensionale;
+2. determini il semilavorato di partenza, scelga gli utensili e i relativi parametri di taglio;
+3. mediante software CAM, ricavi il programma CNC delle lavorazioni, spiegando e commentando
+almeno 5 blocchi del programma.
+
+Pag. 2/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMO – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMO – MECCANICA, MECCATRONICA, ENERGIA
+ARTICOLAZIONE MECCANICA MECCATRONICA
+OPZIONE TECNOLOGIA OCCHIALE
+Tema di: DISEGNO, PROGETTAZIONE ORGANIZZAZIONE INDUSTRIALE
+
+Pag. 3/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMO – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMO – MECCANICA, MECCATRONICA, ENERGIA
+ARTICOLAZIONE MECCANICA MECCATRONICA
+OPZIONE TECNOLOGIA OCCHIALE
+Tema di: DISEGNO, PROGETTAZIONE ORGANIZZAZIONE INDUSTRIALE
+SECONDA PARTE
+1. Definire un possibile lay-out del reparto di produzione relativo al prodotto considerato nella
+prima parte, giustificando e commentando le scelte adottate. Indicare la struttura dei costi
+per la produzione in oggetto.
+2. Illustrare le differenze tra montature realizzate con un materiale metallico o con un materiale
+plastico, dal punto di vista del ciclo produttivo e dei costi.
+3. Illustrare i metodi di controllo della qualità nella produzione di un occhiale. Il candidato può
+fare riferimento al prodotto assegnato nella prima parte oppure ad un diverso prodotto di sua
+scelta.
+4. Descrivere il ciclo di lavorazione di un occhiale prodotto per stampaggio ad iniezione.
+Illustrare e commentare le principali caratteristiche di questo processo di produzione e di
+questo prodotto.
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+I candidati possono utilizzare software specifici per il disegno e per la programmazione CNC.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

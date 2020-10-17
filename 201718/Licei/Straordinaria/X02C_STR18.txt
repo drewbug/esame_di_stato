@@ -1,0 +1,160 @@
+Pag. 1/4
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+X02C – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IB72 – SCIENTIFICO COMUNICAZIONE OPZIONE SPORTIVA
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+Due archi illimitati di due parabole (con assi paralleli all’asse y di un sistema di riferimento), ciascuno
+dei quali contenente il vertice della parabola, sono disposti in modo da passare per tutti e quattro i
+quadranti del piano e raccordarsi nell’origine, formando il grafico Γ di una funzione:
+𝑓 (𝑥) 𝑠𝑒 𝑥 < 0
+𝑓(𝑥) = { 1
+𝑓2 (𝑥) 𝑠𝑒 𝑥 ≥ 0
+che è derivabile in R. La figura 1 sottostante ne fornisce un possibile esempio.
+
+Il grafico Γ interseca l’asse 𝑥 nell’origine 𝑂 e nei punti 𝐴 di ascissa 𝑥𝐴 < 0 e 𝐵 di ascissa 𝑥𝐵 > 0.
+1) Dimostra che, se la funzione 𝑓 soddisfa le richieste precedenti, si ha:
+𝑓1 (𝑥) = 𝑎𝑥 2 + 𝑏𝑥
+𝑓2 (𝑥) = 𝑐𝑥 2 + 𝑏𝑥
+dove 𝑎, 𝑏, 𝑐 sono opportuni coefficienti reali non nulli. Dimostra che le rette tangenti a Γ in 𝐴 e in
+𝐵 sono parallele.
+2) Considerando le funzioni
+𝑔(𝑥) = 𝑓′(𝑥)
+𝑥
+
+𝐹(𝑥) = ∫ 𝑓(𝑡)𝑑𝑡 ;
+0
+
+mostra, con le opportune argomentazioni, che il grafico di 𝑔 è costituito da due semirette che
+𝑥
+𝑥
+intersecano l’asse 𝑥 nei punti di ascisse 2𝐴 e 2𝐵 e che il grafico di 𝐹 ha due punti stazionari di
+ascisse 𝑥𝐴 e 𝑥𝐵 e due punti di flesso di ascisse
+
+𝑥𝐴
+2
+
+e
+
+𝑥𝐵
+2
+
+.
+
+Pag. 2/4
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+3) Determina le espressioni di 𝑓1 (𝑥) e 𝑓2 (𝑥) in modo tale che la retta tangente a Γ nel punto 𝐴 abbia
+equazione 𝑦 = −2𝑥 − 8 e l’area della superficie limitata compresa tra Γ e l’asse 𝑥 contenuta nel
+semipiano 𝑥 > 0 sia pari a 9 volte quella dell’analoga superficie contenuta nel semipiano 𝑥 < 0.
+4) Dimostra che anche il rapporto tra le aree dei triangoli formati dalle rette tangenti al grafico Γ nei
+punti 𝐴, 𝑂 e 𝐵 e l’asse delle ascisse è pari a 9.
+
+PROBLEMA 2
+Consideriamo la funzione f :    , così definita:
+
+f ( x)  ln( a  ebx  c)
+al variare di a, b, c parametri reali positivi.
+1) Verifica che, comunque si scelgano i parametri, si ha:
+
+f ' x  0 x   , f ' ' x  0 x   .
+2) Verifica inoltre che, comunque si scelgano i parametri, la funzione f ha un asintoto orizzontale,
+per x   , e un asintoto obliquo, per x   ; determina a, b, c in modo che l’asintoto
+orizzontale, per x   , sia la retta di equazione y  0 e l’asintoto obliquo, per x   , sia la
+retta di equazione y  x .
+3) Dimostra che ponendo a  b  c  1 si ha:
+
+x  f ( x)  e x x   .
+4) Verifica inoltre che ponendo a  b  c  1 e detta A l’area della parte di piano compresa tra il
+grafico della funzione h( x)  f ( x ) e l’asse x del riferimento cartesiano, si ha
+𝐴<2
+Inoltre, a partire dalle caratteristiche del grafico della funzione ℎ(𝑥), determina un numero reale 𝑆,
+quanto più grande possibile, tale che
+𝐴>𝑆
+
+Pag. 3/4
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+QUESTIONARIO
+1. Si dispone di due dadi uguali non bilanciati. Lanciando ciascuno dei due dadi, le probabilità di
+uscita dei numeri 1, 2, 3 e 4 sono pari a 𝑘, mentre le probabilità di uscita dei numeri 5 e 6 sono
+pari a 𝑘⁄2. Determinare il valore di 𝑘 e stabilire qual è la probabilità che, lanciando i due dadi
+contemporaneamente, escano due numeri uguali tra loro.
+2. Determinare il raggio della sfera di centro 𝐶(2, 2, 2) tangente al piano di equazione:
+𝑥 + 2𝑦 + 𝑧 = 12.
+3. Considerando la funzione 𝑓: ℝ → ℝ definita come:
+𝑥2
+−
+𝑓(𝑥) = { 4 + 2𝑥, 𝑝𝑒𝑟 𝑥 < 4
+𝑒 4−𝑥 + 3, 𝑝𝑒𝑟 𝑥 ≥ 4
+determinare l’angolo formato dalle tangenti nel punto angoloso del grafico della funzione.
+4. Calcolare la derivata della funzione 𝑓(𝑥) = 𝑥 ∙ 𝑠𝑒𝑛(𝑥), adoperando la definizione di derivata.
+5. Determinare l’area della superficie compresa tra il grafico della funzione:
+𝑓(𝑥) =
+
+2𝑥 + 1
+,
++𝑥+1
+
+𝑥2
+
+le rette 𝑦 = 2, 𝑥 = 5 e l’asse 𝑦.
+6. Determinare l’equazione della retta tangente al grafico della funzione:
+𝑓(𝑥) = 𝑥 ∙ 𝑒 −𝑥
+nel suo punto di flesso.
+7. La variabile casuale 𝑥 ha densità di probabilità data dalla funzione:
+1
+𝑝𝑒𝑟 𝑥 ∈ [0, 1⁄2]
+3
+7
+𝑓(𝑥) =
+𝑝𝑒𝑟 𝑥 ∈ [1⁄2 , 3⁄2] ;
+12
+1
+3
+{ 2 𝑝𝑒𝑟 𝑥 ∈ [ ⁄2 , 2]
+determinare la media e la mediana della variabile casuale 𝑥.
+
+Pag. 4/4
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+8. Determinare le coordinate dei punti nello spazio che giacciono sulla retta perpendicolare nel
+punto [1, 1, 1] al piano di equazione 2𝑥 − 𝑦 − 𝑧 = 0, a distanza 6 da tale piano.
+9. Considerando la funzione:
+𝑓(𝑥) =
+
+𝑎𝑥 + 1
+𝑥
+
+definita in ℝ e a valori in ℝ , mostrare che le tangenti al suo grafico nei punti di ascissa -1 e 1 sono
+parallele alla bisettrice del secondo e del quarto quadrante, indipendentemente dal valore del
+parametro 𝑎 . Individuare inoltre il valore minimo del parametro 𝑎 per cui la tangente al grafico
+nel punto di ascissa 1 forma con gli assi cartesiani un triangolo di area maggiore di 3.
+10. Dimostrare che la derivata della funzione:
+𝑓(𝑥) = 𝑒 𝑎𝑥
+è la funzione
+𝑓 ′ (𝑥) = 𝑎 ∙ 𝑒 𝑎𝑥
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 350 Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non
+italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

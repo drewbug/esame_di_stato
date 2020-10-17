@@ -1,0 +1,122 @@
+Pag. 1/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI IMPIANTI MEZZO NAVALE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Lo Studio Tecnico presso il quale siete impiegati sta progettando un’imbarcazione con le seguenti
+caratteristiche:
+
+
+L = 37,7m (lunghezza di regolamento)
+
+ materiale: acciaio ordinario
+
+
+
+B = 8,7m
+
+ navigazione illimitata
+
+
+
+D = 4,3m
+
+ ∆=220 t
+
+
+
+T = 1,7m
+
+ CB=0.5
+
+
+
+due motori e due eliche
+
+ materiale albero port’elica: acciaio elev. res.
+
+
+
+Pmotori =2x2250CV a 1925giri/1’
+
+ riduttori a ingranaggi: riduzione 1:3
+
+
+
+Momento flettente in acqua tranquilla (inarcante) = 5000txm massimo, 3000txm minimo
+
+Tutte le rimanenti caratteristiche non specificate potranno essere stimate in base alla consuetudine
+della progettazione navale. I disegni nelle pagine seguenti rappresentano la sezione maestra,
+corrispondente all’ordinata 18, e il ponte di coperta nella zona centrale, entrambi in scala 1:25.
+Vi viene chiesto di calcolare il modulo di resistenza della sezione maestra e di verificare, utilizzando
+un Regolamento di un Registro di Classifica, se tale modulo risulta sufficiente.
+Le misure e i dimensionamenti possono essere letti dal disegno, mentre le dimensioni non quotate
+possono essere misurate direttamente sul disegno.
+Si suggerisce di effettuare tutte le approssimazioni opportune per semplificare il calcolo.
+
+Pag. 2/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI IMPIANTI MEZZO NAVALE
+
+SECONDA PARTE
+Completata questa analisi, vi viene chiesto di scegliere due (e due soltanto) fra le seguenti analisi
+relative sempre alla stessa imbarcazione:
+1) Calcolare il peso della struttura del troncone in corrispondenza della sezione maestra, lungo
+quanto l’intervallo fra le ossature rinforzate trasversali, incluso il peso di un solo anello di
+ossature rinforzate trasversali.
+2) Disegnare (senza calcolarne il dimensionamento) la struttura della paratia trasversale di
+compartimentazione, seguendo la disposizione delle strutture longitudinali già disegnate, e
+prevedendo anche sezioni longitudinali e orizzontali per chiarire la soluzione proposta.
+3) Effettuare il dimensionamento dell’intero albero port’elica, utilizzando un Regolamento di un
+Registro di Classifica, e quindi disegnarlo con tutte le sue caratteristiche.
+4) Disegnare lo schema dei tre impianti: antincendio sprinkler, sentina e combustibile, e descriverne
+il funzionamento.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l'uso di manuali tecnici, di regolamenti di Istituti di Classifica (anche sotto forma di estratto) e di calcolatrici tascabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI IMPIANTI MEZZO NAVALE
+
+Pag. 4/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI IMPIANTI MEZZO NAVALE
+
+

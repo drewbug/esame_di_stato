@@ -1,0 +1,63 @@
+Pag. 1/2
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I188 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+All’interno di un capannone è presente un quadro di distribuzione che alimenta i seguenti carichi:
+ 5 MAT ciascuno di Pn = 2,2 kW
+ 7 MAT ciascuno di Pn = 4 kW
+ 10 prese trifasi da In = 16 A
+ 20 lampade ciascuna di P = 100 W
+ 9 prese monofasi da In = 10 A
+ servizi ausiliari che richiedono una potenza complessiva pari a 2 kW con fattore di potenza 0,9.
+Il candidato, fatte le ipotesi aggiuntive ritenute necessarie, determini:
+a) lo schema del quadro elettrico;
+b) le caratteristiche delle apparecchiature che lo compongono;
+c) la potenza della batteria di condensatori necessaria per rifasare l’impianto.
+
+Pag. 2/2
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I188 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+
+SECONDA PARTE
+QUESITO N.1
+Il candidato illustri la funzione del sezionatore a doppia interruzione in un impianto di distribuzione
+dell’energia elettrica. Inoltre rappresenti lo schema di apertura e chiusura del sezionatore.
+QUESITO N.2
+Si deve realizzare l’impianto di illuminazione di un piccolo ufficio. Il locale, di altezza pari a 4 m, ha
+le dimensioni in pianta di 25 m x 20 m. Si desidera ottenere un illuminamento medio di 500 lux sul
+piano di lavoro avendo a disposizione corpi illuminanti del tipo 2x36 W (flusso per lampada
+36 W - 3200 lumen) con consumo reattore 3 W per ogni lampada da 36 W.
+Il candidato, integrando i dati attraverso le ipotesi aggiuntive ritenute necessarie, determini:
+a) la potenza elettrica totale dell’impianto
+b) il numero totale di lampade e punti luce necessari ipotizzandone la loro disposizione.
+QUESITO N.3
+Il candidato classifichi le cabine elettriche e spieghi il motivo per cui i trasformatori sono collegati a
+triangolo al primario e a stella al secondario definendo le modalità di installazione.
+QUESITO N.4
+Sono necessari 17 minuti affinché un cavo elettrico alimentato raggiunga la temperatura di 147°C a
+partire da 20°C. Il candidato determini il tempo necessario per portare il cavo dalla temperatura di
+20°C a 90 °C.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

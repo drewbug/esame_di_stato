@@ -1,0 +1,128 @@
+Pag. 1/3
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M585 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+In uno stabilimento alimentare è presente una linea di inscatolamento e pesatura automatica del
+prodotto.
+I barattoli aperti arrivano su di un nastro trasportatore in corrispondenza del punto di riempimento
+dove sono poste due elettrovalvole che convogliano contemporaneamente il prodotto prelevato da un
+serbatoio.
+La prima elettrovalvola permette di introdurre 1,4 litri al secondo, la seconda elettrovalvola 0,15 litri
+al secondo.
+Al di sotto del punto di riempimento è presente una cella di carico che permette di valutare il peso
+raggiunto dal barattolo durante l’operazione di riempimento.
+La cella di carico ha una portata massima a fondo scala di 50 N e in corrispondenza di questa forza
+produce una tensione di uscita differenziale pari a 20 mV se alimentata con 10 VDC.
+Il sistema deve svolgere le seguenti funzioni:
+
+
+Rilevare l’arrivo del barattolo nel punto di riempimento e fermare il nastro trasportatore.
+
+
+
+Attivare entrambe le elettrovalvole fino al raggiungimento del peso di 10 N.
+
+
+
+Bloccare la prima elettrovalvola e lasciare attiva solo la seconda fino al riempimento completo
+(peso pari a 12 N).
+
+
+
+Riavviare il nastro trasportatore.
+
+Il candidato, fatte le ipotesi aggiuntive ritenute idonee:
+1.
+
+Disegni uno schema a blocchi del sistema di controllo dell’intera apparecchiatura.
+
+2.
+
+Proponga il tipo di sensore di posizione da impiegare e motivi la scelta effettuata.
+
+3.
+
+Dimensioni il circuito di condizionamento del segnale proveniente dalla cella di carico.
+
+4.
+
+Codifichi l’algoritmo di gestione del segnale proveniente dalla cella di carico, dei segnali di
+comando delle elettrovalvole e del motore del nastro trasportatore, utilizzando un sistema di
+controllo a propria scelta.
+
+5.
+
+Proponga il tipo di strumentazione più idonea per collaudare il funzionamento del circuito di
+condizionamento.
+
+Pag. 2/3
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M585 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+SECONDA PARTE
+Il candidato risponda a due, e solo due, dei seguenti quesiti e, fatte eventuali ipotesi aggiuntive
+ritenute necessarie, presenti per ognuno le linee operative e le motivazioni delle soluzioni prospettate.
+QUESITO N.1
+Con riferimento al tema proposto nella prima parte, ipotizzando che sia necessario visualizzare il peso
+del barattolo su un display a cristalli liquidi, il candidato proponga una soluzione relativa al tipo di
+collegamento con la scheda di controllo e ne descriva l’algoritmo software per la rappresentazione.
+QUESITO N.2
+Con riferimento al tema proposto nella prima parte, avendo la necessità di misurare il peso del
+barattolo con un errore massimo di 0,2 %, il candidato indichi il tipo di convertitore analogico-digitale
+da impiegare e determini la relativa risoluzione.
+QUESITO N.3
+Dell’impianto lineare rappresentato in figura, utilizzando l’algebra degli schemi a blocchi, calcolare:
+la funzione di trasferimento ad anello chiuso, il valore dell’uscita a regime quando in ingresso è
+applicato un segnale a gradino unitario.
+
+H1(s) = 1/s
+
+H2(s) = 1/(s+5)
+
+H3(s) = 1/(s+8)
+
+H4(s) = 2
+
+Pag. 3/3
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M585 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+QUESITO N.4
+Disegnare in modo qualitativo il diagramma di Bode (del solo modulo) della seguente funzione di
+trasferimento d’anello:
+
+8.100.000(𝑠 + 1)
+𝐺𝑎 (𝑠) =
+(𝑠 + 60)(𝑠 + 2700)
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

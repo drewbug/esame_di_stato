@@ -1,0 +1,565 @@
+Pag. 1/6
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+Il candidato, dopo aver letto attentamente, scelga una sola delle due tracce ed affronti la soluzione
+del tema e di due quesiti tra i quattro proposti nella traccia selezionata.
+
+TRACCIA A
+PRIMA PARTE
+TEMA A
+Il candidato esegua l’analisi di un magazzino avente le seguenti caratteristiche:
+
+
+è costituito da 12 corridoi disposti longitudinalmente di lunghezza 35 m circa, composto da scaffalature
+bifronti per posti pallet tipo EPAL 800x1200 mm;
+
+
+
+l’altezza utile del capannone, sottotrave, è di 12.40 m;
+
+
+
+i correnti della struttura di stoccaggio hanno una portata di 2200 kg;
+
+
+
+le unità di carico hanno:
+
+
+
+‐
+
+un’altezza massima comprensiva del pallet di 1.50 m ed è ammesso un debordo su lato lungo del
+3% complessivo;
+
+‐
+
+in peso max di 1000 Kg;
+
+si dispone di carrelli tipo TRILATERALE le cui prestazioni sono:
+‐
+
+velocità di trasferimento orizzontale con/senza carico: 3 m/s;
+
+‐
+
+velocità di sollevamento forche con/senza carico: 0.45 m/s;
+
+‐
+
+velocità di discesa forche: 0.40 m/s;
+
+‐
+
+tempi fissi per ogni missione di prelievo o stoccaggio : 75 s;
+
+‐
+
+larghezza minima dei corridoi pari a Lc= 1.8 m.
+
+Assumendo che il punto (I/O) di ingresso e di uscita del magazzino sia distribuito sul fronte dell’area di
+stoccaggio stimare:
+a.
+
+il numero di pallet per vano, il numero di livelli della scaffalatura, il Coefficiente di Utilizzazione
+Superficiale CUS e la potenzialità ricettiva dell’intera area di stoccaggio;
+
+b.
+
+il valore minimo dell’altezza di sollevamento delle forche dei carrelli da utilizzare per la
+movimentazione all’interno del magazzino, che consenta di sfruttare completamente l’altezza a
+disposizione;
+
+c.
+
+il numero di carrelli necessari per ottenere una potenzialità di movimentazione di almeno 120 pallet/h
+utilizzando cicli semplici e considerando un coefficiente di utilizzazione dei carrelli di circa 85%;
+
+Pag. 2/6
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+d.
+
+il valore della potenzialità di movimentazione raggiungibile nelle ore di punta con il numero di carrelli
+determinato al punto precedente;
+
+e.
+
+il costo medio di ogni missione (prelievo/carico) considerando un costo orario di 24,50 €/h
+comprensivo di costi per la manodopera e per l’ammortamento carrelli.
+
+Si consideri che la politica di stoccaggio adottata sia a “posti condivisi” con equiprobabilità di accesso ai
+vani e che le missioni siano al 50% di immissione e al 50% di prelievo.
+Il candidato scelga e indichi in modo esplicito tutti i parametri e le assunzioni dimensionali necessari per la
+soluzione.
+QUESITI
+1) Il candidato considerando i dati relativi al magazzino descritto nel TEMA A e inoltre che:
+‐
+
+il flusso del layout è a U;
+
+‐
+
+la dimensione dell’area disponibile è 120 m x 60 m;
+
+‐
+
+la dimensione delle Zone 1 e 3 è 120 m x 10m.
+
+a.
+
+Scelga una scala opportuna, disegni il layout della soluzione presentata sopra.
+
+b.
+
+Esamini e disegni dei layout alternativi considerando di voler aumentare la potenzialità ricettiva
+dell’area di stoccaggio del 30% e valutando se modificare la configurazione del punto di accesso.
+I/O in considerazione delle mutate dimensioni del magazzino.
+
+c.
+
+Giustifichi le scelte operate.
+
+2) Un trasportatore deve quotare al suo Cliente il trasporto su camion da Milano a Livorno di n° 10
+E-Pal alti 110 cm. (sovrapponibili) aventi un peso unitario pari a 190,00 Kg.
+Considerando che il costo del Bilico completo (80 m3 – 24 ton) è pari a 3.000,00 € il candidato:
+‐
+
+prepari la quotazione del trasporto;
+
+‐
+
+realizzi la scaletta tariffaria necessaria;
+
+‐
+
+calcoli il peso reale, il volume totale, il peso volumetrico;
+
+‐
+
+determini il peso tassabile;
+
+‐
+
+calcoli il Nolo.
+
+3) Il giorno 30 marzo il responsabile del magazzino della ditta “Alfabetagammadelta” ha esaminato i dati
+raccolti relativamente alle attività di picking del giorno precedente. A fronte di 680 ordini evasi per
+complessive 4125 righe d’ordine prelevate e 20650 pezzi prelevati, la situazione relativa agli errori
+commessi rilevati dagli addetti al controllo delle merci in spedizione è riassunta in tabella.
+
+Pag. 3/6
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+Il candidato esprima, attraverso il calcolo degli opportuni indicatori, una valutazione dell’accuratezza
+dell’attività in esame, individui quali sono gli errori maggiormente problematici, ne ipotizzi le possibili
+cause e proponga i possibili interventi di miglioramento attuabili.
+Tipologia di errore
+
+N°
+
+Quantità: X pezzi al posto di Y pezzi
+
+33
+
+Scambio: articolo X al posto dell’articolo Y
+
+149
+
+Righe d’ordine con Articoli mancanti
+
+25
+
+Per complessivi articoli mancanti
+
+138
+
+4) Il candidato elenchi ed illustri i sette strumenti della qualità.
+Scelga uno degli strumenti tra quelli sopra descritti e faccia un dettagliato esempio di come applicarlo
+nell’ambito di un processo logistico (allocazione dei prodotti a magazzino, controllo qualità in
+accettazione magazzino; controllo evasione degli ordini; servizio al cliente; ecc.)
+
+TRACCIA B
+PRIMA PARTE
+TEMA B
+La società “XXXXXX” importa dalla Cina scarpe sportive.
+Le caratteristiche degli imballaggi per la formazione delle UdC sono riportate in tabella1.
+Tabella 1.
+Caratteristiche
+Imb. primario: scatola di cartone tre strati per paio di scarpe
+Imb. secondario: scatola di cartone cinque strati
+Pedana
+UdC
+Dimensione container da 40’
+
+X mm
+295
+400
+800
+800
+2310
+
+Y mm
+190
+600
+1200
+1200
+12010
+
+Z mm
+130
+400
+144
+1800
+2360
+
+Pag. 4/6
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+
+Nella tabella 2 sono riepilogati i costi unitari e gli indici di produttività per tutte le attività del processo di
+importazione dalla fase di inscatolamento delle scarpe in Cina fino allo stoccaggio delle Udc a magazzino
+in Italia:
+Tabella 2.
+inscatolamento
+pallettizzazione
+Etichettatura scatole pallettizzate
+Carico su container UdC
+Chiusura del container
+Trasporto door to door
+Apertura del container
+Scarico delle UdC
+Stoccaggio UdC a magazzino
+
+Driver
+confezioni
+scatole
+scatole
+UdC
+container
+container
+container
+UdC
+UdC
+
+Produttività (Unità/h)
+480
+282
+450
+30
+2
+Costo a corpo
+2
+18
+60
+
+Costo/unità [€/h]
+5.00
+5.00
+5.00
+5.00
+5.00
+4800.00
+22.00
+22.00
+22.00
+
+a) Determinare il numero di scatole per imballo secondario, il numero di imballi secondari per Udc, il
+numero di UdC per container, il numero di scatole di scarpe per container.
+b) Il rendimento volumetrico totale del trasporto considerando comunque unitario quello relativo
+all’imballo primario.
+c) Il costo totale del trasporto e quello per confezione di scarpe.
+La società, ritenendo non soddisfacente il costo unitario del trasporto sopra calcolato, desidera valutare il
+margine di miglioramento ricorrendo ad un trasporto containerizzato sfuso in cartoni, migliorare quindi la
+saturazione ed effettuare la pallettizzazione all’arrivo al magazzino in Italia.
+Per le attività di scarico e pallettizzazione in Italia, l’ufficio tempi e metodi ha calcolato i valori riportati in
+tabella 3:
+Tabella 3.
+Scarico scatole da container
+Predisposizione pedana
+Formazione UdC pallettizzate
+Etichettatura scatole pallettizzate
+Consolidamento UdC con film estensibile
+
+Driver
+scatole
+UdC
+scatole
+scatole
+UdC
+
+Tempo [s]
+15
+60
+10
+15
+60
+
+Pag. 5/6
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+
+d) Calcolare il costo totale e quello per confezione caricata a magazzino in questa seconda ipotesi di
+trasporto considerando il nuovo processo costituito dalle seguenti fasi:
+
+
+in Cina: inscatolamento; carico delle scatole nel container fino alla massima saturazione; chiusura
+del container;
+
+
+
+trasporto door to door;
+
+
+
+in Italia apertura del container; scarico da container del prodotto sfuso; Pallettizzazione;
+etichettatura UdC; immagazzinamento.
+
+e) Dare una valutazione dei risultati ottenuti in termini di efficienza dei due processi esaminati.
+Il candidato, se necessario, assuma i dati che ritiene utili per lo svolgimento del tema dandone motivazione.
+
+QUESITI
+1) Il candidato, utilizzando i dati relativi al TEMA B ed aiutandosi con la rappresentazione grafica,
+proponga delle soluzioni alternative per saturare il volume del container sia con carico pallettizzato che
+sfuso, intervenendo sia sulle misure delle scatole che delle UdC, nel rispetto dei criteri di
+normalizzazione degli imballaggi e di stabilità, peso, regolarità di composizione, sovrapponibilità.
+2) La società “ABCabc” opera da diversi anni in Italia nel settore della distribuzione di cancelleria e
+articoli per l’ufficio. Il settore è altamente concorrenziale e l’offerta dei prodotti è molto livellata; il
+canale distributivo principale è costituito da 22 punti vendita riservati a grossisti e dettaglianti.
+Per la famiglia “distruggidocumenti a strisce” i dati mensili di vendita relativi agli ultimi due anni
+(2014 -2015) sono riportati in tabella 1:
+Tabella 1.
+gen
+
+feb
+
+mar
+
+apr
+
+mag
+
+giu
+
+lug
+
+ago
+
+set
+
+ott
+
+nov
+
+dic
+
+2014 155
+
+354
+
+492
+
+358
+
+359
+
+688
+
+401
+
+82
+
+336
+
+525
+
+604
+
+944
+
+2015 178
+
+360
+
+546
+
+418
+
+394
+
+801
+
+428
+
+95
+
+374
+
+674
+
+573
+
+1088
+
+Il candidato, applicando a sua scelta o il metodo di scomposizione moltiplicativa o il modello di
+Winters (adottando in tal caso i seguenti valori dei coefficienti di smorzamento, α=0.1125; β= 0.5;
+γ= 0.1):
+‐
+
+calcoli i valori iniziali di media, trend e stagionalità sulla base dei dati storici;
+
+‐
+
+formuli la previsione di vendita relativamente al mese di gennaio 2016;
+
+Pag. 6/6
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M838 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "LOGISTICA"
+Tema di: LOGISTICA
+‐
+
+assumendo che la domanda a consuntivo per il mese di gennaio sia stata pari a 229 unità, formulare
+la previsione di vendita relativamente a febbraio;
+
+‐
+
+assumendo che la domanda a consuntivo per febbraio sia stata pari a 348 unità formulare la
+previsione di vendita per i mesi di marzo, aprile,maggio e giugno;
+
+‐
+
+disponendo dei dati di tabella 2 sulle vendite effettive dei mesi suddetti, calcolare gli errori
+previsionali ME, MAPE e MSE.
+Tabella 2.
+
+2016
+
+gen
+
+feb
+
+mar
+
+apr
+
+mag
+
+giu
+
+lug
+
+ago
+
+set
+
+ott
+
+nov
+
+dic
+
+229
+
+348
+
+625
+
+376
+
+469
+
+861
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+3) Il giorno 30 marzo il responsabile del magazzino della ditta “Alfabetagammadelta”, grossista di articoli
+sportivi, ha esaminato i dati relativi ad un campione di ordini di clienti diversi del giorno precedente
+per una valutazione periodica sia della disponibilità della merce a scorta (relativamente a gamma e
+assortimento), che della capacità di soddisfare ordini completi.
+Il candidato considerati i dati riassunti in tabella, esprima attraverso il calcolo degli opportuni indicatori
+una valutazione della disponibilità della merce e commenti i risultati ottenuti.
+Descrizione
+Campione ordini ricevuti
+Righe d’ordine ricevute
+Articoli da evadere
+
+N°
+150
+842
+3368
+
+Descrizione
+Ordini completi evasi da stock
+Righe d’ordine evase complete
+Righe d’ordine evase incomplete
+Articoli evasi da stock
+
+N°
+89
+750
+76
+2559
+
+4) Il candidato illustri il significato e la rilevanza del Documento di valutazione dei rischi.
+Elenchi e spieghi alcuni tra i più importanti rischi per la sicurezza e per la salute relativi ad attività in
+ambito logistico (per es. movimentazione dei carichi all’interno di un’area di stoccaggio).
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, calcolatrici non programmabili, schede tecniche ed estratti di tabelle relative
+alla normativa.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

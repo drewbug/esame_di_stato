@@ -1,0 +1,177 @@
+Pag. 1/4
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+X02X – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LIA2 – SCIENTIFICO OPZIONE INTERNAZIONALE SPAGNOLA
+LII2 - SCIENTIFICO INTERNAZIONALE - OPZIONE ITALO INGLESE
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+Fissato 𝜆 ∈ ℝ, la funzione 𝑔𝜆 è così definita:
+𝑥−2
+𝑥2 − 𝜆
+e si indica con Γ𝜆 il suo grafico, in un riferimento cartesiano 𝑂𝑥𝑦.
+𝑔𝜆 (𝑥) =
+
+1. Traccia i seguenti grafici: Γ−5
+
+Γ0
+
+Γ3
+
+Γ4
+
+Γ9.
+
+2. Stabilisci, al variare di 𝜆 in ℝ, se vi sono, e quanti sono, gli asintoti verticali e se vi sono massimi
+o minimi. Descrivi quindi, a seconda del valore di 𝜆, qual è l’andamento della funzione 𝑔𝜆 ,
+tracciandone un diagramma indicativo.
+3. Dimostra che, per qualunque 𝜆 diverso da 0 da 4, la retta passante per i punti di intersezione tra
+Γ𝜆 e gli assi cartesiani è tangente a Γ𝜆 nel suo punto di ascissa nulla.
+4. Detti 𝐴 e 𝐵 i punti di intersezione tra Γ9 e gli assi cartesiani, sia 𝒢 la regione piana delimitata dai
+segmenti 𝑂𝐴 e 𝑂𝐵 e dall’arco di Γ9 di estremi 𝐴 e 𝐵. Determina l’area di 𝒢 e il volume del solido
+generato dalla rotazione di 𝒢 attorno all’asse 𝑦.
+PROBLEMA 2
+Consideriamo la funzione 𝑓: ℝ → ℝ, periodica di periodo 𝑇 = 4 il cui grafico, nell'intervallo [0; 4],
+è il seguente:
+
+Pag. 2/4
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Come si evince dalla figura 1, i tratti 𝑂𝐵, 𝐵𝐷, 𝐷𝐸 del grafico sono segmenti i cui estremi hanno
+coordinate: 𝑂(0, 0), 𝐵(1, 1), 𝐷(3, −1), 𝐸(4, 0).
+1. Stabilisci in quali punti del suo insieme di definizione la funzione 𝑓 è continua e in quali è
+derivabile e verifica l’esistenza dei limiti: lim f x  e lim
+x  
+
+x  
+
+f x 
+; qualora esistano, determinane
+x
+
+il valore. Rappresenta inoltre, per 𝑥 ∈ [0; 4], i grafici delle funzioni:
+𝑔(𝑥) = 𝑓′(𝑥)
+𝑥
+
+ℎ(𝑥) = ∫ 𝑓(𝑡)𝑑𝑡.
+0
+
+2. Considera la funzione:
+𝑠(𝑥) = 𝑠𝑒𝑛(𝑏𝑥)
+con 𝑏 costante reale positiva; determina 𝑏 in modo che 𝑠(𝑥) abbia lo stesso periodo di 𝑓(𝑥).
+Dimostra che la porzione quadrata di piano 𝑂𝐴𝐵𝐶 in figura 1 viene suddivisa dai grafici di 𝑓(𝑥)
+e 𝑠(𝑥) in 3 parti distinte e determina le probabilità che un punto preso a caso all’interno del
+quadrato 𝑂𝐴𝐵𝐶 ricada in ciascuna delle 3 parti individuate.
+3. Considerando ora le funzioni:
+𝑓(𝑥)2
+
+𝑠(𝑥)2
+
+e
+
+discuti, anche con argomentazioni qualitative, le variazioni (in aumento o in diminuzione) dei 3
+valori di probabilità determinati al punto precedente.
+4. Determina infine il volume del solido generato dalla rotazione attorno all’asse 𝑦 della porzione di
+piano compresa tra il grafico della funzione ℎ per 𝑥 ∈ [0; 3] e l'asse delle 𝑥.
+QUESTIONARIO
+1. Definito il numero 𝐸 come:
+1
+
+𝐸 = ∫ 𝑥𝑒 𝑥 𝑑𝑥,
+0
+
+dimostrare che risulta:
+1
+
+∫ 𝑥 2 𝑒 𝑥 𝑑𝑥 = 𝑒 − 2𝐸,
+0
+
+ed esprimere
+1
+
+∫ 𝑥 3 𝑒 𝑥 𝑑𝑥
+0
+
+in termini di e ed 𝐸.
+
+Pag. 3/4
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+2. Una torta di forma cilindrica è collocata sotto una cupola di plastica di forma semisferica.
+Dimostrare che la torta occupa meno dei 3/5 del volume della semisfera.
+3. Sapendo che:
+√𝑎𝑥 + 2𝑏 − 6
+=1
+𝑥→0
+𝑥
+lim
+
+determinare i valori di 𝑎 e 𝑏.
+4. Per sorteggiare numeri reali nell’intervallo [0, 2] viene realizzato un generatore di numeri casuali che
+fornisce numeri distribuiti, in tale intervallo, con densità di probabilità data dalla funzione:
+𝑓(𝑥) =
+
+3 2 3 3
+𝑥 − 𝑥
+2
+4
+
+Quale sarà il valore medio dei numeri generati?
+Qual è la probabilità che il primo numero estratto sia 4/3?
+Qual è la probabilità che il secondo numero estratto sia minore di 1?
+5. Scrivere l’equazione della retta tangente al grafico della funzione:
+𝑓(𝑥) = 𝑠𝑒𝑛(𝑥) + 𝑐𝑜𝑠(𝑥)
+nel punto di ascissa 𝑥0 = 𝜋.
+6. Determinare il numero reale 𝑎 in modo che il valore di
+𝑠𝑒𝑛(𝑥) − 𝑥
+𝑥→0
+𝑥𝑎
+lim
+
+sia un numero reale non nullo.
+7. Stabilire se la funzione:
+𝑓(𝑥) =
+
+𝑥 + 2√2
+𝑥2 − 8
+
+è continua nell’intervallo [−3, −1] e se, nello stesso intervallo, è dotata di minimo e massimo
+assoluto.
+8. Un dado ha la forma di un dodecaedro regolare con le facce numerate da 1 a 12. Il dado è truccato
+in modo che la faccia contrassegnata dal numero 3 si presenti con una probabilità 𝑝 doppia rispetto
+a ciascun’altra faccia. Determinare il valore di 𝑝 in percentuale e calcolare la probabilità che in 5
+lanci del dado la faccia numero 3 esca almeno 2 volte.
+
+Pag. 4/4
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+9. Dimostrare che l'equazione:
+𝑎𝑟𝑐𝑡𝑔(𝑥) + 𝑥 3 + 𝑒 𝑥 = 0
+ha una e una sola soluzione reale.
+10. Data la funzione:
+𝑓(𝑥) = |4 − 𝑥 2 |
+verificare che essa non soddisfa tutte le ipotesi del teorema di Rolle nell'intervallo [−3; 3] e che
+comunque esiste almeno un punto dell'intervallo [−3; 3] in cui la derivata prima di 𝑓(𝑥) si annulla.
+Questo esempio contraddice il teorema di Rolle? Motivare la risposta in maniera esauriente.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico (O.M. n. 257
+Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

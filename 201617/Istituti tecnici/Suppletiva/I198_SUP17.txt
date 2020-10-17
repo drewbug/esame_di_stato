@@ -1,0 +1,88 @@
+Pag. 1/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I198 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCA - COSTRUZIONI, AMBIENTE E TERRITORIO
+Tema di: TOPOGRAFIA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Due appezzamenti di terreno ABCDE (denominato T1) e AFGCB (denominato T2), con i lati a
+pendenza costante, confinano tra loro lungo la bilatera ABC e i lati AF e CG sono rispettivamente i
+prolungamenti di EA e DC. I due proprietari concordano di rettificare il confine con un nuovo
+confine perpendicolare al lato AE, lasciando inalterato il valore delle aree.
+A seguito della rettifica il proprietario di T1 decide di frazionare il terreno in due parti uguali con
+una dividente uscente dal punto P, posto sul lato ED, a 40,00 m da E, mentre il proprietario di T2
+vuole inserire un raccordo circolare monocentrico che raccordi i lati FG e FA.
+Sono note le coordinate cartesiane dei vertici degli appezzamenti:
+PUNTI
+A
+B
+C
+D
+E
+F
+G
+E le quote
+
+ASCISSE (m)
+- 64,52
+30,65
+74,65
+64,23
+- 28,05
+- 99,19
+96,13
+QA = 120,54 m
+
+ORDINATE (m)
+- 12,89
+- 62,78
+- 4,90
+60,12
+88,66
+- 109,04
+- 138,97
+QF = 124,22 m
+
+QG = 127,50 m
+
+Il candidato determini:
+1. Le coordinate cartesiane degli estremi M e N del nuovo confine.
+2. Le coordinate del punto K secondo estremo della dividente PK e la lunghezza della dividente.
+3. Lo sviluppo e la pendenza del raccordo circolare da inserire tra FG e FA a seguito della
+opportuna scelta del raggio.
+E’ richiesta la planimetria in scala 1: 1000 degli appezzamenti prima e dopo le variazioni effettuate.
+
+Pag. 2/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I198 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCA - COSTRUZIONI, AMBIENTE E TERRITORIO
+Tema di: TOPOGRAFIA
+SECONDA PARTE
+Dovranno essere sviluppati due dei seguenti quesiti, eventualmente avvalendosi delle conoscenze e
+competenze maturate attraverso le esperienze, qualora effettuate, di alternanza scuola-lavoro,
+stage e formazione in azienda.
+1. Eseguire il picchettamento del raccordo progettato con il metodo delle ordinate alla corda per un
+numero di 7 picchetti comprensivi dei punti di tangenza.
+2. In relazione al confine ABC del caso analizzato nella prima parte, individuare, per via grafica, la
+rettifica con nuovo confine uscente da A motivando la procedura adottata.
+3. Il candidato illustri le procedure catastali relative agli atti di aggiornamento, evidenziando le
+differenze di impiego dei software PREGEO e Docfa e facendo eventuale riferimento ad
+esperienze operative.
+4. Progettare un tracciolino stradale in funzione di dati geometrici ipotizzati dal candidato,
+definendo i criteri di scelta.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso del manuale del geometra, di manuali tecnici, prontuari e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,125 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCA - COSTRUZIONI AMBIENTE E TERRITORIO
+Tema di: TOPOGRAFIA
+
+ESEMPIO PROVA
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+
+Parte prima
+Una zona di terreno esagonale ABCDEF, costituita da quattro falde ABF, BCE, CDE e EFB
+dev’essere adibita ad area di servizio per una costruenda strada. Il tecnico incaricato ha effettuato il
+rilievo plano-altimetrico della zona facendo stazione nei vertici B ed E, con una stazione totale,
+ottenendo le misure riportate nel seguente libretto:
+
+Stazione
+
+Punti
+collimati
+
+Letture
+cerchio
+orizzontale
+
+Letture
+cerchio
+verticale
+
+Distanze
+orizzontali
+
+Altezza
+prisma
+
+A
+
+330,2718C
+
+97.3710 C
+
+84.32 m
+
+1.68 m
+
+F
+
+378.5167C
+
+102.6415 C
+
+100.07 m
+
+1.60 m
+
+E
+
+20.4321C
+
+101.000 C
+
+110.84 m
+
+1.60 m
+
+D
+
+47,2810C
+
+98.0014 C
+
+114.07 m
+
+1.71 m
+
+C
+
+91.5422C
+
+97.0111 C
+
+105.70 m
+
+1.70 m
+
+B
+
+145.0100C
+
+-----------
+
+-----------
+
+----------
+
+B
+hs= 1.50 m
+
+E
+hs= 1.51 m
+
+Il candidato realizzi il piano quotato della zona in scala 1:1000, essendo nota la quota del vertice B
+pari a 58.00 m, e progetti lo spianamento del terreno con un piano orizzontale avente quota progetto
+pari alla quota del punto P situato sul lato BC, a 30.00 m dal vertice C e calcoli i rispettivi volumi di
+sterro e di riporto. Al fine di definire le aree di diversa destinazione d’uso, rifornimento e ristorazione,
+frazioni il terreno in due parti equivalenti con una dividente uscente dal punto P individuando la
+posizione del secondo estremo della dividente sul perimetro del terreno.
+
+Parte Seconda
+1) In riferimento al terreno ABCDEF si realizzi il profilo longitudinale lungo la congiungente
+dei punti A e D (scala 1:1000/1:100).
+2) Determinare gli elementi geometrici di un raccordo circolare monocentrico, con raggio a
+scelta del candidato, da inserire tra i lati BC e CD del suddetto terreno, realizzando inoltre una
+rappresentazione grafica in scala 1:1000.
+3) Esporre i criteri di massima utilizzati per effettuare l’analisi del traffico anche in relazione
+alla normativa vigente.
+4) Si descrivano i metodi analitici per il calcolo delle aree.
+
+__________________
+Durata massima della prova: 6 ore. È consentito l’uso di calcolatrice non programmabile, di manuali e prontuari tecnici.
+È consentito l’uso del dizionario di lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non
+italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

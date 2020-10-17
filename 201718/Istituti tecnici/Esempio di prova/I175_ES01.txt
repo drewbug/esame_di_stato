@@ -1,0 +1,78 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: SISTEMI AUTOMATICI
+
+ESEMPIO PROVA
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+
+Parte prima
+In un pastificio si deve progettare un sistema per lo smistamento di colli, di dimensioni differenti,
+contenenti pacchi di pasta. I colli di dimensione più piccola sono destinati al mercato nazionale, gli
+altri a quello internazionale. Il sistema è costituito da:
+1. un primo nastro trasportatore sul quale vengono convogliati i colli da chiudere;
+2. una stazione di chiusura;
+3. due successivi nastri trasportatori per lo smistamento e il conteggio.
+L’impianto viene avviato tramite un dispositivo che rileva l’arrivo del collo sul primo nastro alla fine
+del quale, attraverso il movimento di discesa di un pistone, viene apposto un sigillo di chiusura anti
+effrazione. Durante tale operazione il nastro viene fermato per 5 secondi. Successivamente il collo
+prosegue il cammino verso un secondo nastro trasportatore alla cui estremità è presente un dispositivo
+che, rilevandone l’altezza, smista l’oggetto secondo due possibili percorsi: i colli di altezza inferiore
+continuano il loro percorso sul medesimo nastro, quelli di altezza superiore vengono deviati attraverso
+un pistone espulsore verso il terzo nastro trasportatore, posto perpendicolarmente al precedente.
+Al termine dei due nastri sono collocati opportuni dispositivi necessari al conteggio dei colli destinati
+ai due mercati. L’impianto deve essere provvisto di pulsanti di STOP all’inizio e al termine della
+catena di lavorazione, necessari all’arresto immediato di emergenza dell’impianto e di opportune
+lampade per la segnalazione del sistema in lavorazione o in ARRESTO/STOP.
+
+Il candidato, fatte le ulteriori ipotesi aggiuntive che ritiene necessarie:
+1.
+
+descriva l'impianto attraverso uno schema e individui i dispositivi necessari alla sua
+realizzazione, fornendo una tabella di I/O rappresentante i principali segnali elettrici di
+controllo;
+
+2.
+
+rappresenti, mediante un diagramma di flusso di propria conoscenza, l’algoritmo di
+gestione dell’impianto;
+
+3.
+
+elabori il programma in grado di gestire l'automatismo utilizzando un sistema
+programmabile di propria conoscenza.
+
+Inoltre progetti un sistema in grado di selezionare pacchi di due tipi di pasta differenti da inserire nei
+colli e di provvedere alla relativa etichettatura di questi ultimi nella fase che precede la loro chiusura.
+
+Parte seconda
+1) Con riferimento alla prima parte della prova, il candidato fornisca un algoritmo per il
+conteggio del numero di colli contenenti i prodotti destinati al mercato nazionale e a quello
+internazionale.
+2) Supponendo di disporre di un opportuno pannello operatore (HMI: Human Machine
+Interface), il candidato fornisca un layout che, attraverso opportuni indicatori e controlli
+grafici che visualizzano gli input/output nelle varie attività del processo di controllo
+dell’impianto, consenta di controllare visivamente e monitorare in tempo reale il
+funzionamento dell’impianto descritto nella prima parte della prova.
+3) Un motore in corrente continua a magneti permanenti, a cui è applicato un carico di momento
+d’inerzia JM = 0,1410-3 kgm2, è caratterizzato dai seguenti parametri:
+a. Costante di coppia KT = 0,044 Nm/A;
+b. Costante di tempo meccanica τm= 2,05 ms;
+c. Costanti di armatura: Ra = 1,88  , La = 10 mH.
+Il candidato, dopo aver ricavato la funzione di trasferimento del motore, ne determini
+l’andamento della risposta armonica; successivamente calcoli la risposta nel tempo per un
+ingresso a gradino unitario.
+4) Si vuole misurare la velocità di rotazione di un motore utilizzando un encoder. Il candidato
+rappresenti il sistema di acquisizione della velocità e ne descriva gli elementi rappresentativi
+motivando le scelte effettuate.
+
+_________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrice non programmabile, manuali, prontuari tecnici e del dizionario di lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

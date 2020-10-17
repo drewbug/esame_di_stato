@@ -1,0 +1,135 @@
+Pag. 1/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M886 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL – INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: TELECOMUNICAZIONI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+Una rete locale serve un ente di ricerca, i cui uffici e laboratori sono ospitati in due edifici posti alla
+distanza di 100 m l’uno dall’altro; la rete opera alla velocità di 1Gbps ed è suddivisa in quattro
+sottoreti, collegate secondo lo schema di massima descritto in figura e caratterizzate dal numero di
+host indicato in tabella.
+
+Sottorete
+
+Numero
+host
+
+Sottorete A
+
+60
+
+Sottorete B
+
+48
+
+Sottorete C
+
+25
+
+Sottorete D
+
+48
+
+I router A e B si trovano nel primo edificio, mentre gli altri due sono nel secondo. La rete, che si era
+sviluppata per soddisfare precedenti esigenze, deve essere ristrutturata tenendo in conto che gli host
+appartenenti alla sottorete D sono aumentati rispetto al passato; le sottoreti B e D vengono usate da
+gruppi diversi di ricercatori, coinvolti sempre più di frequente in progetti comuni, mentre le postazioni
+presenti nelle sottoreti A e C sono usate dagli uffici amministrativi dell’ente.
+Si sa, inoltre, che il collegamento tra i router A e C è realizzato in fibra ottica posta in apposito
+cavidotto interrato.
+Il candidato, formulate le eventuali ipotesi aggiuntive che ritiene opportune:
+1.
+
+dopo aver messo in evidenza i punti di debolezza della rete rispetto alle nuove esigenze descritte
+dalla traccia, proponga e giustifichi una modifica alla struttura di rete in modo da ridurre i tempi
+di consegna dei pacchetti e la vulnerabilità del sistema ai guasti, senza aumentare sensibilmente
+i costi per la modifica e la gestione del sistema;
+
+Pag. 2/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M886 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL – INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: TELECOMUNICAZIONI
+
+2.
+
+proponga e discuta le tabelle di instradamento dei router impiegati nella nuova struttura di rete;
+
+3.
+
+proponga e discuta un opportuno piano di indirizzamento basato sull’uso di indirizzi privati IPv4;
+
+4.
+
+valuti la minima velocità a livello fisico necessaria per sostenere un’applicazione che richiede un
+data rate di almeno 64 Kbps, quando le condizioni di traffico sono tali da avere un tempo di
+latenza di 30 ms, in relazione ad un qualunque elaboratore appartenente alla rete, che debba
+stabilire una comunicazione regolata dai protocolli illustrati nella tabella sottostante.
+Livello di
+protocollo
+Applicazione
+Trasporto
+Rete
+Linea
+
+Procedura di
+trasferimento trame
+Non confermata
+Non confermata
+Non confermata
+Non confermata
+
+Lunghezza
+header trame
+12 byte
+8 byte
+20 byte
+26 byte
+
+Lunghezza payload
+Massimo 1024 byte
+Massimo 1024 byte
+Massimo 1024 byte
+Massimo 1024 byte
+
+SECONDA PARTE
+Il candidato scelga due fra i seguenti quesiti e per ciascun quesito scelto formuli una risposta della
+lunghezza massima di 20 righe esclusi eventuali grafici, schemi e tabelle.
+1.
+2.
+
+3.
+4.
+
+Esamina nel dettaglio i pro e i contro della possibile realizzazione in ponte radio di una
+connessione tra i due edifici su cui si estende la rete proposta nella prima parte della prova.
+Spiega come si potrebbe procedere all’indirizzamento nel caso in cui, pur mantenendo la struttura
+di rete illustrata nella prima parte della prova, si voglia raddoppiare il numero degli elaboratori
+presenti in ciascuna sottorete.
+Nell’ambito dei dispositivi di interconnessione, spiega la funzione rispettivamente di router e
+switch, mettendone in evidenza le differenze.
+Nell’ambito dei protocolli di livello 2 dell’architettura di rete OSI, spiega in cosa consiste un
+controllo di flusso realizzato con tecnica stop-and-wait indicando in quali casi sia conveniente
+applicarlo.
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Il candidato è tenuto a svolgere la prima parte della prova ed a rispondere a 2 tra i quesiti proposti.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

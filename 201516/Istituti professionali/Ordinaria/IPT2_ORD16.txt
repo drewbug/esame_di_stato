@@ -1,0 +1,165 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT2 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT2 – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una ditta di lavorazione della plastica ha installato in una nuova sede dei macchinari che consistono
+principalmente in:
+Potenza
+assorbita
+
+Fattore
+di fase
+
+Fattore
+di utilizzo
+
+Fattore di
+contemporaneità
+
+Motore
+
+20kw
+
+0,8
+
+0,8
+
+0,8
+
+Riscaldamento
+
+15kw
+
+1
+
+1
+
+1
+
+20hp
+
+0,8
+
+0,8
+
+Num.
+Presse
+termoplastiche
+
+4
+
+Compressore
+
+1
+
+Essiccatore
+
+1
+
+Soffiante
+
+0,75kw
+
+0,8
+
+0,7
+
+1
+
+Riscaldamento
+
+2,5kw
+
+1
+
+1
+
+17,4kw
+
+0,85
+
+0,8
+
+Refrigeratore
+
+1
+
+La tensione di alimentazione delle macchine è 400V trifase.
+Il candidato:
+1.
+
+calcoli le potenze del sistema;
+
+2.
+
+valuti se il cos φ del sistema è adeguato al valore imposto dal fornitore e se necessario adotti
+delle misure per la dovuta correzione.
+
+Le presse producono dei pezzi la cui quantità viene valutata tramite pesatura.
+Per questa vengono utilizzate delle celle di carico la cui uscita è 20 mV se caricate con 8 Kg e
+alimentate a 10V in D.C.
+Il candidato progetti un circuito elettronico che abbia:
+
+
+un alimentatore duale +10V / -10V (possibilmente stabilizzato);
+
+
+
+un condizionamento delle celle di carico con uscita 5V per carico 5Kg;
+
+
+
+eventualmente uno stadio che tolga la tara di un piatto da 500g;
+
+
+
+che mi segnali con un segnale digitale il raggiungimento dei 4Kg.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT2 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT2 – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+SECONDA PARTE
+1.
+
+Utilizzando il segnale del raggiungimento dei 4Kg il candidato proponga una piccola
+automazione con PLC che rovesci il contenuto del piatto in una scatola sottostante e che avvisi
+l'addetto all'imballaggio e ne tracci lo schema elettrico.
+
+2.
+
+Utilizzando il segnale del raggiungimento dei 4Kg il candidato proponga una piccola
+automazione con PLC che rovesci il contenuto del piatto in una scatola sottostante e che avvisi
+l'addetto all'imballaggio e realizzi il programma di gestione in linguaggio ladder.
+
+3.
+
+Le linee di alimentazione delle presse sono lunghe 15m.
+Il candidato, fatte le adeguate ipotesi aggiuntive, ne dimensioni i cavi, considerando una adeguata
+perdita di potenza.
+
+4.
+
+Le linee di alimentazione delle presse sono lunghe 15m.
+Il candidato, fatte le adeguate ipotesi aggiuntive, dimensioni l'interruttore generale del sistema.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

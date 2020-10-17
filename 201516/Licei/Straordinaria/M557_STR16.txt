@@ -1,0 +1,287 @@
+Pag. 1/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+IM
+
+Tema di: MATEMATICA
+
+IU
+
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03, EA09 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+
+R
+
+M557 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+AT
+T
+
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+
+LI
+
+Sei addetto alla gestione di una macchina utensile in cui è presente un contenitore di olio
+lubrificante avente la forma di un cono circolare retto col vertice rivolto verso il basso. Il raggio di
+base r del cono è 4 cm mentre l’altezza h è 12 cm. In tale contenitore, inizialmente vuoto, viene
+
+AG
+
+versato automaticamente dell’olio lubrificante alla velocità di 12𝜋
+processo avvenga correttamente, senza produrre traboccamenti di olio.
+
+𝑐𝑚3
+𝑠
+
+. Devi assicurarti che il
+
+1. Determina l’espressione della funzione ℎ(𝑡), che rappresenta il livello ℎ (in cm) raggiunto
+
+E
+
+dall’olio all’istante 𝑡 (in secondi) e la velocità con la quale cresce il livello dell’olio durante il
+riempimento del contenitore.
+
+M
+
+2. Al fine di programmare il processo di versamento da parte della macchina utensile, determina il
+
+R
+
+tempo 𝑡𝑅 necessario perché il contenitore sia riempito fino al 75% della sua altezza.
+
+3. Devi realizzare un indicatore graduato, da porre lungo l’apotema del cono, che indichi il
+
+FO
+
+volume 𝑉 di olio presente nel recipiente in corrispondenza del livello raggiunto dall’olio 𝑙𝐴 ,
+misurato all’apotema. Individua l’espressione della funzione 𝑉(𝑙𝐴 ) da utilizzare per realizzare
+tale indicatore graduato.
+
+N
+
+4. A causa di un cambiamento nell’utilizzo della macchina, ti viene richiesto di progettare un
+
+A
+
+C
+
+O
+
+nuovo e più capiente recipiente conico, avente apotema 𝑎 uguale a quello del contenitore
+attualmente in uso. Determina i valori di ℎ e di 𝑟 in corrispondenza dei quali il volume del cono
+è massimo e verifica, a parità di flusso di olio in ingresso e di tempo di riempimento 𝑡𝑅 , a quale
+livello di riempimento si arriva. È ancora pari al 75% dell’altezza?
+
+PI
+
+PROBLEMA 2
+
+C
+
+O
+
+La funzione 𝑓: ℜ → ℜ è così definita:
+𝑓(𝑥) = 𝑠𝑒𝑛(𝑥) − 𝑥 ∙ cos(𝑥)
+
+1) Dimostra che 𝑓 è una funzione dispari, che per 𝑥 ∈ ]0, 𝜋] si ha 𝑓(𝑥) > 0 e che esiste un solo
+valore 𝑥0 ∈ ]0,2𝜋] tale che 𝑓(𝑥0 ) = 0. Traccia inoltre il grafico della funzione per 𝑥 ∈ [0,5𝜋].
+2) Determina il valore dell’integrale definito:
+𝜋
+2
+
+∫ 𝑓(𝑥)𝑑𝑥
+0
+
+Pag. 2/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+e, sapendo che risulta:
+∫ 𝑓
+
+2 (𝑥)𝑑𝑥
+
+IU
+
+0
+
+𝜋3 𝜋
+=
+− ,
+48 8
+
+R
+
+𝜋
+2
+
+IM
+
+prova che risulta verificata la disequazione:
+
+anche non conoscendo il valore di 𝜋.
+3) Verifica che, qualsiasi sia 𝑛 ∈ ℕ, risulta:
+(2𝑛+1)𝜋
+
+𝑓(𝑥)𝑑𝑥 = 4,
+
+0
+2𝑛𝜋
+
+𝑓(𝑥)𝑑𝑥 = 0.
+
+AG
+
+∫
+
+LI
+
+∫
+
+AT
+T
+
+𝜋 3 + 18𝜋 < 96
+
+0
+
+M
+
+E
+
+4) Dimostra che i massimi della funzione 𝑓 2 (𝑥) giacciono su una parabola e i minimi su una retta,
+e scrivi l’equazione della parabola e della retta.
+
+Calcolare il limite:
+
+𝑠𝑒𝑛(𝑐𝑜𝑠(𝑥) − 1)
+𝑥→0
+𝑙𝑛(𝑐𝑜𝑠 2 (𝑥))
+lim
+
+N
+
+FO
+
+1.
+
+R
+
+QUESTIONARIO
+
+In media, il 4% dei passeggeri dei tram di una città non paga il biglietto. Qual è la probabilità
+che ci sia almeno un passeggero senza biglietto in un tram con 40 persone? Se il numero di
+persone raddoppia, la probabilità raddoppia?
+
+3.
+
+Determinare il parametro reale 𝑎 in modo che i grafici di 𝑦 = 𝑥 2 e di 𝑦 = −𝑥 2 + 4𝑥 − 𝑎,
+risultino tangenti e stabilire le coordinate del punto di tangenza.
+
+4.
+
+Dati i punti 𝐴(2, 4, −8) e 𝐵(−2, 4, −4), determinare l’equazione della superficie sferica di
+diametro AB e l’equazione del piano tangente alla sfera e passante per A.
+
+PI
+
+A
+
+C
+
+O
+
+2.
+
+Un'azienda produce, in due capannoni vicini, scatole da imballaggio. Nel primo capannone si
+producono 600 scatole al giorno delle quali il 3% difettose, mentre nel secondo capannone se
+ne producono 400 con il 2% di pezzi difettosi. La produzione viene immagazzinata in un unico
+capannone dove, nel corso di un controllo casuale sulla produzione di una giornata, si trova una
+scatola difettosa. Qual è la probabilità che la scatola provenga dal secondo capannone?
+
+6.
+
+In un semicerchio di raggio 𝑟 = 10 è inscritto un triangolo in modo che due vertici si trovino
+sulla semicirconferenza e il terzo vertice si trovi nel centro del cerchio. Qual è l’area massima
+che può assumere tale triangolo?
+
+C
+
+O
+
+5.
+
+Pag. 3/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+7. Calcolare, se esiste, il limite della seguente successione esplicitando il procedimento seguito:
+
+IU
+
+R
+
+3 −𝑛
+lim (1 + )
+𝑛→∞
+𝑛
+
+M
+
+E
+
+AG
+
+LI
+
+AT
+T
+
+IM
+
+8. Data la funzione 𝑓(𝑥) = −𝑥 4 + 2𝑥 2 + 8, sia g la retta passante per i punti 𝐴(0,8) e 𝐵(2,0).
+Si calcoli l’area della regione tratteggiata indicata in figura.
+
+FO
+
+R
+
+9. Dati i punti 𝐴(−2, 0, 1), 𝐵(1, 1, 2), 𝐶(0, −1, −2), 𝐷(1, 1, 0), determinare l’equazione del piano
+𝛼 passante per i punti A, B, C e l’equazione della retta passante per D e perpendicolare al piano
+𝛼.
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+10. Si consideri, nel piano cartesiano, la regione limitata R, contenuta nel primo quadrante,
+compresa tra l'asse y ed i grafici di 𝑦 = 2𝑥 e 𝑦 = 𝑥 2 . Si determinino i volumi dei solidi che si
+ottengono ruotando R attorno all'asse x e all'asse y.
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

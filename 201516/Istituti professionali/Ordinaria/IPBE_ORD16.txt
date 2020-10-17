@@ -1,0 +1,66 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPBE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPBE – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: FISICA APPLICATA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un boiler elettrico contiene 100 litri d'acqua (calore specifico = 4.186 J/(kg*K)) e viene alimentato
+dalla rete elettrica a 240V.
+Fatte le eventuali ipotesi aggiuntive calcolare:
+1. quanta deve essere l'energia fornita affinché la temperatura al suo interno raggiunga i 40°C in 2
+ore, partendo dalla temperatura dell'acquedotto (circa 10°C);
+2. quale deve essere la potenza della resistenza riscaldante;
+3. con la stessa resistenza porto la regolazione dell'acqua a 60°C. Quanto tempo serve per portare la
+temperatura al nuovo valore di regime?
+4. data la tensione di alimentazione, quale deve essere il valore della resistenza;
+5. che corrente la attraversa;
+6. dovendo realizzarla con un filo di costantana (resistività = 0,49 Ω mm2/m) di diametro 0,4mm,
+questo quanto deve essere lungo.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPBE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPBE – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: FISICA APPLICATA
+
+SECONDA PARTE
+1.
+
+Il candidato descriva il concetto di forze conservative e dissipative. Se spingo un oggetto di
+massa 25kg per 10 metri su un piano orizzontale con coefficiente d’attrito 0.35, che tipo di
+lavoro compio e in che quantità?
+
+2.
+
+Il candidato parli del ciclo di Carnot. Esprima il concetto di “adiabatico” e calcoli di quanto
+varia l’energia interna di un contenitore adiabatico se a 2kg di acqua a 18°C vengono aggiunti
+6kg di acqua a 31°C.
+
+3.
+
+Il candidato spieghi la legge di Coulomb. Calcoli il valore della forza che intercorre tra due
+cariche puntiformi da 26mC poste a 80 cm di distanza l’una dall’altra (costante di Coulomb =
+8.98 x 109 N m2/ C2).
+
+4.
+
+Principio di funzionamento del trasformatore. Se si ha un rapporto spire di 25:1, e sul
+primario ho 240V e 2A, quali saranno i valori di tensione e corrente sull’avvolgimento
+secondario?
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

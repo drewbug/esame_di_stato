@@ -1,0 +1,88 @@
+Pag. 1/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I256 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Alle ore 00:05 UTC del 27 marzo decolla da Edmonton (5318N11335W) il volo KL676 Airbus A330
+diretto ad Amsterdam (5218N00446E). Alle ore 03:04 UTC dello stesso giorno da East Midlands
+(5250N00120W) decolla il volo 5X232 Boeing 767 diretto a Philadelphia (3952N07514W). I due
+velivoli volano per ortodromia entrambi a FL 390, il primo con una GS media di 500 kts. Il candidato
+determini la GS media che assume il secondo aeromobile per attraversare contemporaneamente al
+primo il meridiano 27°W e la distanza fra i due paralleli in quell’istante. All’attraversamento di tale
+meridiano, i due voli proseguono ognuno lungo il proprio parallelo in direzioni opposte. Il candidato
+determini la distanza minima fra i waypoints raggiunti dopo un’ora dal cambio di rotta e rappresenti
+su una carta gnomonica polare, per una sfera rappresentativa di raggio uguale a 120 mm, le traiettorie
+seguite dai due aeromobili dal decollo fino ai WP considerati e indichi le misure delle tratte in cm
+sulla carta stessa.
+
+SECONDA PARTE
+1. Un aeromobile sorvola un punto A (41°00’N; 15°41’E) posto su QTE 240 da una stazione
+radioelettrica sita nell’aeroporto S (42°00’N; 18°00’E). Dopo un certo tempo il velivolo viene
+rilevato dalla stessa stazione su QTE 180 a 120 NM. Il navigatore Doppler misura lungo la rotta
+effettiva un dF = 2420 Hz (F = 9 GHz; angolo di depressione 60°). Il vento lungo la tratta è
+stimato in 150°/27 kts. Il candidato determini la prua, la velocità all’aria e il dF misurato dal
+navigatore Doppler (orientato sull’asse longitudinale dell’aeromobile) durante la fase di rientro
+(vento medio stimato di levante, intensità 43 kts) sull’aeroporto S.
+2. Da una carta di avvicinamento strumentale si osserva una procedura di attesa che prevede: virate
+standard, il tratto inbound su radiale 306° e MHA=4000 ft. A causa di un forte temporale, che ha
+causato la chiusura temporanea della pista dell’aeroporto vicino, stanno convergendo su di esso
+tre aeromobili. Il candidato assegni la quota di attesa e rappresenti su un grafico con scala a scelta
+i percorsi di ingresso nel circuito di attesa sapendo che sull’Holding Fix l’aereo A giunge
+seguendo la radiale 290°, l’aereo B la radiale 180° e l’aereo C la radiale 090°. L’Altitudine di
+Transizione sia coincidente con la MHA mentre per i dati meteo, il candidato utilizzi e
+successivamente decodifichi il bollettino seguente:
+METAR LEAL 081320Z 12040KT 4000 TSGR BKN025 OVC036 11/10 Q1008
+
+Pag. 2/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I256 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+3. In caso di indisponibilità del servizio RADAR, la procedura VOR-Y per RWY 02 dell’aeroporto
+di Alghero/ Fertilia (LIEA) prevede Holding Pattern standard attestato su AEA VOR/DME con
+rotta inbound 177° e MHA 4000ft. La procedura di avvicinamento è una Reversal tipo BASE
+TURN destra con allontanamento su RDL181° AEA VOR per CAT. C/D e su RDL191° AEA
+VOR per CAT. A/B fino alla distanza D10 NM AEA DME. Il tratto finale ha rotta TR 020°.
+Il candidato rappresenti in scala sia la visione in pianta che quella in profilo (virata livellata 2900
+ft) dell’intera procedura considerando il VOR/DME posizionato circa a metà pista sulla sinistra
+della stessa.
+4. Anche in relazione alla propria esperienza maturata in percorsi di alternanza scuola lavoro, il
+candidato esamini la successiva sequenza di comunicazioni tra controllore radar e piloti:
+RYR 476: Girona Radar RYR 476 estimated BAGUR at 13:20 distance 22 nautical miles
+RDR:
+
+476 report your heading and level
+
+RYR 476: 476 heading 255 at flight level 90
+VLG 321: Girona Radar VLG 321 estimated BAGUR at 13:22 distance 28 nautical miles
+RDR:
+
+321 report your heading and level
+
+VLG 321: 321 heading 338 at flight level 90
+Ipotizzando un vento da NW con intensità 30 kts e che gli aa/mm navighino con la stessa
+TAS=260 kts, il candidato valuti la distanza minima a cui transiteranno e l’eventuale manovra
+da far eseguire ad uno dei velivoli affinché la separazione minima venga rispettata nel
+vettoramento.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

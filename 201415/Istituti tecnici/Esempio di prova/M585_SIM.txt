@@ -1,0 +1,144 @@
+Esame di Stato di Istituto Tecnico – Settore Tecnologico
+Indirizzo Elettronica ed Elettrotecnica – Articolazione “Automazione” (ITAT)
+Esempio di seconda prova di Sistemi Automatici
+
+PARTE PRIMA
+Una azienda automobilistica deve valutare il coefficiente di aerodinamicità di un prototipo da corsa:
+a tale scopo sono fissati quattro sensori di sforzo sulla scocca collocati rispettivamente sul musetto,
+sull’alettone stabilizzatore e sui deflettori laterali. La vettura è quindi sottoposta alle sollecitazioni
+della galleria del vento con flusso di aria frontale.
+
+La prova si effettua in un periodo di 20 minuti durante i quali il rotore della ventola genera un
+flusso d’aria a velocità e direzione variabile. Le specifiche dei dispositivi di rilevazione utilizzati
+sono le seguenti:
+ dinamica dello sforzo rilevabile
+[N/cm2]
+
+100 ≤ F ≤ 150
+ caratteristica ingresso-uscita
+2
+
+V0  10 e
+
+F
+100
+
+Inoltre il sistema rotore-ventola fornisce in uscita un codice digitale a 8 bit che indica la velocità e
+la direzione del vento prodotta istantaneamente.
+Per quanto riguarda il sistema programmabile per l’acquisizione dei dati, si ritenga comprensivo di
+aree di memoria dati e programmi dedicate.
+Il controllo da effettuare prevede acquisizioni ad intervalli di 10 secondi del codice proveniente dal
+rotore e dei valori presenti sui quattro sensori, valori che vengono memorizzati nell’apposita area
+dati.
+Il candidato, con riferimento ad un sistema programmabile di propria conoscenza e fatte le
+eventuali ipotesi aggiuntive:
+1. Individui uno schema a blocchi del sistema, specificando le funzioni di ciascun blocco
+2. Descriva la logica di controllo adottata per la gestione del processo
+3. Progetti un algoritmo di controllo del processo coerente con le scelte progettuali effettuate;
+4. Fornisca una porzione di codice significativa dell’algoritmo ipotizzato.
+
+SECONDA PARTE
+Il candidato risponda a due dei seguenti quesiti e presenti per ognuno le linee operative, le motivazioni delle
+soluzioni prospettate.
+
+QUESITO 1
+In relazione al sistema proposto nella prima parte si consideri la necessità di garantire acquisizioni
+con l’approssimazione massima dello 0,1%: Si determini pertanto la necessaria risoluzione
+dell’ADC e si proponga uno schema progettuale che, al termine dei 20 minuti di monitoraggio,
+visualizzi su un display il numero di volte in cui i sensori siano stati sollecitati con una pressione
+pari o superiore al 90% del valore massimo possibile.
+QUESITO 2
+Con riferimento al sistema proposto nella prima parte si ipotizzi di misurare la spinta applicata al
+prototipo mediante sensori inclinometrici monoassiali con uscita in tensione di tipo sinusoidale ad
+ampiezza unitaria e con periodo proporzionale all’angolo  di flessione dell’asticella misuratrice
+costituente il trasduttore
+
+T = K*[cos (  )]2 Con     /3
+K =10-2 [s]
+
+Dopo aver esplicitato la relazione tra la tensione in uscita al trasduttore in funzione dell’angolo
+di inclinazione, il candidato esponga una possibile metodologia per l’acquisizione del dato
+rilevato, con riferimento al sistema di condizionamento e/o conversione del segnale proveniente
+dai sensori inclinomentrici.
+
+QUESITO 3
+Descrivere la struttura dello schema di figura e calcolare la funzione di trasferimento.
+Verificare la stabilità del sistema e calcolare la risposta a regime del sistema in caso di ingresso
+a gradino unitario.
+Inoltre il candidato discuta un caso applicativo individuabile mediante il modello proposto sulla
+base delle proprie competenze nei sistemi di controllo.
+
+X(s)
+
++
+_
+
+A
+B
+
+C
+
++
++
+
+Y(s)
+
+
+
+
+
+1 5
+)
+s
+(
+C
+
+1
+2
+s
+)
+s
+(
+B
+
+5 s
+)
+s
+(
+A
+
+
+
+
+QUESITO 4
+Determinare la funzione di trasferimento dello schema di figura considerando il blocco di
+tipo proporzionale puro.
+Calcolare quindi il margine di fase M ottenuto per un fattore di retroazione unitario e il valore
+da assegnare al blocco  per ottenere M = 45°
+
+Y(s)
+
+
+
+b
+
+5
+
+A
+
+)
+s
+(
+A
+
++
+_
+
+0
+1
+
+X(s)
+
+s  1500  * s  2
+
+

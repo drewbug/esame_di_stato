@@ -1,0 +1,234 @@
+Pag. 1/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+ACHTUNG
+Die vorliegende Arbeit enthält die jeweils unterschiedlichen Prüfungsarbeiten für die Kandidaten
+und Kandidatinnen mit folgenden Berufbildungsdiplomen:
+
+A)
+
+INFORMATIK – NETZWERKTECHNIK (Brixen)
+
+Seiten 2-5
+
+B)
+
+INDUSTRIE- UND GEBÄUDEAUTOMATION (Bruneck)
+
+Seiten 6-7
+
+Die Vorsitzende/Der Vorsitzende der Kommission ist gebeten, darauf zu achten, dass alle
+Kandidaten und Kandidatinnen die ihrem Berufbildungsdiplom entsprechenden Prüfungsarbeiten
+erhalten.
+Zu bearbeiten sind jeweils die Problemstellung im Teil I und zwei der in Teil II gestellten Fragen.
+
+Pag. 2/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+D) INFORMATIK – NETZWERKTECHNIK (Brixen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+
+Die Firma HotelWeb bietet Full Service Hotel- und Destinationsmarketing in den Bereichen Beratung,
+Projektmanagement, Web, Texting, Mediendesign und Solutions an. Zudem hält sie auch Weiterbildungskurse
+in den verschiedenen Bereichen ab. Um der steigenden Nachfrage nachzukommen, baut sie ihren Sitz um und
+vergrößert ihn. Im Zuge dieser Umbauarbeiten möchte die Firma erweitern und plant deshalb eine ITInfrastruktur für drei weitere geografisch getrennte Standorte. Die einzelnen Standorte und der Hauptsitz sind
+mit entsprechender neuer Hardware und Netzwerkanbindung auszustatten.
+Der Hauptsitz (HS) besteht aus 20 Übungsräumen und drei Büros. Jeder Übungsraum soll mit jeweils 18
+Einzelplatzrechnern und einem Netzwerkdrucker ausgestattet werden. Zwei Büros werden mit jeweils
+fünf Büroarbeitsplätzen und zwei Druckern ausgestattet. Das dritte Büro wird mit drei
+Büroarbeitsplätzen, zehn mobilen Geräten und drei Netzwerkdruckern ausgestattet. Da am Standort des
+Hauptsitzes die Möglichkeit besteht, ein Nebengebäude zu kaufen, um vielleicht später nochmals zu
+erweitern, soll eine 60%ige Erweiterungsmöglichkeit vorgesehen werden.
+Der Standort1 (S1) besteht aus 13 Übungsräumen und zwei Büros. Jeder Übungsraum soll mit jeweils
+15 Einzelplatzrechnern und einem Netzwerkdrucker ausgestattet werden. Die zwei Büros werden mit
+jeweils zwei Büroarbeitsplätzen, drei mobilen Geräten und zwei Netzwerkdruckern ausgestattet. Eine
+40%ige Erweiterungsmöglichkeit soll vorgesehen werden.
+Der Standort2 (S2) besteht aus neun Übungsräumen und zwei Büros. Jeder Übungsraum soll mit jeweils
+13 Einzelplatzrechnern und einem Netzwerkdrucker ausgestattet werden. Die zwei Büros werden mit
+jeweils zwei Büroarbeitsplätzen, fünf mobilen Geräten und einem Netzwerkdrucker ausgestattet. Eine
+15%ige Erweiterungsmöglichkeit soll genügen.
+Der Standort3 (S3) besteht aus fünf Übungsräumen und einem Büro. Jeder Übungsraum soll mit jeweils
+17 Einzelplatzrechnern und einem Netzwerkdrucker ausgestattet werden. Das Büro wird mit zwei
+Büroarbeitsplätzen, zwei mobilen Geräten und 2 Netzwerkdruckern ausgestattet. Eine 10%ige
+Erweiterungsmöglichkeit soll genügen.
+
+Pag. 3/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+A) INFORMATIK – NETZWERKTECHNIK (Brixen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+
+Die Anbindung an den Hauptsitz erfolgt jeweils über einen Router. Die IP-Adresse 172.16.24.0/21
+steht für die gesamte Firmenstruktur zur Verfügung.
+Alle Standorte sollen miteinander so verbunden werden, dass eine maximale Ausfallsicherheit
+gegeben ist. Es werden statische Routen verwendet.
+1. Entwerfen Sie die Netzwerkstruktur (Skizze) mit der jeweiligen IP - Adressierung.
+2. Der alte Router des Hauptsitzes kann noch verwendet werden, es wurde jedoch das Password
+vergessen, so muss vor dessen Konfigurierung ein Password-Recovery durchgeführt werden.
+Beschreiben Sie den Vorgang.
+3. Konfigurieren Sie den Router des Hauptsitzes und jene der einzelnen Standorte. Beachten Sie
+dabei, dass zu den grundlegenden Sicherheitsfunktionen die Verwendung von Passwörtern für
+den Zugriff auf die Geräte und deren Konfiguration gehört. Bei der Konfiguration des Routers
+sollen nur 3 Telnet-Verbindungen eingerichtet werden, die sich nach 3 ½ Minuten automatisch
+schließen, falls in diesem Zeitraum keine Eingabe erfolgt.
+4. Verwenden Sie den Router als DHCP-Server.
+5. Verhindern Sie anhand von Access Control List, dass die Einzelplatzrechner in den
+Übungsräumen auf die Bürorechner zugreifen können. Umgekehrt soll es jedoch möglich sein.
+Konfigurieren Sie die Router entsprechend um.
+
+Pag. 4/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+A) INFORMATIK – NETZWERKTECHNIK (Brixen)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+
+Damit die Mitarbeiter eventuelle Störungen in den Kursräumen zentral über eine Webseite melden
+können, ist eine Webapplikation zu entwerfen, die folgenden Funktionsumfang haben muss:
+ Erfassen aller IT-Geräte mit Inventarnummer, Hersteller, Modell, Seriennummer,
+Anschaffungsdatum, Kostenstelle des Gerätes und der Kategorie, welcher das Gerät angehört.
+Zusätzlich muss noch erfasst werden, in welchem Raum sich das Gerät befindet und welche
+Nummer im Raum es hat. Es gibt auch mobile Geräte, die mit erfasst werden müssen.
+o Die Kostenstellen, denen die Geräte zugeordnet sind, haben einen Namen und einen
+Verantwortlichen.
+o Die Kategorien, denen die Geräte angehören, sind z.B. Drucker, Workstation, Server,
+Projektor, Mobile Geräte, ...
+ Erfassen der aufgetretenen Probleme mit Angabe des Gerätes, Datum und Uhrzeit, wann das
+Problem aufgetreten ist, sowie einer Problembeschreibung. Zudem soll der Benutzer die
+Möglichkeit besitzen, anzuführen, ob es sich um ein Hardware- oder Software-Problem handelt.
+o Ein Ticket kann drei verschiedene Zustände haben: „Ticket offen“, „Ticket in
+Bearbeitung“, „Ticket geschlossen“.
+o Beim Schließen eines Tickets muss das Datum und die Uhrzeit sowie eine kurze
+Beschreibung der Lösung angegeben werden.
+1. Fertigen Sie das Datenbankschema an und stellen Sie es in Form eines UML-Domänenmodells
+(Unified Modeling Language) dar.
+2. Erstellen Sie die gesamte Datenbank mit Hilfe von SQL. (Tabellen anlegen, usw.)
+3. Skizzieren Sie die Weboberfläche für das Öffnen eines Tickets.
+
+Pag. 5/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+A) INFORMATIK - NETZWERKTECHNIK (Brixen)
+TEIL II: Bearbeiten Sie eine der folgenden Fragestellungen.
+
+1. Fertigen Sie eine Gegenüberstellung der Vor- und Nachteile von physischen- und virtuellen
+Servern an.
+2. Erstellen Sie unter Berücksichtigung des Datenschutzgesetzes und technischer Maßnahmen ein
+Sicherheits-Konzept zu folgenden Punkten:
+a. Datensicherung und Datensicherheit
+b. Zugriffsrechte auf Daten
+c. Physische Sicherheit der IT-Infrastruktur
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel: Nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und Schüler mit
+Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+Pag. 6/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+B) INDUSTRIE- UND GEBÄUDEAUTOMATION (Bruneck)
+TEIL I: Bearbeiten Sie folgende Problemstellung
+
+Aus dem elektrischen Hauptverteiler einer Industrieanlage verlaufen drei
+Niederspannungsleitungen, zwei dreiphasige und eine einphasige.
+Die erste, dreiphasige Leitung hat eine Länge von 40m und versorgt zwei Bohrmaschinen, welche
+von Asynchronmotoren mit einer Nennspannung von 400V angetrieben werden. Sie nehmen bei
+einem cosφ von 0,86 und einem Gleichzeitigkeitsfaktor von 0,6 je eine Leistung von 3kW auf.
+Die zweite, dreiphasige Leitung hat eine Länge von 90m und versorgt eine Werkzeugmaschine,
+welche von einem Asynchronmotoren mit einer Nennspannung 400V angetrieben werden. Sie
+nimmt bei einem cosφ von 0,88 und einem Gleichzeitigkeitsfaktor von 1 eine Leistung von 5,5kW
+auf.
+Die dritte Leitung hat eine Länge von 105m und versorgt die Beleuchtung, welche eine Leistung
+von 4,5kW bei einem cosφ von 1 und einem Gleichzeitigkeitsfaktor von 0,8 benötigt.
+Bearbeiten Sie folgende Aufgabenstellungen, begründen Sie Ihre Einschätzungen, formulieren Sie
+eventuell zusätzliche Hypothesen:
+1. Zeichnen Sie den Hauptverteiler und legen Sie die Auswahlkriterien der benötigten
+Apparaturen fest.
+2. Bestimmen Sie die benötigte Netzanschlussleistung.
+3. Berechnen Sie den benötigten Querschnitt der Leitungen, den maximal zulässigen
+Spannungsabfall beachtend.
+4. Berechnen Sie die benötigte Größe der Kondensatorbatterien, um eine Kompensation auf
+cosφ=0,95 vorzunehmen;
+5. Definieren Sie die Charakteristik der Erdungsanlage.
+
+Pag. 7/7
+
+Ordentlicher Termin 2017
+Zweite schriftliche Prüfung
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+HPB6 - ABSCHLUSSPRÜFUNG AN SCHULEN DER BERUFSBILDUNG
+SEKTOR INDUSTRIE UND HANDWERK
+FACHRICHTUNG WARTUNG UND KUNDENDIENST
+Arbeit aus: INSTALLATION, WARTUNG UND INSTANDHALTUNG VON SYSTEMEN
+
+B) INDUSTRIE- UND GEBÄUDEAUTOMATION (Bruneck)
+TEIL II: Bearbeiten Sie zwei der folgenden Fragestellungen
+
+1. Welche sicherheitstechnischen Aspekte muss ein Techniker berücksichtigen, damit er sich und
+andere nicht in Gefahr bringt? Illustrieren Sie dies anhand eines konkreten Beispiels.
+2. Projektorganisation spielt in der täglichen Arbeit eine immer wichtigere Rolle. Erläutern Sie
+anhand eines Beispiels diese Aussage.
+3. Für ein 8 m langes, 6 m breites und 4,5 m hohes Industriegebäude soll die Beleuchtung geplant
+werden. Die mittlere Beleuchtungsstärke soll 200 Lux betragen. Definieren Sie die Eigenschaften
+der verwendeten Leuchten und begründen Sie ihre Annahmen. Berechnen Sie überschlagsmäßig
+die Stromkosten der Beleuchtung pro Jahr, wenn man davon ausgeht, dass pro Tag ca. 14
+Stunden eingeschaltet ist (Kosten 0,21 €/kWh). Erläutern Sie, wie die Beleuchtung
+energieeffizient ausführt werden kann.
+
+_______________________
+Dauer der Arbeit: 6 Stunden.
+Erlaubte Hilfsmittel:
+ Tabellenbuch Elektrotechnik (Manuale degli impianti elettrici)
+ nicht programmierbarer Taschenrechner.
+Der Gebrauch eines zweisprachigen Wörterbuchs (Deutsch – Sprache des Herkunftslandes) ist für die Schülerinnen und Schüler mit
+Migrationshintergrund erlaubt.
+Das Schulgebäude darf erst drei Stunden nach Bekanntgabe des Themas verlassen werden.
+
+

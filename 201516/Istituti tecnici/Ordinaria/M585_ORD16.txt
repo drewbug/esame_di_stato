@@ -1,0 +1,94 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M585 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Si vuole realizzare un sistema automatico per la gestione di un parcheggio per automobili a due piani.
+Il parcheggio è dotato di due ingressi e due uscite controllati da semafori e sbarre mobili.
+I posti a disposizione per le auto sono 180, suddivisi in 90 per piano.
+Agli ingressi e alle uscite sono posizionati dei sensori che rilevano il passaggio dei veicoli.
+In corrispondenza degli ingressi sono collocati due pannelli indicatori con display numerici che
+segnalano i numeri di posti liberi per ogni piano.
+Il sistema deve svolgere le seguenti funzioni:
+
+
+Contare quante automobili sono presenti in ciascun piano ed inviare queste informazioni ai due
+pannelli indicatori posti in corrispondenza degli ingressi.
+
+
+
+Indicare il raggiungimento della capacità massima di autovetture bloccando i veicoli agli ingressi
+(semaforo a luce rossa e sbarra abbassata).
+
+
+
+Fornire una statistica relativa alla occupazione media giornaliera dei posti disponibili.
+
+Il candidato, fatte le ipotesi aggiuntive ritenute idonee:
+1.
+
+Disegni uno schema a blocchi del sistema di controllo dell’intera apparecchiatura.
+
+2.
+
+Codifichi l’algoritmo di gestione dei sensori di ingresso, degli attuatori (sbarre mobili e semafori)
+e dei pannelli indicatori dell’impianto, impiegando un dispositivo di controllo di tipo
+programmabile conosciuto.
+
+3.
+
+Codifichi l’algoritmo che fornisce la statistica relativa alla occupazione media giornaliera dei
+posti disponibili.
+
+4.
+
+Descriva una possibile soluzione realizzativa per la visualizzazione del numero di posti liberi di
+ogni piano.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M585 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+SECONDA PARTE
+Il candidato risponda a due, e solo due, dei seguenti quesiti e, fatte eventuali ipotesi aggiuntive
+ritenute necessarie, presenti per ognuno le linee operative e le motivazioni delle soluzioni prospettate.
+QUESITO N.1
+Il candidato, con riferimento al tema proposto nella prima parte, descriva il circuito di
+condizionamento del segnale proveniente da una cella di carico posta in corrispondenza di ogni
+ingresso al fine di limitare il peso dei veicoli all’interno del parcheggio. Se il peso supera 20 kN,
+l’accesso deve essere impedito e segnalato.
+QUESITO N.2
+Con riferimento al tema proposto nella prima parte, ipotizzando che il motore elettrico che muove la
+barriera mobile sia di tipo asincrono trifase, il candidato descriva il tipo di azionamento ritenuto
+idoneo per questo utilizzo.
+QUESITO N.3
+Dell’impianto lineare rappresentato in figura, progettare il regolatore industriale di tipo proporzionale
+Kp in modo che venga garantito un margine di fase di 45° della funzione d’anello. Successivamente,
+dopo aver individuato il tipo del sistema, calcoli la funzione ad anello chiuso e disegni
+qualitativamente il diagramma di Bode del modulo.
+
+QUESITO N.4
+Il regolatore di un sistema di controllo è di tipo PID. Si illustrino le caratteristiche del regolatore,
+mettendo in evidenza gli effetti prodotti da una variazione dei coefficienti: Kp, Kd e Ki.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

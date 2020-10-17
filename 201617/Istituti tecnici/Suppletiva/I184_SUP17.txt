@@ -1,0 +1,81 @@
+Pag. 1/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Si vuole separare per distillazione una miscela liquida bicomponente. Si opera a pressione atmosferica in
+una colonna a piatti e i vapori di testa sono totalmente condensabili con acqua di raffreddamento. La miscela
+da distillare proviene da un serbatoio di stoccaggio atmosferico e viene preriscaldata prima di entrare in
+colonna all’altezza ottimale. Distillato e prodotto di coda vengono raffreddati prima di essere accumulati
+in serbatoi di processo ove restano disponibili per ulteriori lavorazioni. Come fluidi di servizio sono
+disponibili vapore di rete e acqua industriale di raffreddamento.
+Il candidato, dopo aver adottato gli eventuali recuperi termici ritenuti opportuni, disegni lo schema
+dell’impianto idoneo a realizzare l’operazione proposta, completo delle apparecchiature accessorie (pompe,
+valvole, serbatoi, ecc.) e delle regolazioni automatiche principali rispettando, per quanto possibile, la
+normativa UNICHIM.
+
+SECONDA PARTE
+1.
+
+Si vuole distillare una miscela bicomponente con una portata F = 18,8 kmol/s, la cui composizione è
+zF = 0,48. Si vuole ottenere un distillato di composizione xD = 0,98 e un residuo di composizione
+xW = 0,04. Le composizioni riportate sono espresse come frazione molare del componente più volatile.
+Si opera con un rapporto di riflusso effettivo R = 2. La temperatura di condensazione dei vapori di testa
+è Tc = 125 °C e il relativo calore latente vale HV = 34 kJ/kmol.
+Per il condensatore di testa si dispone di acqua industriale di raffreddamento (CP = 4,18 kJ/(kg·°C)
+disponibile a Tai = 28 °C che si deve scaricare a non oltre Tau = 50 °C. Il coefficiente globale di
+scambio termico vale UD = 1,8 kW/(m2·°C).
+Calcolare le portate di distillato e residuo, la portata dell’acqua di raffreddamento e la superficie di
+scambio del condensatore di testa.
+
+2.
+
+Nella distillazione, le condizioni termiche dell’alimentazione influenzano l’entità reciproca delle
+correnti di liquido e vapore che circolano nella colonna nei tratti di rettifica e di esaurimento. Il
+candidato discuta il fenomeno, anche individuando il parametro che permette una relazione quantitativa
+tra le correnti ed evidenziando come varia la costruzione grafica di McCabe e Thiele, per il calcolo
+degli stadi teorici, al variare di tale parametro.
+
+Pag. 2/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I184 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+3.
+
+Importanti processi della Chimica industriale si basano su reazioni d’equilibrio. Il candidato,
+prendendo ad esempio uno di tali processi, discuta i principi termodinamici che governano l’equilibrio
+chimico evidenziando quei parametri che permettono di individuare le condizioni per la più elevata
+resa in una reazione d’equilibrio.
+
+4.
+
+Molti materiali polimerici hanno ormai raggiunto alte prestazioni, tali sia da rendere possibile la
+sostituzione di molti materiali metallici sia da rendere possibili impieghi altamente innovativi. Il
+candidato illustri proprietà e processo produttivo di uno di tali materiali esaminato nel suo corso di
+studi.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali relativi alle simbologie UNICHIM, di tabelle con dati numerici, di diagrammi relativi a parametri
+chimico-fisici, di mascherine da disegno e di calcolatrici tascabili non programmabili.
+Non è consentita la consultazione di libri di testo.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

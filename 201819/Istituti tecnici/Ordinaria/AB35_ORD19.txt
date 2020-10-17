@@ -1,0 +1,117 @@
+Pag. 1/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI e
+CHIMICA ANALITICA STRUMENTALE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Nella lavorazione di un prodotto vegetale si ottiene il composto d’interesse in soluzione acquosa diluita.
+Tale composto presenta un punto d’ebollizione alquanto superiore a quello dell’acqua. Per recuperarlo dalla
+soluzione acquosa lo si estrae con un solvente selettivo.
+Tale solvente ha una densità inferiore a quella della soluzione da estrarre e discioglie selettivamente il
+composto d’interesse. Inoltre, l’estrazione è condotta in modo che il solvente costituisca la fase dispersa.
+La soluzione acquosa proviene direttamente dalla lavorazione precedente. Il solvente, recuperato in un’altra
+sezione dell’impianto, arriva in un serbatoio di processo, dove viene addizionato di solvente fresco per
+compensare le perdite, quindi è avviato all’estrazione. Dopo l’estrazione, che avviene a temperatura
+ambiente, il raffinato, costituito dalla soluzione acquosa esausta, va al trattamento dei reflui, mentre
+l’estratto procede per ulteriori lavorazioni.
+Il candidato tracci lo schema di processo limitatamente alle operazioni di stoccaggio e di estrazione,
+completo delle apparecchiature accessorie (pompe, valvole, serbatoi, ecc.) e delle regolazioni automatiche
+principali rispettando, per quanto possibile, la normativa UNICHIM.
+Il candidato, inoltre, individui le possibili tecniche analitiche adeguate a determinare il composto
+d’interesse, sia nell’alimentazione sia nell’estratto, sapendo che nella struttura di tale composto è presente
+un anello aromatico. Di una di tali tecniche descriva il principio teorico e l’applicazione al composto in
+oggetto.
+SECONDA PARTE
+1. La soluzione acquosa sottoposta ad estrazione nella prima parte presenta una concentrazione in rapporto
+tra il composto d’interesse e l’acqua di XF = 0,12, dove XF rappresenta il rapporto in massa tra il soluto
+da estrarre e l’acqua. Il solvente, che solubilizza selettivamente il composto d’interesse, è praticamente
+immiscibile con l’acqua e arriva all’estrazione praticamente privo del soluto. L’equilibrio di ripartizione
+è dato dalla retta Y = 8·X, dove Y rappresenta il rapporto in massa tra i il soluto e il solvente nell’estratto
+e X il rapporto in massa tra il soluto e l’acqua nel raffinato.
+Sapendo che si vuole recuperare il 92% del composto d’interesse presente nell’alimentazione e che si
+opera con il 71% del rapporto massimo tra acqua e solvente, si calcoli il numero di stadi teorici richiesti
+dall’operazione.
+
+Pag. 2/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI e
+CHIMICA ANALITICA STRUMENTALE
+
+2. L’idrogeno potrebbe rappresentare un vettore energetico a ridotto impatto ambientale ma praticamente
+non esiste libero in natura. Il candidato descriva un processo produttivo attuale per tale importante
+prodotto evidenziando in particolar modo gli aspetti energetici.
+3. Per eseguire un’analisi delle acque secondo una data metodica, si prepara una soluzione standard a
+5mg/L di tre sostanze A, B e C. Tale soluzione è analizzata in HPLC su colonna di gel di silice, C18,
+eluente acqua/metanolo, rivelatore UV a 254 nm. Si ottengono i seguenti risultati:
+
+tempo di
+ritenzione
+(min)
+
+Ampiezza alla
+base del
+picco (min)
+
+area del
+picco
+
+A
+
+8,03
+
+0,32
+
+1360
+
+B
+
+8,98
+
+0,43
+
+3250
+
+C
+
+19,05
+
+0,58
+
+3180
+
+Calcolare la risoluzione tra i picchi e spiegare come potrebbe essere migliorata agendo sulla fase mobile.
+250 mL del campione si estraggono con un opportuno solvente organico. L’estratto viene poi concentrato
+fino a 20,0 mL ed analizzato in HPLC nelle stesse condizioni operative. Si ottiene un picco con
+tR = 9,00 min e area = 3870. Indicare se si tratta del composto A, B o C, calcolare la sua concentrazione
+approssimata nel campione in mg/L e descrivere una metodica per determinare la concentrazione in
+modo più accurato.
+4. Nell’analisi strumentale si ottengono dei valori di grandezze fisiche tipiche della strumentazione
+specifica. Il candidato elenchi i metodi per ricavare la concentrazione dell’analita a partire da tali
+grandezze e ne descriva uno a sua scelta ipotizzando un’applicazione pratica.
+
+_______________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali relativi alle simbologie UNICHIM, di tabelle con dati numerici, di diagrammi relativi a parametri
+chimico-fisici, di mascherine da disegno e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’istituto prima che siano trascorsi 3 ore dalla dettatura del tema.
+
+

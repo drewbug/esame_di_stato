@@ -1,0 +1,199 @@
+ISTITUTI TECNICI
+
+Simulazione seconda prova
+
+settore ECONOMICO
+
+ESAME DI STATO DI ISTITUTO TECNICO Settore ECONOMICO
+Indicazioni relative agli Esempi di prova
+La tipologia di prove relative agli esempi presentati si caratterizza in una logica di continuità con le
+prove dei precedenti percorsi formativi confluiti nell’Istruzione Tecnica Settore Economico a
+conferma dell’evoluzione delle sperimentazioni in ordinamenti e nell’attuale riordino.
+Tutto ciò è confermato dalle prove assegnate negli anni precedenti che già prevedevano tipologie
+quali quelle indicate dalla Circolare Ministeriale n. 758 del 29/1/2015.
+Gli esempi di prove proposti sono stati elaborati partendo dall’utilizzo della prima tipologia prevista
+dalla citata circolare: “Analisi di testi e documenti economici attinenti al percorso di studio”. In
+particolare il documento da analizzare è rappresentato dalla Nota integrativa al Bilancio di una
+s.p.a. da cui sono stati tratti alcuni stralci.
+È da sottolineare come uno stesso testo possa essere utilizzato per costruire esempi di prove relativi
+a percorsi operativi di diversa difficoltà graduando e calibrando le richieste da formulare agli
+alunni.
+Nelle ipotesi proposte, infatti, le richieste operative e i quesiti risultano diverse tra la proposta per
+l’indirizzo Amministrazione, Finanza e Marketing e l’articolazione Relazioni Internazionali e
+Marketing. Ciò è dovuto al minor numero di ore di Economia aziendale e geo-politica rispetto a
+quelle di Economia aziendale dell’indirizzo Amministrazione, Finanza e Marketing nonostante la
+coincidenza di alcune competenze, abilità e conoscenze.
+Per quanto riguarda la struttura della simulazione dell’articolazione Sistemi Informativi Aziendale
+questa risulta coincidente per impostazione e richieste all’indirizzo Amministrazione, Finanza e
+Marketing in quanto le competenze, le abilità e le conoscenze del quinto anno scelte come oggetto
+della simulazione operativa coincidono.
+
+ISTITUTI TECNICI
+
+settore ECONOMICO
+
+Simulazione seconda prova
+
+ESAME DI STATO DI ISTITUTO TECNICO Settore ECONOMICO
+Indirizzo: “AMMINISTRAZIONE, FINANZA E MARKETING”
+e Articolazione: “SISTEMI INFORMATIVI AZIENDALI”
+ESEMPIO DI SECONDA PROVA di “ECONOMIA AZIENDALE”
+PRIMA PARTE
+Stralcio tratto dalla Nota integrativa al bilancio di Alfa spa, impresa industriale operante nel settore
+tecnologico, al 31/12/2014.
+
+
+Nota integrativa al bilancio 31/12/2014 – art. 2427 c.c.
+……………………
+
+
+
+Movimenti intervenuti nel Patrimonio netto
+Descrizione
+Capitale
+Riserva
+sociale
+legale
+Valori all’01/01/2014
+3.000.000
+112.000
+Utile accantonato a riserva
+7.940
+Dividendi pagati agli azionisti
+Utile dell’esercizio 2014
+Valori al 31/12/2014
+3.000.000
+119.940
+
+Riserva
+straordinaria
+220.000
+15.860
+
+235.860
+
+Utile
+dell’esercizio
+158.800
+-23.800
+-135.000
+162.000
+162.000
+
+Totale
+3.490.800
+-135.000
+162.000
+3.517.800
+
+ Movimenti intervenuti nelle immobilizzazioni immateriali
+Immobilizzazioni immateriali
+Costo originario
+Fondo ammortamento
+Costi di ricerca, di sviluppo e pubblicità
+60.000
+24.000
+Ammortamento
+12.000
+Valore di bilancio al 31/12/2014
+60.000
+36.000
+
+Valore di bilancio
+36.000
+
+ Movimenti intervenuti nelle immobilizzazioni materiali
+Immobilizzazioni immateriali
+Costo originario
+Fondo ammortamento
+Terreni e fabbricati (*)
+2.000.000
+1.024.000
+Ammortamento
+42.000
+Valore di bilancio al 31/12/2014
+2.000.000
+1.066.000
+
+Valore di bilancio
+976.000
+
+Impianti e macchinari
+Acquisto (in data 01/07)
+Vendita (in data 01/07)
+Ammortamento
+Valore di bilancio al 31/12/2014
+(*) valore del fabbricato 1.400.000 euro
+
+
+4.258.000
++700.000
+-450.000
+4.508.000
+
+24.000
+
+934.000
+
+1.916.000
+
+2.342.000
+
+-315.000
+657.604
+2.258.604
+
+2.249.396
+
+……………………
+
+Il candidato, dopo aver analizzato le tabelle della Nota integrativa, tragga i dati necessari per
+ricostruire lo Stato patrimoniale e il Conto economico di Alfa spa e proceda alla redazione dei due
+documenti secondo quanto prescritto dal Codice Civile.
+
+ISTITUTI TECNICI
+
+Simulazione seconda prova
+
+settore ECONOMICO
+
+SECONDA PARTE
+Il candidato scelga due dei seguenti quesiti e presenti per ognuno le linee operative, le motivazioni
+delle soluzioni prospettate e la produzione dei relativi documenti, ove richiesto.
+1. L’informazione sulla situazione economica, finanziaria e patrimoniale di Alfa spa richiede la
+determinazione di indicatori utili alla predisposizione di una relazione. Redigere il report dal
+quale si evidenzia l’analisi economica del bilancio di Alfa spa al 31/12/2014.
+2. L’informazione sulla situazione finanziaria di Alfa spa al 31/12/2014 richiede il ricorso alla
+elaborazione del Rendiconto finanziario così come indicato dai Principi contabili. Redigere il
+report dal quale si evidenzia l’analisi dei flussi finanziari relativi al bilancio di Alfa spa al
+31/12/2014 ricorrendo alla predisposizione del Rendiconto finanziario delle variazioni del
+Patrimonio circolante netto.
+3. Il passaggio dal reddito di bilancio al reddito fiscale richiede l’applicazione delle disposizioni
+contenute nel TUIR in merito ai componenti negativi e positivi di reddito. Individuare i
+componenti del reddito che possono originare variazioni fiscali in aumento e in diminuzione.
+Successivamente determinare il reddito imponibile IRES di Beta spa per l’esercizio 2014
+considerando che l’azienda ha rilevato un utile lordo di 46.800 euro e che sono realizzate
+variazioni fiscali originate da:
+ plusvalenze
+ svalutazione crediti
+ ammortamenti
+ manutenzioni e riparazioni.
+4. Gamma spa, impresa industriale riceve, nell’esercizio 2014, la richiesta di una fornitura di
+60.000 unità del prodotto GFDR65 a un prezzo ridotto rispetto all’attuale prezzo di vendita. La
+struttura produttiva interna, attualmente non interamente utilizzata, non consente la
+realizzazione dell’intera produzione aggiuntiva. Analizzare la situazione aziendale e redigere il
+report dal quale emerga la soluzione ritenuta economicamente più conveniente per soddisfare la
+richiesta valutando la possibilità di:
+- esternalizzare interamente la produzione aggiuntiva
+- acquisire impianti e assumere personale per realizzare internamente la maggiore produzione
+- realizzare al proprio interno parte della produzione, sfruttando la capacità produttiva residua,
+ed esternalizzare la produzione mancante.
+
+Dati mancanti opportunamente scelti.
+
+______________
+Durata della prova sei ore.
+Sono consentiti la consultazione del Codice Civile non commentato e l’uso di calcolatrici tascabili non programmabili.
+Non è consentito lasciare l’Istituto prima che siano trascorse tre ore dalla dettatura del tema.
+
+

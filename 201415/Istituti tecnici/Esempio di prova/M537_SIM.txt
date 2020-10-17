@@ -1,0 +1,33 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCS – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: STRUTTURA, COSTR.NE, SISTEMI E IMPIANTI DEL MEZZO
+ESEMPIO PROVA
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+Un sistema di sollevamento installato su veicoli industriali è costituito da un verricello il cui
+tamburo è azionato mediante un una serie di ingranaggi con ruote a denti diritti. Il motore fornisce
+all’albero primario una coppia motrice di 300 Nm a 1500 giri/min e su questo è calettata la ruota
+dentata motrice a denti diritti del primo ingranaggio.
+Dimensionare il pignone di tale ingranaggio, farne il disegno costruttivo e impostare il ciclo di
+lavorazione per una serie limitata di 40 pezzi.
+
+SECONDA PARTE
+Quesito 1
+Spiegare la funzione della barra antirollio e come si può eseguire il suo dimensionamento di
+massima.
+Quesito 2
+Illustrare i sistemi di sospensioni più comuni.
+Quesito 3
+Spiegare i moti della scocca attorno agli assi principali di riferimento di un veicolo.
+Quesito 4
+Spiegare il fenomeno dello squilibrio delle ruote e cosa significano equilibratura statica e dinamica.
+
+_________________________
+Durata massima della prova ore 6
+E’ consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+
+

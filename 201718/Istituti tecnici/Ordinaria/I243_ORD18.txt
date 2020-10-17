@@ -1,0 +1,254 @@
+Pag. 1/7
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Pianificazione e controllo della traversata tra Auckland (New Zealand) e Panama e gestione dei pesi
+a bordo.
+La propria nave container carrier (M/V Haleakala, call sign MAUI, MMSI 233187000), avente
+LPP=183.05 m e B=32.21 m, ultimata la caricazione, è in fase di pre-partenza dal Fergusson Container
+Terminal di Auckland (New Zealand), il giorno 21/06/2018. Le sue condizioni di assetto sono
+descritte dalle seguenti immersioni estreme TA=12.08 m TF=11.36 m.
+Passage planning – appraisal/planning
+Si pianifica la traiettoria lossodromica tra il WP5 (36°25.0’S 175°34.0’E), posto poche decine
+di miglia fuori Auckland, e l’inizio della eastbound traffic lane del TSS “Isla Jicarita” a SW
+del Gulf of Panama (06°54.0’N 081°50.0’W).
+Determinare rotta, cammino ed ETA sapendo che si stima di giungere nel WP5 dopo 4 ore dalla
+partenza di Auckland harbour e che la velocità di servizio da mantenere per tutta la traversata
+è V=11 kts.
+Terminate le operazioni commerciali alle ore 09:00, la partenza da Auckland harbour è
+condizionata dall’attesa delle condizioni di marea, da valutare considerando il tirante d’acqua
+minimo da tenere in navigazione (seagoing), sancito dal SMS relativamente all’immersione
+media e pari a UKC=3.5 m, e la pressione atmosferica PATM=993 hPa.
+Vengono ottenuti i dati di marea dalle Tide Tables, mentre sulle Sailing Directions si cerca
+conferma del valore della profondità in banchina (si riportano di seguito estratti di tali
+pubblicazioni):
+
+21
+
+0116
+0726
+1347
+1947
+
+3.3
+0.7
+3.1
+0.7
+
+“Fergusson Container Terminal has a tanker berth with three dolphins on its E side and
+Fergusson Wharf, for container traffic, on its W side. The tanker berth can accommodate
+vessels with a length of 183m and a draft of 10m. Tankers usually berth starboard sideto at slack water; they can undock at any time. Fergusson Wharf is 600m long, with a
+dredged depth of 12.2m”
+
+Pag. 2/7
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+Ballast handling
+Poiché il rispetto delle condizioni di marea è stato calcolato con l’immersione media, mentre in
+realtà la nave si trova appoppata, ed ha comunque mostrato una situazione al limite, si decide
+di imbarcare un ulteriore quantitativo di zavorra, da determinare, nella cassa BW4 posta 142 m
+a prua della AP. Lo scopo è limitare l’immersione addietro a non più di 12.00 m.
+Determinare inoltre la nuova altezza metacentrica sapendo che la cassa ha quota 1.5 m sulla
+baseline e che prima dell’aggiunta di zavorra si registrava KG=9.56 m.
+Sapendo che la cassa BW4 ha dimensioni 21.70 x 12.00 x 2.00 m (length x width x depth),
+determinare se il volume di zavorra da imbarcare può considerarsi tale da riempire la cassa
+totalmente o solo parzialmente (specificare la percentuale di riempimento trovata): nel caso si
+verificasse la seconda evenienza determinare la riduzione dell’altezza metacentrica
+considerando l’effetto degli specchi liberi FSE. L’acqua di zavorra è da considerarsi acqua di
+mare con salinità standard.
+Sono disponibili i seguenti dati estratti dalla tavola delle carene dritte:
+
+Pag. 3/7
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+Passage planning – execution/monitoring
+Poco prima dell’arrivo all’ingresso a Panama, mentre si sta navigando per Nord in prossimità
+della linea di separazione orientale del “Gulf of Panama” TSS (per maggior chiarezza riferirsi
+allo schema esplicativo estratto dalla pubblicazione Ships’ Routeing), quando ci si trova in
+posizione (=08°20.0’N λ=079°21.2’W), con velocità STW 9 kts, si riscontra sul radar la
+presenza dei seguenti target:
+
+Target
+A
+B
+
+AIS info
+
+UT
+
+Tanker
+underway
+Car-carrier
+underway
+
+22:30
+22:42
+22:30
+22:42
+22:30
+22:42
+22:30
+22:42
+
+C
+
+NONE
+
+D
+
+NONE
+
+Relative
+bearing
+000°
+000°
+-30.0°
+-33.0°
++42.0°
++42.0°
+-22.5°
+-20.0°
+
+Range [NM]
+9.3
+8.7
+3.8
+3.5
+12.4
+10.0
+11.4
+9.3
+
+Le condizioni di visibilità perfetta consentono di scorgere al binocolo, soltanto pochi minuti
+dopo, le luci di navigazione dei bersagli: in particolare il bersaglio C mostra le normali luci di
+navigazione di PDV con lunghezza inferiore a 50 m, mentre il bersaglio D mostra, oltre alle
+luci di via, due luci allineate verticalmente, verde superiormente e bianca inferiormente.
+Ricordando che l’SMS prevede un CPA minimo entro il TSS di 1.0 mg, determinare le azioni
+da intraprendere, in compliance con le COLREGs, per evitare eventuali collisioni e
+commentarle inoltre in una breve relazione tecnica, completa di tutti i dati rilevanti (moti
+relativi e veri dei bersagli, CPA, TCPA).
+
+Pag. 4/7
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+
+La relazione tecnica deve inoltre contenere la verifica della posizione relativa reciproca dei bersagli
+coinvolti, comprensiva di eventuali considerazioni sulla sussistenza di close quarter situations tra
+essi.
+
+Pag. 5/7
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+SECONDA PARTE
+1)
+
+Durante la navigazione tra Auckland e Panama, poco prima delle ore 10 del 27/06, quando ci
+si trova nella posizione stimata DR (=26°09.4’S λ=157°41.6’W), con RV=065.8° e V=11 kts
+si osserva il lembo inferiore del sole ottenendo:
+Tc = 08:16:32 hio = 30° 29.0’
+Più tardi si esegue l’osservazione meridiana con il metodo della culminazione misurando la
+seguente altezza:
+hio = 40° 43.0’
+Sono noti: K=+00m08s, =-3.0’, e=22 m.
+Calcolare il punto nave (FIX) per l’istante dell’osservazione meridiana e relativo tf.
+
+2)
+
+La navigazione tra Auckland e Panama è caratterizzata dalla scarsissima probabilità di
+incontrare cicloni tropicali, non solo per motivi stagionali. Descrivere le principali
+caratteristiche di questi fenomeni, includendo dinamica di formazione, struttura, frequenza,
+moto caratteristico e rischi correlati, sia in porto sia in navigazione. Analizzare inoltre le
+motivazioni che conducono alla loro quasi totale assenza nella zona e nel periodo indicati.
+
+3)
+
+Considerando quanto riportato di seguito, estratto dalle Sailing Directions pertinenti,
+predisporre un rapporto con i dati in proprio possesso o, quando mancanti, ipotizzati in maniera
+da risultare il più possibile coerenti e verosimili.
+“Vessel Traffic Management System (VTMS) — Vessels are required to forward their
+ETA at least 96 hours in advance to the Marine Traffic Control Unit of the Panama Canal
+Authority. See the table titled Panama Canal — Advance Reporting Required Information
+for information that must be included in this report. The word NEGAT shall be used for
+any of the designators that do not have any information available.”
+
+Pag. 6/7
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+
+Pag. 7/7
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+4)
+
+Nel testo della prima parte è stato presentato un problema che prevedeva la movimentazione di
+zavorra: parallelamente al problema della gestione tecnica dell’acqua di zavorra, intesa come
+calcolo delle condizioni di immersione, assetto e stabilità, si pone ormai da qualche tempo il
+problema del trasporto, attraverso l’acqua di zavorra, di specie invasive e patogeni. Descrivere
+la normativa di riferimento e i rischi correlati a questo problema, analizzando successivamente
+l’impatto sulla realtà di bordo, in termini tecnologici, operativi e documentali.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice scientifica non programmabile, tavole numeriche, manuali tecnici, formulari, pubblicazioni
+nautiche.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

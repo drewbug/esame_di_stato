@@ -1,0 +1,65 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+ESEMPIO PROVA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un motore asincrono trifase a 6 poli ha una tensione di targa di 400 V con frequenza 50 Hz. Il motore
+ha le fasi statoriche collegate a stella e la resistenza di una fase dello statore è uguale a 0,27 Ω.
+Due wattmetri, posizionati in base all’inserzione Aron e inseriti sulla linea di alimentazione del motore
+funzionante a pieno carico con i suoi dati di targa, misurano una potenza di 8,2 kW e di 15 kW
+rispettivamente.
+Mediante prove di collaudo si è potuto stabilire che il motore, funzionante a vuoto con tensione e
+frequenza nominale, assorbe dalla linea di alimentazione una potenza di 1,1 kW con una corrente di
+13,5 A.
+Il motore, funzionante a pieno carico in condizioni nominali, ha una velocità di 960 g/min e le perdite
+meccaniche sono 1/3 delle perdite a vuoto.
+Il candidato, dopo aver fatto le ipotesi aggiuntive che ritiene necessarie, calcoli:
+
+
+la corrente assorbita dal motore funzionante a pieno carico coi suoi dati di targa;
+
+
+
+la potenza nominale del motore;
+
+
+
+il rendimento convenzionale del motore;
+
+
+
+la coppia sviluppata dal motore.
+
+SECONDA PARTE
+1.
+
+Un alternatore trifase, connesso a stella, alimenta con una terna simmetrica di tensione di linea di
+400 V, 50 Hz una linea elettrica trifase a tre fili che assorbe una corrente di 76 A con cos = 0.9r.
+Nota la resistenza e la reattanza interna del generatore Rf= 0.15 , Xf=0.8 , il candidato calcoli
+la f.e.m. indotta del generatore e la variazione di tensione da vuoto a carico del generatore.
+
+2.
+
+Il candidato illustri i metodi che possono essere utilizzati per regolare la velocità di un motore
+asincrono trifase.
+
+3.
+
+Il candidato spieghi in quale caso la reazione di indotto in un alternatore ha effetto
+smagnetizzante.
+
+4.
+
+Il candidato, dopo aver discusso in merito al significato della caratteristica meccanica di un motore
+asincrono trifase, indichi quali informazioni si possono dedurre dall’analisi del grafico ripotato:
+
+__________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

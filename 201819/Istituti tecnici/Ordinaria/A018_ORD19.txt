@@ -1,0 +1,81 @@
+Pag. 1/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Durante una esercitazione della NATO nei pressi delle Isole Shetland a una coppia di intercettori viene
+comunicato, alle 09:25 Zulu, di sorvolare NDB Scatsta (6028N00113W) e di dirigersi verso la Norvegia
+con QDR=063°. Due minuti dopo i caccia sorvolano l’NDB e iniziano la loro missione con TAS=320 kts;
+alle 09:38 Zulu ai piloti viene ordinato di intercettare aerei nemici rilevati sui propri sistemi radar, su
+TB=133° distanti 84 NM e che navigano con TC=270° e velocità costante GS=280 kts. Intercettati i velivoli
+nemici, viene simulato per 5 minuti un dog fight completato il quale viene comunicato di iniziare una
+perlustrazione in direzione SW per rientrare sulla verticale dell’NDB a fine autonomia prevista dopo 60
+minuti dal transito su Scatsta. Il candidato calcoli le coordinate e gli orari in cui avvengono l’intercetto e il
+punto di non ritorno sapendo che in zona la VAR=2°W e per i dati meteo utilizzino il bollettino seguente:
+METAR EGPM 200850Z AUTO 07019KT 9999 FEW024 06/00 Q1023
+Il candidato, infine, disegni su un reticolo di Mercatore con scala a scelta il solo percorso su QDR=063°
+spiegando le problematiche che si devono considerare nel realizzarlo su tale carta.
+
+SECONDA PARTE
+1. Il 23 Maggio del 1928 il dirigibile Italia partì da Ny-Ålesund (7855N01155E), nelle isole Svalbard,
+intorno alle ore 04:10 e raggiunse il Polo Nord alle 00:24 del giorno seguente. Dopo circa due ore di
+sorvolo del Polo intraprese la via del ritorno, ma alle 10:33 fu investito da una tempesta di neve che
+fece perdere quota al dirigibile che urtò sulla banchisa, facendo staccare la cabina di comando. Il
+dirigibile alleggerito continuò nel suo viaggio fino a precipitare in un punto prossimo alle coordinate
+8114N02814E. I superstiti della cabina di comando resistettero nella famosa “tenda rossa” per 48 giorni
+e furono ritrovati a 108 NM in direzione delle isole Foyn e Broch (8028N02605E), rispetto al punto
+dell’incidente, trasportati sulla banchisa polare dalle correnti. Il candidato costruisca un reticolato di
+Lambert con parallelo di tangenza 80°N e il raggio della sfera rappresentativa r=500 mm; riporti i vari
+punti della missione storica valutando nel percorso di andata quale velocità media avrebbe mantenuto
+il dirigibile Italia.
+
+Pag. 2/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+2. Utilizzando la IAC seguente, il candidato indichi quali sono i diversi segmenti della procedura e quali
+sono i compiti del pilota in ognuno di essi. Infine, in funzione delle proprie esperienze maturate anche
+nell’ambito dei percorsi per le competenze trasversali e per l’orientamento, disegni la sezione verticale,
+che sarebbe presente sulla IAC, trascrivendo in italiano ed inglese la Procedura di Mancato
+Avvicinamento che si osserva.
+
+Pag. 3/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+3. Il candidato calcoli l’inclinazione e le coordinate dei nodi del percorso ortodromico che passa tra gli
+aeroporti di Wellington (4120S17448E) e di Perth (3156S11558E); riporti il tutto su una carta
+stereografica polare con raggio della sfera rappresentativa di 75 mm.
+4. Il candidato descriva l’utilizzo della carta meteorologica seguente, dettagli sui fenomeni in essa
+riportati e completi la legenda della carta stessa.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici scientifiche e/o grafiche purché non siano
+dotate di capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del Paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

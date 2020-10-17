@@ -1,0 +1,228 @@
+Pag. 1/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+LI15 - SCIENTIFICO - SEZIONE AD INDIRIZZO SPORTIVO
+(Testo valevole anche per le corrispondenti sperimentazioni internazionali e quadriennali)
+
+Tema di: MATEMATICA e FISICA
+Il candidato risolva uno dei due problemi e risponda a 4 quesiti.
+PROBLEMA 1
+Si considerino le seguenti funzioni:
+𝑓(𝑥) = 𝑎𝑥 2 − 𝑥 + 𝑏
+
+2
+
+𝑔(𝑥) = (𝑎𝑥 + 𝑏) 𝑒 2 𝑥−𝑥 .
+
+ Provare che, comunque siano scelti i valori di 𝑎 e 𝑏 in ℝ con 𝑎 ≠ 0, la funzione 𝑔 ammette un massimo e
+un minimo assoluti. Determinare i valori di 𝑎 e 𝑏 in corrispondenza dei quali i grafici delle due funzioni
+𝑓 e 𝑔 si intersecano nel punto 𝐴(2, 1).
+ Si assuma, d’ora in avanti, di avere 𝑎 = 1 e 𝑏 = −1. Studiare le due funzioni così ottenute, verificando
+che il grafico di 𝑔 ammette un centro di simmetria e che i grafici di 𝑓 e 𝑔 sono tangenti nel punto 𝐵(0, −1).
+Determinare inoltre l’area della regione piana 𝑆 delimitata dai grafici delle funzioni 𝑓 e 𝑔.
+ Si supponga che nel riferimento 𝑂𝑥𝑦 le lunghezze siano
+espresse in metri (m). Si considerino tre fili conduttori rettilinei
+disposti perpendicolarmente al piano 𝑂𝑥𝑦 e passanti
+rispettivamente per i punti:
+3
+
+3
+
+3
+
+1
+
+𝑃1 (2 , 0), 𝑃2 (2 , 1) e 𝑃3 (2 , − 2).
+I tre fili sono percorsi da correnti continue di intensità
+𝑖1 = 2,0 A, 𝑖2 e 𝑖3 . Il verso di 𝑖1 è indicato in figura mentre
+gli altri due versi non sono indicati.
+Stabilire come varia la circuitazione del campo magnetico,
+generato dalle correnti 𝑖1 , 𝑖2 e 𝑖3 , lungo il contorno di 𝑆, a
+seconda dell’intensità e del verso di 𝑖2 e 𝑖3 .
+
+ Si supponga, in assenza dei tre fili, che il contorno della regione 𝑆 rappresenti il profilo di una spira
+conduttrice di resistenza 𝑅 = 0,20 Ω. La spira è posta all’interno di un campo magnetico uniforme di
+intensità 𝐵 = 1,5 ∙ 10−2 T perpendicolare alla regione 𝑆. Facendo ruotare la spira intorno all’asse 𝑥 con
+velocità angolare ω costante, in essa si genera una corrente indotta la cui intensità massima è pari a 5,0 mA.
+Determinare il valore di ω.
+
+Pag. 2/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PROBLEMA 2
+Un condensatore piano è formato da due armature circolari di raggio 𝑅, poste a distanza 𝑑, dove 𝑅 e 𝑑 sono
+espresse in metri (m). Viene applicata alle armature una differenza di potenziale variabile nel tempo e
+inizialmente nulla.
+
+⃗ . Trascurando gli effetti di bordo, a
+All’interno del condensatore si rileva la presenza di un campo magnetico 𝐵
+⃗ , espressa in tesla (T), varia secondo la legge:
+distanza 𝑟 dall’asse di simmetria del condensatore, l’intensità di 𝐵
+⃗|=
+|𝐵
+
+𝑘𝑡
+√(𝑡 2 + 𝑎2 )3
+
+𝑟
+
+con 𝑟 ≤ 𝑅
+
+dove 𝑎 e 𝑘 sono costanti positive e 𝑡 è il tempo trascorso dall’istante iniziale, espresso in secondi (s).
+ Dopo aver determinato le unità di misura di 𝑎 e 𝑘, spiegare perché nel condensatore è presente un campo
+⃗ e
+magnetico anche in assenza di magneti e correnti di conduzione. Qual è la relazione tra le direzioni di 𝐵
+del campo elettrico 𝐸⃗ nei punti interni al condensatore?
+ Si consideri, tra le armature, un piano perpendicolare all’asse di simmetria. Su tale piano, sia 𝐶 la
+⃗ lungo 𝐶 e da essa ricavare
+circonferenza avente centro sull’asse e raggio 𝑟. Determinare la circuitazione di 𝐵
+che il flusso di 𝐸⃗ , attraverso la superficie circolare delimitata da 𝐶, è dato da
+𝛷(𝐸⃗ ) =
+
+2𝑘𝜋𝑟 2
+−1
+1
+(
++ )
+2
+2
+𝜇0 𝜀0 √𝑡 + 𝑎
+𝑎
+
+Calcolare la d.d.p. tra le armature del condensatore.
+⃗ | al trascorrere del tempo? Giustificare la risposta dal punto di vista fisico.
+A quale valore tende |𝐵
+ Per 𝑎 > 0, si consideri la funzione 𝑓: ℝ → ℝ definita da 𝑓(𝑡) = −
+1
+
+𝑡
+√( 𝑡 2 +𝑎2 )3
+
+. Verificare che la funzione
+
+1
+
+𝐹(𝑡) = √𝑡 2 2 − 𝑎 è la primitiva di 𝑓 il cui grafico passa per l’origine. Studiare la funzione 𝐹,
++𝑎
+individuandone eventuali simmetrie, asintoti, estremi. Provare che 𝐹 presenta due flessi nei punti di ascisse
+𝑡=±
+
+√2
+𝑎
+2
+
+e determinare le pendenze delle rette tangenti al grafico di F in tali punti.
+
+ Con le opportune motivazioni, dedurre il grafico di 𝑓 da quello di 𝐹, specificando cosa rappresentano le
+ascisse dei punti di flesso di 𝐹 per la funzione 𝑓. Calcolare l’area della regione compresa tra il grafico di 𝑓,
+l’asse delle ascisse e le rette parallele all’asse delle ordinate passanti per gli estremi della funzione. Fissato
+𝑏
+𝑏 > 0, calcolare il valore di ∫−𝑏 𝑓(𝑡) 𝑑𝑡.
+
+Pag. 3/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+QUESITI
+𝑝(𝑥)
+
+1. Una data funzione è esprimibile nella forma 𝑓(𝑥) = 𝑥 2 +𝑑 , dove 𝑑 ∈ ℝ e 𝑝(𝑥) è un polinomio. Il grafico
+di 𝑓 interseca l’asse 𝑥 nei punti di ascisse 0 e 12/5 ed ha come asintoti le rette di equazione 𝑥 = 3,
+𝑥 = −3 e 𝑦 = 5. Determinare i punti di massimo e di minimo relativi della funzione 𝑓.
+2. È assegnata la funzione
+1010
+
+𝑔(𝑥) = ∑ 𝑥 2𝑛−1 = 𝑥 + 𝑥 3 + 𝑥 5 + 𝑥 7 + ⋯ + 𝑥 2017 + 𝑥 2019
+𝑛=1
+
+Provare che esiste un solo 𝑥0 ∈ ℝ tale che 𝑔(𝑥0 ) = 0. Determinare inoltre il valore di
+lim
+
+𝑥→+∞
+
+𝑔(𝑥)
+1,1 𝑥
+
+3. Tra tutti i parallelepipedi rettangoli a base quadrata, con superficie totale di area S, determinare quello per
+cui la somma delle lunghezze degli spigoli è minima.
+4. Dati i punti 𝐴(2, 0, −1) e 𝐵(−2, 2, 1), provare che il luogo geometrico dei punti 𝑃 dello spazio, tali che
+𝑃𝐴 = √2 𝑃𝐵, è costituito da una superficie sferica S e scrivere la sua equazione cartesiana. Verificare che
+il punto 𝑇(−10, 8, 7) appartiene a S e determinare l’equazione del piano tangente in T a S.
+5. Si lanciano 4 dadi con facce numerate da 1 a 6.
+
+
+Qual è la probabilità che la somma dei 4 numeri usciti non superi 5?
+
+
+
+Qual è la probabilità che il prodotto dei 4 numeri usciti sia multiplo di 3?
+
+
+
+Qual è la probabilità che il massimo numero uscito sia 4?
+
+6. Una spira di rame, di resistenza 𝑅 = 4,0 mΩ,
+racchiude un’area di 30 cm2 ed è immersa in un
+campo magnetico uniforme, le cui linee di forza sono
+perpendicolari alla superficie della spira. La
+componente del campo magnetico perpendicolare alla
+superficie varia nel tempo come indicato in figura.
+Spiegare la relazione esistente tra la variazione del
+campo che induce la corrente e il verso della corrente
+indotta. Calcolare la corrente media che passa nella
+spira durante i seguenti intervalli di tempo:
+a) da 0,0 ms a 3,0 ms;
+b) da 3,0 ms a 5,0 ms;
+c) da 5,0 ms a 10 ms.
+
+Pag. 4/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+7. In laboratorio si sta osservando il moto di una particella che si muove nel verso positivo dell’asse x di un
+sistema di riferimento ad esso solidale. All’istante iniziale, la particella si trova nell’origine e in un
+intervallo di tempo di 2,0 ns percorre una distanza di 25 cm. Una navicella passa con velocità 𝑣 = 0,80 𝑐
+lungo la direzione x del laboratorio, nel verso positivo, e da essa si osserva il moto della stessa particella.
+Determinare le velocità medie della particella nei due sistemi di riferimento. Quale intervallo di tempo e
+quale distanza misurerebbe un osservatore posto sulla navicella?
+8. Un protone penetra in una regione di spazio in cui è presente un campo magnetico uniforme di modulo
+⃗ | = 1,00 mT. Esso inizia a muoversi descrivendo una traiettoria ad elica cilindrica, con passo costante
+|𝐵
+∆𝑥 = 38,1 cm, ottenuta dalla composizione di un moto circolare uniforme di raggio 𝑟 = 10,5 cm e di un
+⃗.
+moto rettilineo uniforme. Determinare il modulo del vettore velocità e l’angolo che esso forma con 𝐵
+
+carica elementare
+massa del protone
+velocità della luce
+
+COSTANTI FISICHE
+e
+mp
+c
+
+1,602 · 10−19 C
+1,673 · 10−27 kg
+2,998 · 108 m/s
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

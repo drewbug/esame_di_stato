@@ -1,0 +1,94 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una pala eolica, tramite un complesso di ingranaggi e alberi, trasmette il moto rotatorio all’asse di
+una pompa a stantuffo con un rapporto di trasmissione pari ad 1 (uno).
+Assunti i seguenti dati:
+
+
+Diametro pala eolica: 2 metri;
+
+
+
+Velocità periferica massima della pala eolica: 100 Km/h;
+
+
+
+Portata della pompa: 10 dm3/sec;
+
+
+
+Prevalenza della pompa: 50 metri;
+
+
+
+Rapporto tra corsa C e diametro del pistone della pompa D pari a C/D = 1,5;
+
+
+
+Rapporto µ = l/r = 4 tra la lunghezza della biella l ed il raggio di manovella r.
+
+Il candidato, accompagnando l’elaborato con considerazioni tecniche congrue e coerenti, e dopo aver
+fissato con motivati criteri ogni altro parametro o elemento di calcolo eventualmente mancante e/o
+necessario, esegua:
+
+
+Il dimensionamento del perno di estremità della manovella nella configurazione di allineamento
+tra biella e manovella in corrispondenza del PMS (punto morto superiore);
+
+
+
+Il dimensionamento del perno di banco con manovellismo in quadratura;
+
+
+
+Un disegno schematico quotato del meccanismo biella-manovella di azionamento della pompa e
+un disegno schematico quotato della manovella d’estremità.
+
+SECONDA PARTE
+1) In un impianto eolico, similare a quello della prima parte, attraverso un albero di trasmissione
+verticale della lunghezza 4 metri, viene trasmesso il movimento di rotazione tra gli ingranaggi
+della pala eolica e gli ingranaggi di azionamento dell’albero della pompa.
+Il momento torcente da trasmettere risulta di 2000 Nm.
+Il candidato, dopo aver eseguito il dimensionamento dell’albero sopra citato utilizzando una
+sezione circolare piena ed una sezione circolare cava, riferita ad un tubo commerciale, effettui
+una scelta della miglior soluzione da adottare, attraverso una analisi comparata di elementi quali:
+stabilità del sistema, realizzazione, montaggio e quanto altro il candidato ritenga necessario.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+2) Il candidato, in riferimento all’azionamento della pompa di cui alla prima parte, schematizzi e
+descriva dettagliatamente un impianto che utilizzi un’altra tipologia di energia alternativa (solare,
+geotermica, idrica, ecc.)
+3) Un robot cartesiano dalle seguenti caratteristiche dimensionali: asse x = 1.50 m; asse y = 1.00 m;
+asse z = 0.30 m, utilizza motori passo-passo per la movimentazione di un taglio laser.
+Il candidato schematizzi e descriva dettagliatamente un sistema meccanico per la
+movimentazione dei tre assi tramite i motori citati, motivando la scelta effettuata.
+4) Il candidato, dopo aver descritto dettagliatamente, anche mediante disegni schematici, struttura,
+fasi e funzionamento di un motore a due tempi ciclo Otto, indichi come è possibile aumentarne
+il rendimento motivando la scelta attraverso precise relazioni e/o formule.
+
+___________________________
+Durata massima della prova: 8 ore.
+È consentito soltanto l’uso di tavole numeriche, manuali tecnici e calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

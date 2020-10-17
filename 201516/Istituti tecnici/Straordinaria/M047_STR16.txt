@@ -1,0 +1,183 @@
+Pag. 1/2
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M047 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+R
+
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+
+IU
+
+ARTICOLAZIONE INFORMATICA
+
+AT
+T
+
+IM
+
+Tema di: SISTEMI E RETI - Tipologia C
+
+Il candidato (che potrà eventualmente avvalersi delle conoscenze e competenze maturate
+attraverso esperienze di alternanza scuola-lavoro, stage o formazione in azienda) svolga la
+prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+LI
+
+PRIMA PARTE
+
+AG
+
+Le nuove tecnologie informatiche e di telecomunicazione offrono opportunità finora impensabili
+in vari campi, tra i quali quello della prevenzione e sorveglianza sanitaria.
+
+E
+
+In tale contesto l’Assessorato alla Sanità di una Regione predispone un nuovo progetto, volto a
+rilevare in tempo reale alcuni parametri biometrici di pazienti con particolari patologie, allo scopo
+di monitorarne lo stato di salute.
+
+FO
+
+R
+
+M
+
+L’idea base del progetto consiste nel fornire ai medici un servizio centralizzato di raccolta di tali
+parametri biometrici (quali ad es. frequenza cardiaca, temperatura corporea, saturazione di
+ossigeno, pressione arteriosa, …), consultabile in modo autonomo dalla sede di lavoro dei medici
+stessi attraverso un’interfaccia web.
+Il progetto prevede la fornitura di dispositivi che ciascun paziente indosserà durante la giornata, e
+che inviano in tempo reale ogni ora le informazioni relative allo stato di salute.
+
+O
+
+N
+
+Il servizio deve essere autenticato e deve operare nel rispetto della riservatezza dei dati di ciascun
+paziente, garantendo adeguati standard di sicurezza.
+
+C
+
+Il candidato, formulate le opportune ipotesi aggiuntive, sviluppi i seguenti punti:
+analizzi la realtà di riferimento, produca un modello anche grafico che descriva il sistema, ne
+ponga in evidenza i vari componenti e le loro interconnessioni, motivando le scelte effettuate;
+
+2.
+
+descriva le funzionalità tecnologiche che caratterizzano i dispositivi indossati dai pazienti,
+anche mediante uno schema a blocchi;
+
+PI
+
+A
+
+1.
+
+C
+
+O
+
+3.
+
+individui i protocolli di comunicazione da adottare per garantire la sicurezza delle
+informazioni, descrivendone le relative tecnologie.
+
+Pag. 2/2
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M047 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+R
+
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+
+IU
+
+ARTICOLAZIONE INFORMATICA
+
+IM
+
+Tema di: SISTEMI E RETI - Tipologia C
+
+AT
+T
+
+SECONDA PARTE
+
+In relazione al tema proposto nella prima parte, il candidato realizzi il modello concettuale e
+logico della porzione del database necessaria alla gestione delle misurazioni istantanee dei
+pazienti. Progetti inoltre le pagine web per consentire ad un medico di visualizzare le
+misurazioni di un suo paziente in un certo intervallo temporale, codificandone una parte
+significativa in un linguaggio a sua scelta.
+
+2.
+
+In relazione al tema proposto nella prima parte, si considerino le due seguenti possibilità
+alternative:
+
+AG
+
+LI
+
+1.
+
+che il dispositivo indossato dal paziente sia dotato di connessione alla rete geografica,
+
+b.
+
+oppure che si colleghi localmente allo smartphone del paziente.
+
+E
+
+a.
+
+M
+
+Il candidato discuta vantaggi e svantaggi delle due alternative.
+Il candidato esponga il concetto di difesa perimetrale di una rete di computer, analizzi i
+componenti necessari alla sua implementazione e le loro modalità di lavoro. Analizzi quindi
+differenti configurazioni di rete che prevedano anche l’uso di DMZ, e motivi poi la loro
+adozione a seconda delle differenti esigenze di sicurezza della rete e dei servizi da essa offerti.
+
+4.
+
+Negli ultimi anni lo sviluppo tecnologico ha portato ad una maggiore apertura delle
+infrastrutture informatiche, ormai ampiamente interconnesse. La sicurezza dei dati è diventata
+di conseguenza un aspetto fondamentale nell’ambito del trattamento delle informazioni. Il
+candidato esponga gli obiettivi della sicurezza informatica e gli strumenti attraverso i quali la
+si può ottenere.
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+3.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

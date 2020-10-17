@@ -1,0 +1,86 @@
+Pag. 1/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT2 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT2 – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Ad una ditta di elettronica viene commissionata la progettazione e costruzione di un'incubatrice
+per uova con le seguenti caratteristiche:
+Temperatura:
+
+Regolabile tra +30°C e +40°C
+
+Limiti di temperatura consentiti:
+
+min 25°C – max 45°C
+
+Risoluzione temperatura:
+
+Decimo di grado centigrado
+
+Potenza max fornita
+
+150W
+
+Alimentazione
+
+230Vac
+
+Ventilazione
+
+intermittente o continua
+
+Il sensore di temperatura utilizzato è un classico LM35, integrato monolitico lineare in grado di
+fornire 10mV/°C, operante tra -50°C e +150°C e tra +4V e +30V.
+Il candidato, fatte le opportune ipotesi di progetto:
+- realizzi una scheda elettronica completa di alimentatore, in grado di condizionare il segnale del
+trasduttore per poter avere in uscita 5V quando la temperatura interna all´incubatrice è di 50°C;
+- dica quali devono essere le caratteristiche dell'eventuale ADC successivo alla scheda elettronica
+per poter gestire la temperatura al decimo di grado;
+- suggerisca un sistema per poter controllare la temperatura dell'incubatrice;
+- realizzi un sistema acustico che segnali l'uscita dal range di temperature consentito.
+
+Pag. 2/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT2 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT2 – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA
+
+SECONDA PARTE
+Il candidato, fatte le adeguate ipotesi aggiuntive, risponda a due tra le seguenti domande:
+1.
+
+Realizzare un sistema di visualizzazione della temperatura al decimo di grado centigrado.
+
+2.
+
+La ditta che ha commissionato l'incubatrice ne vuole installare trenta. Dimensionare
+l'interruttore generale del sistema.
+
+3.
+
+Realizzare il controllo, attivabile tramite interruttore, di ventilazione intermittente
+(accende / spegne ogni 30 secondi) o continua.
+
+4.
+
+La potenza per il riscaldamento viene fornita da una resistenza elettrica in acciaio corazzato,
+alimentata dalla tensione di rete: dimensionarla e suggerire il circuito di controllo
+dell'alimentazione.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

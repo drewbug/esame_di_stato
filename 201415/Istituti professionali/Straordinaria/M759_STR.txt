@@ -1,0 +1,161 @@
+Pag. 1/3
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+L’impianto elettrico di un istituto professionale è alimentato da un quadro BT. La struttura
+dell’edificio è la seguente:
+a.
+
+piano terra dove sono collocati l’androne di accesso con la portineria, il vano ascensore, l’aula
+magna, la biblioteca, i laboratori didattici, i servizi igienici;
+
+b.
+
+primo piano dove si trovano gli uffici di presidenza e vice presidenza, la sala docenti, gli uffici
+di servizio (personale, didattica, ecc), i servizi igienici;
+
+c.
+
+secondo e terzo piano dove sono collocate le aule e i servizi igienici.
+
+Il candidato, fatte le opportune ipotesi che ritiene necessarie per meglio definire il problema:
+1.
+
+illustri una possibile configurazione dell’impianto elettrico individuando in particolare il
+numero di linee, monofasi e trifasi, che consenta di ottimizzarne l’efficienza e la rappresenti
+tramite uno schema;
+
+2.
+
+descriva per una linea, a propria scelta, la funzionalità dei componenti;
+
+3.
+
+indichi i controlli che il servizio di manutenzione deve effettuare sull’ascensore;
+
+4.
+
+rediga un piano degli interventi di manutenzione sul quadro BT in riferimento alla normativa
+vigente.
+
+SECONDA PARTE
+Il candidato, fatte eventuale ipotesi aggiuntive, risponda a 2 quesiti, a scelta, tra i seguenti:
+1.
+
+Nell’ambito dell’adeguamento dell’impianto elettrico di un piccolo condominio di 2 piani con 6
+unità abitative risulta necessario rifare l’impianto di messa a terra. Il candidato descriva, anche
+tramite uno schema, l’impianto, la sua funzionalità e le voci da inserire nella stesura di un
+preventivo di spesa per la sua realizzazione.
+
+2.
+
+Sulla base della propria esperienza, acquisita in contesti scolastici e non, il candidato illustri la
+metodologia per la ricerca e la diagnosi dei guasti negli impianti elettrici applicandola al caso
+dell’istituto scolastico descritto nella prima parte.
+
+Pag. 2/3
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+3.
+
+Il rilevamento dei guasti relativi ad un dispositivo prodotto da un’azienda elettronica ha fornito
+seguenti risultati:
+
+ORE DI
+FUNZIONAMENTO
+
+NUMERO DI
+GUASTI
+
+0 – 100
+
+?
+
+100 – 200
+
+12
+
+200 – 300
+
+14
+
+300 – 400
+
+30
+
+400 – 500
+
+38
+
+500 – 600
+
+36
+
+600 – 700
+
+26
+
+700 – 800
+
+20
+
+800 – 900
+
+12
+
+900 – 1000
+
+6
+
+Il candidato determini il numero massimo dei guasti consentiti nelle prime 100 ore di servizio
+se si desidera un’affidabilità minima del 97% e dopo quando tempo la probabilità di guasto
+raggiunge il 50%.
+
+Pag. 3/3
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+4.
+
+Il candidato indichi i dispositivi, gli strumenti di misura e le metodologie per verificare
+praticamente le caratteristiche funzionali del filtro riportato in figura, specificando, inoltre,
+l’influenza dell’amplificatore operazionali sulle sue prestazioni:
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

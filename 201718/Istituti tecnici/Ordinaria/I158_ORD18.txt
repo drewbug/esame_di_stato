@@ -1,0 +1,344 @@
+Pag. 1/5
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+Il candidato, dopo aver letto attentamente, scelga una sola delle due tracce ed affronti la soluzione
+del tema e di due quesiti tra i quattro proposti nella traccia selezionata.
+
+TRACCIA A
+PRIMA PARTE
+TEMA A
+L’Azienda ”XYZ” SpA di Torino vende, in FCA - Aeroporto di Malpensa, all’Azienda “ZKH” di
+Boston i suoi prodotti imballati in 432 cartoni impilabili al massimo su 4 piani, le cui misure unitarie
+sono 20 x 40 x (h) 20 cm ed il cui peso è di 5 kg.
+‐
+
+È necessario organizzare il trasporto su gomma da Torino all’aeroporto di Malpensa;
+
+‐
+
+all’aeroporto i cartoni vengono movimentati dai bancali E-Pallet e posizionati su pallet aereo di
+misure 2,40 x 0,80 m con destinazione New York;
+
+‐
+
+all’arrivo a New York i cartoni vengono nuovamente posizionati su euro pallet e trasferiti via
+camion a Boston.
+
+In tabella vengono fornite le tariffe:
+Tariffa camionistica IT
+Arrotond. al quintale inferiore
+5a8q
+130,00 €/q
+8,1 a 10 q
+120,00 €/q
+10,1 a 15 q
+110,00 €/q
+15,1 a 20 q
+100,00 €/q
+
+Tariffa aerea
+Arrotond. al Kg superiore
+300 a 500 Kg
+15,00 €/Kg
+501 a 800 Kg
+14,00 €/Kg
+801 a 1200 Kg
+13,00 €/Kg
+1201 a 1500 Kg 12,00 €/Kg
+
+Tariffa camionistica USA
+Arrotond. al quintale superiore
+5a8q
+150,00 €/q
+8,1 a 10 q
+140,00 €/q
+10,1 a 15 q
+130,00 €/q
+15,1 a 20 q
+110,00 €/q
+
+Per ogni tratta determinare:
+1. Quanti Pallet è necessario realizzare
+2. Peso reale
+3. Volume totale
+4. Peso volumetrico
+5. Peso tassabile
+6. Nolo
+Realizzare lo schizzo del posizionamento dei cartoni sul pallet (dei 4 piani) sia per l’E-Pallet che per
+il pallet aereo.
+Il Candidato, se necessario, assuma i dati che ritiene utili e ne motivi l’utilizzo.
+
+Pag. 2/5
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+SECONDA PARTE
+Quesito 1A
+In riferimento al TEMA A considerare la possibilità che per il trasporto Torino - Milano Malpensa
+venga concesso uno sconto del 15%.
+Ricalcolare:
+a) nolo
+b) tariffa finale pagata al trasportatore
+Realizzare la fattura così come verrebbe emessa dal trasportatore a seguito dello sconto.
+Quesito 2A
+Un’azienda deve prevedere la domanda per l’articolo W che dispone della seguente serie storica:
+Mesi
+1°
+9800
+
+2°
+14500
+
+3°
+4°
+21200 32000
+
+13°
+9600
+
+14°
+15200
+
+15°
+16°
+21150 31750
+
+5°
+6°
+7°
+11200 17600 22300
+Mesi
+17°
+18°
+19°
+11248 17653 22320
+
+8°
+36000
+
+9°
+12300
+
+10°
+14500
+
+11°
+34200
+
+12°
+40600
+
+20°
+35750
+
+21°
+12432
+
+22°
+15000
+
+23°
+33250
+
+24°
+41200
+
+Effettuare la previsione relativa al semestre seguente utilizzando la media mobile a 6 periodi, ad 8
+periodi e il metodo della scomposizione moltiplicativa tenendo conto che i valori per a e b sono
+rispettivamente 392,4 e 17293. Si valuti inoltre quale dei tre è l’algoritmo migliore da utilizzare,
+calcolandone l’accuratezza previsionale, tenendo conto che le vendite effettive rilevate nei primi tre
+mesi del semestre da analizzare sono pari rispettivamente a 9752, 16126 e 21100 unità.
+Quesito 3A
+Per i seguenti Incoterms il candidato descriva quando terminano Responsabilità e Costi per il
+venditore e quando l’acquirente se ne prende carico:
+‐ CIF
+‐ DAP
+‐ FAS
+‐ CPT
+Quesito 4A
+Sulla base delle proprie esperienze maturate anche in Alternanza Scuola Lavoro, il candidato illustri
+come vengono valutate le prestazioni aziendali e quali sono gli indicatori di prestazione di servizio
+oggettivamente misurabili sia per l’analisi interna che per quella esterna in campo logistico. Indichi
+inoltre a cosa serve il ciclo di Deming nella determinazione dei KPI.
+
+Pag. 3/5
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+
+TRACCIA B
+PRIMA PARTE
+TEMA B
+Un’azienda vuole valutare le scorte ed il costo totale annuale atteso di stoccaggio relativi a due diverse
+supply chain così costituite:
+Scenario 1: Impianto di produzione che rifornisce un centro di distribuzione che a sua volta rifornisce
+9 rivenditori che servono altrettanti mercati.
+Il Lead Time dall’Impianto di produzione al CEDI è di 3 giorni con una deviazione standard di 1
+giorno;
+Il Lead Time dal CEDI al Rivenditore è in media di 4 giorni con una deviazione standard di 1 giorno.
+Scenario 2: Impianto di produzione che rifornisce 3 centri di distribuzione che riforniscono ciascuno
+3 rivenditori.
+Il Lead Time dall’Impianto di produzione al CEDI è di 2 giorni con una deviazione standard di 1
+giorno;
+Il Lead Time dal CEDI al Rivenditore è certo e pari a 3 giorni.
+Il Candidato, dopo aver rappresentato graficamente i modelli delle due supply chain, esamini i due
+scenari di catena di distribuzione allo scopo di quantificarne i benefici nella gestione delle scorte.
+Sapendo che:
+‐
+
+il costo unitario di un pallet è di 95 €/pallet;
+
+‐
+
+il costo fisso di emissione di un ordine è di 130 €/ordine;
+
+‐
+
+la domanda attesa da ogni rivenditore è pari a 38 pallet/giorno;
+
+‐
+
+la deviazione standard della domanda è pari a 55;
+
+‐
+
+il tasso d’interesse mensile maggiorato dai costi di gestione e di magazzino è dell’1,6 %;
+
+‐
+
+il livello di servizio da assicurare è pari al 98%;
+
+‐
+
+l'approvvigionamento è a lotti;
+
+‐
+
+le domande sono da considerarsi statisticamente indipendenti.
+
+Pag. 4/5
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+Si valuti in particolare:
+1.
+
+tutti i parametri necessari per calcolare presso un generico rivenditore quale sia la politica più
+vantaggiosa tra:
+a) fixed order quantity con costo di attuazione pari a 25 €/mese
+b) fixed period quantity con costo di attuazione pari a 8 €/mese
+avendo precedentemente fissato i parametri necessari per la loro determinazione e riportato
+l’indice di rotazione semestrale.
+
+2.
+
+Supponendo inoltre:
+‐
+
+che presso i rivenditori si adotti la politica migliore individuata al punto precedente;
+
+‐
+
+che presso i CEDI si adotti la politica a fixed order quantity sulla base degli stessi costi
+unitari considerati per i rivenditori;
+
+‐
+
+che il livello di servizio nei CEDI sia almeno pari a quello dei rivenditori;
+
+‐
+
+che i CEDI siano a conoscenza dei dati stimati relativi alla domanda di ciascun mercato.
+
+Il candidato valuti quale dei due scenari è più conveniente dal punto di vista del costo totale
+mensile di stoccaggio della merce considerate le scorte (in magazzino) ai centri di distribuzione
+e ai rivenditori.
+3.
+
+Si determini la differenza in termini di costo totale di stoccaggio mensile
+(Si consideri la settimana di 5gg lavorativi e il mese di 4 settimane)
+Il Candidato, se necessario, assuma i dati che ritiene utili e ne motivi l’utilizzo.
+
+SECONDA PARTE
+Quesito 1B
+Relativamente al TEMA B, il candidato rappresenti graficamente l’andamento del livello di
+inventario in funzione del tempo e che la politica applicata sia fixed order quantity (1 mese = 30
+giorni).
+Il Candidato valuti inoltre la percentuale di aumento dei costi totali precedentemente calcolati nel
+caso in cui il CEDI accetti esclusivamente ordini in centinaia di pallet.
+
+Pag. 5/5
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I158 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITLG – TRASPORTI E LOGISTICA
+ARTICOLAZIONE LOGISTICA
+Tema di: LOGISTICA
+Quesito 2B
+Un’azienda cura la distribuzione locale sull’area di Firenze rifornendo giornalmente 175 punti di
+consegna in conto proprio.
+L’azienda ha a disposizione tre tipologie di mezzi:
+‐ Un derivato da autovettura: portata 1,1 t – capacità di carico 0,9 m3 – costo euro 0,95/km
+‐ Minivan: portata 1,9 t – capacità di carico 3,2 m3 – costo euro 1,05/km
+‐ Furgone: portata 3,4 t – capacità di carico 14 m3 – costo euro 1,15/km
+Dati del problema:
+Domanda per cliente: 4 scatole al giorno
+Orario lavorativo giornaliero di un autista: 8 ore
+Tempo medio di sosta presso ciascun cliente: 12 min
+Tempo medio tra due clienti successivi: 9 min
+Percorso medio giro consegne e rientro: 60 Km/giorno
+Dimensioni e peso di una scatola: 25 x 40 x 20 cm peso 3,5 kg.
+Calcolare:
+‐ Numero massimo di clienti visitabile in un giorno da ogni mezzo
+‐ Il Flusso settimanale di consegna delle scatole per soddisfare i 175 clienti
+‐ Numero di derivati di auto, minivan e furgoni necessari e il rendimento volumetrico di ogni
+mezzo.
+Quesito 3B
+Per i seguenti Incoterms il candidato descriva quando terminano Responsabilità e Costi per il
+venditore e quando l’acquirente se ne prende carico:
+‐ CIF
+‐ DAP
+‐ FAS
+‐ CPT
+Quesito 4B
+Sulla base delle proprie esperienze maturate anche in Alternanza Scuola Lavoro, il candidato illustri le
+funzioni delle scorte in relazione alla stima del “tempo di ciclo ordine-consegna” sia in relazione ad
+aziende che producono beni di largo consumo, B2C, che di aziende che producono manufatti industriali,
+B2B. Indichi inoltre le cinque tipologie di aziende che soddisfano in modo differente la domanda
+commerciale come schematizzato nella classificazione Wortmann.
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, calcolatrici non programmabili, schede tecniche ed estratti di tabelle relative
+alla normativa.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

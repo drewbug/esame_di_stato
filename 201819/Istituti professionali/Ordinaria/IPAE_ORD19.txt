@@ -1,0 +1,57 @@
+Pag. 1/1
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO/ELETTRONICO
+IPAI - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE DI INSTALLAZIONE E MANUTENZIONE DI APPARATI
+E IMPIANTI CIVILI E INDUSTRIALI
+
+PRIMA PARTE
+Una ditta di manutenzione viene incaricata di svolgere alcuni lavori di riqualificazione energetica della
+palazzina uffici di una piccola industria.
+Il candidato, fatte le ipotesi aggiuntive ritenute necessarie:
+1. individui le tipologie di interventi impiantistici (elettrico-elettronico e termici) per conseguire
+l’obiettivo;
+2. in funzione della propria esperienza scolastica, sviluppi uno degli interventi proposti; in particolare:
+a.
+
+individui i principali parametri da considerare per la tipologia di impianto prescelto;
+
+b.
+
+pianifichi l’intervento di installazione descrivendo mezzi e attrezzature necessari;
+
+c.
+
+indichi le misure di prevenzione e protezione e la tipologia dei DPI (Dispositivi di Protezione
+Individuale) necessarie per effettuare l’intervento in sicurezza;
+
+d.
+
+illustri un format per la registrazione degli interventi di manutenzione;
+
+3. determini la vita utile del pulsante interno di apertura della porta d’ingresso sapendo che viene
+premuto mediamente 2 volte al minuto per 8 ore al giorno dal lunedì al venerdì e che il costruttore
+dichiara per il componente un valore del B10 pari a 2.000.000 di cicli (B10 è il numero di cicli oltre i
+quali il 10% dei componenti subisce un guasto). Infine il candidato determini dopo quanto tempo
+l’affidabilità risulti pari al 95%.
+
+____________________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda è
+predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione scolastica
+e della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

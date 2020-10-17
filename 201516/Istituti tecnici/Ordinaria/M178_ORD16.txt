@@ -1,0 +1,71 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M178 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMO – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELL'OCCHIALE
+Tema di: TECNOLOGIE MECCANICHE, PROCESSO, PRODOTTO INDUSTRIALE OCCHIALE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Si deve eseguire il frontale della montatura di un occhiale in acetato rappresentato nel seguente
+disegno.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M178 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMO – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELL'OCCHIALE
+Tema di: TECNOLOGIE MECCANICHE, PROCESSO, PRODOTTO INDUSTRIALE OCCHIALE
+
+Il candidato :
+
+
+Determini il semilavorato di partenza, scelga gli utensili ed i parametri di taglio.
+
+
+
+Esegua il disegno della montatura con adeguato software e quindi mediante software CAM ricavi
+il programma CNC della lavorazione. Spieghi e commenti il programma CNC elaborato.
+
+
+
+Una volta creato il frontale definisca il punto di aggancio delle cerniere in modo da posizionare
+correttamente le aste.
+
+SECONDA PARTE
+1.
+
+Tipologie di filtri solari; certificazione UE aggiornata relativamente ai filtri solari.
+
+2.
+
+OPTYL: definizione del materiale, produzione, conservazione, fattori che ne determinano la
+qualità.
+
+3.
+
+Descrivere i diversi sistemi per la misurazione del telaio di un occhiale.
+
+4.
+
+Confrontare le caratteristiche delle montature in fibra di carbonio e quelle in titanio.
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+I candidati, a giudizio della commissione, possono utilizzare software specifici per il disegno, se la scuola dispone di adeguate
+postazioni (ad es. di solidworks).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

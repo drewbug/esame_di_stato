@@ -1,0 +1,59 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: DISEGNO, PROGETTAZIONE E ORGANIZZAZIONE INDUSTRIALE
+ESEMPIO PROVA
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+Lo schema sotto rappresentato si riferisce ad un albero in acciaio 16NiCr4 su cui risulta calettata
+una puleggia a gole trapezoidali in ghisa del diametro di 300mm e del peso di 400N.
+La puleggia, sottoposta a due tiri T1 = 1500N e T2 = 600N, compie 900giri al minuto e serve ad
+azionare un agitatore meccanico che lavora 16 ore al giorno.
+Assumendo opportunamente i dati mancanti si chiede al candidato di:
+A. dimensionare l’albero sviluppandone il disegno esecutivo completo dopo aver scelto i sistemi
+
+di calettamento e fissaggio della puleggia, quelli di bloccaggio del cuscinetto e quanto altro si
+ritiene opportuno. Il disegno deve contenere tutti gli elementi necessari alla sua funzionalità,
+nonché la quotatura completa, le tolleranze e gradi di lavorazione;
+B.
+
+effettuare il dimensionamento della puleggia impostando il suo ciclo completo di lavorazione
+con indicazione della successione delle fasi, degli utensili, degli attrezzi e strumenti di misura
+utilizzati.
+
+300
+
+Ø300
+
+100
+
+MOTORE
+ELETTRICO
+GIUNTO CUSCINETTO
+
+T2=600N
+
+Fp=400N
+
+T1=1500N
+
+SECONDA PARTE
+1. Si esegua il ciclo di lavorazione dell’albero determinando la potenza massima necessaria per le
+lavorazioni alle macchine utensili il cui rendimento medio sia pari a 0,8.
+2. Si calcoli il fabbisogno di materiale per una produzione di 300 pulegge, scegliendo il tipo di
+ciclo produttivo più opportuno.
+3. Si imposti il lay-out dell’area produttiva dell’organo meccanico oggetto del ciclo di
+lavorazione, dopo aver individuato il numero di macchinari necessari, nonché il personale
+occorrente, sulla base della possibilità di optare per un ciclo lavorativo di 8 o 16 ore. Si esegua
+altresì il disegno della disposizione planimetrica derivante dall’impostazione del reparto scelto.
+4. Il candidato, nell’impostazione del sistema produttivo considerato, faccia un riferimento critico
+ad esempi organizzativi da lui osservati durante esperienze fatte direttamente o acquisite in
+stages aziendali o nell’ambito dell’alternanza scuola-lavoro.
+
+Durata massima della prova ore 8
+E’ consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+
+

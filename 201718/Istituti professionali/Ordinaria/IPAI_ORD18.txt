@@ -1,0 +1,266 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAI – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAI - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Per la movimentazione delle merci di un magazzino di un’azienda del settore della logistica è
+presente, tra gli altri, un motore asincrono trifase con le seguenti caratteristiche:
+potenza nominale
+
+rendimento
+
+cos
+
+15 kW
+
+0,89
+
+0,88
+
+che alimenta un carico con una coppia pari a 98 Nm.
+Il candidato fatte eventuali ipotesi aggiuntive ritenute necessarie:
+1. determini la corrente assorbita, la velocità di rotazione e descriva il sistema di ingranaggi per
+dimezzarne la velocità;
+2. indichi un format per la registrazione degli interventi di manutenzione su motore e ingranaggio.
+Inoltre, la ditta affidataria della manutenzione del magazzino deve, tra i vari interventi manutentivi,
+sostituire il sistema di climatizzazione di un locale per lo stoccaggio delle merci che richiedono un
+controllo di temperatura e di umidità. Il candidato:
+1. illustri, anche tramite diagramma, la sequenza delle fasi operative fino al collaudo per la
+sostituzione del sistema di climatizzazione;
+2. indichi i possibili guasti che impediscono il corretto funzionamento del sistema di comando della
+climatizzazione.
+SECONDA PARTE
+1.
+
+Un sistema è composto da 3 dispositivi collegati come in figura:
+
+I dispositivi A e C sono caratterizzati da un tasso di guasto A = 0,0001 giorni -1 C = 0,0002
+giorni -1 mentre MTTF (Mean Time To Failure) del dispositivo B vale MTTFB = 10 000 giorni.
+Il candidato, dopo aver illustrato il significato di tasso di guasto, determini:
+‒ per il sottosistema formato dai dispositivi A e B, dopo quanto tempo l’affidabilità scende al
+90%;
+‒ per il sistema completo A, B e C, l’affidabilità dopo 2 anni.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAI – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAI - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+2.
+
+In riferimento alla prima parte, il candidato pianifichi e gestisca l’intervento di sostituzione del
+sistema di climatizzazione in relazione alla sicurezza in particolare valutando rischi e misure di
+prevenzione e protezione.
+
+3.
+
+Il candidato, indichi gli strumenti di misura e le tecniche per determinare le perdite e il
+rendimento di un trasformatore monofase.
+
+4.
+
+Dal controllo qualità di un processo produttivo risultano i seguenti parametri statistici:
+ valor medio 50,10 mm;
+ deviazione standard 0,05.
+Supponendo una produzione di 5000 pezzi il candidato determini:
+a. la percentuale di lavorazioni comprese tra 49,90 e 50,15 attraverso l’utilizzo della tabella di
+seguito riportata;
+b. il numero di pezzi scartati considerando un limite inferiore di 49,90 e superiore di 50,15.
+x
+
+%
+
+x
+
+%
+
+x
+
+%
+
+x
+
+%
+
+0,1 
+
+3,98
+
+1,1 
+
+36,43
+
+2,1 
+
+48,21
+
+3,1 
+
+49,90
+
+0,2 
+
+7,93
+
+1,2 
+
+38,49
+
+2,2 
+
+48,61
+
+3,2 
+
+49,93
+
+0,3 
+
+11,79
+
+1,3 
+
+40,32
+
+2,3 
+
+48,93
+
+3,3 
+
+49,95
+
+0,4 
+
+15,55
+
+1,4 
+
+41,92
+
+2,4 
+
+49,18
+
+3,4 
+
+49,97
+
+0,5 
+
+19,15
+
+1,5 
+
+43,32
+
+2,5 
+
+49,38
+
+3,5 
+
+49,98
+
+0,6 
+
+22,57
+
+1,6 
+
+44,52
+
+2,6 
+
+49,53
+
+3,6 
+
+49,99
+
+0,7 
+
+25,80
+
+1,7 
+
+44,54
+
+2,7 
+
+49,65
+
+3,7 
+
+49,99
+
+0,8 
+
+28,81
+
+1,8 
+
+46,41
+
+2,8 
+
+49,74
+
+3,8 
+
+49,99
+
+0,9 
+
+31,59
+
+1,9 
+
+47,13
+
+2,9 
+
+49,81
+
+3,9 
+
+49,99
+
+1
+
+34,13
+
+2
+
+47,72
+
+3
+
+49,86
+
+4
+
+50
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema
+
+

@@ -1,0 +1,78 @@
+Pag. 1/2
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti
+nella seconda parte.
+
+PRIMA PARTE
+Per la manutenzione di una piccola azienda si deve garantire il corretto funzionamento dei 5 motori
+asincroni trifase, utilizzati in officina, e l’efficienza dell’impianto di sollevamento delle merci
+all’interno del magazzino.
+I motori hanno i seguenti dati di targa:
+P = 5.5 kW
+
+V = 400 V
+
+cos = 0,84
+
+ = 0,92
+
+Il candidato, fatte ulteriori ipotesi aggiuntive che ritiene necessarie,
+a. dimensioni la linea che alimenta i motori e descriva le tecniche e le modalità di installazione dei
+cavi;
+b. descriva, anche tramite uno schema, un sistema di sollevamento;
+c. indichi un elenco di possibili e/o probabili guasti dell’impianto di sollevamento con le relative
+misure di prevenzione e di manutenzione;
+d. proponga un format per la registrazione degli interventi effettuati durante la manutenzione.
+
+Pag. 2/2
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+SECONDA PARTE
+1.
+
+Il candidato, in relazione all’installazione dei cavi di alimentazione dei motori asincroni trifase,
+valuti i rischi e gli aspetti organizzativi in relazione alla sicurezza, avendo cura di descrivere
+quali mezzi, attrezzature e risorse umane prevede di utilizzare.
+
+2.
+
+Il tasso di guasto  di un componente vale  = 0,002 mesi -1.
+Il candidato determini:
+a. il numero di componenti funzionanti, dopo 2 anni, rispetto ai 1250 iniziali e la loro
+affidabilità;
+b. dopo quanto tempo l’affidabilità è pari al 90%.
+
+3.
+
+Il candidato, ipotizzando di voler sostituire un motore asincrono trifase con uno in corrente
+continua, evidenzi le differenze in termini di manutenzione e possibili guasti.
+
+4. Il candidato illustri il principio di funzionamento dei diodi e le loro applicazioni.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

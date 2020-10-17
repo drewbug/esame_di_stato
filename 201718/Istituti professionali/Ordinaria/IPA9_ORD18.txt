@@ -1,0 +1,151 @@
+Pag. 1/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPA9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPA9 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI – Tipologia B
+
+Il candidato (che potrà avvalersi delle conoscenze e competenze maturate attraverso esperienze di
+alternanza scuola-lavoro, stage o formazione in azienda) svolga la prima parte della prova e due
+tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+La società FastDelivery si occupa della spedizione di pacchi su tutto il territorio nazionale e possiede
+proprie sedi operative in molte città italiane. In ciascuna sede, dotata di magazzino, gli addetti si
+occupano tra l’altro del ritiro dei pacchi da spedire che vengono loro direttamente affidati dai clienti.
+FastDelivery ha un sistema di identificazione dei pacchi che consente all’azienda, ai clienti e ai
+destinatari di seguirne la posizione nel loro percorso fino a destinazione.
+Quando un cliente vuole spedire un pacco, si reca presso la sede operativa a lui più vicina, dove un
+addetto provvede a prendere in carico il pacco, svolgendo le seguenti operazioni:
+
+
+posizionamento del pacco in un sistema di analisi automatica delle sue caratteristiche fisiche (es.
+peso, volume, dimensioni) anche ai fini della determinazione del costo della spedizione;
+
+
+
+inserimento a computer dei dati relativi a cliente, destinatario, tipologia di merce spedita;
+
+
+
+stampa di un adesivo con codice a barre che viene applicato sul pacco, che codifica le
+caratteristiche della spedizione (cliente, destinatario, caratteristiche fisiche del pacco, data e ora
+della presa in carico);
+
+
+
+invio del pacco al magazzino, tramite uno o più nastri trasportatori, dove il pacco viene stoccato
+manualmente dagli addetti.
+
+Successivamente, il pacco viene smistato per la spedizione alla sede operativa di FastDelivery più
+vicina al destinatario. A tal fine, al momento opportuno, l’addetto al magazzino provvede alle
+seguenti operazioni:
+
+
+spostamento del pacco dal magazzino al varco di uscita per il carico sul camion che lo trasporterà,
+tramite uno o più nastri trasportatori;
+
+
+
+rilevazione del codice a barre del pacco in uscita, per il tracciamento della spedizione.
+
+Ogni sede operativa, oltre ai dispositivi meccanici, elettronici ed informatici necessari alle operazioni
+sopra descritte, ha una propria rete interna che collega i computer desktop degli uffici amministrativi,
+connessa con i dispositivi per l’inserimento dei dati dei pacchi in ingresso e la rilevazione dei codici
+di quelli in uscita, oltre ad eventuali dispositivi mobili come tablet o computer portatili interni alla
+sede. E’ inoltre presente un server che consente, sia alle altre sedi operative sul territorio italiano sia
+a clienti e destinatari dei pacchi, di conoscere lo stato di avanzamento delle spedizioni.
+
+Pag. 2/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPA9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPA9 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI – Tipologia B
+Il candidato, anche servendosi di schemi e rappresentazioni grafiche:
+1.
+
+Analizzi la situazione sopra rappresentata e faccia le opportune ipotesi aggiuntive, descrivendo
+gli apparati di gestione dei pacchi sia in ingresso che in uscita, identificandone i componenti
+meccanici, elettronici ed informatici essenziali.
+
+2.
+
+Descriva una possibile infrastruttura di rete interna alla sede operativa, evidenziandone
+componenti e loro modalità di identificazione, cablaggio, eventuale wifi, accesso esterno ad
+internet, protocolli di comunicazione, eventuale accesso a sistemi cloud, ecc ….
+
+3.
+
+Discuta gli aspetti relativi alla sicurezza operativa degli apparati descritti al punto 1 in riferimento
+alla normativa esistente; descriva le procedure operative in sicurezza per lo smontaggio,
+sostituzione e rimontaggio di uno di questi apparati in caso di guasto di un suo componente.
+
+4.
+
+Ipotizzi un contratto di manutenzione e assistenza tecnica, per gli apparati descritti al punto 1
+oppure per l’infrastruttura informatica e di rete descritta al punto 2, con le caratteristiche degli
+interventi programmati.
+
+5.
+
+Immaginando di essere l’operatore addetto alla manutenzione degli apparati e sistemi descritti ai
+punti 1 o 2, riporti almeno quattro termini tecnici in lingua inglese che immagina presenti nei
+manuali di tali apparati e sistemi; illustri poi sinteticamente in italiano la realtà a cui tali termini
+inglesi si riferiscono, pensando di dovere dare spiegazioni ad un operatore della sede operativa
+che non conosce tali termini.
+
+Pag. 3/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPA9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPA9 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI – Tipologia B
+SECONDA PARTE
+I.
+
+In relazione al tema proposto nella prima parte, si immagini di volere sostituire la gestione
+manuale dei pacchi, da parte degli addetti del magazzino, con un sistema automatizzato. Il
+candidato descriva i componenti di un magazzino automatico con particolare riferimento allo
+stoccaggio dei pacchi, ne evidenzi gli aspetti di sicurezza, ed ipotizzi anche un sistema di
+diagnosi multi sensore per controllarne l’operatività.
+
+II.
+
+In relazione al tema proposto nella prima parte, il candidato presenti cosa sono i diagrammi di
+Gantt per la gestione di risorse e attività, applicandoli alla gestione dei piani di manutenzione
+degli apparati presenti nelle sedi operative.
+
+III.
+
+Il candidato descriva un sistema di certificazione della qualità di propria conoscenza.
+
+IV.
+
+Il candidato descriva l’uso del metodo PERT, applicandolo ad una situazione di project
+management di propria conoscenza.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dall'inizio della prova.
+
+

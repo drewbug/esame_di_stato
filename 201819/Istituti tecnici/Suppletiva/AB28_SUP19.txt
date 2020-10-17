@@ -1,0 +1,215 @@
+Pag. 1/6
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un laboratorio di analisi cliniche per la ricerca di uno specifico batterio si avvale di una macchina che rende
+possibile quantificare la presenza di un frammento di DNA identificativo del batterio in un campione biologico
+fornito dal paziente (PCR - Real Time). Il metodo consiste nel replicare e quantificare, in un’unica reazione,
+la sequenza di DNA del batterio presente nel campione immerso in una opportuna soluzione cui sono stati
+aggiunti preliminarmente marcatori fluorescenti. Tale processo, detto amplificazione, si ottiene sottoponendo
+il campione ad un certo numero di cicli termici, a loro volta divisi in tre successive fasi. Al termine di ciascun
+ciclo termico la sostanza viene eccitata mediante luce ad una specifica lunghezza d’onda: i marcatori
+fluorescenti si legano selettivamente al DNA del batterio che si amplifica ad ogni ciclo aumentando, di
+conseguenza, la probabilità che avvenga il fenomeno di fluorescenza. Quando questo si manifesta si può
+ricavare la quantità di molecole del batterio presenti originariamente nella sostanza con la relazione:
+𝐾(𝑛) = 𝐾(0) 2𝑛
+Dove
+K(n) = numero molecole DNA al ciclo n-esimo
+K(0) = numero molecole DNA presenti originariamente
+n
+
+= numero di cicli termici effettuati
+
+Il valore così calcolato verrà successivamente confrontato con una tabella di riferimento che riporta, per
+ciascun tipo di elemento analizzato, il valore limite della concentrazione di molecole di batterio, definendo in
+tal modo la presenza o meno di una infezione.
+Una generica macchina PCR-Real time, rappresentata in figura, è costituita da un contenitore isolato
+termicamente dall’esterno in cui si trovano:
+− Una cella di Peltier che attua i cicli termici necessari all’amplificazione del DNA;
+− Due termistori NTC per il controllo della temperatura all’interno del contenitore;
+− Un circuito di eccitazione e rilevazione luminosa (optocoppia) costituito da un emettitore LED a luce
+blu ed un fotodiodo.
+
+Pag. 2/6
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+Le caratteristiche di tali componenti sono di seguito descritte.
+Cella di Peltier: è una piastra metallica, con tensione di alimentazione 24 Volt, che racchiude uno strato di
+materiale semiconduttore. A seconda della polarizzazione le due facce della piastra invertono il loro
+funzionamento: polarizzando direttamente si surriscalda la faccia superiore e si raffredda quella inferiore e
+polarizzando inversamente si ottiene il comportamento contrario. Nell’apparecchio per la PCR – Real Time
+alla superficie inferiore della cella di Peltier è collegata una ventola di dissipazione del calore.
+Termistori NTC: presentano una caratteristica resistenza-temperatura rispondente alla relazione:
+𝑅(𝑇) = 𝑅0 ∙ 𝑒
+
+𝑇 −𝑇
+𝛽∙( 0 )
+𝑇∙𝑇0
+
+Con
+R0 = 1 k
+
+ = 3000 K
+T0 = 273 K
+Optocoppia: presenta una tensione di soglia di 3,5 V necessaria al diodo LED per l’emissione del segnale
+luminoso, mentre il fotodiodo ad esso accoppiato è caratterizzato da una dark current di 2 nA. La soglia di
+fluorescenza indicativa della positività al batterio è fissata a 100 volte il valore di dark current.
+
+Pag. 3/6
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+La macchina PCR è dotata, infine, un display di visualizzazione dei dati rilevati.
+L’apparato di misura è provvisto di un sistema micro-programmabile che gestisce le singole fasi, attuando il
+seguente processo:
+a) la chiusura dello sportello della PCR - Real Time avvia i cicli termici, che si ripeteranno per 40 volte.
+Ciascun ciclo realizza una sequenza di riscaldamento e raffreddamento del campione costituita da tre
+fasi come mostrato in figura 1;
+
+− Fase 1: si riscalda il campione fino a 95 °C mantenendo la temperatura per 30 secondi. Si suppone
+che il primo ciclo del processo inizi a temperatura ambiente e nei cicli successivi la Fase 1 abbia
+temperatura iniziale uguale a quella finale della Fase 3 (72 °C);
+− Fase 2: si raffredda il campione fino a 55 °C mantenendo la temperatura per 30 secondi;
+− Fase 3: si riscalda nuovamente il campione fino a 72 °C mantenendo la temperatura per 30 secondi.
+La corretta polarizzazione della cella di Peltier consente il riscaldamento o il raffreddamento della
+superficie della piastra all’interno del contenitore, e nel caso di raffreddamento il processo è coadiuvato
+dall’attivazione della ventola di dissipazione del calore posta al di sotto della cella di Peltier. Il controllo
+della temperatura si effettua sulla media dei valori rilevati dai due termistori.
+
+Pag. 4/6
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+b) Alla fine del singolo ciclo termico il diodo LED dell’optocoppia viene polarizzato direttamente per un
+tempo di 50 ms terminati i quali viene acquisita e memorizzata la risposta del fotodiodo.
+c) Completati i 40 cicli realizzativi dell’intero processo il software analizza i dati memorizzati relativi
+alla risposta del fotodiodo e individua il numero d’ordine del ciclo in cui è stata eventualmente superata
+la soglia di corrente fissata.
+Il candidato fatte le opportune ipotesi aggiuntive deve
+1. Proporre uno schema a blocchi dell’intero sistema di controllo evidenziando le connessioni tra
+dispositivi di input, di output e il dispositivo programmabile scelto per la gestione del processo e
+descrivendone la funzionalità;
+2. Progettare le interfacce necessarie al condizionamento dei segnali provenienti dai termistori e dal
+fotodiodo e alla gestione dell’alimentazione della cella di Peltier;
+3. Determinare un opportuno intervallo di acquisizione e controllo della temperatura volendo garantire
+una precisione ± 0,1 °C sapendo che la cella di Peltier garantisce una velocità di variazione della
+temperatura di ±5 °C/sec sia durante le fasi di riscaldamento che di raffreddamento;
+4. Definire un algoritmo di gestione del processo, o altra struttura rappresentativa, che al termine dei cicli
+individui e visualizzi il numero d’ordine del ciclo cui è avvenuta la reazione oppure, nel caso che questa
+non si verifichi, visualizzi la cifra 0. Codificarne quindi un segmento significativo in un linguaggio di
+programmazione adeguato all’hardware progettato.
+
+SECONDA PARTE
+Quesito 1
+In riferimento al tema proposto nella prima parte si discutano le possibili implementazioni circuitali utilizzabili
+per la generazione del segnale di eccitazione del LED nell’optocoppia Si consideri la possibilità di variare
+potenza dell’impulso in modo da rendere utilizzabile la macchina per differenti tipi di marcatori fluorescenti.
+Quesito 2
+In riferimento al processo descritto nella prima parte, l’accidentale apertura dello sportello del contenitore
+può essere assimilata ad un disturbo esterno che interviene sul sistema. Nello schema a blocchi in figura è
+riportato un caso specifico di sistema sollecitato da un disturbo D(s)
+
+Pag. 5/6
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+D(s)
+X(s)
+
++
+
++
+_
+
+Y(s)
+
+G1(s)
+
+G2(s)
+
+𝐻
+
+Si ricavi la risposta a regime permanente del sistema ad anello chiuso sollecitato da un segnale a gradino x(t)
+di ampiezza 2, il disturbo d(t) sia assimilabile ad un segnale a gradino di ampiezza 0,1 e le F.d.T. dei blocchi
+siano:
+1
+(1 + 2 ∙ 10−1 𝑠)
+5
+𝐺2 (𝑠) =
+(1 + 2 ∙ 10−2 𝑠)
+H=2
+𝐺1 (𝑠) =
+
+Quesito 3
+Nel circuito di figura la termoresistenza R(T) assume valore proporzionale alla temperatura secondo la
+relazione:
+𝑅(𝑇) = 100 ∙ (1 + 𝛼1 𝑇 + 𝛼2 𝑇 2 ) []
+Con:
+1 = 3,9 ∙ 10-3 °C-1
+2 = – 5,77 ∙ 10-3 °C-2
+Ed inoltre:
+R1= 2,0 k
+R2 = 2,2 k
+
+Pag. 6/6
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+Dopo aver determinato l’espressione della Vout in funzione dei componenti presenti. Determinare per quale
+valore di temperatura questa assume valore nullo.
+Quesito 4
+Si tracci il diagramma di Bode del modulo e della fase di una funzione di trasferimento G(s) con guadagno
+statico K =100, uno zero nell’origine e i tre poli riportati sul diagramma sottostante.
+Si ricavi quindi l’espressione della funzione di trasferimento a partire dalle informazioni in possesso.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla lettura del tema.
+
+

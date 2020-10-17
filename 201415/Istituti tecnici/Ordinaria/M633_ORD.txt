@@ -1,0 +1,86 @@
+Pag. 1/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M633 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+In un impianto petrolifero si vuole suddividere mediante distillazione una miscela idrocarburica in
+una frazione più volatile e in una meno volatile.
+L’alimentazione, opportunamente preriscaldata, è inviata ad una colonna a piatti che opera ad una
+pressione di poco superiore a quella atmosferica.
+La frazione di testa contiene anche dei componenti che non sono condensabili nel condensatore di
+testa che utilizza acqua industriale di raffreddamento. Tali componenti lasciano l’impianto come
+vapori.
+La frazione di coda, prima di lasciare l’impianto, viene raffreddata.
+Tutte le frazioni in uscita (distillato, sia liquido sia vapore, e prodotto di coda) proseguono per altre
+lavorazioni.
+Per il riscaldamento è disponibile vapore di rete a bassa pressione.
+Il candidato, dopo aver adottato gli eventuali recuperi termici ritenuti opportuni, disegni lo schema
+dell’impianto idoneo a realizzare l’operazione proposta, completo delle apparecchiature accessorie
+(pompe, valvole, serbatoi, ecc.) e delle regolazioni automatiche principali rispettando, per quanto
+possibile, la normativa UNICHIM.
+
+SECONDA PARTE
+1.
+
+Si vogliono distillare, in una colonna a piatti a funzionamento continuo, 9 kmol/h di una
+miscela binaria. Le composizioni, espresse come frazione molare del componente più volatile,
+sono: xF = 0,4 per l'alimentazione, xD = 0,95 per il distillato e xW = 0,05 per il prodotto di coda.
+Si opera con un rapporto di riflusso effettivo R = 2,7 e la miscela entra in colonna al 60% in
+moli come vapore.
+Si calcolino le portate di distillato e residuo e i carichi termici al condensatore di testa e al
+ribollitore di coda sapendo che il calore latente di evaporazione medio valevole per tutte le
+composizioni della miscela è Hv = 36 kJ/mol, nell’ipotesi che siano valide le approssimazioni
+di McCabe e Thiele, che il calore scambiato serva solo ad attuare i passaggi di stato voluti e
+siano trascurabili le perdite termiche di tutto l’impianto.
+
+Pag. 2/2
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M633 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+2.
+
+Il numero degli stadi di equilibrio nella distillazione si possono calcolare graficamente con il
+metodo di McCabe e Thiele.
+Il candidato, dopo aver discusso brevemente i limiti di applicabilità di tale metodo, scelga
+liberamente i dati di progetto di un’operazione di distillazione e, applicando qualitativamente
+tale metodo di calcolo, ne illustri la procedura.
+
+3.
+
+Alcuni importanti processi industriali si basano su reazioni chimiche interessate da equilibrio. Il
+candidato, sulla base degli studi fatti, prendendo ad esempio un processo industriale, illustri i
+principi termodinamici che permettono di individuare le condizioni operative ottimali per la
+migliore resa delle reazioni chimiche.
+
+4.
+
+I materiali polimerici rappresentano le produzioni tra le più rilevanti dell’Industria Chimica. Il
+candidato, sulla base degli studi fatti, illustri, a sua scelta, la produzione di un polimero e del
+relativo monomero (o dei monomeri).
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali relativi alle simbologie UNICHIM, di tabelle con dati numerici, di diagrammi relativi a parametri
+chimico-fisici, di mascherine da disegno e di calcolatrici tascabili non programmabili.
+Non è consentita la consultazione di libri di testo.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

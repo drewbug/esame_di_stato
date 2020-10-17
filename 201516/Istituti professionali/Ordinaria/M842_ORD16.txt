@@ -1,0 +1,177 @@
+Pag. 1/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M842 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPS9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Si vuole dimensionare e realizzare un impianto per la produzione di acqua calda sanitaria a servizio
+di una villa unifamiliare destinata a residenza per un nucleo di 5 persone mediante un sistema che
+prevede l’integrazione della caldaia con un impianto a collettori solari piani.
+Il dimensionamento della superficie captante del collettore solare deve essere eseguito in rispetto al
+D.M. 311/06, il quale richiede che una frazione almeno pari al 50 % del fabbisogno di energia per
+a.c.s., sia prodotto da energia rinnovabile.
+A tale scopo viene installato in copertura, aderente alla falda del tetto con inclinazione pari 20° e
+rivolto a sud, un campo solare a collettori piani, che riceve mediamente per ciascun mese la
+radiazione solare globale giornaliera media mensile riportata nella Tab.1 allegata.
+Il fabbisogno di a.c.s. per la villa servita, ipotizzando una temperatura di erogazione pari a 40°C è
+stimato in 80 litri/giorno per persona.
+Il candidato, effettuate le ulteriori opportune e necessarie ipotesi preliminari:
+
+
+determini la superficie minima di collettore solare richiesta per il conseguimento degli obiettivi
+imposti dal D.M. 311/06;
+
+
+
+determini il n° minimo di collettori solari da installare scegliendo il tipo di collettore solare
+sulla base dei dati indicati in Tab.2;
+
+
+
+inoltre, supponendo che il fabbisogno contemporaneo di a.c.s. sia pari a 0,5 l/s per un periodo
+di punta pari a 10 minuti, determini la temperatura da impostare per il bollitore d’accumulo
+sapendo che la capacità dello stesso è pari a 200 litri.
+
+Disegni infine uno schema completo di funzionamento dell’impianto che contenga i principali
+componenti facente parte dell’impianto.
+
+Pag. 2/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M842 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPS9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE MANUTENZIONE
+
+GEN
+
+FEB
+
+MAR
+
+APR
+
+MAG
+
+GIU
+
+LUG
+
+AGO
+
+SET
+
+OTT
+
+NOV
+
+DIC
+
+10,42
+
+12,88
+
+16,31
+
+19,10
+
+21,68
+
+23,06
+
+23,30
+
+21,33
+
+17,68
+
+14,10
+
+10,31
+
+8,75
+
+Tab. 1: Radiazione solare globale giornaliera media mensile su superficie inclinata per la
+località considerata nelle condizioni previste per l’installazione MJ/m2 (Fonte EneaSolterm)
+
+Collettore
+Tipo 1
+Tipo 2
+
+Superficie complessiva
+[m2]
+2,57
+2,09
+
+Superficie di apertura
+[m2]
+2,29
+1,94
+
+Tab. 2: Caratteristiche dimensionali dei collettori solari piani
+
+Grafico rendimento collettore solare
+
+Superficie captante
+[m2]
+2,15
+1,92
+
+Pag. 3/3
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M842 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPS9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE MANUTENZIONE
+
+SECONDA PARTE
+1.
+
+Con riferimento all’energia richiesta per la produzione di a.c.s. indicata nell’esercizio riportato
+nella parte prima e considerando un potere calorifico Hi = 34.560 kJ/mc del gas metano, il
+candidato calcoli il risparmio energetico ed economico annuale conseguito da un potenziale
+utente, derivante dall’installazione di un impianto di produzione di acqua calda sanitaria tramite
+energia solare, rispetto ad un impianto nel quale la produzione di a.c.s. avviene per tramite di
+una caldaia tradizionale.
+
+2.
+
+Il candidato anche sulla base dello schema realizzato nella parte prima, compili una lista dei
+materiali necessari alla realizzazione dell’impianto solare termico che includa le principali
+apparecchiature, il valvolame e le minuterie.
+
+3.
+
+Il candidato elenchi almeno tre avarie che possono determinare l’intervento dei dispositivi di
+protezione a salvaguardia delle macchine frigorifere, indicando le azioni da intraprendere per il
+ripristino del funzionamento.
+
+4.
+
+Il candidato illustri, sulla base dell’esperienza da lui fatta direttamente o svolta nell’ambito di
+stages aziendali o di alternanza scuola-lavoro o in attività di laboratorio durante l’anno
+scolastico, le mansioni e/o le attività lavorative normalmente svolte, evidenziando le
+competenze acquisite e gli obiettivi raggiunti, preferibilmente in relazione alla tipologia di
+impianti per la produzione di acqua calda sanitaria.
+
+____________________________
+Durata massima della prova: 6 ore.
+E’ consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

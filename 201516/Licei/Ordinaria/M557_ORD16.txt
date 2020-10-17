@@ -1,0 +1,274 @@
+Pag. 1/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M557 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03, EA09 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+L’amministratore di un piccolo condominio deve installare un nuovo serbatoio per il gasolio da
+riscaldamento. Non essendo soddisfatto dei modelli esistenti in commercio, ti incarica di
+progettarne uno che risponda alle esigenze del condominio.
+
+Figura 1
+
+Figura 2
+
+Allo scopo di darti le necessarie informazioni, l’amministratore ti fornisce il disegno in figura 1,
+aggiungendo le seguenti indicazioni:
+
+
+la lunghezza 𝐿 del serbatoio deve essere pari a otto metri;
+
+
+
+la larghezza 𝑙 del serbatoio deve essere pari a due metri;
+
+
+
+l’altezza ℎ del serbatoio deve essere pari a un metro;
+
+
+
+il profilo laterale (figura 2) deve avere un punto angoloso alla sommità, per evitare l’accumulo
+di ghiaccio durante i mesi invernali, con un angolo 𝜗 ≥ 10°;
+
+
+
+la capacità del serbatoio deve essere pari ad almeno 13 m3, in modo da garantire al condominio
+il riscaldamento per tutto l’inverno effettuando solo due rifornimenti di gasolio;
+
+
+
+al centro della parete laterale del serbatoio, lungo l’asse di simmetria (segmento 𝐴𝐵 in figura 2)
+deve essere installato un indicatore graduato che riporti la percentuale di riempimento V del
+volume del serbatoio in corrispondenza del livello z raggiunto in altezza dal gasolio.
+
+Pag. 2/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+1. Considerando come origine degli assi cartesiani il punto 𝐴 in figura 2, individua tra le seguenti
+famiglie di funzioni quella che meglio può descrivere il profilo laterale del serbatoio per
+𝑥 ∈ [−1, 1], 𝑘 intero positivo, motivando opportunamente la tua scelta:
+1
+
+𝑓(𝑥) = (1 − |𝑥|)𝑘
+
+𝑓(𝑥) = −6|𝑥|3 + 9𝑘𝑥 2 − 4|𝑥| + 1
+𝜋
+𝑓(𝑥) = 𝑐𝑜𝑠 ( 𝑥 𝑘 )
+2
+2. Determina il valore di 𝑘 che consente di soddisfare i requisiti richiesti relativamente all’angolo 𝜗
+e al volume del serbatoio.
+3. Al fine di realizzare l’indicatore graduato, determina l’espressione della funzione 𝑉(𝑧) che
+associa al livello 𝑧 del gasolio (in metri) la percentuale di riempimento V del volume da riportare
+sull’indicatore stesso.
+Quando consegni il tuo progetto, l’amministratore obietta che essendo il serbatoio alto un metro, il
+valore 𝑧 del livello di gasolio, espresso in centimetri, deve corrispondere alla percentuale di
+riempimento: cioè, ad esempio, se il gasolio raggiunge un livello 𝑧 pari a 50 cm vuol dire che il
+serbatoio è pieno al 50%; invece il tuo indicatore riporta, in corrispondenza del livello 50 cm, una
+percentuale di riempimento 59,7%.
+4. Illustra gli argomenti che puoi usare per spiegare all’amministratore che il suo ragionamento è
+sbagliato; mostra anche qual è, in termini assoluti, il massimo errore che si commette usando il
+livello 𝑧 come indicatore della percentuale di riempimento, come da lui suggerito, e qual è il
+valore di 𝑧 in corrispondenza del quale esso si verifica.
+PROBLEMA 2
+Nella figura 1 è rappresentato il grafico Γ della funzione continua 𝑓: [0, +∞) → ℝ, derivabile in
+]0, +∞), e sono indicate le coordinate di alcuni suoi punti.
+
+È noto che Γ è tangente all’asse 𝑦 in 𝐴, che 𝐵 ed 𝐸 sono un punto di massimo e uno di minimo, che
+𝐶 è un punto di flesso con tangente di equazione 2𝑥 + 𝑦 − 8 = 0.
+
+Pag. 3/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Nel punto 𝐷 la retta tangente ha equazione 𝑥 + 2𝑦 − 5 = 0 e per 𝑥 ≥ 8 il grafico consiste in una
+semiretta passante per il punto 𝐺. Si sa inoltre che l’area della regione delimitata dall’arco 𝐴𝐵𝐶𝐷,
+dall’asse 𝑥 e dall’asse 𝑦 vale 11, mentre l’area della regione delimitata dall’arco 𝐷𝐸𝐹 e dall’asse 𝑥
+vale 1.
+1.
+
+In base alle informazioni disponibili, rappresenta indicativamente i grafici delle funzioni
+𝑦 = 𝑓′(𝑥)
+𝑥
+
+𝐹(𝑥) = ∫ 𝑓(𝑡)𝑑𝑡
+0
+
+Quali sono i valori di 𝑓
+2.
+
+′ (3)
+
+′
+
+e 𝑓 (5)? Motiva la tua risposta.
+
+Rappresenta, indicativamente, i grafici delle seguenti funzioni:
+𝑦 = |𝑓′(𝑥)|
+𝑦 = |𝑓(𝑥)|′
+𝑦=
+
+1
+𝑓(𝑥)
+
+specificando l’insieme di definizione di ciascuna di esse.
+3.
+
+Determina i valori medi di 𝑦 = 𝑓(𝑥) e di 𝑦 = |𝑓(𝑥)| nell’intervallo [0,8], il valore medio di
+𝑦 = 𝑓′(𝑥) nell’intervallo [1,7] e il valore medio di 𝑦 = 𝐹(𝑥) nell’intervallo [9,10].
+
+4.
+
+Scrivi le equazioni delle rette tangenti al grafico della funzione 𝐹(𝑥) nei suoi punti di ascisse 0
+e 8, motivando le risposte.
+
+QUESTIONARIO
+1.
+
+È noto che
++∞
+
+2
+
+𝑒 −𝑥 𝑑𝑥 = √𝜋
+
+∫
+−∞
+
+Stabilire se il numero reale 𝑢, tale che
+𝑢
+
+2
+
+∫ 𝑒 −𝑥 𝑑𝑥 = 1
+−∞
+
+è positivo oppure negativo. Determinare inoltre i valori dei seguenti integrali, motivando le
+risposte:
+𝑢
+
+𝑢
+
+2
+
+𝐴 = ∫ 𝑥 7 𝑒 −𝑥 𝑑𝑥
+−𝑢
+
+2.
+
+2
+
+𝐵 = ∫ 𝑒 −𝑥 𝑑𝑥
+
++∞
+
+𝐶=∫
+
+−𝑢
+
+2
+
+𝑒 −5𝑥 𝑑𝑥
+
+−∞
+
+Data una parabola di equazione
+𝑦 = 1 − 𝑎𝑥 2 ,
+
+con 𝑎 > 0
+
+si vogliono inscrivere dei rettangoli, con un lato sull’asse x, nel segmento parabolico delimitato
+dall’asse x. Determinare 𝑎 in modo tale che il rettangolo di area massima sia anche il rettangolo
+di perimetro massimo.
+
+Pag. 4/4
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+3.
+
+Un recipiente sferico con raggio interno 𝑟 è riempito con un liquido fino
+all’altezza ℎ. Utilizzando il calcolo integrale, dimostrare che il volume del liquido
+è dato da: 𝑉 = 𝜋 ∙ (𝑟ℎ2 −
+
+ℎ3
+3
+
+).
+
+4.
+
+Un test è costituito da 10 domande a risposta multipla, con 4 possibili risposte di cui solo una è
+esatta. Per superare il test occorre rispondere esattamente almeno a 8 domande. Qual è la
+probabilità di superare il test rispondendo a caso alle domande?
+
+5.
+
+Una sfera, il cui centro è il punto 𝐾(−2, −1, 2), è tangente al piano Π avente equazione
+2𝑥 − 2𝑦 + 𝑧 − 9 = 0. Qual è il punto di tangenza? Qual è il raggio della sfera?
+
+6.
+
+Si stabilisca se la seguente affermazione è vera o falsa, giustificando la risposta:
+“Esiste un polinomio 𝑃(𝑥) tale che: |𝑃(𝑥) − cos(𝑥)| ≤ 10−3 ,
+
+∀𝑥 ∈ ℝ”.
+
+7.
+
+Una pedina è collocata nella casella in basso a sinistra di una scacchiera, come in
+figura. Ad ogni mossa, la pedina può essere spostata o nella casella alla sua destra
+o nella casella sopra di essa. Scelto casualmente un percorso di 14 mosse che porti
+la pedina nella casella d'angolo opposta A, qual è la probabilità che essa passi per
+la casella indicata con B?
+
+8.
+
+Data la funzione 𝑓(𝑥) definita in ℝ, 𝑓(𝑥) = 𝑒 𝑥 (2𝑥 + 𝑥 2 ), individuare la primitiva di 𝑓(𝑥) il
+cui grafico passa per il punto (1, 2𝑒).
+
+9.
+
+Date le rette:
+𝑥=𝑡
+𝑥+𝑦+𝑧−3=0
+{𝑦 = 2𝑡
+{
+2𝑥 − 𝑦 = 0
+𝑧=𝑡
+e il punto 𝑃(1, 0, −2) determinare l’equazione del piano passante per P e parallelo alle due
+rette.
+
+10. Sia 𝑓 la funzione così definita nell’intervallo ]1, +∞):
+𝑥2
+
+𝑓(𝑥) = ∫
+𝑒
+
+𝑡
+𝑑𝑡
+ln 𝑡
+
+Scrivere l’equazione della retta tangente al grafico di 𝑓 nel suo punto di ascissa √𝑒.
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

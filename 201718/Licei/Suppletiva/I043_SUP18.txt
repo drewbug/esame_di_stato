@@ -1,0 +1,194 @@
+Pag. 1/4
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I043 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+LI15 - SCIENTIFICO - SEZIONE AD INDIRIZZO SPORTIVO
+(Testo valevole anche per la corrispondenti sperimentazioni quadriennali)
+
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+Un artigiano deve realizzare una cornice in cui inscrivere uno specchio di forma circolare. A partire
+da una tavola quadrata di lato 3  decimetri (approssimato alla seconda cifra decimale), adoperando
+una macchina a controllo numerico (CNC), incide su ciascun lato una decorazione che rappresenta
+una porzione di curva goniometrica come si vede in figura 1.
+
+La macchina traccia sul lato giacente sull’asse delle ascisse la curva descritta dalla funzione
+y  k sen(x) con x 0,3  e k parametro reale positivo. La cornice viene ruotata per realizzare la
+decorazione su ciascun lato. (La precisione della macchina è di 10 4 m , quindi al di sopra della
+precisione richiesta dalle misure della cornice).
+1. Per ottenere la decorazione, occorre che le curve su due lati consecutivi si intersechino nel loro
+punto di massimo più vicino al vertice della cornice. Verifica che tale richiesta è soddisfatta per
+
+k  . La decorazione presenta delle “foglie” (colorate in grigio in figura 2) in corrispondenza
+2
+dei quattro vertici. L’artigiano vuole rivestire queste quattro regioni con una polvere ceramica.
+2
+Determina l’area, espressa in dm , della superficie da ricoprire.
+
+Pag. 2/4
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+Volendo offrire ai clienti la possibilità di inserire nella cornice uno specchio di dimensioni maggiori,
+l’artigiano ne realizza un’altra con il lato delle stesse misure della precedente, ma con le quattro curve
+goniometriche che hanno in comune solo i vertici della cornice, così come in figura 3.
+
+2. Verifica che per ottenere una decorazione di questo tipo occorre impostare nella macchina CNC
+un valore di k compreso tra 0 e 1 e che per k  1 due decorazioni consecutive sono tangenti nel
+vertice della cornice. Determina inoltre, in funzione di k  [0; 1] , l’area della parte di cornice
+compresa tra i lati e le quattro curve goniometriche, esprimendola in dm 2 .
+3. L’artigiano ha ovviamente l’esigenza di offrire la cornice a clienti che hanno specchi circolari di
+dimensioni diverse. Determina in funzione del parametro k l’area dello specchio tangente alle
+quattro curve goniometriche e stabilisci quindi l’area minima e massima possibile dello specchio.
+Un cliente, per cui è stata realizzata una cornice con k  1 , chiede che la regione compresa tra lo
+specchio e le quattro curve venga dipinta con una vernice di cui l’artigiano possiede un flacone da
+125 ml .
+2
+4. Dal momento che con 1 litro di vernice è possibile coprire 6 m di superficie, la quantità a
+disposizione è sufficiente per passare due mani di vernice? Per quale valore di k la quantità di
+vernice richiesta è massima?
+
+Pag. 3/4
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PROBLEMA 2
+Fissato un numero reale k  0 , si definiscono le funzioni:
+
+f k ( x)  k  ln( x) e g k ( x ) 
+
+x
+k
+e
+
+,
+
+i cui grafici sono indicati, rispettivamente, con Fk e Gk .
+1. Verifica che, qualunque sia k  0 , le due funzioni f k e g k sono tra loro inverse; definite inoltre le
+funzioni:
+a( x)  f k ( g k ( x)) e b( x)  g k ( f k ( x)) ,
+
+stabilisci se si verifica a( x)  b( x), x   .
+2. Indicata con r la retta di equazione y  x , determina l'equazione della retta s2 , parallela a r e
+tangente al grafico F2 della funzione f 2 ( x)  2 ln( x) . Determina inoltre l'equazione della retta t 2 ,
+x
+2
+e
+
+parallela a r e tangente al grafico G2 della funzione g 2 ( x) 
+.
+Rappresenta i grafici F2 e G2 insieme alle rette s2 e t 2 e stabilisci qual è la distanza minima tra
+un punto di F2 e un punto di G2 .
+3. Verifica che l'equazione f3 ( x)  g3 ( x) possiede due soluzioni sapendo che, qualunque sia k  0 ,
+gli eventuali punti d'intersezione tra il grafico Fk e il grafico Gk coincidono con i punti di
+intersezione tra uno qualsiasi di tali grafici e la retta di equazione y  x . Stabilisci inoltre per
+quali valori k  0 i grafici Fk e Gk sono secanti, per quali valori sono disgiunti e per quale valore
+essi sono tangenti.
+4. Sia A la regione limitata compresa tra i grafici Fe e Ge e gli assi cartesiani.
+Determina l'area di A ed il volume del solido generato ruotando A attorno a uno degli assi
+cartesiani.
+
+Pag. 4/4
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+QUESTIONARIO
+1. Considerati nel piano cartesiano i punti A(0,0) e B ( ,0) , sia R la regione piana delimitata dal
+segmento AB e dall’arco di curva avente equazione y  4sen x , con 0  x   . Calcolare il
+massimo perimetro che può avere un rettangolo inscritto in R avente un lato contenuto nel
+segmento AB.
+1
+2. Si consideri la funzione f  x   nell’intervallo [p, 2p] e, detto  il suo grafico, sia t la retta
+x
+tangente a  nel suo punto di ascissa p. Determinare, al variare di p, le aree delle due parti in cui
+la retta t divide la regione finita di piano compresa fra  e l’asse delle ascisse.
+
+3. Determinare l’equazione della superficie sferica di centro C(1,1, 2) tangente al piano di equazione
+x  y  z  10 e le coordinate del punto di contatto tra la superficie sferica e il piano.
+4. Verificare che
+
+
+
+
+
+2
+0
+
+n 1
+cos ( x)dx 
+n
+n
+
+
+
+02 cos
+
+n2
+
+( x)dx per n  1 e usare questo risultato per calcolare
+
+
+
+02 cos ( x)dx .
+4
+
+5. Si lancia n volte un dado regolare a sei facce. Qual è il più piccolo valore di n tale che la probabilità
+che non esca mai il numero 3 sia minore dello 0,01%?
+2
+6. Data la funzione y  x ax  b  3 , determinare il valore dei coefficienti a e b per i quali il grafico
+
+della funzione è tangente nel punto di ascissa x  1 alla retta di equazione y  7 x  9 .
+7. Date le curve  1 e  2 di equazioni rispettivamente y  x 2  1 e y  x 2  8x  9 , sia t la retta che è
+tangente a entrambe. Stabilire l’area della regione piana di area finita che è delimitata
+da  1 ,  2 e t.
+8. Una variabile casuale, a valori nell’intervallo [0, 10], è distribuita secondo la densità di probabilità
+data dalla funzione
+1 1 2
+ 3  4 x , 0  x  1
+f ( x)  
+1 ,
+1  x  10
+12
+
+Stabilire il valore medio e il valore mediano di questa variabile casuale.
+9. Determinare il luogo geometrico dei punti Px, y, z  equidistanti dai punti A0,1,2 e B 3,2,0 .
+10. Verificare
+
+che
+
+la
+
+funzione
+
+y  e  x senx
+
+è
+
+soluzione
+
+dell’equazione
+
+differenziale
+
+y' '2 y'2 y  0 .
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 350 Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,523 @@
+Pag. 1/10
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M749 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ IP09 – MANUTENZIONE E ASSISTENZA TECNICA
+ IPE9 – MANUTENZIONE E ASSISTENZA
+CURVATURA ELETTRICO ELETTRONICO
+
+TECNICA
+
+ IPM9 – MANUTENZIONE
+CURVATURA MECCANICA
+
+ASSISTENZA
+
+TECNICA
+
+ IPS9 – MANUTENZIONE E ASSISTENZA
+CURVATURA SISTEMI ENERGETICI
+
+TECNICA
+
+ IPI9
+–
+MANUTENZIONE
+CURVATURA INFORMATICA
+
+TECNICA
+
+E
+
+E
+
+ASSISTENZA
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/10
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M749 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+L’impresa responsabile della manutenzione di un centro commerciale deve, tra l’altro, controllare
+l’impianto delle scale mobili. Il movimento delle scale è comandato da un motore asincrono trifase
+mentre la trasmissione del moto dal gruppo motore/riduttore al gruppo di trascinamento dei gradini è
+ottenuta mediante l'impiego di una catena.
+Il candidato, fatte eventuali ipotesi aggiuntive:
+1.
+
+descriva, anche tramite uno schema, l’impianto comprendente sia la parte elettrica con il motore
+che quella meccanica;
+
+2.
+
+indichi i principali dispositivi da monitorare per garantire l’utilizzo in sicurezza dell’impianto;
+
+3.
+
+indichi i possibili guasti che impediscono l’avvio del motore e come effettuare le relative
+verifiche;
+
+4.
+
+predisponga il piano di manutenzione ordinaria annuale per mantenere in perfetta efficienza le
+scale mobili.
+
+Infine proponga un format per la registrazione delle verifiche e degli interventi di manutenzione
+effettuati.
+
+Pag. 3/10
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M749 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+SECONDA PARTE
+1.
+
+Il candidato, dopo aver descritto la struttura e le funzioni di un impianto di illuminazione
+d’emergenza di un centro commerciale, indichi, di conseguenza, le tipologie di verifiche, gli
+interventi correttivi e di manutenzione da effettuare (UNI CEI 11222) anche in riferimento al
+risparmio energetico.
+
+2.
+
+Il multivibratore astabile di figura è utilizzato per ottenere un clock a frequenza variabile con i
+livelli 1 e 0 corrispondenti rispettivamente a 0V e 5V.
+
+Il candidato illustri la funzione del diodo zener, dica quali sono i parametri da considerare nella
+scelta del componente elettronico e come individuare la resistenza R (Vsat = + 15V). Inoltre
+individui i motivi per i quali la forma d’onda può modificarsi e diventare triangolare.
+3.
+
+Un condominio ha un impianto centralizzato alimentato da una caldaia a gas metano da
+375 kW.
+Il candidato elenchi i principali obblighi a cui deve adempiere l’impresa incaricata della gestione
+dell’impianto, per il rispetto delle relative leggi e norme di riferimento.
+
+4.
+
+Il candidato rappresenti, ipotizzando un livello prestazionale richiesto dal committente, la pianta
+di un appartamento tipo indicando a sua scelta: l’impiantistica elettrica (quadro elettrico, punti
+prese e luce, linee elettriche in cavidotti, ecc.), quella termica (caldaia, elementi, tubazioni, ecc.),
+quella idrico-sanitaria (autoclave, utenze varie, tubazioni, ecc.).
+Il candidato inoltre, assumendo con motivato criterio ogni altro dato necessario, proceda ad un
+dimensionamento di massima dell’impiantistica prescelta.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 4/10
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M752 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+L’impresa responsabile della manutenzione di un centro commerciale deve, tra l’altro, controllare
+l’impianto delle scale mobili. Il movimento delle scale è comandato da un motore asincrono trifase
+mentre la trasmissione del moto dal gruppo motore/riduttore al gruppo di trascinamento dei gradini è
+ottenuta mediante l'impiego di una catena.
+Il candidato, fatte eventuali ipotesi aggiuntive:
+1.
+
+descriva, anche tramite uno schema, l’impianto comprendente sia la parte elettrica con il motore
+che quella meccanica con particolare riferimento alla trasmissione del moto;
+
+2.
+
+indichi i principali dispositivi da monitorare per garantire l’utilizzo in sicurezza dell’impianto e
+in particolare quelli relativi al motore elettrico;
+
+3.
+
+illustri i criteri per verificare se i componenti elettrici scelti per la protezione del motore sono
+adeguati;
+
+4.
+
+indichi i possibili guasti che impediscono l’avvio del motore e come effettuare le relative
+verifiche.
+
+Infine proponga un format per la registrazione delle verifiche e degli interventi di manutenzione
+effettuati.
+SECONDA PARTE
+1.
+
+Si desidera determinare l’affidabilità di un componente attraverso test su 10 unità che hanno i
+seguenti risultati in termini di TTF (Time To Failure):
+Componente TTF (ore)
+1
+610
+2
+350
+3
+1270
+4
+790
+5
+560
+6
+680
+7
+560
+8
+460
+9
+250
+10
+410
+Il candidato calcoli il MTTF (Mean Time To Failure) e, considerando un tempo di osservazione
+pari a 10 cicli di 50 ore, l’affidabilità del componente dopo 500 ore.
+
+Pag. 5/10
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M752 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+2.
+
+Il candidato, dopo aver descritto la struttura e le funzioni di un impianto di illuminazione
+d’emergenza di un centro congresso, indichi, di conseguenza, le tipologie di verifiche, gli
+interventi correttivi e di manutenzione da effettuare (UNI CEI 11222) anche in riferimento al
+risparmio energetico.
+
+3.
+
+Il multivibratore astabile di figura è utilizzato per ottenere un clock a frequenza variabile con i
+livelli 1 e 0 corrispondenti rispettivamente a 0V e 5V.
+
+Il candidato illustri la funzione del diodo zener, dica quali sono i parametri da considerare nella
+scelta del componente elettronico e come individuare la resistenza R (Vsat = + 15V). Inoltre
+individui i motivi per i quali la forma d’onda può modificarsi e diventare triangolare.
+
+4.
+
+Il candidato illustri la struttura di un impianto fotovoltaico, indichi quali possono essere i guasti
+più comuni con le relative conseguenze e quale sistema di protezioni dell’impianto è conveniente
+introdurre.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 6/10
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M841 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPM9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+In una piccola azienda meccanica sono presenti le seguenti macchine utensili:
+-
+
+n. 4 torni manuali paralleli;
+
+-
+
+n. 2 fresatrici universali;
+
+-
+
+n. 2 trapani a colonna;
+
+-
+
+n. 1 seghetto a nastro;
+
+-
+
+n. 2 molatrici a banco.
+
+Si chiede al candidato, dopo aver assunto con motivato criterio i dati ritenuti necessari:
+
+
+di predisporre il piano di manutenzione ordinaria annuale per mantenere in perfetta efficienza le
+macchine;
+
+
+
+di predisporre le schede di manutenzione per ciascuna macchina;
+
+
+
+di analizzare la tipologia dei rischi possibili durante le operazioni di manutenzione, valutando la
+probabilità e il danno per ognuno dei pericoli individuati e indicando, inoltre, le misure di
+prevenzione e protezione e la tipologia del DPI da adottare;
+
+
+
+di stimare un preventivo di spesa per la manutenzione ordinaria annuale da proporre al
+committente.
+
+Pag. 7/10
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M841 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPM9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE E MANUTENZIONE
+
+SECONDA PARTE
+1.
+
+2.
+
+Si calcoli il costo di fermo macchina dovuto a un intervento di manutenzione straordinaria su una
+fresatrice utilizzando i seguenti dati:
+
+
+Cma = 0,7 €/min;
+
+
+
+Ci = 0,6 €/min;
+
+
+
+Tp = 2,5 min/pezzo;
+
+
+
+MC = 10,0 €/pezzo;
+
+
+
+Cmp = 1,0 €/pezzo;
+
+
+
+Costi consumi = 0,5 €/min.
+
+Un condominio ha un impianto centralizzato alimentato da una caldaia a gas metano da
+375 kW.
+Il candidato elenchi i principali obblighi a cui deve adempiere l’impresa incaricata della gestione
+dell’impianto, per il rispetto delle relative leggi e norme di riferimento.
+
+3.
+
+Il candidato illustri, sulla base dell’esperienza da lui fatta direttamente o svolta nell’ambito di
+stage aziendali o di alternanza scuola-lavoro, le mansioni e/o le attività lavorative normalmente
+svolte, evidenziando le competenze acquisite e gli obiettivi raggiunti.
+
+4.
+
+Il candidato rappresenti, ipotizzando un livello prestazionale richiesto dal committente, la pianta
+di un appartamento tipo indicando a sua scelta: l’impiantistica elettrica (quadro elettrico, punti
+prese e luce, linee elettriche in cavidotti, ecc.), quella termica (caldaia, elementi, tubazioni, ecc.),
+quella idrico-sanitaria (autoclave, utenze varie, tubazioni, ecc.).
+Il candidato inoltre, assumendo con motivato criterio ogni altro dato necessario, proceda ad un
+dimensionamento di massima dell’impiantistica prescelta.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 8/10
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M842 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPS9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+In un appartamento di 96 mq si vuole installare un impianto di riscaldamento ad acqua calda, a radiatori,
+alimentato da una caldaia murale a gas metano della potenzialità di 24 kW. L’appartamento è cosi costituito:
+
+
+
+
+
+
+
+camera da letto da 22 mq;
+camera da letto da 14 mq;
+sala/soggiorno da 35 mq;
+cucina da 12 mq;
+servizio principale da 9 mq con scaldasalviette alimentati a 50 °C;
+servizio secondario da 4 mq con scaldasalviette alimentati a 50 °C.
+
+Tutti i locali hanno una altezza di 2,80 mt.
+Nel rispetto al D.M 311/06, in particolare ai coefficienti di trasmissione globale del calore U per una zona
+climatica E, ne deriva un carico termico per unità di volume pari a 23 W/mc.
+Il candidato, scegliendo con opportuni criteri i dati necessari mancanti e giustificandoli, esegua:
+1.
+
+il dimensionamento di massima dell’impianto, compresi gli elementi radianti, la scelta degli
+scaldasalviette, indicandone caratteristiche e misure;
+
+2.
+
+la scelta della caldaia murale idonea anche al fabbisogno di acqua calda sanitaria;
+
+3.
+
+lo schema generale dell’impianto evidenziando i diametri delle tubazioni ed i vari componenti e
+descrivendone la loro funzione;
+
+4.
+
+la descrizione della documentazione da redigere e delle successive attività di manutenzione periodica
+da eseguire.
+
+Pag. 9/10
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M842 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPS9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+TABELLA 1 - RESA SCALDASALVIETTE
+
+SECONDA PARTE
+In riferimento ad uno dei quesiti svolti, il candidato faccia riferimento anche ad eventuali esperienze
+lavorative dirette o mediante stage o percorsi di alternanza scuola lavoro, evidenziando le competenze
+acquisite.
+1.
+
+Elencare ed illustrare la funzione dei principali componenti di una caldaia murale ipotizzando i guasti
+più frequenti riscontrabili. Definire gli accorgimenti di sicurezza da adottare per eseguire correttamente
+la sua manutenzione.
+
+2.
+
+Il candidato illustri la procedura da applicare per eseguire la certificazione energetica di un
+appartamento.
+
+3.
+
+Il candidato relazioni sui guasti più frequenti riscontrabili in un impianto di riscaldamento e
+climatizzazione illustrando le cause che li possono generare e come intervenire per eliminarli.
+
+4.
+
+Il candidato esegua uno schema di impianto frigorifero con i principali componenti ed il relativo
+diagramma termodinamico. Descriva le fasi operative per la costruzione, il collaudo ed il recupero del
+gas.
+
+_______________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 10/10
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M876 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPI9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E DI MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+Il candidato presenti un apparato o dispositivo di sua conoscenza, con particolare riferimento alle sue
+componenti informatiche, e ne descriva i guasti più tipici che si possono verificare.
+Prenda quindi in esame uno dei guasti trattati descrivendo:
+-
+
+le attività necessarie a garantire la sicurezza di operatori ed utenti in riferimento alla normativa
+esistente;
+
+-
+
+una procedura per la ricerca e l’individuazione del guasto utilizzando metodi e strumenti di
+diagnostica tipici;
+
+-
+
+la soluzione che ritiene opportuno adottare per la risoluzione del guasto.
+
+Alla luce della soluzione proposta, il candidato predisponga un preventivo in cui siano riportate le
+attività, i materiali ed i corrispondenti costi stimati per l’intervento di riparazione.
+Descriva infine le procedure che si rendono necessarie per il processo di certificazione di qualità.
+SECONDA PARTE
+Il candidato (che potrà eventualmente avvalersi delle conoscenze e competenze maturate attraverso
+esperienze di alternanza scuola-lavoro, stage o formazione in azienda) risponda a due quesiti a scelta
+tra quelli sotto riportati.
+1.
+2.
+3.
+4.
+
+In riferimento al tema proposto nella prima parte, proponga un capitolato di manutenzione per
+assicurare assistenza continua nel tempo.
+In riferimento al tema proposto nella prima parte, compili il documento di collaudo relativo
+all’intervento effettuato.
+Esponga le differenze tra i metodi di manutenzione tradizionali e quelli innovativi.
+Esponga alcune tecniche e strumenti della telemanutenzione e della teleassistenza.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall'inizio della prova.
+
+

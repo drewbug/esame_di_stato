@@ -1,0 +1,123 @@
+Pag. 1/3
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITIA – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+Il candidato (che potrà eventualmente avvalersi delle conoscenze e competenze maturate attraverso
+esperienze di alternanza scuola-lavoro, stage o formazione in azienda) svolga la prima parte della
+prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+In un comprensorio industriale costituito da tre capannoni, distanti fra loro meno di un centinaio di
+metri e dislocati su un terreno privato, la società di servizi MyStart vuole realizzare un “incubatore di
+imprese” in cui ospitare delle start-up (piccole aziende nascenti, con un progetto innovativo), offrendo
+loro servizi amministrativi e tecnologici. Tra questi ultimi, MyStart vuole offrire a ciascuna start-up
+la connettività ad Internet e la possibilità di usufruire di sistemi server su cui pubblicare i propri
+servizi web, le proprie applicazioni ed organizzare banche dati. Alle aziende start-up dovrà essere
+garantita la continuità dei servizi offerti e la possibilità di poterli gestire anche da remoto.
+Nel primo capannone sono previsti un’area uffici per la stessa società MyStart ed un locale tecnico
+(sala server) con i principali sistemi di gestione dell’intera infrastruttura di rete. Gli uffici sono in
+tutto 5, ciascuno con un singolo personal computer da collegare ad Internet, mentre nel corridoio
+comune è presente una stampante condivisa.
+Ognuno degli altri due capannoni sarà suddiviso in 8 aree, ciascuna destinata ad ospitare una diversa
+start-up. Per ciascuna di queste aree dovranno essere disponibili:
+
+
+
+
+
+la connettività cablata per un massimo di 8 computer, con accesso ad Internet;
+una stampante condivisa;
+la connettività wifi per dispositivi mobili (smartphone, tablet, laptop,…) fino ad un massimo di
+16;
+l’accesso via rete locale ai sistemi server presenti nel primo capannone, in modo che ogni startup possa gestire i propri servizi (ad esempio portali web, pubblicazione di listini online, cataloghi
+di prodotti, etc.), utilizzando le piattaforme che più ritiene idonee (anche con differenti sistemi
+operativi, linguaggi web, DBMS, …).
+
+Pag. 2/3
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITIA – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+Il candidato, formulate le opportune ipotesi aggiuntive, sviluppi i seguenti punti:
+1.
+
+Proponga un progetto, anche grafico, dell’architettura dell’infrastruttura di rete necessaria a
+rispondere alle esigenze sopra descritte dettagliando:
+a) le risorse hardware e software necessarie, indicandone, ove utile, i criteri di
+dimensionamento;
+b) un opportuno piano di indirizzamento;
+c) le caratteristiche del collegamento ad Internet;
+d) le soluzioni possibili per assicurare la continuità del servizio.
+
+2.
+
+Individui e descriva possibili tecniche per proteggere ciascuna start-up da accessi anche locali
+non autorizzati da parte di personale appartenente alle altre start-up, e per proteggere i server nel
+locale tecnico da attacchi esterni ed interni.
+
+3.
+
+Proponga i principali servizi di rete necessari (tra cui ad es. identificazione degli utenti,
+assegnazione della configurazione di rete ai vari client, risoluzione dei nomi, …), esemplificando
+le relative configurazioni per uno di essi a sua scelta.
+
+4.
+
+Proponga due possibili soluzioni per consentire alle start-up la gestione dei propri servizi
+mediante accesso remoto ai server.
+
+Pag. 3/3
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITIA – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITIA - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE INFORMATICA
+Tema di: SISTEMI E RETI - Tipologia C
+SECONDA PARTE
+I.
+
+In relazione al tema proposto nella prima parte, la società MyStart ha predisposto un modulo
+online con cui una società nascente può candidarsi per diventare una start-up e usufruire dei
+servizi descritti. Le candidature sono visualizzabili, previa autenticazione, dai responsabili della
+società MyStart. Il candidato realizzi il modello concettuale e logico della porzione di base di
+dati necessaria a questo scopo; progetti poi le pagine web per la visualizzazione dell’elenco delle
+candidature, e ne codifichi in un linguaggio a sua scelta una parte significativa.
+
+II.
+
+In relazione al tema proposto nella prima parte, il candidato discuta vantaggi e svantaggi
+dell’adozione di eventuali macchine virtuali sui sistemi server nel locale tecnico (primo
+capannone) per implementare i servizi delle start-up, motivando le scelte effettuate.
+
+III.
+
+Nelle reti locali è a volte necessario mantenere traccia degli accessi ai siti web visitati dagli utenti
+ed ottimizzare l’uso della banda di collegamento ad Internet. Descrivere le possibili soluzioni e
+le implicazioni dal punto di vista della privacy.
+
+IV.
+
+In molte transazioni in rete è di vitale importanza la riservatezza delle comunicazioni. Si
+descrivano i principali algoritmi e protocolli per la cifratura simmetrica (o a chiave privata),
+indicandone le caratteristiche ed alcune applicazioni nell’ambito delle reti di calcolatori.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,83 @@
+Pag. 1/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAI – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAI - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+All’interno di una piccola azienda, l’incaricato della manutenzione deve garantire, tra l’altro, l’efficienza
+e il corretto funzionamento di un motore in corrente continua e di 2 nastri trasportatori azionati da motori
+asincroni trifase. Il motore in corrente continua prevede la presenza di un sistema di regolazione della
+velocità tramite la variazione della tensione.
+Il candidato, fatte le ipotesi aggiuntive ritenute necessarie,
+1.
+
+descriva, anche tramite uno schema, la struttura e il funzionamento del nastro trasportatore
+illustrando, inoltre, come può avvenire la trasmissione del moto,
+
+2.
+
+formuli e giustifichi un elenco dei possibili e più probabili guasti,
+
+3.
+
+indichi le principali attività da svolgere per effettuare la manutenzione ordinaria degli elementi
+costituenti i nastri trasportatori avendo cura di descrivere quali mezzi, attrezzature e risorse umane
+sono necessari,
+
+4.
+
+rediga un documento per la registrazione degli interventi effettuati.
+
+Pag. 2/2
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAI – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAI - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+SECONDA PARTE
+1. Calcolare l’affidabilità del sistema seguente per un tempo di 1800 ore. Sono noti i valori dei tassi
+di guasto dei singoli componenti
+cuscinetto = 2 *10-6 guasti/ora
+ruota = 5 *10-5 guasti/ora
+albero = 9 *10-6 guasti/ora
+Ruota
+Cuscinetto
+
+Albero
+
+Ruota
+
+2. Il candidato illustri la funzione e il principio di funzionamento degli interruttori magnetotermici
+e ne descriva i parametri caratteristici.
+3. In riferimento al circuito di figura, sapendo che Vi =18 V, il candidato verifichi che il diodo con
+le seguenti caratteristiche: PZ =1 W VZ = 9,1 V IZmin = 5 mA IZMAX = 70 mA resistenza
+dinamica rZ = 8 consente di ottenere una variazione della tensione di uscita Vo minore del 2%
+se quella d’ingresso varia del 10%.
+Infine il candidato indichi le conseguenze se la resistenza R diminuisce e vale R = 68 
+
+4. La ditta produttrice di una elettrovalvola dichiara B10 = 10.000 cicli. L’elettrovalvola è installata
+in un circuito d’acqua che lavora 16 ore al giorno per 250 giorni all’anno, ed effettua una
+apertura ogni 5 minuti. Calcolare il tasso di guasto annuo e il valore di MTTF (Mean Time To
+Failure).
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

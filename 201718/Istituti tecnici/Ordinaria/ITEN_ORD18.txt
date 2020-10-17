@@ -1,0 +1,124 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEN – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+In una azienda agricola si coltivano grosse quantità di semi oleosi (girasole, soia, palma, colza) che vengono
+raccolti e poi lavorati per ricavarne olii. Si vuole trasformare chimicamente una parte della produzione di questi
+olii al fine di produrre “BIODIESEL” da destinare ai propri consumi energetici.
+Dalla letteratura tecnica si ricava quanto segue:
+La resa in Biodiesel per ettaro dipende ovviamente dalla coltura utilizzata, ma è possibile riferirsi alla
+produttività media europea (pesata per tipo di coltura) che è attualmente stimata intorno ai 1230 litri per
+ettaro (basata su una resa media in semi di 2,9 tonnellate per ettaro e 427 litri per tonnellata).
+Numerose case automobilistiche europee hanno progettato una gamma di veicoli a motore che possono
+funzionare sia con gasolio che con Biodiesel puro. Tuttavia, un numero considerevole di studi suggerisce che
+molti veicoli diesel convenzionali possono utilizzare miscele Gasolio - Biodiesel senza riportare problemi
+significativi.
+
+Ai fini del calcolo, per il Biodiesel e per il Gasolio possono essere utilizzati i seguenti valori:
+
+densità
+[kg/litro]
+
+Potere Calorifico
+Inferiore
+[MJ/kg]
+
+Potere Calorifico
+Inferiore
+[MJ/litro]
+
+BIODIESEL puro
+
+0,863
+
+38,80
+
+33,48
+
+GASOLIO
+
+0,835
+
+43,30
+
+36,15
+
+Attualmente l’azienda vorrebbe provvedere al suo fabbisogno di energia elettrica attraverso
+l’utilizzazione di un gruppo elettrogeno provvisto di motore DIESEL sovralimentato, a 4 tempi e 4
+cilindri avente le seguenti caratteristiche tecniche:
+n = 1500 giri/min
+
+alesaggio D = 105 mm
+
+corsa c = 127 mm
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEN – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+Il candidato, tenuto conto dei dati sopra riportati e scegliendo a piacere quelli mancanti provveda a
+determinare, nei diversi casi, biodiesel, gasolio, miscela biodiesel-gasolio:
+a) la cilindrata del motore espressa in [cm3];
+b) la potenza nominale erogata dal motore espressa in [kW];
+c) il consumo specifico del motore espresso in [g/kWh].
+
+
+
+
+Nell’ipotesi che il motore funzioni continuamente erogando una Potenza pari all’80% del suo
+valore nominale per un numero medio di 4 ore/giorno, quale sarà il consumo mensile di Gasolio
+e di Biodiesel?
+Nella ulteriore ipotesi che il 45% dell’energia primaria messa a disposizione del motore fosse
+ulteriormente usata per una utilizzazione termica, il candidato calcoli l’eventuale potenzialità
+termica ricavabile dal motore espressa in [kW].
+
+SECONDA PARTE
+1.
+
+Rappresentare nel piano p-V (pressione-volume) e nel piano T-S (temperatura-entropia) il ciclo
+ideale e quello effettivo di un TURBOGAS, avendo cura di evidenziare in modo particolare gli
+scambi di lavoro, di calore e quindi il rendimento ideale ed effettivo del ciclo medesimo.
+Evidenziare inoltre, anche a mezzo di uno schema funzionale semplificato, il principio di
+funzionamento di un turbofan utilizzato per la propulsione aerea.
+
+2.
+
+Il candidato indichi, rispetto ad un TURBOGAS, quali modalità costruttive, relative alla
+rigenerazione del calore, possano essere adottate per migliorare il rendimento del ciclo; le
+descriva e le rappresenti nel piano p-V e T-S (schema, funzionamento, ciclo termodinamico).
+
+3.
+
+Scegliendo in modo opportuno i valori del “grado di irregolarità” e del “coefficiente di
+fluttuazione” suggeriti dal manuale, procedere al calcolo del momento d’inerzia del volano di un
+motore per autotrazione 4 tempi ad accensione comandata a 4 cilindri in linea in grado di erogare
+una potenza massima di 60 kW a 5400 giri/min e una coppia massima di 100 Nm a 3000 giri/min.
+
+4.
+
+Nell’ipotesi che l’albero motore del motore trattato nella prima parte abbia un diametro di 80 mm
+e sia stato realizzato in acciaio da bonifica, procedere ad una verifica della sua resistenza a
+torsione.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

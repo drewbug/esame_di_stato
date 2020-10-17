@@ -1,0 +1,89 @@
+Pag. 1/2
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+60
+
+PIGNONE
+
+MOTORE
+
+A
+
+B
+
+A
+
+B
+
+Mr = 340Nm
+
+40
+
+40
+
+Il riduttore indicato in figura, realizzato con una coppia di ruote dentate cilindriche a denti diritti, è
+costituito da un pignone di diametro primitivo d1 = 100 mm che trasmette il moto ad un albero
+condotto su cui è calettata una ruota dentata di diametro primitivo d2 = 250 mm. La velocità angolare
+del pignone è pari a 78,54 rad/sec.
+Il candidato, accompagnando il calcolo con considerazioni tecniche congrue e coerenti, dopo aver
+scelto un acciaio per le ruote dentate ed aver fissato con motivati criteri ogni altro parametro o
+elemento di calcolo eventualmente mancante e/o necessario, esegua:
+1. Il calcolo della potenza da assegnare al motore elettrico che aziona il pignone, considerando un
+rendimento del riduttore pari a 0,9, volendo avere all’uscita dell’albero condotto un momento
+resistente Mr = 340 Nm;
+2. Il dimensionamento della coppia di ruote dentate cilindriche a denti diritti;
+3. Il calcolo delle forze scambiate tra i denti e quelle che agiscono sui cuscinetti A e B dei due alberi.
+
+Pag. 2/2
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+SECONDA PARTE
+1) Il candidato, in riferimento al riduttore indicato in figura di cui alla prima parte, esegua il
+dimensionamento dell’albero motore, considerando i seguenti elementi di calcolo:
+ potenza del motore elettrico:
+
+P = 15 kW
+
+ numero di giri del motore elettrico:
+
+n1 = 1000 g/min
+
+ carico di rottura dell'acciaio dell'albero motore:
+
+Rm = 600 N/mm2
+
+2) Il candidato, in riferimento alla trasmissione di potenza tra due alberi paralleli, realizzata mediante
+cinghie trapezoidali e mediante catene, descriva i principali elementi che costituiscono le due
+trasmissioni. Inoltre il candidato indichi le principali differenze di funzionamento delle stesse, nonché i
+limiti applicativi riguardo la potenza trasmessa.
+3) Un robot cartesiano dalle seguenti caratteristiche dimensionali: asse x = 1.00 m; asse y = 0.60 m;
+asse z = 0.20 m, utilizza motori passo-passo per la movimentazione di un elettromandrino per la
+lavorazione del legno. Il candidato schematizzi e descriva dettagliatamente un sistema per la
+movimentazione dei tre assi tramite i motori citati, motivando le scelta effettuata.
+4) Il candidato, in riferimento ad una pompa a stantuffo, azionata da un motore elettrico, schematizzi e
+descriva dettagliatamente gli elementi necessari per la trasformazione del moto rotatorio del motore nel
+moto alternativo del pistone della pompa.
+
+___________________________
+Durata massima della prova: 8 ore.
+È consentito soltanto l’uso di tavole numeriche, manuali tecnici e calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

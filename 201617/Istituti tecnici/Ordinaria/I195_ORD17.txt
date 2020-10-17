@@ -1,0 +1,93 @@
+Pag. 1/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I195 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: TELECOMUNICAZIONI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un sottoinsieme di una rete aziendale è strutturato come mostrato in Fig. 1 e qui di seguito descritto:
+ la Rete 1 e la Rete 2 sono attestate sullo stesso router (Router 1);
+ la Rete 3 è connessa tramite il Router 2;
+ il Router 1 è connesso con una dorsale al Router 2;
+ il Router 1 è connesso tramite il Router 3 ad un Internet Service Provider (fibra ottica 1);
+ il Router 2 è connesso tramite il Router 4 ad un Internet Service Provider (fibra ottica 2);
+ la Rete 4 è connessa al Router 2 tramite Access Point dedicati solamente a tale collegamento.
+Fig. 1: struttura della rete
+
+Pag. 2/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I195 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: TELECOMUNICAZIONI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+
+La rete cablata (reti 1, 2, 3 ed i router 1, 2, 3, 4) fa parte di una rete di classe C 192.168.1.x, esclusi
+gli indirizzi facenti capo al provider e la connessione del router 2 con l’Access Point, e va
+opportunamente divisa in subnet secondo lo standard VLSM e popolata secondo la seguente tabella:
+
+Rete1
+
+100 host
+
+Rete2
+
+50 host
+
+Rete3
+
+30 host
+
+La Rete 4 è basata su una diversa rete di classe C 192.168.2.0 e contiene 80 host.
+Il candidato, valutata la struttura di rete indicata e formulate le ipotesi aggiuntive che ritiene
+necessarie:
+a. proponga il piano completo di assegnazione degli indirizzi, rispettando i vincoli previsti e
+segnalando le eventuali ridondanze;
+b. completi la rete con quei dispositivi che ritiene necessari per garantirne la funzionalità;
+c. descriva la programmazione da effettuare su ciascun router per fare in modo che tutte le reti siano
+connesse ad Internet, indicando anche le ridondanze risultanti;
+d. descriva le modalità di programmazione degli Access Point, indicando anche la normativa
+riguardante antenne, potenza e sicurezza.
+
+Pag. 3/3
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I195 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: TELECOMUNICAZIONI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+
+SECONDA PARTE
+Il candidato scelga due fra i seguenti quesiti e per ciascun quesito scelto formuli una risposta della
+lunghezza massima di 20 righe esclusi eventuali grafici, schemi e tabelle.
+1. Con riferimento al link radio tra i due Access Point della prima parte della prova, descrivere come
+si può valutare la distanza massima ipoteticamente raggiungibile, se si considera una tratta in aria
+libera priva di ostacoli.
+2. Con riferimento alla prima parte della prova, nel caso che il collegamento ad Internet via Access
+Point della Rete 4 non garantisca un sufficiente livello di affidabilità, indicare di quale soluzione
+si potrebbe valutare la fattibilità, ai fini della connessione Wan, tenendo conto che risultano
+indisponibili per la rete in esame connessioni cablate.
+3. Descrivere la struttura di un sistema di trasmissione digitale su fibra ottica.
+4. Spiegare la natura e l’architettura del routing gerarchico.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

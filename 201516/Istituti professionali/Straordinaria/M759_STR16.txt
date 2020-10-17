@@ -1,0 +1,452 @@
+Pag. 1/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+IU
+
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+
+R
+
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+AT
+T
+
+IM
+
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE APPARATI, IMPIANTI
+CIVILI E INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+LI
+
+PRIMA PARTE
+
+L’appartamento è composto dai seguenti ambienti:
+
+E
+
+Ambienti
+
+AG
+
+Sono previsti dei lavori di ristrutturazione di un appartamento. Gli impianti vengono rifatti totalmente
+e per il nuovo impianto elettrico si decide un livello di prestazione 2 ai sensi della norma CEI 64-8/3.
+
+N
+
+FO
+
+R
+
+M
+
+Camera 1
+Camera 2
+Ingresso
+Bagno principale
+Bagno secondario
+Balcone
+Disimpegno
+Soggiorno
+Cucina
+Studio
+
+Superficie
+16
+12
+7
+8
+6
+5
+6
+32
+20
+10
+
+O
+
+Il candidato, fatte le opportune ipotesi:
+rediga uno schema unifilare completo di tutte le informazioni necessarie e sufficienti per la
+realizzazione dell’impianto elettrico nel rispetto della normativa vigente;
+
+2.
+
+descriva le caratteristiche dei dispositivi che intende adottare nello schema unifilare redatto;
+
+3.
+
+dopo aver ipotizzato un prezzario per ciascun punto (presa, luce, TF e TV) completo della quota
+parte di dorsale, tubazione, ecc.., rediga un preventivo completo da somministrare al cliente;
+
+4.
+
+indichi la tipologia di controlli che bisogna fare per mantenere l’impianto in efficienza.
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+1.
+
+Pag. 2/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+IU
+
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+
+R
+
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+AT
+T
+
+IM
+
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE APPARATI, IMPIANTI
+CIVILI E INDUSTRIALI
+
+LIVELLO 2
+Per ambiente
+
+8 m² < A ≤ 12 m²
+12 m² < A ≤ 20
+m²
+
+2
+
+1
+
+1
+
+-
+
+1
+
+2
+
+1
+
+-
+
+-
+
+6
+
+2
+
+1
+
+1
+
+4
+
+1
+
+-
+
+-
+
+2
+
+2
+
+-
+
+-
+
+1
+
+1
+
+-
+
+-
+
+≤ 5 m²
+
+1
+
+1
+
+> 5 m²
+
+2
+
+2
+
+-
+
+-
+
+A ≥ 10 m²
+A ≥ 1 m²
+
+1
+-
+
+1
+1
+
+-
+
+-
+
+Cantina / soffitta
+
+1
+
+1
+
+-
+
+-
+
+Box auto
+
+1
+
+1
+
+-
+
+-
+
+1
+
+1
+
+-
+
+-
+
+20 m² < A
+
+Lavanderia
+
+N
+
+Corridoio
+
+FO
+
+Locale da bagno o doccia
+
+R
+
+Locale cucina
+
+Locale servizi (WC)
+
+C
+
+O
+
+Balcone / terrazzo
+Ripostiglio
+
+A
+
+Giardino
+
+A ≥ 10 m²
+
+PI
+
+Per appartamento
+
+Numero dei circuiti
+
+Protezione contro le
+sovratensioni (SPD) secondo
+le Norme CEI 81-10 e CEI 648, Sezione 534
+Dispositivi per
+l’illuminazione di sicurezza
+Ausiliari
+
+7
+
+2
+
+8
+
+4
+
+1
+
+E
+M
+
+Angolo cottura
+
+O
+
+5
+
+1
+
+Ingresso
+
+C
+
+Prese
+telefono
+e/o dati
+
+Prese
+radio/TV
+
+AG
+
+Per ogni locale, ad
+esclusione di quelli sotto
+elencati in Tabella, (ad es.
+camera da letto, soggiorno
+studio, … )
+
+Punti luce
+
+LI
+
+Punti
+prese
+
+Area
+
+Numero
+
+A ≤ 50 m²
+
+3
+
+50 m² < A ≤ 75 m²
+
+3
+
+75 m² < A≤ 125 m²
+
+5
+
+125 m² < A
+
+6
+
+SPD all’arrivo linea se necessari per rendere
+tollerabile il rischio 1
+A ≤ 100 m²
+A > 100 m²
+
+2
+3
+Campanello, videocitofono, antintrusione,
+controllo carichi, ad esempio relè di massima
+corrente.
+
+Pag. 3/3
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+IU
+
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+
+R
+
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+AT
+T
+
+IM
+
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE APPARATI, IMPIANTI
+CIVILI E INDUSTRIALI
+
+SECONDA PARTE
+
+Il candidato illustri il principio di funzionamento degli interruttori differenziali e descriva i
+parametri di classificazione e la tipologia degli interruttori.
+
+2.
+
+Un gruppo elettrogeno ha due circuiti di avviamento, uno elettrico ed uno pneumatico (uno di
+riserva all’altro) aventi rispettivamente λ1= 2,3*10-3 guasti/anno e λ2= 0,015 guasti/anno.
+Calcolare l’affidabilità del sistema di avviamento per un tempo di 5 anni.
+
+3.
+
+Il candidato illustri gli strumenti di misura e le tecniche per controllare l’efficienza del BJT di
+figura e misurare il valore di hFE. Infine verifichi che il BJT è in saturazione per Vi=5V sapendo
+che VCEsat = 0,2V VBEsat = 0,7V hFE = 100.
+
+4.
+
+Una ditta di impianti elettrici viene incaricata per la realizzazione di un impianto foltovoltaico
+da realizzarsi sul tetto di una villetta unifamiliare.
+Il candidato, fatte le opportune considerazioni, pianifichi l’intervento d’installazione avendo cura
+di descrivere quali mezzi, attrezzature e risorse umane prevede di inviare. In funzione delle scelte
+effettuate, analizzi la tipologia dei possibili rischi valutandone la probabilità e il danno per
+ciascun pericolo individuato. Indichi inoltre, le misure di prevenzione e protezione e la tipologia
+del DPI (Dispositivi di Protezione Individuale) necessari per effettuare l’intervento in sicurezza.
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+AG
+
+LI
+
+1.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

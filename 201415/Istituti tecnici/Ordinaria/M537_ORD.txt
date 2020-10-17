@@ -1,0 +1,328 @@
+Pag. 1/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M537 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCS – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ ITCS – TRASPORTI E
+COSTRUZIONE DEL MEZZO
+
+LOGISTICA
+
+ARTICOLAZIONE
+
+ ITCT – TRASPORTI E LOGISTICA ARTICOLAZIONE
+COSTRUZIONE DEL MEZZO OPZIONE COSTRUZIONI
+AERONAUTICHE
+ ITCV - TRASPORTI E LOGISTICA ARTICOLAZIONE
+COSTRUZIONE DEL MEZZO OPZIONE COSTRUZIONI NAVALI
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M537 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCS – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO
+
+Il candidato svolga il tema indicato nella prima parte e risponda a due quesiti tra i quattro proposti
+nella seconda parte.
+PRIMA PARTE
+Un autocarro furgonato a 2 assi a trazione posteriore ha le seguenti caratteristiche:
+− Larghezza: 2 m
+− Altezza massima a vuoto: 2,8 m
+− Massa totale: 3500 kg
+− Passo: 3 m
+− Sbalzo anteriore: 1 m
+− Sbalzo posteriore: 1,2 m
+− Baricentro: è individuato tra i due assali ad una distanza di 1,2 m dall’assale posteriore e ad
+un’altezza di 1,1 m dal terreno.
+Il veicolo sta percorrendo una strada asfaltata rettilinea in salita con pendenza del 10%, alla velocità
+di 60 km/h e con accelerazione di 0,8 m/s2.
+Il candidato, assunto con giustificato criterio ogni altro dato occorrente, dovrà:
+a. Eseguire uno schizzo quotato del veicolo.
+b. Determinare i carichi verticali agenti sugli assi anteriore e posteriore.
+c. Spiegare il problema dell’aderenza e verificare che ne sussistano le condizioni, supponendo che
+il veicolo si muova su asfalto asciutto.
+d. Determinare la forza motrice e la coppia motrice necessarie in tali condizioni di moto, supposto
+che gli pneumatici siano del tipo 195/65 R16.
+e. Determinare la potenza assorbita dal veicolo.
+SECONDA PARTE
+1. In riferimento al tema, effettuare il dimensionamento di massima del semiasse di trasmissione.
+2. In riferimento al tema, descrivere un tipo di sospensione adatta al veicolo.
+3. In una officina si rende necessario verificare la resistenza di una saldatura: descrivere una delle
+prove che potrebbero essere effettuate.
+4. Sulla base delle proprie conoscenze o esperienze, illustrare una tipologia di rischio per la Salute
+e la Sicurezza dei Lavoratori presente in un’autofficina e quali sistemi di prevenzione e
+protezione possono essere adottati per ridurne l’entità.
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M543 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCT – TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI MEZZO AEREO
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+Un aeromobile ha le seguenti caratteristiche:
+ peso totale 22000 N;
+ allungamento alare 8;
+ apertura alare 12 m;
+ peso delle due ali 2 kN;
+ tensione di snervamento del materiale del longherone e rivestimento 400 N/mm2;
+ ala rettangolare a profilo NACA 6412;
+ momento torcente di 2000 Nm costante sull’ala;
+ modulo di elasticità trasversale di 27000 N/mm2;
+ Cr0 = 0,023.
+L’aeromobile, alla quota di 23000 ft, esegue una richiamata, con trazione di 4200 N e assetto di Emax.
+Il candidato, facendo le dovute ipotesi semplificative e assumendo, con motivati criteri, i dati ritenuti
+necessari, dimensioni in tale situazione il rivestimento dell’ala e il longherone e valuti, inoltre,
+l’angolo di torsione dell’estremità dell'ala.
+SECONDA PARTE
+1.
+
+Descrivere le possibili soluzioni per le strutture alari ed indicare le tipologie di materiali utilizzati,
+eventualmente facendo riferimento ad esperienze professionali, visite ad aziende, stage o percorsi
+di alternanza scuola lavoro.
+
+2.
+
+Disegnare con opportuna scala il disegno d’assieme della struttura dimensionata (longherone e
+rivestimento) con le relative quote.
+
+3.
+
+Descrivere cause e fenomeni connessi con l’aeroelasticità delle strutture;
+
+4.
+
+Descrivere e rappresentare lo schema di un impianto elettrico di bordo evidenziandone le
+principali utenze.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 4/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M547 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+Il Cantiere Navale presso cui lavorate ha completato un’imbarcazione e deve effettuare il suo
+trasferimento dall’officina sul molo a una chiatta galleggiante in mare calmo.
+
+L’imbarcazione è poggiata su due selle posizionate come indicato in figura (misure in mm).
+Le caratteristiche dell’imbarcazione (selle comprese) sono le seguenti:
+ peso = 80 t
+ distanza della sella AD dalla poppa dell’imbarcazione = 5 m
+ distanza fra le selle = 16 m
+ lunghezza delle selle = trascurabile
+ distanza del baricentro dalla poppa dell’imbarcazione = 10,92 m
+ quota del baricentro dalla base della sella = 2,9 m
+Le caratteristiche della chiatta, di forma parallelepipeda, sulla quale l’imbarcazione deve essere
+spostata, pure visibili nella figura, sono le seguenti:
+ L = 30 m
+ B = 10 m
+ D=4m
+ dislocamento della chiatta scarica ∆sc = 100 t
+
+Pag. 5/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M547 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+
+
+
+
+
+
+lunghezza dei gavoni AV e AD (da utilizzare per la zavorra) = 5 m
+larghezza dei gavoni AV e AD = larghezza della chiatta (10 m)
+quota del baricentro della chiatta ZG dalla base della chiatta = 2,2 m
+posizione longitudinale XG del baricentro della chiatta = 15 m (a metà lunghezza)
+
+La chiatta ha struttura trasversale, e la sezione maestra è schematizzata nel disegno. Se presenti, le
+ossature rinforzate longitudinali sono trascurate.
+
+Il livello del molo è 2,4m al di sopra del livello del mare. La chiatta verrà avvicinata e ormeggiata al
+molo.
+L’imbarcazione verrà trascinata in modo continuo dal molo alla chiatta, ma comunque si possono
+definire le seguenti fasi più importanti:
+1) la chiatta viene zavorrata riempiendo le casse di assetto della chiatta con un’opportuna quantità
+di acqua di zavorra in modo che il livello del ponte della chiatta e il livello del molo coincidano
+2) si inizia a trascinare l’imbarcazione fino a quando la prima sella poggia sull’estremità AD della
+chiatta, variando la quantità di zavorra nelle due casse di assetto in modo che il livello del ponte
+resti invariato nonostante l’imbarco del peso
+
+Pag. 6/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M547 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+3) si continua a trascinare l’imbarcazione sulla chiatta, in un certo momento la sella AV si troverà
+esattamente al centro della chiatta, continuando a variare la quantità di zavorra nelle due casse
+per mantenere la chiatta in assetto diritto
+4) si continua a trascinare l’imbarcazione sulla chiatta, fino a quando la sella AD poggia
+sull’estremità AD della chiatta, variando la quantità di zavorra nelle due casse per mantenere la
+chiatta in assetto diritto e bilanciando il nuovo carico
+5) si continua a trascinare l’imbarcazione sulla chiatta fino a una posizione opportuna sulla chiatta,
+continuando a variare la quantità di zavorra nelle due casse per mantenere la chiatta in assetto
+diritto
+6) le
+casse
+di
+assetto
+vengono
+completamente svuotate dalla zavorra,
+gli ormeggi rimossi e la chiatta, che
+dovrà restare in assetto diritto (e
+sovraemersa), verrà portata via da un
+rimorchiatore.
+Durante tutta l’operazione la chiatta dovrà
+restare esattamente diritta e a livello del molo
+solo tramite un opportuno zavorramento. I
+disegni a lato rappresentano le varie fasi,
+precisando che il livelli dei liquidi indicati
+sono del tutto casuali.
+Si chiede di verificare la fattibilità
+dell’operazione, e descrivere le necessarie
+manovre da effettuare. In particolare si chiede
+di effettuare le analisi come indicato nella
+seguente tabella.
+
+fase 1
+fase 2
+fase 3
+fase 4
+fase 5
+fase 6
+
+A)
+calcolo
+zavorra
+sì
+sì
+sì
+sì
+sì
+-
+
+B)
+stabilità
+
+C)
+sollecitazioni
+
+sì
+sì
+-
+
+sì
+sì
+-
+
+Pag. 7/7
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M547 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCV - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI NAVALI
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO NAVALE
+
+Più precisamente, le analisi da effettuare e sintetizzate con i titoli della tabella sono:
+A. calcolo zavorra = calcolare il livello dell’acqua di zavorra da imbarcare nei due gavoni di assetto
+AV e AD
+B. stabilità = calcolare se la chiatta è stabile
+C. sollecitazioni = calcolare i diagrammi di Taglio e Momento flettente, il Momento flettente
+massimo, e infine gli stress fondo e ponte della sezione maestra dovuti al solo momento flettente
+massimo rilevato.
+Si consiglia, per una soluzione più rapida, di calcolare le fasi nell’ordine 1-3-5-2-4.
+SECONDA PARTE
+Completata l’analisi richiesta, si chiede di svolgere due dei temi indicati di seguito, e sempre relativi
+al precedente studio di trasferimento dell’imbarcazione dal molo alla chiatta:
+1.
+
+Disegnare schematicamente le strutture della chiatta (senza la necessità di calcolarne il
+dimensionamento), proponendo sezioni trasversali, longitudinali, orizzontali e dettagli, per
+descrivere la conformazione proposta.
+
+2.
+
+Disegnare lo schema dell’impianto di zavorra della chiatta, in una conformazione adatta ad
+eseguire all’operazione descritta, e descriverne il funzionamento.
+
+3.
+
+Calcolare i diagrammi di Taglio e Momento flettente e il Massimo momento flettente, relativi
+alla fase 4 (quattro).
+
+4.
+
+Calcolare il dimensionamento delle strutture del ponte (fasciame e ossature comuni), utilizzando
+un Regolamento o un metodo di calcolo a scelta, tale da permettere un carico uniformemente
+distribuito di 3 t/m2, stimando opportunamente le spaziature più adatte allo scopo.
+
+____________________________
+Durata massima della prova: 8 ore.
+È consentito l'uso di manuali tecnici, di Regolamenti di Registri di Classifica (anche sotto forma di estratto), di calcolatrici
+tascabili, di personal computer forniti dall’Istituto (se disponibili) per l’eventuale realizzazione dei disegni con software CAD.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,111 @@
+Pag. 1/4
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEN – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+In una azienda Provinciale per il Recupero di rifiuti, vengono trattati circa 120 kg/h di “cippato”
+(scarti di legname) ai quali può essere attribuito un valore del potere calorifico inferiore almeno pari
+a 4200 kCal/h.
+Si vuole utilizzare il “cippato” raccolto, come combustibile per un impianto a vapore destinato alla
+produzione di energia elettrica.
+I dati tecnici delle apparecchiature che costituiscono l’impianto termoelettrico sono di seguito
+elencati:
+1.
+
+Condizioni del vapore prodotto in uscita dalla caldaia: ................................p = 10 bar T = 400 °C
+
+2.
+
+Condizioni al condensatore: .........................................................................p = 0,25 bar T = 65 °C
+
+PRIMA PARTE
+Scegliendo a piacere gli eventuali ulteriori dati mancanti laddove fosse necessario, e con l’utilizzo
+delle tavole di seguito allegate, il candidato proceda a calcolare:
+1.
+
+Il valore dell’energia primaria disponibile espresso sia in MWh/giorno.
+
+2.
+
+La potenzialità termica del generatore di calore e la corrispondete produzione oraria di vapore
+surriscaldato.
+
+3.
+
+La potenza utile erogata dalla turbina ipotizzando per la medesima un rendimento pari a 0,8.
+
+4.
+
+Laddove la turbina fosse realizzata con una ruota Curtis (ruota ad azione a salti di velocità), il
+candidato procedo alla redazione dei triangoli di velocità almeno del primo stadio.
+
+SECONDA PARTE
+Il candidato, scegliendo a piacere gli eventuali ulteriori dati mancanti laddove fosse necessario,
+risponda inoltre a due dei quattro quesiti di seguito indicati:
+1.
+
+Tenuto conto di un fattore di conversione dei MWh elettrici in TEP fissato pari a 0,187
+TEP/MWh e tenuto altresì conto di un coefficiente di conversione pari a 0,27 tonn CO2/MWh, il
+candidato dovrà determinare la quantità di CO2 risparmiata in un giorno.
+
+2.
+
+Utilizzando il piano T-S (Temp. - Entropia) e sulla base dei valori indiati e ricavati nella prima
+parte, il candidato disegni il ciclo termodinamico dell’impianto a vapore in argomento.
+
+Pag. 2/4
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEN – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+3.
+
+Nell’ipotesi di collegare direttamente la turbina a vapore con un alternatore sincrono trifase ad
+una coppia polare, e tenendo conto solo ed esclusivamente alla semplice sollecitazione di
+torsione, il candidato proceda ad un dimensionamento di massima dell’albero di trasmissione
+turbina-alternatore.
+
+4.
+
+Nell’ipotesi che il condensatore di un impianto a vapore con un bisogno di raffreddamento pari
+a 333.500 kJ/h sia raffreddato con acqua di torre, calcolare la portata dell’acqua di
+raffreddamento e determinare il diametro della corrispondente tubazione.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/4
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ENTALPIA
+[kJ/kg]
+
+ENTROPIA
+[kJ/kgK]
+
+Pag. 4/4
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+

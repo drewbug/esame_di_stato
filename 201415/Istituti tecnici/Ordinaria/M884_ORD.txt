@@ -1,0 +1,258 @@
+Pag. 1/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M884 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+Una ditta farmaceutica, per testare gli effetti di un farmaco in studio, commissiona la progettazione
+di uno strumento che effettui diversi controlli di qualità del prodotto in relazione a due diversi
+reagenti. Le analisi si effettuano su un campione di 10 ml del prodotto inserendo nel contenitore, in
+due fasi successive, due reagenti A e B mediante appositi micro dosatori e rilevando la risposta alla
+reazione mediante due sensori caratterizzati dai parametri funzionali di seguito descritti.
+Sensore SPH di acidità: fornisce una uscita digitale a 4 bit corrispondente ai valori di PH compresi
+tra 1 e 14 secondo la tabella riportata:
+Valore
+in uscita
+0
+(Hex)
+Misura
+error
+corrispondente
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+error
+
+Biosensore SC: in grado di rilevare concentrazioni comprese 100 g/ml e 2000 g/ml fornendo in
+uscita una corrente dipendente dalla misura di concentrazione secondo la relazione
+
+I (C )  
+
+1
+10 * ln(C )
+
+Il sistema si completa con:
+
+
+un pulsante di START del tipo relè ad autoritenuta con ritorno alla posizione di riposo dopo 10
+secondi;
+
+
+
+due micro erogatori per il rilascio dei reagenti A e B in dosaggi già stabiliti che possono essere
+assimilati a dispositivi ON/OFF;
+
+
+
+un timer per la scansione dei tempi che fornisce un impulso TTL di durata 1s ad intervalli di 1
+minuto come riportato nel grafico.
+
+Pag. 2/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M884 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+Il processo da controllare è il seguente: l’avvio è determinato dall’operatore attraverso il pulsante
+START che attiva il timer. Al primo impulso utile dopo l’attivazione il sistema deve consentire il
+rilascio del reagente A mediante l’abilitazione del corrispondente micro erogatore. Dopo 1 minuto
+deve essere acquisito il valore presente sul sensore SPH e contestualmente deve essere consentito il
+rilascio del reagente B mediante abilitazione del corrispondente micro erogatore. Trascorso un altro
+minuto si effettua la seconda acquisizione del valore di PH mediante il medesimo sensore SPH ed
+entrambi i micro erogatori vengono posti nella posizione OFF.
+Dopo una attesa di altri 2 minuti deve essere acquisito il valore della concentrazione del principio
+attivo mediante il biosensore SC e il processo ha termine.
+Il candidato, fatte le ipotesi aggiuntive che ritiene più opportune, deve:
+1. rappresentare lo schema a blocchi che realizzi il sistema di controllo utilizzando un dispositivo
+programmabile di sua conoscenza descrivendo i singoli blocchi dal punto di vista funzionale;
+2. descrivere la logica di controllo che si intende utilizzare con riferimento alle specifiche
+tecniche dei dispositivi scelti;
+3. progettare un algoritmo di gestione del processo che consenta l’attuazione delle singole fasi e la
+memorizzazione dei dati rilevati in apposita area di memoria nell’ipotesi che si vogliano
+effettuare prove su 100 campioni di prodotto.
+
+Pag. 3/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M884 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+SECONDA PARTE
+1.
+
+In relazione allo schema sviluppato nella prima parte si progetti l’interfaccia HW tra il sensore
+SC e il sistema programmabile scegliendo un dispositivo di conversione A/D che garantisca un
+errore massimo di misura rilevata pari a 1 g/ml; inoltre si modifichi il software di gestione in
+modo da calcolare, al termine del processo, il valore medio di concentrazione ottenuto nelle
+prove e il numero di prove in cui tale concentrazione è inferiore a 500 g/ml.
+
+2.
+
+In relazione allo schema sviluppato nella prima parte si proponga una soluzione atta a rilevare
+il malfunzionamento del sensore SPH. In particolare, nel caso in cui tale dispositivo fornisca in
+uscita i valori 0HEX oppure FHEX il sistema deve provvedere all’accensione di un led di
+segnalazione, i dati memorizzati fino a quel momento devono essere annullati e il processo
+deve essere sospeso per riprendere solo dopo il reset di sistema.
+
+3.
+
+Dalle prove effettuate su un sistema continuo, opportunamente sollecitato, si è ottenuto il
+modello rappresentato in figura
+
+A(s)
+X(s)
+
+Y(s)
+
++
+B(s)
+
+Essendo
+
+𝐴(𝑠) =
+
+5
+(𝑠+a)
+
+𝐵(𝑠) =
+
+1
+(𝑠+1)
+
+Pag. 4/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M884 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: SISTEMI AUTOMATICI
+
+Dopo aver ricavato la funzione di trasferimento complessiva si determini il valore di a > 0 per il
+quale la risposta a regime y(t) del sistema sottoposto a sollecitazione u(t) gradino unitario abbia
+valore 6.
+Il candidato inoltre, sulla base delle proprie competenze in materia di controlli analogici,
+proponga un esempio applicativo di sistema reale cui possa corrispondere il modello dato.
+4.
+
+Per il sistema di figura siano:
+
+𝐴(𝑠) =
+
+𝐾
+
+𝐵(𝑠) =
+
+𝑠
+
+1
+(𝑠+2)3
+
+𝐶(𝑠) =
+
+1
+10
+
+Con K > 0
+
++
+X(S)
+
+A(s)
+
+B(s)
+
+_
+
+Y(S)
+
+C(s)
+
+Si determini la funzione di trasferimento complessiva del sistema e si calcoli il margine di fase
+e di guadagno del sistema ad anello aperto nel caso in cui K = 50.
+Per quale campo di variazione di K il sistema in questione risulta stabile?
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

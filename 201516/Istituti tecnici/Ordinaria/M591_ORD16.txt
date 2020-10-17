@@ -1,0 +1,408 @@
+Pag. 1/8
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M591 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCD - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ ITCI - TRASPORTI E LOGISTICA ARTICOLAZIONE
+CONDUZIONE DEL MEZZO OPZIONE CONDUZIONE DI
+APPARATI E IMPIANTI MARITTIMI
+ ITCN - TRASPORTI E LOGISTICA ARTICOLAZIONE
+CONDUZIONE DEL MEZZO OPZIONE CONDUZIONE
+DEL MEZZO NAVALE
+ ITCR - TRASPORTI E LOGISTICA ARTICOLAZIONE
+CONDUZIONE DEL MEZZO OPZIONE CONDUZIONE
+DEL MEZZO AEREO
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/8
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M582 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCI - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DI APPARATI E IMPIANTI MARITTIMI
+Tema di: MECCANICA E MACCHINE
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una petroliera dispone di un motore diesel con potenza di 13.500 kW.
+Il candidato, assumendo con opportuno criterio parametri eventualmente necessari, calcoli:
+
+
+la produzione oraria complessiva massima di vapore con caldaia ausiliaria a recupero energetico
+dai gas di scarico;
+
+
+
+il grado complessivo di utilizzazione del combustibile.
+
+Il candidato disegni inoltre uno schema semplificato dell'impianto di produzione di vapore ausiliario
+con caldaia a gas di scarico.
+SECONDA PARTE
+1.
+
+Con riferimento alla tipologia di motore sopra indicato si descrivano i principali processi per il
+trattamento della nafta pesante e uno schema semplificato dell'impianto per l'adduzione del
+combustibile dai doppi fondi al motore.
+
+2.
+
+Con riferimento alla tipologia di nave in esame, si descrivano le caratteristiche generali di un
+impianto con generatore autonomo di gas inerte indicando la potenzialità necessaria,
+considerando che la massima portata di scarico prevista è pari a 3500 mc/h.
+Si disegni uno schema semplificato dell'impianto indicato.
+
+3.
+
+Si descrivano i sistemi COW e LOT utilizzati per il lavaggio delle cisterne del greggio.
+
+4.
+
+Si descrivano gli impianti fissi e mobili di estinzione degli incendi nel settore navale con
+riferimenti a specifiche normative.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/8
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M095 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Pianificazione e controllo della traversata tra Norfolk (USA) e Lisbona (Portugal), gestione dei pesi a bordo
+e risposta a un'emergenza.
+Passage planning – appraisal/planning
+La propria nave (M/V grain carrier MASHA, call sign IFTS, MMSI 247556000), avente LPP=192,4 m e
+B=32,2 m è in partenza da Norfolk (USA), con destinazione Lisbona (Portugal).
+Dopo la caricazione si registrano le seguenti immersioni estreme:
+TA=12,50 m
+TF=12,30 m
+Si pianifica la traversata berth to berth con tratto principale per great circle dall'uscita del TSS di
+CHESAPEAKE BAY (36° 57,0’ N; 075° 47,0’ W) alla Pilot Station del Porto di Lisbona (38°40,0’N;
+009°24,0’W). Si prevede di lasciare il TSS alle tf= 12:30 del 14/06 e di procedere con velocità V=14,8kts.
+Determinare cammino e rotta iniziale ortodromici ed ETA locale, prevedendo un aumento nel cammino di
+3,5 mg imputabile all’approssimazione dei tratti ortodromici con spezzate lossodromiche e ricordando la
+considerazione dell'ora estiva e il fatto che il Portogallo adotta l'ora del fuso Zulu.
+Si stima che dopo 40 min dall'imbarco pilota all'arrivo ci si trovi a dove superare una depth limitation di
+11,9 m. Sulla base dei dati di marea forniti di seguito, determinare se è possibile transitare con UKC di
+almeno 1,5 m, considerando un consumo giornaliero globale di 90 t (si consideri che dalle curve idrostatiche
+è noto TPC=54,7 t e che il consumo è approssimato per difetto, quindi si determini il peso totale
+approssimando al numero di giorni intero maggiore); in caso contrario determinare il primo istante
+successivo a cui è possibile l'ingresso e adattare, in base a questo, la velocità stimata per tutta la traversata.
+Lisbona:
+HW
+LW
+HW
+LW
+
+04:54 23/06
+10:23 23/06
+17:12 23/06
+22:52 23/06
+
+h=3,4m
+h=0,7m
+h=3,6m
+h=0,6m
+
+Pag. 4/8
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M095 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+
+Passage planning – execution/monitoring
+Poco dopo aver lasciato TSS di CHESAPEAKE BAY, con Rv= 068°, V= 14,6 kts, si rilevano al radar i
+seguenti target:
+Target
+A
+B
+
+UT
+15:40
+15:46
+15:40
+15:46
+
+Relative
+bearing
+- 24°
+-24°
++15°
++20°
+
+Range
+[NM]
+9,6
+8,2
+10
+6,8
+
+Dall'AIS si apprende che il bersaglio A è un rimorchio oceanico.
+Dopo aver determinato gli elementi cinematici rilevanti e valutato la situazione, intraprendere le iniziative
+ritenute più idonee, conformemente alle prescrizioni COLREG, descrivendo e motivando accuratamente le
+proprie scelte in una breve relazione tecnica.
+Discharging plan
+Dopo l'arrivo si concorda con il terminal la sequenza di discarica: il dislocamento all'arrivo risulta =63758
+t, i pesi da scaricare per ciascuna stiva sono elencati nella tabella riportata di seguito, mentre la condizione
+di zavorra che si intende raggiungere prevede l'imbarco graduale di complessive 4500 t nelle cisterne
+collocate nel doppio fondo, tutte considerabili ad una quota di 0,80 m sulla baseline, e un'ulteriore quantità,
+da determinare, in quattro cisterne centrali simmetriche, due alte (VCG=8,6 m) e due basse (VCG=2,4 m),
+aventi tutte le stesse caratteristiche dimensionali (length=10,0 m, width=12,5 m, depth=6,0 m).
+HOLD
+1
+2
+3
+4
+5
+
+VCG (on the baseline)
+6,0 m
+5,8 m
+5,5 m
+5,5 m
+5,8 m
+
+WEIGHT
+7400 t
+8500 t
+9200 t
+9200 t
+8500 t
+
+Pag. 5/8
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M095 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+La quantità di zavorra da imbarcare nelle casse centrali è vincolata dal rispetto di un limite di galleggiabilità
+che prevede di non violare una certa immersione minima, a cui corrisponde un dislocamento di 27558 t.
+Conoscendo la quota del baricentro all'arrivo in banchina (KG=7,80 m) e la quota del metacentro relativa
+alla citata immersione minima (KM'= 10,34 m), determinare il peso da imbacare in ciascuna delle casse
+centrali, verificando che la distribuzione scelta non conduca a valori di altezza metacentrica inferiori a 0,60
+m.
+SECONDA PARTE
+1) All'inizio del crepuscolo vespertino dal 20/06, quando ci si trova in (42°14,9’N; 028°22,7’W) si decide
+di eseguire un FIX astronomico misurando:
+UT = 22:14:06
+
+Stella centrale della Corona Boreale
+
+hi = 68°05,7'
+
+UT = 22:17:00
+
+Stella rappresentante la coda del Cigno
+
+hi = 25°43,7'
+
+Determinare le coordinate del punto nave nota l'elevazione dell'occhio, pari a 18 m (correzione d'indice
+del sestante assente).
+2) Un'ora dopo il FIX si riceve una DSC distress alert da una nave posta in (41°01,6’N; 026°02,3’W) con
+un incendio grave a bordo, e dopo pochissimi minuti, alle UTC 23:21, quando ci si trova in (42°12,3’N;
+028°01,0’W), si riceve richiesta di prestare assistenza alla nave in difficoltà da parte dell'MRCC di
+Ponta Delgada. Sapendo che la nave sta dirigendosi verso le Azzorre con RV=210° e V=4,0 kts, e che
+la propria nave può raggiungere una velocità massima di 16,5 kts, determinare ora e posizione di
+intercettazione considerando una corrente di 0,8 kts per SE.
+3) La nave che necessita di essere soccorsa è la general cargo M/V BEAR II (call sign CFTR, MMSI
+316889000): il comando ha inviato una distress alert, recepita da un MRCC, che poi ha contattato la
+propria nave per il soccorso. Descrivere l'ipotetico scambio di comunicazioni avvenuto tra BEAR II e
+MRCC specificando cosa significa DSC distress alert e acknowledgement e scrivere nella forma
+corretta la distress call ed il distress message considerando quanto previsto dalle SMCP. Aggiungere
+inoltre la comunicazione dell'intenzione a prestare soccorso che la nave propria invierà alla M/V BEAR
+II (anche in base alle eventuali esperienze lavorative del candidato).
+4) Si è detto che la nave propria M/V MASHA è una nave graniera. Descrivere i riferimenti normativi per
+questo tipo di trasporto, specificando quali sono i vincoli in termini di stabilità.
+___________________________
+Durata massima della prova: 6 ore.
+E’ consentito l’uso della calcolatrice scientifica non programmabile, tavole numeriche, manuali tecnici, formulari, pubblicazioni nautiche.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 6/8
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M574 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Il volo Aer Lingus 134, alle UTC=20:25, decolla da Boston/Logan (4222N07100W) diretto a
+Shannon/Shannon (5242N00855W; FE=46ft). Il piano di volo prevede di seguire il percorso più breve
+mantenendo FL260 e una GS media di 450kts. Durante il volo al pilota vengono trasmessi dei
+SIGMET SST che segnalano ampie zone temporalesche lungo la rotta prevista. Il controllo oceanico
+autorizza il pilota a navigare per parallelo per raggiungere il punto di uscita della ETOPS MALOT
+(5300N01500W) per evitare le zone perturbate più a nord.
+Il candidato calcoli l’orario UTC di raggiungimento di MALOT e rappresenti su una carta
+stereografica polare, con raggio della sfera rappresentativa di 200 mm, il percorso previsto e quello
+effettivo.
+Uscito dalla zona NAT il volo prosegue per la destinazione sulla STAR che conduce all’IAF della
+procedura “ILS or LLZ per RWY 06”. Il punto di inizio procedura è il VOR/DME SHA
+(5243N00853W) sorvolato il quale bisogna seguire, per aa/mm di categoria C/D, una reversal a
+“goccia” con outbound su 252° e inbound su 058°. La virata base è prevista a D14 SHA mentre l’IF
+è posto a circa D16 SHA.
+Il candidato rappresenti la vista in pianta della procedura, con scala opportuna a scelta, sapendo che
+la VAR=2°E, valuti inoltre il Descent Rate che dovrebbe mantenere nei tratti della procedura di
+avvicinamento sapendo che la TAS media è di 180kts e che sull’IAF la quota raggiunta è FL160.
+Utilizzare i dati utili per lo svolgimento estraendoli dal seguente METAR:
+
+
+EINN 221650Z 080015KT 9999 FEW040 12/04 Q0998
+
+SECONDA PARTE
+1.
+
+Alle ore 18:50 UTC sullo schermo radar del settore NE, presso il Centro Regionale di Assistenza
+al Volo di Roma, è presente la situazione di traffico IFR costituita dai voli AZA 2489
+(TAS=405kts, QUJ=090°, D=28 NM) e RYR 1267 (TAS=360kts, QUJ=180°, D=23,5 NM)
+entrambi a FL280 e in avvicinamento al VOR/DME di Firenze (FRZ).
+Tenendo conto che il vento in zona è W/V=090°/60kts il candidato risolva i seguenti punti:
+
+
+Calcolare il valore della separazione minima che si determina nell’ipotesi che i due aa/mm
+proseguano mantenendo inalterato il proprio moto.
+
+Pag. 7/8
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M574 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+2.
+
+
+
+Supponendo che il controllore di volo decida di apportare un’azione correttiva al volo AZA
+2489, determinare quale prua dovrà assegnare affinché i due voli acquisiscano una
+separazione minima di 7 NM e l’orario in cui si verificherà tale condizione.
+
+
+
+Riportare, in almeno quattro battute, la comunicazioni tra controllore e pilota del volo AZA
+2489 soggetto al vettoramento nel rispetto della fraseologia standard prevista nel controllo
+radar e in funzione della propria esperienza maturata nei centri di controllo per le attività di
+alternanza scuola-lavoro.
+
+Un a/m è inserito in Holding Stack di una sequenza di avvicinamento strumentale dell’aeroporto
+di Pescara (FE=48ft) sul quale è prevista Transition Altitude a 5000ft. Il candidato calcoli la
+quota che verrà assegnata nello Stack, sapendo che l’a/m è preceduto da altri tre velivoli;
+utilizzare allo scopo il seguente bollettino:
+LIBP 210850Z 24012KT 210V270 1500 R22/0800 BKN025 05/04 Q0998
+La Holding è non standard con MHA a 4000ft, il suo tratto inbound è orientato 125°, l’Holding
+Fix è il PES VOR/DME situato a destra della soglia 22.
+Considerato che la parte finale della STAR assegnata sull’Holding Fix è orientata 077° il
+candidato rappresenti graficamente con scala a scelta:
+
+3.
+
+
+
+I tre settori d’entrata in Holding e la procedura che dovrà seguire per inserirsi in essa;
+
+
+
+La possibile traiettoria di avvicinamento della procedura ILS-Z per RWY 22 (QFU=216°)
+sapendo che trattasi di una “Base Turn” con outbound su 065° e con l’IF posto a 8 NM da
+PES;
+
+
+
+Sul grafico della procedura identificare le possibili posizioni dei punti distintivi i segmenti
+di una procedura di avvicinamento strumentale;
+
+
+
+Il Display dell’ILS nel caso in cui si trovi a destra del LOC e più basso del GP.
+
+Dalle pagine AIP Italia si legge la seguente descrizione per la procedura strumentale di partenza
+per RWY 05 dell’a/p di Olbia/Costa Smeralda (LIEO):
+PROCEDURA DI SALITA INIZIALE
+Dopo il decollo seguire RDL 054 SME VOR fino a lasciare 3600 ft non più tardi di 10NM SME
+DME (o 9.5NM ISM DME), quindi seguire la SID assegnata.
+SUKUN 5A
+Virare a sinistra fino ad intercettare e seguire RDL 011 SME VOR (TR 191°) fino a 5NM SME
+DME, quindi virare a sinistra fino ad intercettare e seguire RDL 113 SME VOR per il punto
+SUKUN.
+
+Pag. 8/8
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M574 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+Il Candidato rappresenti su una Carta di Mercatore, in scala 1:500.000 sul parallelo 41°00’N, la
+vista in pianta dell’intera procedura essendo note le seguenti informazioni: SME
+VOR/DME(4053N00930E), SUKUN (4045N00954E) e la VAR=2°E.
+4.
+
+Un a/m percorre la Rotta ATS UN157 tra i punti DEDOM (4207N01026E) e QUENN
+(4010N01033E). A GMT=12:45 l’a/m si trova rispetto al VOR/DME SME (4053N00930E) su
+QTE=052° ad una distanza di 46NM mentre a GMT=12:55, sempre dalla stessa radioassistenza,
+si trova su QTE=107° ad una distanza di 40NM. Con l’ausilio di un grafico, il candidato verifichi
+se al traverso di SME il pilota si trova entro i limiti laterali previsti dalla rotta ATS seguita.
+Calcoli, inoltre, le coordinate del punto, sul tratto della UN157 in questione, per il quale
+raggiungere QUENN o virare verso SME comporterebbe lo stesso tempo di volo in presenza di
+un W/V=090°/30kts.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

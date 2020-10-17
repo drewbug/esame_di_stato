@@ -1,0 +1,78 @@
+Pag. 1/2
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M633 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+Si vuole purificare una corrente gassosa per assorbimento con olio minerale per allontanare piccoli
+quantitativi di idrocarburi presenti. Il gas, opportunamente condizionato, è inviato alla colonna
+d’assorbimento dove è lavato con l’olio minerale. L’olio, uscente dalla colonna d’assorbimento,
+ricco degli idrocarburi assorbiti, viene opportunamente preriscaldato e inviato ad una colonnina di
+flash dove si liberano i vapori degli idrocarburi assorbiti, che procedono verso ulteriori lavorazioni.
+L’olio minerale rigenerato, previo raffreddamento ed eventuale reintegro per compensare le perdite,
+è riciclato all’assorbimento. Il gas depurato, uscente dalla colonna d’assorbimento, procede verso
+ulteriori trattamenti, prima dello scarico.
+Il candidato disegni lo schema dell’impianto idoneo a realizzare l’operazione proposta, tenendo
+conto delle tipiche condizioni operative previste per l’assorbimento, completo delle apparecchiature
+accessorie (pompe, valvole, serbatoi, ecc.) e delle regolazioni automatiche principali rispettando,
+per quanto possibile, la normativa UNICHIM.
+
+SECONDA PARTE
+1.
+
+Nell’impianto di assorbimento si raffredda l’olio minerale da 110 °C a 30 °C utilizzando acqua
+industriale di raffreddamento disponibile a 25 °C e che si scarica a 55°C. La porta dell’olio
+minerale è F = 1,50 kg/s, il suo calore specifico è cPo = 1,80 kJ/(kg·°C). Il coefficiente globale
+di scambio termico è Utot = 800 W/(m2·°C). Il calore specifico dell’acqua è
+cPa = 4,18 kJ/(kg·°C).
+Il candidato, ritenendo trascurabili le perdite termiche, calcoli la potenza termica richiesta, la
+portata dell’acqua di raffreddamento, l’area della superficie di scambio. Inoltre, completi il
+quesito tracciando il grafico del profilo termico dei due fluidi interessati allo scambio di calore.
+
+Pag. 2/2
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M633 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: CHIMICA, MATERIALI E BIOTECNOLOGIE
+Articolazione: CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+2.
+
+Il candidato discuta brevemente il fenomeno dell’assorbimento dei gas nei liquidi. Quali sono i
+parametri che influenzano la solubilità di un gas in un liquido? Quale il meccanismo? Quale la
+legge che governa l’equilibrio dell’assorbimento?
+
+3.
+
+I materiali polimerici rappresentano le produzioni tra le più rilevanti dell’Industria Chimica. Il
+candidato, sulla base degli studi fatti, illustri, a sua scelta, la produzione di un polimero e del
+relativo monomero (o dei monomeri).
+
+4.
+
+Il candidato illustri un processo biotecnologico di rilevante importanza, ambientale o
+industriale, esaminato nel suo corso di studi.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali relativi alle simbologie UNICHIM, di tabelle con dati numerici, di diagrammi relativi a parametri
+chimico-fisici, di mascherine da disegno e di calcolatrici tascabili non programmabili.
+Non è consentita la consultazione di libri di testo.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

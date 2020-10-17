@@ -1,0 +1,128 @@
+Pag. 1/2
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+
+PRIMA PARTE
+Al piano terra di un edificio isolato, a pianta quadrata di 40 m di lato con cortile interno concentrico
+di 10 m di lato, è situato un poliambulatorio. Il poliambulatorio è alimentato in B.T. alla tensione di
+230/400 V ed è suddiviso in sei reparti.
+Il quadro elettrico generale alimenta 6 sottoquadri che assorbono rispettivamente le seguenti
+potenze:
+
+
+
+
+PQ1 = 28 kW
+PQ3 = 12 kW
+PQ5 = 8 kW
+
+cos1 = 0,75; PQ2 = 18 kW
+cos3 = 0,80; PQ4 = 10 kW
+cos5 = 0,86; PQ6 = 6 kW
+
+cos2 = 0,88;
+cos4 = 0,82;
+cos6 = 0,85.
+
+Il candidato, fatte le ipotesi aggiuntive che ritiene necessarie per meglio definire l’impianto,
+determini:
+1.
+
+le caratteristiche dell’impianto di rifasamento automatico per portare il fattore di potenza al
+valore 0,93;
+
+2.
+
+lo schema del quadro elettrico generale con l’indicazione delle caratteristiche delle
+apparecchiature di misura, manovra e protezione da installare, comprese quelle necessarie ad
+alimentare il gruppo di rifasamento automatico;
+
+3.
+
+le caratteristiche di almeno una delle linee di alimentazione dei sottoquadri;
+
+4.
+
+le caratteristiche dell’impianto di messa a terra ed il suo coordinamento con le protezioni
+adottate contro i contatti indiretti.
+
+Pag. 2/2
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M586 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+
+SECONDA PARTE
+1.
+
+Il candidato disegni lo schema elettrico funzionale di un circuito marcia-arresto di un motore
+asincrono trifase illustrando dettagliatamente i dispositivi utilizzati.
+
+2.
+
+Il candidato dimensioni un impianto fotovoltaico del tipo grid connected in grado di soddisfare
+una parte del fabbisogno energetico del poliambulatorio descritto nella prima parte e che possa
+essere installato sul terrazzo dell’edificio.
+
+3.
+
+Il candidato illustri il ruolo dell’interruttore MT di una cabina MT/BT e determini le
+caratteristiche di un trasformatore avente i seguenti dati di targa:
+
+4.
+
+
+
+tensione al primario 10 kV;
+
+
+
+tensione al secondario 400 V;
+
+
+
+potenza apparente 500 kVA con Vcc% = 6%.
+
+Il candidato scelga il dispositivo da installare a protezione di una linea trifase a 400V senza
+neutro che è attraversata da una corrente pari a 95 A. Il cavo ha le seguenti caratteristiche:
+
+
+tripolare in PVC;
+
+
+
+sezione 35 mm2;
+
+
+
+portata 125 A;
+
+
+
+lunghezza 100 m.
+
+Il candidato effettui le ipotesi aggiuntive che ritiene necessarie, sapendo che la reattanza della
+rete a monte del punto di partenza della linea risulti pari a 10 mΩ.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,106 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL – INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+Tema di: SISTEMI E RETI
+Tipologia c
+ESEMPIO PROVA
+Il candidato (che potrà eventualmente avvalersi delle conoscenze e competenze maturate attraverso
+esperienze di alternanza scuola-lavoro, stage o formazione in azienda) svolga la prima parte della
+prova e risponda a due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Due edifici aziendali, distanti qualche km, ma facenti parte della stessa struttura produttiva, impiegano
+due reti indipendenti strutturate come di seguito definito.
+Edificio 1.
+Rete interna, collegata ad internet tramite un ISP (Internet Service Provider), costituita da due sottoreti
+distinte separate da un router, definite come:
+
+
+rete del settore commerciale, dedicata agli specifici operatori;
+
+
+
+rete contabile, dedicata agli specifici operatori, che dovrà farsi carico delle problematiche legate
+alla presenza di dati sensibili.
+
+L’edificio 1 risulta già adeguatamente cablato in termini di rete e si dovrà eventualmente intervenire
+solo sugli aspetti relativi alla sicurezza.
+Edificio 2.
+Rete unica ad uso commerciale e contabile, definita in un unico spazio di indirizzamento e collegata ad
+internet tramite un ISP.
+I seguenti schemi ne riassumono le caratteristiche:
+Sottorete
+contabile
+(dati sensibili)
+192.168.10.0/28
+
+Sottorete
+commerciale
+
+ISP IP
+pubblico
+
+172.16.0.0/22
+
+200.1.2.3/30
+
+Unica rete
+
+ISP IP pubblico
+
+192.168.1.0/24
+
+200.1.2.4/30
+
+Il candidato, formulata ogni ipotesi aggiuntiva che ritenga opportuna, predisponga quanto segue:
+a.
+
+individui i punti di debolezza e le possibili soluzioni da adottare nell’edificio 1, in termini di
+sicurezza delle reti;
+
+b.
+
+progetti la struttura di rete e di indirizzamento dell’edificio 2, che prevede un numero massimo di
+7 host per la rete contabile e 15 host per quella commerciale;
+
+c.
+
+descriva una soluzione tecnica per separare nell’edificio 2 la rete commerciale dalla rete contabile;
+gli utenti della rete commerciale non devono poter accedere alla rete contabile; entrambe le utenze
+devono poter accedere ad Internet aggiungendo, se necessario, anche nuovi apparati;
+
+d.
+
+proponga una struttura di collegamento tra i settori commerciali dei due edifici, attraverso la rete
+Internet, che permetta agli operatori addetti alle postazioni commerciali di comunicare tra loro,
+con particolare attenzione alla sicurezza e riservatezza dei dati che vengono scambiati tra le due
+reti.
+
+SECONDA PARTE
+Il candidato scelga due fra i seguenti quesiti e per ciascun quesito scelto formuli una risposta della
+lunghezza massima di 20 righe esclusi eventuali grafici, schemi e tabelle.
+QUESITO N. 1
+Con riferimento al punto D) della prima parte della prova, indicare le caratteristiche principali del
+protocollo che si è inteso utilizzare.
+
+QUESITO N. 2
+Proporre una struttura di collegamento tra i settori contabili dei due edifici, attraverso la rete Internet,
+che permetta agli operatori addetti alle postazioni contabili di comunicare tra loro, con particolare
+attenzione alla sicurezza e riservatezza dei dati che vengono scambiati tra le due reti, anche
+prevedendo l’acquisizione di ulteriori indirizzi IP statici dall’ ISP.
+QUESITO N. 3
+Descrivere le caratteristiche più importanti relative alle tecniche di crittografia a chiave simmetrica ed
+asimmetrica.
+QUESITO N. 4
+Nell’ipotesi di istituire un servizio di scambio di messaggi di testo, descrivere, eventualmente anche
+con un esempio utilizzando un linguaggio a scelta, un socket di comunicazione di tipo client/server
+adatto allo scopo e definire una possibile architettura hardware.
+
+__________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Il candidato è tenuto a svolgere la prima parte della prova ed a rispondere a 2 tra i quesiti proposti.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

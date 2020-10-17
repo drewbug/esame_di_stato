@@ -1,0 +1,204 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Tema di: MATEMATICA
+ESEMPIO PROVA
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+Le centraline di controllo del Po a Pontelagoscuro (FE) registrano il valore della portata dell'acqua,
+ovvero il volume d'acqua che attraversa una sezione trasversale del fiume nell'unità di tempo. Come
+responsabile della sicurezza della navigazione fluviale in quel tratto del Po, devi valutare quando
+consentire la navigazione stessa, in considerazione delle condizioni atmosferiche e del livello dell’acqua.
+Nel corso dell'anno le portate medie del Po (a Pontelagoscuro) sono di circa 34 milioni di m3 al giorno in
+regime di magra, 130 milioni di m3 al giorno in regime normale con un’oscillazione del 10% e 840
+milioni di m3 al giorno in regime di piena (fonte deltadelpo.net).
+Durante un periodo di alcuni giorni di piogge intense, dalle rilevazioni registrate risulta che:
+
+
+nei primi due giorni dall'inizio delle misurazioni il valore della portata dell'acqua si è alzato dal
+valore di regime normale di 130 milioni di m3 al giorno fino al valore massimo di 950 milioni di m3 al
+giorno;
+
+
+
+nei giorni successivi la portata si è ridotta, tornando verso il valore di regime normale, inizialmente
+più velocemente e poi più lentamente.
+
+1.
+
+Indicando con t il tempo, misurato in giorni, fissa un adeguato sistema di riferimento cartesiano in cui
+rappresentare il grafico dell'andamento della portata. Verifica se una delle seguenti funzioni può
+essere usata come modello per descrivere tale andamento, tenendo conto dei valori rilevati e del
+punto di massimo, giustificando con opportune argomentazioni sia la scelta che l'esclusione.
+
+f t   a  cosb  t   c
+g t   a  e
+
+
+
+t2
+b
+
+c
+
+ht   a  t  e1bt  c
+
+a , b, c  
+2.
+
+Individuata la funzione, determina i parametri in modo che siano verificate le condizioni sopra
+descritte per la portata e tracciane il grafico.
+
+3.
+
+Studia la variazione della portata nel tempo e valuta dopo quanti giorni tale variazione raggiunge il
+suo minimo. Inoltre, dovendo prevedere quando autorizzare la ripresa della navigazione in condizioni
+di sicurezza, valuta, analiticamente o per via grafica, dopo quanti giorni la portata rientra nel limite di
+oscillazione del valore di regime normale.
+
+4.
+
+Nel tempo trascorso tra l’inizio del fenomeno e il rientro nei limiti normali, qual è il volume di acqua
+che ha superato il valore di regime normale?
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Tema di: MATEMATICA
+ESEMPIO PROVA
+PROBLEMA 2
+
+Figura 1: grafico G
+
+Il grafico G in figura 1 rappresenta una funzione del tipo:
+
+1.
+
+determina il valore del parametro k affinché la
+sia rappresentata dal grafico, motivando la tua
+risposta. Calcola inoltre le coordinate dei punti di flesso, le equazioni degli eventuali asintoti e le
+equazioni delle rette tangenti a G nei punti di flesso;
+
+2.
+
+considera un triangolo avente i vertici, rispettivamente, nell’origine, nel punto della funzione
+di
+ascissa a, e nel punto P sua proiezione sull’asse x. Determina il valore a ≥ 0 per cui la sua area sia
+massima;
+
+3.
+
+calcola l'area della regione piana delimitata da G e dall'asse x nell'intervallo [0,2] e determina il
+valore dell'errore percentuale che si verifica nel calcolo di tale area se nell'intervallo [0,2] si adotta,
+per approssimare
+, una funzione razionale di 3° grado della forma
+
+con
+4.
+
+dimostra che, dette A e B le intersezioni tra le tangenti a G nei punti di flesso e l’asse x, C e D le
+proiezioni dei punti di flesso sull’asse x, si ha:
+
+per qualsiasi
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Tema di: MATEMATICA
+ESEMPIO PROVA
+QUESTIONARIO
+1.
+
+Determinare il volume del solido generato dalla rotazione attorno alla retta di equazione y  3
+della regione di piano delimitata dalla curva di equazione
+
+2.
+
+y  x 3  x  3 e dalla retta stessa.
+
+Verificare che la funzione:
+
+f ( x) 
+
+1
+1
+3x
+
+1
+
+ha una discontinuità di prima specie (“a salto”), mentre la funzione:
+
+g ( x) 
+
+x
+1
+x
+
+3 1
+ha una discontinuità di terza specie (“eliminabile”).
+3.
+
+Durante il picco massimo di un’epidemia di influenza il 15% della popolazione è a casa ammalato:
+a) qual è la probabilità che in una classe di 20 alunni ce ne siano più di due assenti per
+l’influenza?
+b) descrivere le operazioni da compiere per verificare che, se l’intera scuola ha 500 alunni, la
+probabilità che ce ne siano più di 50 influenzati è maggiore del 99%.
+
+4.
+
+Utilizzando il differenziale calcola di quanto aumenta il volume di un cono retto avente raggio di
+base 2 m e altezza 4 m quando il raggio di base aumenta di 2cm.
+
+5.
+
+Considerata la parabola di equazione y  4  x 2 , nel primo quadrante ciascuna tangente alla parabola
+delimita con gli assi coordinati un triangolo. Determinare il punto di tangenza in modo che l’area di
+tale triangolo sia minima.
+
+6.
+
+Determinare la soluzione particolare della equazione differenziale
+condizione iniziale y (0)  2 .
+
+7.
+
+Calcolare il valor medio della funzione
+
+, verificante la
+
+1 x  3
+x  1
+f ( x )   x 3
+e  1 3  x  6
+nell’intervallo [1, 6] e determinare il valore della x in cui la funzione assume il valore medio.
+8.
+
+Una sfera ha il raggio che aumenta al passare del tempo secondo una data funzione r(t). Calcolare il
+raggio della sfera nell’istante in cui la velocità di crescita della superficie sferica e la velocità di
+crescita del raggio sono numericamente uguali.
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Tema di: MATEMATICA
+ESEMPIO PROVA
+
+9.
+
+In un riferimento cartesiano nello spazio Oxyz, data la retta r di equazioni:
+
+ x  2t  1
+
+y  t 1
+ z  kt
+
+e il piano β di equazione:
+
+x  2y  z  2  0,
+determinare per quale valore di k la retta r e il piano β sono paralleli, e la distanza tra di essi.
+10. Scrivere l’equazione della circonferenza C che ha il centro sull’asse y ed è tangente al grafico Gf
+di f ( x)  x 3  3x 2 nel suo punto di flesso.
+
+__________________
+Durata massima della prova: 6 ore.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

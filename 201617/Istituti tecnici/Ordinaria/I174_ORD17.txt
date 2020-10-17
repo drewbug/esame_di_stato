@@ -1,0 +1,482 @@
+Pag. 1/9
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I174 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCD - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ ITCI - TRASPORTI E LOGISTICA ARTICOLAZIONE
+CONDUZIONE DEL MEZZO OPZIONE CONDUZIONE DI
+APPARATI E IMPIANTI MARITTIMI
+ ITCN - TRASPORTI E LOGISTICA ARTICOLAZIONE
+CONDUZIONE DEL MEZZO OPZIONE CONDUZIONE
+DEL MEZZO NAVALE
+ ITCR - TRASPORTI E LOGISTICA ARTICOLAZIONE
+CONDUZIONE DEL MEZZO OPZIONE CONDUZIONE
+DEL MEZZO AEREO
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/9
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I159 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCI - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DI APPARATI E IMPIANTI MARITTIMI
+Tema di: MECCANICA E MACCHINE
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una moderna nave da crociera dispone di motori diesel per una potenza complessiva di 58.000 kW.
+Il candidato, assumendo con motivato criterio i parametri eventualmente necessari, calcoli:
+
+
+
+la portata massima di vapore con caldaie ausiliarie a recupero dai gas di scarico;
+la percentuale complessiva di utilizzazione del calore prodotto dal combustibile.
+
+Si disegni inoltre uno schema dell’impianto di produzione di vapore ausiliario con caldaie a gas di
+scarico.
+SECONDA PARTE
+1) Con riferimento alla tipologia di nave sopra indicata si disegni schematicamente l’apparato di
+propulsione più idoneo indicando le tipologie delle principali macchine utilizzate.
+2) Si descriva un impianto di condizionamento nei suoi componenti principali: la macchina
+frigorifera con il relativo ciclo e la sezione di trattamento dell'aria.
+Si descrivano inoltre le tipiche trasformazioni per il trattamento dell’aria nel condizionamento
+estivo e invernale.
+3) Si descrivano i principali sistemi per il contenimento delle emissioni inquinanti di motori diesel
+di propulsione navale, con riferimenti a specifiche normative.
+4) Si descriva, con riferimento alla tipologia di nave sopra indicata, un impianto di trattamento
+delle acque reflue con depurazione biologica nell'ipotesi che la nave abbia una capienza di
+2500 persone a bordo e si disegni uno schema dello stesso.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/9
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Competenze LLG-MIUR:
+Organizzare il trasporto in relazione alle motivazioni del viaggio ed alla sicurezza degli spostamenti.
+Gestire l’attività di trasporto tenendo conto delle interazioni con l’ambiente esterno (fisico e delle
+condizioni meteorologiche) in cui viene espletata. Operare nel sistema qualità nel rispetto delle
+normative di settore sulla sicurezza.
+Una nave da crociera ha le seguenti caratteristiche:
+lunghezza fuori tutto: 300.0 m; tonnellate di stazza lorda: 85000; velocità di servizio: 22 kn; potenza
+apparato motore: 35200 kW, diesel elettrici, due sistemi di propulsione Azipod.
+Il bridge team deve pianificare la seguente navigazione:
+1.
+2.
+3.
+
+New York: 40°30’ N 068°30’ W
+Great Banks: 45°30’ N 053°00’ W
+Bishop Rock: 49°37’ N 006°36’ W
+
+per poi dirigere verso il canale della Manica. La pianificazione prevede di seguire nel primo tratto un
+percorso lossodromico per poi seguire un arco di circolo massimo sino al WP di arrivo.
+Le previsioni meteo marine forniscono un vento al traverso per tutta la navigazione in forte
+intensificazione oltre il parallelo 50°N. ed un periodo dell’onda molto prossimo al periodo di rollio
+della nave nella zona a cavallo del vertice.
+Tenendo in considerazione le condizioni meteo marine attese, la pianificazione prevede un percorso
+misto fino al parallelo 50°N.
+Determinare l’ETA a Bishop Rock essendo l’ETD = 2100, 21/06/2017 da NY.
+La velocità della traversata fino all’incontro del parallelo limite è stabilita in 12.0 Kn, velocità che
+sarà ridotta nella navigazione per parallelo a 8 Kn.
+Descrivere i motivi della riduzione della velocità.
+
+Pag. 4/9
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+Competenze LLG-MIUR:
+Interagire con i sistemi di assistenza, sorveglianza e monitoraggio del traffico e gestire le relative
+comunicazioni nei vari tipi di trasporto.
+Dopo essere atterrata su Bishop Rock,ed entrata nella Manica, la nave sta navigando nella corsia di
+NE del Dover Strait Traffic Separation Scheme con destinazione l’estuario del Tamigi, costa sud
+orientale del Regno Unito.
+La pianificazione del viaggio prevede una navigazione nella corsia di NE con rotta iniziale 042°/T ed
+una velocità rispetto al fondo di 13.5 kn.
+Tenendo conto delle guide/regolamenti da applicare e delle particolarità della zona, occorre
+determinare le rotte da seguire per arrivare nella Inshore Traffic Zone britannica dove si trovano le
+boe: S Goodwin (51°11’N; 001°33’E) ed East Goodwin (51°13’N; 001°37’E) entrambe da tenere a
+sinistra a non meno di 1 NM.
+Vista la complessità della navigazione da seguire, si reputa opportuno giungere sul
+WP#1 (50°55’N; 001°26’E) che coincide con il punto d’inizio accostata - wheel over point, nel
+periodo della slack water della corrente di marea.
+Le regole locali raccomandano di effettuare l’attraversamento della corsia di SW del TSS entro
+5 NM a NE della MPC light-buoy.
+Dalla carta nautica UKHO n.323, rombo K, si estraggono i seguenti dati relativi alle correnti di marea
+della zona. I dati della corrente di marea sono riferiti alla HW Dover:
+190
+0.9
+0.5
+-6
+
+191
+2.3
+1.3
+-5
+
+195
+3.1
+1.7
+-4
+
+196
+3.2
+1.8
+-3
+
+195
+2.0
+1.1
+-2
+
+0.0
+0.0
+-1
+
+013
+1.3
+0.7
+0
+
+015
+2.4
+1.4
++1
+
+014
+3.1
+1.7
++2
+
+017
+2.6
+1.5
++3
+
+018
+1.7
+1.0
++4
+
+018
+0.6
+0.3
++5
+
+189
+0.5
+0.3
++6
+
+Ora dell’alta marea a Dover alle 1500 (BST), full moon.
+Descrizione del sistema di separazione del traffico nella sola zona interessata alla navigazione
+dell’unità (Estratto dalla pubblicazione IMO Ships’Routeing):
+A traffic lane for south-westbound is establish between the separation line and a line connecting the
+following geographical positions:
+51° 00’N, 001°17’E; 51°10’N, 001°37’E.
+A separation line connecting the following geographical positions:
+50° 57’N, 001°23’E (MPC light-buoy); 51° 08’N, 001°41’E.
+A traffic lane for north-eastbound is establish between the separation line and a line connecting the
+following geographical positions:
+50° 53’N, 001°31’E; 51°05’N, 001°48’E.
+
+Pag. 5/9
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+
+Determinare:
+ l’ora locale di arrivo sul WP #1 e la durata di un intervallo che consenta il passaggio con la
+corrente di marea nulla;
+ le coordinate dei WP specificando gli elementi geometrici necessari alla condotta della
+navigazione durante le accostate tenendo conto del particolare tipo di nave;
+ l’ETA (BST) al traverso della boa East Goodwin;
+ le pubblicazioni nautiche ed ogni altro tipo di documento di origine interna o esterna da impiegare
+nella fase di appraisal della pianificazione della navigazione elaborandone una check list.
+Competenze LLG-MIUR:
+Organizzare il trasporto in relazione alle motivazioni del viaggio ed alla sicurezza degli spostamenti.
+Durante l’attraversamento del TSS, in navigazione con navi in vista l’una dell’altra, Pv= 329°,
+velocità rispetto all’acqua=13.6 kn, l’OOW rileva al radar i seguenti bersagli:
+
+Minuto
+0
+3
+6
+
+Bersaglio A
+Rilv
+008°
+008°
+008°
+
+Distanza
+3.9 NM
+3.1 NM
+2.3 NM
+
+Bersaglio B
+Rilv
+009°
+009°
+009°
+
+Distanza
+5.3 NM
+4.5 NM
+3.7 NM
+
+Bersaglio C
+Rilv
+149°
+149°
+149°
+
+Distanza
+7.0 NM
+6.6 NM
+6.2 NM
+
+Dopo aver specificato chi è tenuto a manovrare, determinare la manovra evasiva tenendo conto quanto
+stabilito dalle COLREGs e dalle regole locali che non consentono un passaggio ravvicinato con una
+distanza al CPA inferiore a 0.5 NM, determinare:
+ la presenza di un’eventuale segnalamento marittimo;
+ l’istante d’inizio e di fine manovra;
+ le regole delle COLREGs da applicare alla situazione cinematica proposta;
+ commentare la regola 2 con particolare riferimento alle “circostanze particolari” citate nel
+paragrafo (a).
+ verificare se la prora vera della nave propria rispetti quanto stabilito dalla regola 10,
+paragrafo (c).
+
+Pag. 6/9
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+
+Competenze LLG-MIUR:
+Gestire in modo appropriato gli spazi a bordo e organizzare i servizi di carico e scarico, di
+sistemazione delle merci e dei passeggeri. Gestire l’attività di trasporto tenendo conto delle
+interazioni con l’ambiente esterno (fisico e delle condizioni meteorologiche) in cui viene espletata.
+Operare nel sistema qualità nel rispetto delle normative di settore sulla sicurezza.
+Durante la navigazione nella zona adibita al traffico costiero, la nave urta un isolated danger che
+provoca una falla in alcuni compartimenti stagni e, a seguire, a causa della perdita della propulsione,
+l’incaglio della nave su di un fondale roccioso a prora e a poppa. Considerare l’allagamento
+simmetrico di compartimenti non comunicanti liberamente con il mare, non saturati dall’allagamento.
+Sono noti i seguenti dati prima della falla:
+KM= 11.53 m, KG= 10.45 m, dislocamento = 50.000 t, TAFT = 9.3 m, TFWD = 7.7 m,  = 1.025 t/m3
+Dimensioni del volume allagato: lunghezza = 40 m, larghezza = 35 m.
+Considerare il baricentro della massa liquida pari al baricentro del volume allagato ed una
+permeabilità dei due compartimenti allagati del 30%.
+Dopo la falla, dalle tavole delle CCDD si ottiene: KM’ = 11.75 m, TPC’= 35.4 t/cm.
+Gli incagli nella zona prodiera e nella zona poppiera provocano una variazione d’immersione
+T= 0.37 m senza variazione d’assetto, rimanendo sempre nullo l’angolo di sbandamento trasversale.
+ Verificare la stabilità trasversale della nave determinando l’altezza GM dopo la falla e dopo
+l’incaglio.
+ Individuare la situazione a cui la nave potrebbe andare incontro essendo la marea montante.
+A causa del sinistro, le autorità locali hanno aperto un’inchiesta tecnica dalla quale si è potuto
+dedurre che una delle cause dell’urto con l’isolated danger, è stata un lacunoso impiego
+dell’ECDIS da parte dell’OOW essendo la nave una primary ECDIS.
+ Individuare le ipotetiche cause del non corretto impiego dell’ECDIS descrivendo il giusto
+settaggio del sistema in navigazione costiera.
+ L’isolated danger non era segnalato da alcuna boa. Descrivere la boa IALA per questo tipo di
+pericolo soffermandosi sui colori, forma della boa, del top mark e il tipo di segnale luminoso che
+deve emettere.
+
+Pag. 7/9
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I243 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITCN – TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO NAVALE
+Tema di: SCIENZE DELLA NAVIGAZIONE, STRUTTURA E COSTRUZIONE
+DEL MEZZO NAVALE
+
+SECONDA PARTE
+1.
+
+L’IMO ha stabilito il criterio meteorologico da applicare a navi come le moderne navi da crociera.
+Descrivere: l’ipotesi del criterio; a ciò che viene sottoposta la nave e ciò che viene richiesto dalla
+Risoluzione dell’IMO.
+
+2.
+
+La portata del radar viene modificata dal gradiente verticale della temperatura dell’aria.
+Descrivere le diverse situazioni in cui un radar può trovarsi ad operare. Gli echi di seconda traccia
+sono causati da situazioni particolari. Descrivere come il radar sia in grado di eliminarli.
+
+3.
+
+In data 21/06/2017, nella posizione 40°N, 009°E verificare se il pianeta Venere può essere
+impiegato durante il crepuscolo vespertino per effettuare i giri di bussola della bussola magnetica
+di governo. Le deviazioni dovranno essere determinate in funzione della prora magnetica.
+Indicare come orientare la nave su di una determinata prora magnetica e come ricavare la
+deviazione magnetica noto l’azimut dell’astro.
+
+4.
+
+Un nave specializzata in trasporti hevay lift ha un ∆ = 5000 t. Si deve imbarcare un manufatto
+industriale del peso di 150 t con le gru di bordo. Nel momento in cui la gru inizia ad alare ed il
+carico risulta sospeso, la gru ha uno sbraccio di 15 m, dal piano diametrale, mentre la testa della
+gru dista dalla linea di costruzione 20 m. Prima del sollevamento del manufatto la nave ha un
+KG =8.5 m ed un KM= 11.5 m. Porre il KM a sollevamento avvenuto uguale al precedente valore.
+Determinare l’angolo di sbandamento e il valore del nuovo GM.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice scientifica non programmabile, tavole numeriche, manuali tecnici, formulari, pubblicazioni
+nautiche.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 8/9
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I256 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una compagnia aerea deve pianificare un volo intercontinentale da Sydney/Kingford Smith
+(3356S15110E) a Jakarta/Soekarno-Hatta (0607S10640E). Il piano di volo prevede di seguire il
+percorso più breve mantenendo FL330 e una GS media di 435 kts. Lungo la rotta è prevista un’ampia
+aerea anticiclonica, tipica della zona, centrata sulle coordinate 1749S12140E. Si stima, per sfruttare
+la situazione meteo, di ottenere un guadagno di 35 kts sulla GS media suddividendo il percorso in
+due tratte ortodromiche rispetto a un punto distante 265 NM dal centro anticiclonico.
+Il candidato valuti quali dovrebbero essere le coordinate del punto intermedio per poter utilizzare la
+rotta a minor tempo e il guadagno di tempo complessivo sulla tratta.
+La procedura assegnata all’atterraggio è la ILS per RWY 25R che prevede la discesa da DKI VOR
+R248 D24, mentre la procedura di MISSED APCH è così espressa: Climb to 6000’, after passing
+2000’, turn RIGHT to intercept CKG VOR R028 outbound, proceed to NOKTA or as instructed by
+ATC. Il candidato rappresenti la procedura con scala a scelta sapendo che il punto NOKTA si trova
+rispetto a DKI R344 D30 mentre si trova rispetto a CKG R028. Sul NOKTA è attestata la procedura
+di mancato avvicinamento con tratto inbound su R164.
+Il candidato valuti quale sarebbe il settore d’ingresso nel circuito di attesa standard supponendo di
+aver eseguito un mancato avvicinamento; la VAR nei pressi dell’aeroporto è 1°E.
+SECONDA PARTE
+1. Utilizzando i dati della prima parte, il candidato rappresenti i vari punti dei percorsi ottenuti e la
+zona anticiclonica sul reticolato di una carta stereografica polare avente raggio della sfera
+rappresentativa r = 100 mm.
+Supponendo che il volo GAI-713 sia secondo nello stack di attesa, che la procedura prevede di
+lasciare il NOKTA alla MHA = 6000 ft, quota alla quale raggiungere il DKI, e che l’aggancio
+all’ILS è previsto a 2000 ft, a circa 6 NM dalla soglia pista, il candidato valuti le manovre di
+discesa che potrebbe eseguire il pilota e il tempo che impiegherebbe il velivolo per atterrare.
+L’aeroporto ha una FE = 33 ft, l’aereo mantiene una TAS media di discesa di 180 kts mentre si
+prevede che il controllore ATC autorizza il pilota a portarsi all’IAF quando è sul NOKTA alla
+propria quota attesa. La Transition altitude coincide con la MHA mentre il METAR
+dell’aeroporto riporta:
+ WIII 221850Z 20030G40KT 1500 R25R/800V1600 TSRA OVC020CB 25/22 Q1006
+
+Pag. 9/9
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I256 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCR - TRASPORTI E LOGISTICA
+ARTICOLAZIONE CONDUZIONE DEL MEZZO
+OPZIONE CONDUZIONE DEL MEZZO AEREO
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO AEREO
+2. Dalla portaelicotteri Garibaldi (3656N01615E), in navigazione con Rn = 180° e Vn = 24 kts
+decolla un EH-101 a GMT = 15:45 per una missione di sorveglianza lungo il parallelo 35°N. La
+missione prevede di intercettare il suddetto parallelo seguendo TC = 155° e successivamente
+iniziare la ricognizione verso ovest per poi rientrare sulla nave. Il candidato valuti su quale
+meridiano si conclude la perlustrazione se l’elicottero ha un’autonomia di 3h15m. Facendo
+decollare dalla Garibaldi un secondo elicottero, nell’istante in cui il primo pilota comunica via
+radio di iniziare il rientro, il candidato calcoli l’anticipo/ritardo che si verificherebbe sul PNR. I
+due elicotteri mantengono una CAS = 85 kts e FL080. Si utilizzi per lo scopo il bollettino
+METAR:
+ LICO 261655Z 22010KT CAVOK 18/14 Q1019 RMK BKN SCT100 BKN200 QUK 3 QUL 1
+W VIS MAR 12 KM VIS MIN 9999=
+3. Dalle pagine AIP Italia si legge la seguente descrizione della STAR per RWY 01 dell’a/p di
+Perugia/S.Francesco (LIRZ):
+LAKOX 1B
+Dopo il LAKOX virare a destra fino ad intercettare e seguire ARC 15NM PRU(IPE) DME.
+Attraversando RDL 201 PRU VOR virare a sinistra fino ad intercettare e seguire RDL 192 PRU
+VOR (TR 012°) per il punto DERUX.
+Il Candidato rappresenti su una Carta di Mercatore, in scala 1:250.000 sul parallelo 43°00’N, la
+vista in pianta della procedura essendo note le seguenti informazioni: PRU DVOR/DME
+(=43°06’06”N; =012°30’43”E), IPE DME-P (=43°05’25”N; =012°30’49”E), LAKOX
+R279/D18 PRU, DERUX D11 PRU/D10 IPE e la VAR=2°E.
+4. Dalla lettura dei bollettini meteorologici successivi il candidato rappresenti con scala a piacere
+una possibile SWLL che contenga le informazioni riportate relative alla FIR di Milano:
+LIMM AIRMET 10 VALID 221600/221800 LIMM- LIMM MILANO FIR MT OBSC OBS WI
+N4427 E00914 - N4401 E01130 - N4408 E01106 - N4427 E00914 STNR NC=
+LIMM AIRMET 11 VALID 221630/222030 LIMM- LIMM MILANO FIR BKN CLD 500/1000FT
+OBS WI N4549 E01037 - N4554 E01047 - N4628 E01237 - N4628 E01337 - N4549 E01037
+STNR NC=
+LIMM AIRMET 12 VALID 221700/221900 LIMM- LIMM MILANO FIR ISOL TS FCST WI
+N4522 E00840 - N4546 E00855 - N4521 E01100 - N4441 E01050 – N4509 E00852 - N4522
+E00840 STNR NC=
+Nell’ipotesi che si volesse decollare da una delle zone rappresentate, il candidato motivi la
+possibilità o meno di poter svolgere un volo VFR.
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, manuali tecnici, del regolo calcolatore e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

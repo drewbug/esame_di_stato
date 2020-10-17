@@ -1,0 +1,190 @@
+Pag. 1/3
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M557 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03, EA09 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+Sei stato incaricato di progettare una pista da ballo all’esterno di un locale in costruzione in una zona
+balneare. Il progetto prevede, oltre alla pista, delle zone verdi e una tettoia che consenta l’uso della pista
+anche in caso di pioggia.
+La pista da ballo viene rappresentata, in un sistema di riferimento cartesiano Oxy in cui l’unità di misura
+corrisponde a 1 metro, all’interno del rettangolo avente come vertici i punti di coordinate (-4, 0), (4, 0),
+(-4, 25) e (4, 25); nella scelta della sagoma della pista va rispettato il vincolo urbanistico che stabilisce
+che essa non può occupare più del 60% della superficie di tale rettangolo.
+Un tuo collaboratore predispone due soluzioni: la prima è rappresentata dalla parte di piano compresa tra
+25
+
+l’asse x e la curva di equazione, 𝑦 = − 16 𝑥 2 + 25, 𝑥 ∈ [−4, 4], la seconda dalla parte di piano compresa
+100
+tra l’asse x, la curva di equazione 𝑦 = 4+𝑥2 e le rette 𝑥 = −2√3, 𝑥 = 2√3.
+1.
+
+Studia le due soluzioni, e traccia il grafico di entrambe nel riferimento cartesiano Oxy. Individua in
+particolare le caratteristiche delle due funzioni che sono più rilevanti nella fase di costruzione della
+pista: eventuali punti di massimo e di minimo, di flesso, angolosi.
+
+Il proprietario del locale sceglie la seconda soluzione, che ritiene più elegante, ma ti chiede di realizzare
+due aiuole nelle porzioni di terreno comprese tra le due curve che gli hai proposto.
+2.
+
+Determina l’area della soluzione scelta e verifica che essa rispetti i vincoli urbanistici, in modo da
+poter poi procedere all’acquisto del materiale necessario per la costruzione della pista.
+
+Poiché lo scavo effettuato ai lati della pista ha reso il terreno scosceso, hai fatto eseguire delle misure e
+hai verificato che sia per 𝑥 ∈ [−2√3, 0] che per 𝑥 ∈ [0, 2√3] la profondità dello scavo stesso varia con
+la legge lineare rappresentata dalla funzione 𝑓(𝑥) = |𝑥| + 1; è dunque necessario acquistare del terreno
+per riempire lo scavo e realizzare le aiuole richieste.
+3.
+
+Calcola quanti metri cubi di terreno vegetale sono necessari per riempire l’aiuola delimitata dalle
+suddette curve nell'intervallo [−2√3, 0].
+
+Per realizzare la tettoia, è necessario usare un piano leggermente inclinato, per favorire il deflusso della
+pioggia. Nel sistema di riferimento cartesiano Oxyz, tale piano deve passare per i punti (-4, 0, 5),
+(4, 0, 5) e (0, 25, 4), in modo che la quota vari gradualmente dai 5 metri in corrispondenza dell’inizio
+della pista, ai 4 metri in corrispondenza della fine della pista stessa.
+4.
+
+Determina l’equazione del piano prescelto.
+
+Pag. 2/3
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M557 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03, EA09 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+
+Tema di: MATEMATICA
+PROBLEMA 2
+La rotazione intorno all’asse 𝑥 dei grafici della famiglia di funzioni:
+𝑥
+√𝑘 2 − 𝑥 𝑐𝑜𝑛 𝑥 ∈ ℜ,
+𝑓𝑘 (𝑥) =
+0 ≤ 𝑥 ≤ 𝑘2,
+4𝑘
+genera dei solidi di rotazione di forma aerodinamica.
+1.
+
+𝑘 ∈ ℜ,
+
+𝑘>0
+
+In un riferimento cartesiano Oxy, traccia i grafici delle funzioni 𝑓𝑘 (𝑥), per 𝑘 = 1, 𝑘 = 2, 𝑘 = 3 e
+determina il valore di 𝑘 per il quale il volume del solido di rotazione assume il valore
+
+64𝜋
+192
+
+;
+
+2.
+
+calcola il diametro massimo dei solidi di rotazione in funzione di 𝑘, e determina il valore dell'angolo
+formato dalla tangente al grafico di 𝑓𝑘 con l'asse 𝑥 per 𝑥 = 0;
+
+3.
+
+assumendo che la distribuzione della massa sia omogenea, il baricentro del corpo di rotazione si trova
+sull’asse 𝑥, per ragioni di simmetria. Determina l’ascissa 𝑥𝑠 del baricentro in funzione del parametro
+𝑘, sapendo che vale:
+𝑏
+
+𝑥𝑠 =
+
+𝜋 ∫𝑎 𝑥[𝑓𝑘 (𝑥)]2 𝑑𝑥
+
+𝑉
+dove gli estremi di integrazione a e b vanno scelti opportunamente, e V indica il volume del solido di
+rotazione;
+4.
+
+all’interno del solido di rotazione generato da 𝑓𝑘 , per 𝑘 = 3, si vorrebbe collocare un cilindro di
+raggio 0,5 e di altezza 6. Verifica se ciò è possibile, motivando la tua risposta.
+
+Pag. 3/3
+
+Sessione suppletiva 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M557 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03, EA09 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+
+Tema di: MATEMATICA
+
+QUESTIONARIO
+𝑥
+
+1.
+
+Data la funzione integrale ∫1 𝑙𝑛(𝑡) 𝑑𝑡, determinare per quali valori di 𝑥 il suo grafico incontra la retta
+di equazione 𝑦 = 2𝑥 + 1.
+
+2.
+
+Data la famiglia di funzioni 𝑦 = −𝑥 3 + 6𝑘𝑥 + 33 trovare la funzione tangente nel punto di ascissa 3
+ad una retta parallela alla bisettrice del primo quadrante. Determinare l'equazione di detta tangente.
+
+3.
+
+Vengono lanciati due dadi. Dei due punteggi, viene considerato il maggiore; se sono uguali, viene
+considerato il punteggio comune dei due dadi. Detto X il punteggio registrato, riportare in una tabella
+5
+
+la distribuzione di probabilità di X e mostrare che 𝑝(𝑋 = 3) = 36. Calcolare inoltre la media e la
+varianza di X.
+4.
+
+In un sistema di riferimento cartesiano nello spazio Oxyz sono dati i punti A (−3, 4, 0) e C (−2, 1, 2). I
+tre punti O, A e C giacciono su un piano E. Determinare l’equazione che descrive il piano E.
+
+5.
+
+Determinare il volume del solido generato dalla rotazione attorno alla retta di equazione 𝑥 = 2 della
+parte di piano delimitata dalla parabola di equazione 𝑦 2 = 8𝑥 e dalla retta stessa.
+Preso un punto C su una semicirconferenza di diametro ̅̅̅̅
+𝐴𝐵 = 2𝑟, sia M il punto medio dell’arco BC.
+Determinare il valore massimo che può assumere l’area del quadrilatero ABMC.
+
+6.
+7.
+
+Una fabbrica produce mediamente il 3% di prodotti difettosi. Determinare la probabilità che in un
+campione di 100 prodotti ve ne siano 2 difettosi, usando:
+ la distribuzione binomiale;
+ la distribuzione di Poisson.
+
+8.
+
+Provare che la funzione 𝑦 = 𝑒 𝑥 − 𝑡𝑔𝑥 ha infiniti zeri, mentre la funzione 𝑦 = 𝑒 𝑥 − 𝑎𝑟𝑐𝑡𝑔𝑥 non ne
+ha alcuno.
+
+9.
+
+Calcolare la derivata della funzione 𝑓(𝑥) = 𝑥 ∙ 𝑒 𝑥 , adoperando la definizione di derivata.
+
+10. Sia la derivata seconda di una funzione reale 𝑓(𝑥) data da 𝑓 ′′ (𝑥) = 3𝑥 − 6. Determinare
+l’espressione di 𝑓(𝑥), sapendo che il grafico della funzione passa per il punto P (2, −7) e che l’angolo
+formato dalla tangente al grafico di 𝑓(𝑥) con l’asse 𝑦 nel punto di ascissa x = 0 vale 45°.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,55 @@
+Pag. 1/1
+
+Sessione straordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E MANUTENZIONE
+PRIMA PARTE
+Una ditta di manutenzione viene chiamata in seguito al guasto di un impianto di ventilazione
+meccanica controllata a servizio di un edificio.
+L’impianto è composto dalle seguenti parti principali:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Ventilatore
+Recuperatore di calore
+Filtri
+Batterie di riscaldamento e raffreddamento
+Sonde per controllo temperature
+Canalizzazioni
+Bocchette di mandata e di ripresa
+Quadro elettrico di comando e controllo.
+
+Il candidato, in funzione delle proprie esperienze di studio e di eventuali attività nell’ambito dei
+percorsi per le competenze trasversali e per l'orientamento:
+1. ipotizzi le cause del guasto e descriva le caratteristiche funzionali e tecniche
+dell’apparecchiatura che ritiene abbia subito il guasto;
+2. indichi, motivando la scelta, le misure di prevenzione e protezione e la tipologia dei DPI
+(Dispositivi di Protezione Individuale) necessari per effettuare l’intervento di ripristino in
+sicurezza;
+3. effettui un’analisi del preventivo per il ripristino del corretto funzionamento e rediga un
+diagramma (Gantt o simili) con i relativi tempi di tutte le fasi di lavoro;
+4. determini dopo quanto tempo bisogna sostituire la sonda di temperatura per garantire la sua
+affidabilità al 95%, supposto un tasso di guasto pari 6*10-3 anni-1.
+
+____________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda è
+predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione scolastica
+e della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

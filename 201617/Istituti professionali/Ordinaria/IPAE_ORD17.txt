@@ -1,0 +1,96 @@
+Pag. 1/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti
+nella seconda parte.
+PRIMA PARTE
+Un’impresa di manutenzione deve garantire il corretto funzionamento e l’efficienza degli impianti
+presenti in una scuola elementare. La struttura comprende al piano terra uffici e aule, al primo e
+secondo piano soltanto aule infine al terzo piano laboratori. L’accesso avviene attraverso un viale
+alberato.
+Il candidato, fatte le ipotesi aggiuntive ritenute necessarie:
+1. descriva, anche tramite schema, la struttura dell’impianto elettrico/elettronico elencando le
+tipologie di servizi forniti e specificando la funzione di ciascun dispositivo;
+2. considerato che in seguito all’adeguamento delle norme di prevenzione incendi la struttura
+scolastica viene dotata di un impianto di diffusione sonora per emergenza alimentato da un
+gruppo di continuità di 20kW trifase, rappresenti lo schema di collegamento e determini la
+corrente assorbita dal gruppo di continuità;
+3. ipotizzando di dover sostituire la linea di alimentazione del gruppo di continuità a partire dal
+quadro generale posto alla distanza di 30 metri, scelga la sezione del cavo (rif tab.1) per
+garantire una caduta di tensione inferiore al 2%
+Sezione
+(mm2)
+2,5
+4
+6
+10
+
+Portata (A)
+27
+36
+48
+63
+
+Resistenza unitaria
+/km
+9.08
+5.68
+3.78
+2.27
+
+Reattanza unitaria
+/km
+0.109
+0.101
+0.0955
+0.0864
+
+4. descriva tramite uno schema a blocchi il sistema di conversione da corrente alternata a continua
+indicando i parametri caratteristici da considerare nella scelta di ciascun componente;
+5. illustri, secondo quanto richiesto dalla normativa, le tipologie di verifiche relative all’impianto
+elettrico/elettronico, gli strumenti e le metodologie per effettuarle.
+
+Pag. 2/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+SECONDA PARTE
+1. Un sistema non ridondante è costituito da 3 dispositivi A, B e C. I dispositivi A e B sono
+caratterizzati dai seguenti valori del M.T.T.F. (Mean Time To Failure):
+M.T.T.F.A = 104 mesi, M.T.T.F.B = 104 mesi. Il tasso di guasto del dispositivo C vale
+C=0,00015 mesi -1. Il candidato determini l’affidabilità del sistema dopo 10 anni e dopo quanto
+tempo la stessa è pari al 90%.
+2. Il candidato proponga un format per la registrazione delle verifiche e degli interventi di
+manutenzione effettuati sull’impianto di alimentazione di sicurezza della scuola.
+3. Nell’ambito della riqualificazione energetica si desidera installare sul tetto della scuola un
+sistema di pannelli fotovoltaici. Il candidato illustri, anche tramite diagramma, la sequenza
+delle fasi operative fino al collaudo dell’impianto ed effettui una valutazione dei costi.
+4. Il candidato indichi gli strumenti e le metodologie per ricavare sperimentalmente i parametri
+caratteristici del filtro di figura. Illustri, infine, come verificare il corretto funzionamento
+dell’amplificatore operazionale.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

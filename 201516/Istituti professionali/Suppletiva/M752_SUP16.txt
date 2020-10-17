@@ -1,0 +1,92 @@
+Pag. 1/2
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M752 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+All’interno di una piccola azienda, l’incaricato della manutenzione deve garantire, tra l’altro,
+l’efficienza e il corretto funzionamento di un motore in corrente continua e di 2 nastri trasportatori
+azionati da motori asincroni trifase. Il motore in corrente continua prevede la presenza di un sistema
+di regolazione della velocità tramite la variazione della tensione.
+Il candidato, fatte le ipotesi aggiuntive ritenute necessarie:
+1.
+
+descriva, anche tramite uno schema, la struttura e il funzionamento del nastro trasportatore
+illustrando, inoltre, come può avvenire la trasmissione del moto;
+
+2.
+
+indichi le principali attività da svolgere per effettuare la manutenzione ordinaria degli elementi
+costituenti i nastri trasportatori e, in particolare, evidenzi le differenze tra la manutenzione del
+motore asincrono trifase e quella del motore in corrente continua;
+
+3.
+
+illustri i criteri che consentono di determinare i parametri caratteristici del dispositivo di
+protezione dei motori asincroni trifase che comandano i nastri per verificare se quello scelto è
+adeguato;
+
+4.
+
+indichi i principali blocchi funzionali presenti sulla scheda di regolazione del motore in corrente
+continua, gli strumenti e le metodologie per verificarne la funzionalità.
+
+SECONDA PARTE
+1.
+
+Il candidato illustri il principio di funzionamento degli interruttori magnetotermici e ne descriva
+i parametri di classificazione e la tipologia.
+
+2.
+
+La ditta produttrice di una elettrovalvola dichiara B10 = 10.000 cicli. L’elettrovalvola è installata
+in un circuito d’acqua che lavora 16 ore al giorno per 250 giorni all’anno, ed effettua una apertura
+ogni 5 minuti.
+Calcolare il tasso di guasto annuo e il valore di MTTF.
+
+Pag. 2/2
+
+Sessione suppletiva 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M752 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+3.
+
+Una ditta di impianti elettrici viene incaricata per la realizzazione di un impianto foltovoltaico
+da realizzarsi sul tetto di una villetta unifamiliare.
+Il candidato, fatte le opportune considerazioni, pianifichi l’intervento d’installazione avendo cura
+di descrivere quali mezzi, attrezzature e risorse umane prevede di inviare. In funzione delle scelte
+effettuate, analizzi la tipologia dei possibili rischi valutandone la probabilità e il danno per
+ciascun pericolo individuato. Indichi inoltre, le misure di prevenzione e protezione e la tipologia
+del DPI (Dispositivi di Protezione Individuale) necessari per effettuare l’intervento in sicurezza.
+
+4.
+
+Un sistema di monitoraggio di un impianto prevede l’acquisizione e l’elaborazione di dati
+provenienti da 4 segnali analogici. Il sistema utilizza un unico convertitore analogico-digitale
+con dinamica di ingresso compresa tra 0 e 5 V. I segnali sono sotto forma di tensione con
+ampiezza compresa tra -0,5V e 0,5V e banda massima 2,5kHz.
+Il candidato descriva anche tramite uno schema a blocchi il sistema di acquisizione dati, indichi
+le principali caratteristiche che devono avere circuito di condizionamento, filtro e verifichi che il
+convertitore A/D a 8 bit con tempo di conversione pari a 25s è adeguato e garantisce una
+risoluzione minore del 5%.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

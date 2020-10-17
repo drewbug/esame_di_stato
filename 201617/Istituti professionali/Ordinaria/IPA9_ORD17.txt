@@ -1,0 +1,91 @@
+Pag. 1/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPA9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPA9 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E DI MANUTENZIONE
+DI APPARATI E IMPIANTI CIVILI E INDUSTRIALI
+Tipologia b
+Il candidato (che potrà avvalersi delle conoscenze e competenze maturate attraverso esperienze di
+alternanza scuola-lavoro, stage o formazione in azienda) svolga la prima parte della prova e due
+tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un sistema di produzione industriale (ad es. di impasti alimentari o di composti per usi industriali o
+civili) prevede la sequenza dei seguenti stadi operativi, ciascuno realizzato da appositi apparati:
+ dosaggio ingredienti;
+ impasto e miscelazione;
+ essiccamento;
+ confezionamento/inscatolamento;
+ stoccaggio.
+Ciascun apparato è gestito da un sistema di controllo che monitora alcuni parametri fisici
+caratteristici, rilevati attraverso appositi sensori, con lo scopo di sorvegliarne il corretto
+funzionamento e la sicurezza delle operazioni. I parametri fisici rilevati potrebbero essere ad esempio
+la pressione di eventuali gas utilizzati nei processi, la temperatura gestita dall’apparato, la velocità di
+rotazione o di movimento di pezzi meccanici, il peso dei componenti trattati, la densità degli impasti,
+il conteggio di pezzi di un’inscatolatrice, …. Il controllo di ciascun apparato può essere gestito
+mediante una postazione con schermo touch presente sull’apparato stesso.
+Tutti gli apparati comunicano, attraverso un’apposita infrastruttura di rete cablata, con un server di
+controllo centralizzato che registra i valori dei parametri di ogni apparato. Tali valori vengono poi
+elaborati da un software di monitoraggio complessivo dell’impianto ad uso del personale di
+manutenzione.
+Il candidato, anche servendosi di schemi e rappresentazioni grafiche,
+1. analizzi la situazione descritta e faccia le opportune ipotesi aggiuntive, inquadrandola in uno
+specifico contesto produttivo da lui scelto sulla base delle proprie competenze ed esperienze; in
+tale contesto, identifichi alcuni parametri fisici utili al monitoraggio del funzionamento e della
+sicurezza operativa degli apparati, e le modalità della loro rilevazione;
+2. descriva l’infrastruttura di rete che collega il server e le postazioni di controllo dei singoli apparati
+(componenti, cablaggio, modalità di identificazione di ciascun componente, protocolli di
+comunicazione, …);
+
+Pag. 2/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPA9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPA9 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E DI MANUTENZIONE
+DI APPARATI E IMPIANTI CIVILI E INDUSTRIALI
+Tipologia b
+3. rediga le linee guida di un possibile piano di manutenzione e assistenza tecnica del sistema di
+produzione e della relativa infrastruttura di rete, con le caratteristiche degli interventi
+programmati e del relativo contratto;
+4. ipotizzi una possibile situazione di guasto di un componente dei sistemi finora descritti,
+indicando gli interventi necessari per la ricerca e la diagnostica del guasto ed il successivo
+ripristino, incluse le opportune procedure di sicurezza a cui dovrà attenersi il manutentore
+nell’intervento;
+5. descriva la struttura del documento utilizzato per registrare l’intervento di manutenzione di cui
+al punto precedente.
+
+SECONDA PARTE
+1. Una caratteristica importante dei sistemi di controllo e monitoraggio è la loro corretta operatività.
+In riferimento al tema proposto nella prima parte, si ipotizzi che gli apparati del sistema di
+produzione siano dotati di sistemi di sicurezza che si attivano in presenza di condizioni operative
+inadeguate (es. eccessiva velocità di rotazione, eccessiva pressione di un gas, temperature troppo
+elevate, …). Il candidato descriva uno di questi sistemi di sicurezza a sua scelta e le procedure per
+testarne il corretto funzionamento.
+2. In riferimento al tema proposto nella prima parte, si immagini l’ampliamento dello stabilimento
+produttivo con un secondo capannone che contiene un sistema di produzione analogo, sito a 150
+metri di distanza all’interno della stessa proprietà. Il candidato descriva, anche tramite uno schema,
+gli interventi necessari sulla rete LAN allo scopo di avere un unico server di monitoraggio per
+entrambi i sistemi di produzione.
+3. Il candidato descriva strumenti e procedure di sua conoscenza per la certificazione del corretto
+funzionamento di una rete LAN.
+4. In riferimento ad un apparato di sua scelta, il candidato descriva caratteristiche ed utilità dei sistemi
+basati sulla conoscenza e sulla diagnosi multisensore.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dall'inizio della prova.
+
+

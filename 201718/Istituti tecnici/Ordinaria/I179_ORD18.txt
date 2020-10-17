@@ -1,0 +1,85 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I179 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCS – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "COSTRUZIONE DEL MEZZO"
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO
+Il candidato svolga la prima parte della prova e risponda a due soli quesiti tra i quattro proposti
+nella seconda parte.
+PRIMA PARTE
+Una autovettura con motore turbodiesel e trazione anteriore ha le seguenti caratteristiche tecniche:
+
+
+massa =1450 kg
+
+
+
+larghezza 1.8 m, altezza 1.6 m, passo tra i due assali 2.6 m
+
+
+
+baricentro posto a 0.9 m dietro l’asse anteriore ed a una altezza di 0.6 m rispetto al suolo
+
+
+
+pneumatici 205/55 R16
+
+
+
+rapporto di riduzione (inteso come numero di giri in ingresso/numero di giri in uscita) del
+differenziale pari a 4.6
+
+Dopo aver eseguito uno schizzo del veicolo da cui si possano evincere tutte le misure utili per il
+calcolo e assumendo con opportuno criterio eventuali dati necessari non specificati, supponendo che
+il veicolo si muova a 110 km/h su strada asfaltata pianeggiante e asciutta calcolare:
+1) La potenza erogata dal motore e il consumo stimato in litri/100 km.
+2) Supponendo che sia innestata la 5° marcia il cui rapporto di riduzione è pari a 0.6, calcolare il
+regime di funzionamento e la coppia erogata dal motore.
+3) Sapendo che il motore può erogare una coppia massima 250 Nm costante tra 1500 e 3000 g/min,
+calcolare la massima accelerazione ottenibile in 5° marcia premendo completamente
+l’acceleratore per eseguire un sorpasso.
+4) Calcolare lo spazio minimo necessario per arrestare completamente il veicolo e la potenza
+istantanea dissipata dall’impianto frenante all’inizio del rallentamento.
+5) Dopo aver calcolato la distribuzione assoluta e percentuale dei pesi a veicolo fermo sugli assali
+anteriore e posteriore, quantificare come essa si modifica nel caso il veicolo rallenti con una
+decelerazione pari a 6 m/s².
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I179 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCS – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "COSTRUZIONE DEL MEZZO"
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO
+SECONDA PARTE
+1) Analizzare quali forze verticali e orizzontali agiscono sui mozzi delle ruote anteriori nelle diverse
+condizioni di moto del veicolo (marcia a velocità costante, frenata, accelerazione, curva).
+Dimensionare i cuscinetti volventi montati sui mozzi anteriori in modo che nelle condizioni di
+moto di cui al punto 1) della prima parte, possano funzionare regolarmente per almeno 100.000
+km.
+2) Illustrare quali sono i principali componenti dell’impianto frenante di un’autovettura. Dopo aver
+spiegato quali sono gli inconvenienti derivanti dal bloccaggio delle ruote in frenata, descrivere i
+componenti e il funzionamento dei moderni impianti antibloccaggio ABS e ESP.
+3) Esporre come possono essere classificate in generale dal punto di vista organizzativo le
+manutenzioni su una generica apparecchiatura e illustrare nel caso specifico delle autovetture
+quali sono i principali interventi che possono essere eseguiti durante suo il ciclo di vita,
+collocando ciascuno di essi nella rispettiva categoria di appartenenza.
+4) Spiegare come le tecniche di produzione snella hanno modificato l’organizzazione della
+produzione industriale, mettendo in evidenza il diverso modo di gestire i difetti di produzione, il
+personale, i fornitori e il flusso dei materiali nei magazzini e lungo le linee di produzione rispetto
+alla produzione di massa.
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

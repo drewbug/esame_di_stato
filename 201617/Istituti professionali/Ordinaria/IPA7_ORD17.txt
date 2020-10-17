@@ -1,0 +1,164 @@
+Pag. 1/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPA7 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPA7 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE INSTALLAZIONE MANUTENZIONE APPARATI
+IMPIANTI CIVILI INDUSTRIALI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+Si consideri la sezione di un condominio rappresentato in Fig.1, costituito da 16 piani fuori terra con
+due appartamenti per piano composti ognuno di due servizi.
+Gli apparecchi idrico sanitari installati in ciascun appartamento sono riportati nella seguente tabella:
+Bagno n.1
+Lavabo
+Bidet
+Doccia
+WC
+Lavatrice
+
+N° unità
+1
+1
+1
+1
+1
+
+Bagno n.2
+Lavabo
+Bidet
+Vasca
+WC
+
+N° unità
+1
+1
+1
+1
+
+Cucina
+Lavello
+Lavastoviglie
+
+N° unità
+1
+1
+
+L’Ente erogatore dell’acqua garantisce la portata richiesta dal condominio ad un valore di pressione
+al contatore di 2,6 bar. La rete di distribuzione è costituita da tubazioni in acciaio zincato.
+Si assuma che le perdite di carico localizzate siano quantificabili nella misura del 30% delle distribuite
+(Grafico n.2).
+Il candidato assumendo in autonomia i dati mancanti, predisponga:
+-
+
+lo schema unifilare dell’impianto a partire dal punto di consegna dell’Ente erogatore fino ai
+rubinetti di arresto di un alloggio posizionato in un piano tipo.
+
+Inoltre utilizzando il metodo delle perdite di carico costanti, in conformità a quanto previsto dalla
+norma UNI 9182-2014 (vedi Tabella n.1 - Grafico n.1), proceda al dimensionamento dell’eventuale
+rete di bassa pressione con acquedotto e di alta pressione con autoclave, sapendo che il valore di
+pressione minima al rubinetto più sfavorito non deve scendere sotto 0,5 bar e la pressione massima
+non deve superare 4,0 bar.
+
+Pag. 2/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPA7 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPA7 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE INSTALLAZIONE MANUTENZIONE APPARATI
+IMPIANTI CIVILI INDUSTRIALI
+
+Tabella n.1: Unità di carico per apparecchiature sanitarie
+
+Grafico n.1: Portata di progetto in funzione delle UC per abitazioni private ed edifici collettivi
+(alberghi, ospedali, scuole, caserme, centri sportivi e simili)
+
+Pag. 3/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPA7 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPA7 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE INSTALLAZIONE MANUTENZIONE APPARATI
+IMPIANTI CIVILI INDUSTRIALI
+
+Fig.1
+
+Pag. 4/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPA7 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPA7 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE INSTALLAZIONE MANUTENZIONE APPARATI
+IMPIANTI CIVILI INDUSTRIALI
+
+Grafico n.2: Diagramma perdite distribuite per tubazioni in acciaio zincato con temperatura
+dell’acqua pari a 10 °C
+
+Pag. 5/5
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPA7 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: IPA7 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE INSTALLAZIONE MANUTENZIONE APPARATI
+IMPIANTI CIVILI INDUSTRIALI
+
+SECONDA PARTE
+1.
+
+Il candidato sulla base dello schema realizzato nella parte prima, compili una lista dei materiali
+in termini di apparecchiature, valvolame, tubazioni e minuterie necessarie per la realizzazione
+dell’impianto di distribuzione acqua fredda.
+
+2.
+
+Il candidato con riferimento all’impianto indicato nella prima parte illustri i trattamenti a cui
+generalmente vengono sottoposte le acque di alimento degli impianti termici elencando i
+componenti e apparecchiature necessarie.
+
+3.
+
+Il candidato elenchi i documenti fondamentali per la realizzazione della manutenzione periodica
+di una caldaia a gas con potenza inferiore a 35 kW, descrivendone lo scopo ed i principali
+obiettivi ai fini della manutenzione.
+
+4.
+
+Il candidato illustri, sulla base dell’esperienza da lui fatta direttamente in ambito lavorativo o
+svolta nell’ambito di stages aziendali o in attività di laboratorio durante l’anno scolastico, le
+mansioni e/o le attività lavorative normalmente svolte, evidenziando le competenze acquisite e
+gli obiettivi raggiunti preferibilmente in relazione alle realizzazioni di impianti di distribuzione
+idrico sanitari.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

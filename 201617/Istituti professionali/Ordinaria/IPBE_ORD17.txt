@@ -1,0 +1,78 @@
+Pag. 1/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPBE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPBE – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: FISICA APPLICATA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Si deve sciogliere un cubo di ghiaccio con dimensioni 10x10x10 cm. Si tenga presente che il
+ghiaccio ha una densità di 0,92 g/cm3 ed un calore latente di fusione di 3,34·105 J/Kg.
+1.
+
+Determinare il peso complessivo del ghiaccio e l’energia complessiva richiesta per scioglierlo;
+
+2.
+
+Volendo sciogliere il cubo in 2 ore ricavare la potenza che deve fornire l’elemento riscaldante;
+
+3.
+
+Volendo utilizzare una resistenza elettrica alimentata da una tensione di 25 V in corrente
+continua ricavare il valore del resistore;
+
+4.
+
+Se la tensione venisse fornita da un accumulatore con energia 150 Wh, dopo lo scioglimento
+del cubetto quanta percentuale di energia rimarrebbe ancora disponibile?
+
+5.
+
+Utilizzando due resistenze uguali in parallelo di quanto potremmo ridurre il tempo?
+
+6.
+
+Avendo a disposizione resistenze da 47 Ω, quante se ne possono mettere in parallelo per non
+superare la corrente di 7 A?
+
+SECONDA PARTE
+1.
+
+Un’auto con massa di 1200 Kg varia la sua velocità da 15,0 m/s a 25,0 m/s in un tempo
+∆t = 4,00 s. Il candidato determini l’accelerazione dell’auto; determini la forza che ha agito nei
+4,00 s; descriva il principio fisico connesso.
+
+2.
+
+Un cubetto di ghiaccio di 150 g alla temperatura di 0°C è gettato in un recipiente che contiene
+300 g di acqua alla temperatura di 50°C. Dato il calore latente di fusione del ghiaccio di
+3,34 105 J/Kg ed il calore specifico dell’acqua di 4186 J/(Kg°C), trovare la temperatura finale.
+
+Pag. 2/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+7.
+
+IPBE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPBE – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: FISICA APPLICATA
+3. Il candidato descriva il transitorio della carica di un condensatore e calcoli dopo quanto tempo il
+condensatore si può considerare carico. Disegni il diagramma dell’andamento di v(t) in funzione
+del tempo. (Tensione iniziale v(0)= 0, E= 10V, R= 1000 Ω, C=1μF)
+
+4. Il candidato illustri il II principio di Kirchhoff e riferendosi al seguente circuito scriva una delle
+equazioni alle maglie:
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

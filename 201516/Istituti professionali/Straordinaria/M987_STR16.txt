@@ -1,0 +1,830 @@
+Pag. 1/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+AT
+T
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+
+LI
+
+IL SISTEMA DI LUBRIFICAZIONE DEI MEZZI DI TRASPORTO CON MOTORE
+ENDOTERMICO
+
+AG
+
+Con riferimento ad un mezzo di trasporto a sua scelta, il candidato svolga il tema proposto seguendo
+le indicazioni sotto riportate:
+a) descrivere le funzioni svolte dalla lubrificazione all’interno del motore;
+
+E
+
+b) elencare i componenti principali di cui è composto il sistema e le funzioni che in esso svolgono;
+e
+
+M
+
+c) eseguire graficamente una rappresentazione dell’impianto di lubrificazione del motore
+facoltativamente dello schema elettrico;
+
+FO
+
+R
+
+d) esplicitare le operazioni di manutenzione ordinaria necessarie a mantenere in efficienza il motore
+in relazione al sistema di lubrificazione, eventualmente facendo riferimento a normative e
+indicazioni del costruttore;
+e) descrivere le caratteristiche degli oli motore e la loro classificazione:
+elencare una serie di probabili difetti che possono rendere parzialmente o totalmente inefficace il
+sistema di lubrificazione del motore;
+
+N
+
+f)
+
+C
+
+O
+
+g) descrivere come i difetti dell’impianto di lubrificazione vengono segnalati dal sistema di
+autodiagnosi di controllo del motore all’utilizzatore o conduttore del mezzo;
+
+indicare le misure di sicurezza da adottare, i DPI da utilizzare nell’eseguire un intervento di
+manutenzione sull’impianto di lubrificazione del motore e le procedure per lo smaltimento dei
+componenti eventualmente sostituiti;
+
+O
+
+PI
+
+i)
+
+A
+
+h) descrivere la strumentazione utile a diagnosticare i possibili difetti dell’impianto di lubrificazione
+del motore e di quella preposta a mantenerlo in efficienza;
+
+C
+
+j)
+
+risolvere il seguente caso:
+
+DURANTE UN CONTROLLO IN OFFICINA SI RISCONTRA UNA PRESSIONE TROPPO
+BASSA DELL’OLIO MOTORE
+Il candidato, con riferimento al mezzo scelto, introducendo con motivato criterio ogni elemento
+ritenuto necessario, risolva il caso proposto descrivendone la procedura seguita, a partire dalla
+segnalazione del problema fino alla sua completa risoluzione.
+In funzione del caso sviluppato, si proceda alla compilazione della documentazione tecnica che
+precede e segue l’intervento, utilizzando i modelli idonei al mezzo scelto.
+
+Pag. 2/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+AT
+T
+
+SECONDA PARTE
+QUESITO N°1
+
+LI
+
+Durante il funzionamento del mezzo, una improvvisa perdita di olio motore produce un progressivo
+calo di potenza nel sistema propulsivo che lo porta in breve tempo sino all’arresto.
+
+AG
+
+Al successivo tentativo di avvio, si nota una certa difficoltà alla rotazione del motore con conseguente
+difficoltà di avviamento e l’impossibilità a mantenere il minimo.
+
+O
+
+R
+
+N
+
+FO
+
+Cause dell’arresto del motore:
+
+M
+
+E
+
+Indicare: le cause dell’arresto del motore; le conseguenze sul sistema propulsivo; i componenti
+interessati al problema; gli interventi da effettuare e la metodologia e la procedura da adottare per
+ripristinare il funzionamento normale del mezzo.
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+Conseguenze sul sistema propulsivo:
+
+Pag. 3/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+AT
+T
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+AG
+
+LI
+
+Componenti interessati al problema:
+
+R
+
+M
+
+E
+
+Interventi da effettuare:
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+Metodologia e procedura da adottare per ripristinare il funzionamento normale del mezzo:
+
+Pag. 4/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+AT
+T
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+QUESITO N°2
+
+LI
+
+Durante il controllo iniziale, da parte della centralina elettronica, del sistema ABS (dall'inglese
+Antilock Braking System) il relè del motorino della pompa, contenuta nell’attuatore ABS, viene
+attivato ma la pompa non gira.
+
+AG
+
+Analizzare lo schema elettrico dell’ABS qui sotto riportato e individuare le possibili cause,
+descrivendone per ognuna le azioni necessarie per ripristinare l’efficienza del sistema.
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+Descrivere inoltre il sistema ABS e la sua utilità in relazione alla sicurezza del mezzo e dei suoi
+occupanti.
+
+O
+
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+A
+
+C
+
+Indirizzo:IPMM – MANUTENZIONE E ASSISTENZA TECNICA
+
+C
+
+O
+
+PI
+
+Tema di: TECNOLOGIE E TECNICHE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+Pag. 5/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+AZIONI NECESSARIE PER RIPRISTINARE L’EFFICIENZA DEL
+SISTEMA
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+AG
+
+LI
+
+AT
+T
+
+POSSIBILI CAUSE
+
+C
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+Pag. 6/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+AT
+T
+
+AZIONI NECESSARIE PER RIPRISTINARE L’EFFICIENZA DEL
+SISTEMA
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+AG
+
+LI
+
+POSSIBILI CAUSE
+
+Pag. 7/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+AT
+T
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+AG
+
+LI
+
+Descrizione del sistema ABS:
+
+Pag. 8/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+AT
+T
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+QUESITO N°3
+
+Per motivi economici ed ambientali si vuole installare un impianto a gas (scegliere tra GPL e Metano)
+su un mezzo alimentato a benzina.
+
+LI
+
+Il risparmio è sicuro ed anche l’aspetto ecologico migliora, però si incontrano alcuni inconvenienti.
+A) Descrivere quali sono le conseguenze negative dell’installazione dell’impianto sul mezzo.
+
+AG
+
+B) Elencare le contromisure da adottare, per sopperire, dove possibile, agli svantaggi.
+
+E
+
+C) Eseguire uno schizzo dell’impianto scelto ed elencare e descrivere i componenti che lo
+compongono.
+
+R
+
+M
+
+D) Indicare i possibili problemi nel caso in cui il mezzo funziona normalmente, quando è alimentato
+a benzina, mentre quando è alimentato a gas tende ad avere un funzionamento irregolare,
+vibra, strappa ed ha difficoltà a tenere il minimo.
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+A) Inconvenienti a cui si va incontro montando l’impianto sul mezzo
+
+C
+
+O
+
+B) Contromisure da adottare, per sopperire dove possibile agli svantaggi
+
+Pag. 9/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+AT
+T
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+FO
+
+R
+
+M
+
+E
+
+AG
+
+LI
+
+C) Eseguire uno schizzo dell’impianto scelto ed elencare e descrivere i componenti che lo compongono.
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+D) Indicare i possibili problemi nel caso in cui il mezzo funziona normalmente, quando è alimentato a
+benzina, mentre quando è alimentato a gas tende ad avere un funzionamento irregolare, strappa e
+non tiene il minimo.
+
+Pag. 10/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+QUESITO N°4
+
+e la scarsa efficienza della
+
+LI
+
+Un cliente lamenta l’intermittente accensione della seguente spia
+batteria, che, pur ricaricata tende velocemente a scaricarsi.
+
+AT
+T
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+AG
+
+Attraverso l’ausilio dello schema elettrico del sistema di ricarica di seguito riportato, individuare ed
+elencare quali possono essere tutte le cause del problema.
+Indicare inoltre:
+
+E
+
+A) quale controllo può essere effettuato, senza smontare alcun componente del sistema, per capire
+quale parte dell’impianto di ricarica può essere danneggiata;
+
+R
+
+M
+
+B) i possibili problemi nel caso in cui il controllo dell’efficienza dell’alternatore abbia dato esito
+positivo (alternatore perfettamente funzionante);
+
+FO
+
+C) i possibili problemi nel caso in cui il controllo dell’efficienza dell’alternatore abbia dato esito
+negativo (alternatore malfunzionante);
+
+N
+
+D) descrivere le azioni necessarie per ripristinare l’efficienza del sistema sia nel caso (B) che nel
+caso (C);
+
+O
+
+E) descrivere le modalità di controllo della batteria;
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+F) indicare le misure si sicurezza da adottare in caso d’intervento sul sistema ed i DPI da utilizzare.
+
+Pag. 11/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+AG
+
+LI
+
+AT
+T
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+Pag. 12/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+AG
+
+LI
+
+AT
+T
+
+A
+
+R
+
+M
+
+E
+
+B
+
+O
+
+PI
+
+A
+
+D Caso B)
+
+C
+
+O
+
+N
+
+FO
+
+C
+
+C
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+Caso C)
+
+Pag. 13/13
+
+Sessione straordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M987 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+IM
+
+Tema di: TECNOLOGIE DI DIAGNOSTICA E MANUTENZIONE
+DEI MEZZI DI TRASPORTO
+
+IU
+
+OPZIONE MANUTENZIONE MEZZI DI TRASPORTO
+
+R
+
+Indirizzo: IPMM - MANUTENZIONE E ASSISTENZA TECNICA
+
+AG
+
+LI
+
+AT
+T
+
+E
+
+C
+
+O
+
+PI
+
+A
+
+C
+
+O
+
+N
+
+FO
+
+R
+
+M
+
+E
+
+F
+
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

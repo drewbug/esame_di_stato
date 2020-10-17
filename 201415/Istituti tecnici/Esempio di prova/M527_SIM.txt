@@ -1,0 +1,52 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN – MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: IMPIANTI ENERGETICI, DISEGNO E PROGETTAZIONE
+ESEMPIO PROVA
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Occorre dimensionare, in regime estivo,la centrale di trattamento aria di un impianto di
+condizionamento tutt’aria di tipo multizone (2 zone) di una sala ristorante costituita da un unico
+ambiente situato a Firenze.
+Il locale da climatizzare sia costituito da un piano terrenocon una facciata libera esposta a Sud.
+L’affollamento massimo previsto sia di 150 persone.
+Il calore emesso per persona sia pari a 60 W di calore sensibile e a 45 W di calore latente.
+Il carico termico sensibile per differenza di temperatura sia di 14.000 W.
+Gli apporti di calore sensibile all’ambiente per illuminazione e macchine siano di 6.000 W;
+Gli apporti di calore sensibile dovuti alla parete irraggiata siano di 8.000 W.
+Determinare, in maniera analitica e grafica:
+- le condizioni termoigrometriche dell’aria di immissione;
+- la portata di aria di immissione;
+- la portata dell’aria esterna e di ricircolo;
+- la potenzialità delle batterie di raffreddamento e postriscaldamento.
+Utilizzando il diagramma psicrometrico allegato, si traccino le linee di trasformazione dell’aria
+nell’unità di trattamento.
+Il candidato assuma liberamente ogni altro dato necessario alla soluzione giustificando tali scelte.
+
+SECONDA PARTE
+1) In relazione al dimensionamento precedentemente svolto, si disegni lo schema dell’unità di
+trattamento aria, giustificandone la scelta.
+2) Climatizzazionemediante impianti
+dell’impianto, vantaggi e svantaggi
+
+misti
+
+aria-acqua
+
+con
+
+ventilconvettori:
+
+descrizione
+
+3) Impianti a pompa di calore: criteri di dimensionamento sia nel caso estivo che invernale.
+4) Regolazione degli impianti di climatizzazione a ventilconvettori
+
+_________________________
+Durata massima della prova ore 6
+E’ consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+
+

@@ -1,0 +1,127 @@
+Pag. 1/2
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M842 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPS9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Si vuole costruire un albergo con 100 camere dotate ognuna di un proprio servizio costituito da wc,
+bidet, lavabo e doccia, nella città di Napoli.
+In rispetto al D.M 311/06 almeno il 50 % del fabbisogno di energia per la produzione di acqua calda
+sanitaria deve essere affidato ad un sistema che sfrutti energie alternative rinnovabili. A tale scopo
+viene installato in copertura un impianto solare a collettori piani (vedi tabella allegata radiazione
+solare media mensile) che rispetti tale prescrizione funzionante per tutto l'arco dell'anno.
+NORMA UNI 10349
+CITTA’
+NAPOLI
+
+H.s.m.
+17
+
+LATITUDINE
+40 ° 51’
+
+LONGITUDINE
+14 ° 11’
+
+RADIAZIONE SOLARE MEDIA MENSILE PER LA CITTA DI NAPOLI MJ/m2 gg UNI 10349
+GEN
+6,7
+
+FEB
+9,6
+
+MAR
+13,9
+
+APR
+18,9
+
+MAG
+23,7
+
+GIU
+26,3
+
+LUG
+27,2
+
+AGO
+23,9
+
+SET
+17,8
+
+OTT
+12,8
+
+NOV
+7,6
+
+DIC
+5,8
+
+Il candidato dimensioni l’impianto indicando il numero di collettori e la loro corretta installazione e
+inoltre disegni una schema di funzionamento della sola parte solare evidenziando i diametri delle
+tubazioni e la capacità del bollitore.
+
+Pag. 2/2
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M842 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPS9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+
+SECONDA PARTE
+1.
+
+Dopo circa un anno dal collaudo e dalla messa in funzione si sono presentate delle anomalie di
+funzionamento che si possono così elencare:
+
+
+dalle rubinetterie esce solo acqua fredda;
+
+
+
+dalle rubinetterie non esce acqua calda nè acqua fredda;
+
+Il candidato esegua una analisi dei guasti indicando le possibili cause e valuti gli opportuni
+rimedi.
+2.
+
+Considerando, come da Norma UNI 7129/08 parte prima, un potere calorifico superiore
+Hs = 38311 kJ/mc, il candidato calcoli il risparmio di mc di gas metano nel corso dell’anno,
+nell’ipotesi dell’impianto solare scelto.
+
+3.
+
+Il candidato compili una lista dei materiali in termini di apparecchiature principali, valvolame e
+minuterie per realizzare l’impianto.
+
+4.
+
+Il candidato illustri, sulla base dell’esperienza da lui fatta direttamente o svolta nell’ambito di
+stages aziendali o di alternanza scuola-lavoro o in attività di laboratorio durante l’anno
+scolastico, le mansioni e/o le attività lavorative normalmente svolte, evidenziando le
+competenze acquisite e gli obiettivi raggiunti preferibilmente in relazione alla tipologia di
+impianto solare o impianto tradizionale per la produzione di acqua calda sanitaria.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

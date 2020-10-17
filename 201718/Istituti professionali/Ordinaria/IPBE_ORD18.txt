@@ -1,0 +1,70 @@
+Pag. 1/1
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPBE – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPBE – MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: FISICA APPLICATA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Una linea elettrica monofase lunga 400 m alimenta un carico che assorbe una corrente I = 22 A. La linea
+presenta una resistenza rL =4,61 Ω/km.
+Il candidato, fatte le ulteriori ipotesi ritenute necessarie,
+
+
+calcoli l’energia dispersa dalla linea ogni giorno per effetto Joule e quanto tempo servirebbe, se si
+riuscisse a sfruttare tutto questo calore, per aumentare la temperatura di 100 litri d’acqua (4,18 J/g°C)
+da 20°C a 40°C;
+
+
+
+determini il rendimento della linea sapendo che la potenza a destinazione vale 5.000 W;
+
+
+
+descriva i fenomeni legati alle forze che agiscono su i due conduttori;
+
+
+
+illustri gli effetti capacitivi e induttivi (e autoinduttivi) della linea;
+
+
+
+indichi vantaggi e svantaggi di raddoppiare la sezione dei cavi per trasportare la solita corrente.
+
+SECONDA PARTE
+Il candidato, fatte le ulteriori ipotesi ritenute necessarie, risponda a 2 dei quesiti 4 seguenti.
+1.
+2.
+3.
+
+4.
+
+Il candidato descriva il funzionamento delle pale eoliche anche in riferimento alle trasformazioni
+energetiche.
+Il candidato descriva la struttura di un transistor BJT, illustri le possibili applicazioni e in particolare
+come può essere utilizzato come interruttore.
+Un corpo di massa M1 = 10 kg scivola senza attrito su un piano inclinato partendo da fermo, da
+un’altezza pari a 3 m. Il piano ha un’inclinazione pari a 45°. Il candidato determini l’energia posseduta
+dal corpo quando arriva ai piedi del piano. Ipotizzando che il corpo prosegua il suo moto sul piano
+orizzontale senza attrito e urti in modo anelastico un altro corpo fermo con massa M2= 5 kg, il candidato
+determini la velocità dei 2 corpi dopo l’urto e, infine, illustri cosa cambierebbe se il piano orizzontale
+presentasse un coefficiente di attrito α.
+Una mole di gas perfetto monoatomico compie un ciclo termodinamico formato dalle seguenti 3
+trasformazioni tra i punti ABC: la prima dal punto A in B è una trasformazione isobara, la seconda da
+B verso C è invece una trasformazione isoterma infine l’ultima da C verso A è una trasformazione
+isocora.
+Nel punto A VA = 3 m3 PA = 300kPa, in B VB = 9 m3 mentre in C PC = 600kPa.
+Il candidato rappresenti sul piano il ciclo termodinamico, determini la temperatura in A e B
+(R = 8,31 J/mol°K), il calore scambiato nella trasformazione AB; indichi, infine, come calcolare il
+rendimento del ciclo.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

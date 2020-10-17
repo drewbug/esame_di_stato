@@ -1,0 +1,130 @@
+Pag. 1/2
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: DISEGNO, PROGETTAZIONE ORGANIZZAZIONE INDUSTRIALE
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Nell’albero rappresentato in figura, in acciaio UNI EN 10084 - C16, devono essere ricavati:
+1. nel tratto A-B un profilo scanalato;
+2. nel tratto C-D le cave per chiavette tangenziali;
+
+R3
+0
+
+3. nel tratto D-E la cava per linguetta a disco.
+
+40
+
+FRESA
+
+50
+
+D
+
+80
+
+80
+
+Ø48
+
+E
+
+80
+
+Ø40
+
+C
+
+Ø62
+
+B
+
+Ø48
+
+Ø40
+
+A
+
+50
+
+(340)
+
+A. Il candidato completi il dimensionamento dell’albero disegnandolo in scala opportuna
+comprensivo della quotatura, dei raccordi e smussi, nonché delle tolleranze (dimensionali e
+geometriche) e gradi di lavorazione previsti. Si tenga conto che è prevista la produzione di
+n° 50 esemplari presso un’officina meccanica opportunamente attrezzata di tutto il necessario per
+completare l’intera produzione.
+B. Effettui la verifica della resistenza meccanica calcolando le sollecitazioni massime sopportabili.
+C. Effettui il ciclo di lavorazione dell’albero indicando le fasi, gli utensili, gli attrezzi e strumenti di
+misura utilizzabili tenendo anche conto dei trattamenti termici eventualmente previsti.
+
+Pag. 2/2
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITMM – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: DISEGNO, PROGETTAZIONE ORGANIZZAZIONE INDUSTRIALE
+
+SECONDA PARTE
+1. Il candidato sviluppi il tipo di lay-out dell’officina ipotizzando l’assetto funzionale dei macchinari,
+delle aree di approvvigionamento semilavorati e stoccaggio prodotti finiti, nonché di quanto altro
+necessario per la produzione prevista. Nella rappresentazione grafica indichi anche il flusso dei
+materiali in lavorazione.
+2. Disegni le sezioni caratteristiche ribaltate dell’albero in corrispondenza del pezzo.
+3. Calcoli la potenza max necessaria nelle operazioni di tornitura ipotizzando un rendimento
+adeguato del macchinario utilizzato.
+4. Per la produzione dei 50 pezzi nel reparto macchine utensili, la sequenza delle operazioni prevede
+per ciascun pezzo le lavorazioni con la seguente tempistica:
+
+
+TRANCIATRICE
+
+
+
+5
+
+minuti
+
+TORNIO
+
+15
+
+minuti
+
+
+
+FRESATRICE
+
+20
+
+minuti
+
+
+
+RETTIFICATRICE
+
+15
+
+minuti
+
+La sequenza logica con schema a blocchi ripartisce le lavorazioni del ciclo produttivo. Inserire in
+ogni blocco il numero di macchine utilizzabili senza che si interrompa il ciclo o si determinino
+delle attese. Calcolare altresì il tempo totale di lavoro.
+
+___________________________
+Durata massima della prova: 8 ore.
+È consentito soltanto l’uso di tavole numeriche, manuali tecnici e calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

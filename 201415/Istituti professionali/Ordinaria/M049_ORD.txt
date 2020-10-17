@@ -1,0 +1,39 @@
+Pag. 1/1
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M049 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: RR9K - TECNICO DELLE INDUSTRIE ELETTRONICHE
+Tema di: ELETTRONICA, TELECOMUNICAZIONI E APPLICAZIONI
+
+Un segnale V1, con ampiezza compresa tra -0.1 V e 0.1 V, modulato secondo la tecnica PAM
+presenta, limitatamente ai primi componenti, il seguente spettro:
+
+Il candidato, fatte eventuali ipotesi aggiuntive, verifichi che la frequenza di campionamento scelta è
+adeguata e dimensioni il dispositivo che consente di recuperare il segnale V1 di partenza.
+Inoltre considerando che il segnale V1 recuperato, prima di essere trasmesso in tecnica PCM, viene
+inviato al seguente circuito.
+
+Il candidato:
+1.
+
+calcoli la frequenza di cifra per contenere l’errore di quantizzazione entro 0.05 V;
+
+2.
+
+descriva la struttura del sistema e della trama per realizzare la trasmissione in tecnica
+PCM-TDM di 4 segnali con le stesse caratteristiche di V1;
+
+3.
+
+indichi se è possibile utilizzare un canale con banda pari a 32 kHz.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,80 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M553 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+Il candidato svolga la prima parte della prova e due dei quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un motore elettrico, Fig. 1, aziona, tramite una coppia di ruote dentate cilindriche a denti diritti, un
+albero di trasmissione (1) alla cui estremità opposta risulta calettato un disco (2), il quale nella parte
+esterna porta un perno (3). Il perno scorre all’interno di una scanalatura praticata sul particolare (4),
+per la trasformazione del moto rotatorio dell’albero nel moto alternativo dello stesso particolare (4).
+
+Si considerino i seguenti elementi di calcolo:
+-
+
+potenza del motore elettrico
+numero di giri del motore elettrico:
+numero di giri dell'albero di trasmissione (1):
+
+P = 4 kW;
+n1 = 1000 g/min;
+n2 = 250 g/min
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M553 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMM - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+Il candidato, accompagnando il calcolo con considerazioni tecniche congrue e coerenti, dopo aver
+scelto un acciaio per le ruote dentate e per il perno, ed aver fissato con motivati criteri ogni altro
+parametro o elemento di calcolo eventualmente mancante e necessario:
+-
+
+Dimensioni la coppia di ruote dentate cilindriche a denti diritti;
+Dimensioni il diametro del perno (3), in corrispondenza del punto morto superiore.
+
+SECONDA PARTE
+1.
+
+Il candidato, in riferimento all'elaborato scritto, esegua il dimensionamento dell'albero in
+corrispondenza della prima ruota dentata, realizzato in acciaio C40 e sollecitato solo a torsione,
+il dimensionamento della linguetta di calettamento e determini il diametro definitivo dell'albero
+stesso tenuto conto della maggiorazione per la presenza della linguetta.
+
+2.
+
+Il candidato definisca quale organo viene calettato sull’albero di un motore a benzina per rendere
+più uniforme il moto rotatorio, quali i principali parametri per il dimensionamento ed i principali
+elementi costruttivi.
+
+3.
+
+Il candidato, in riferimento alla trasmissione di potenza tra due alberi paralleli, descriva
+sinteticamente le diverse tipologie in funzione dei principali parametri (potenza, distanza, ecc.).
+Per ogni tipologia ne enunci pregi e difetti, corredando le affermazioni con esempi applicativi.
+
+4.
+
+Il candidato, in base alle proprie conoscenze e competenze, descriva sinteticamente le principali
+differenze tra il ciclo Otto e ciclo Diesel, le principali differenze dei rispettivi motori e le loro
+principali applicazioni debitamente motivate.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di tavole numeriche, manuali tecnici e calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

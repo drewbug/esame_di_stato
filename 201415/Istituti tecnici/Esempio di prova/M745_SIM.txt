@@ -1,0 +1,48 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITGT – COSTRUZIONI, AMBIENTE E TERRITORIO
+ARTICOLAZIONE "GEOTECNICO"
+Tema di: TECNOLOGIE GESTIONE DEL TERRITORIO E DELL'AMBIENTE
+ESEMPIO PROVA
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+Progettare il piano di coltivazione di un giacimento di calcari-dolomitici, localizzato in una area
+pianeggiante, su una superficie di circa 70.000 mq. ed uno spessore accertato di 15 metri.
+Il piano di coltivazione dovrà prevedere la bonificata dell’area, utilizzandola come discarica per gli
+scarti di lavorazione di una acciaieria che utilizza il calcare nei processi di fusione.
+L’evoluzione della coltivazione della cava dovrà essere visualizzata graficamente, attraverso piante e
+sezioni, nelle quali siano evidenziate la contemporaneità della coltivazione con la bonifica, sino
+all’esaurimento del giacimento .
+SECONDA PARTE
+A) Calcolare il consumo d’esplosivo necessario per abbattere una parete di roccia di 70 m alta
+12 m utilizzando i seguenti dati:
+Roccia:
+r = 2.769
+kg/m3
+- ss= 1,54 x 10-3 MJ/m2
+C = 4.000
+m/s
+Esplosivo:
+- e = 1.050
+- = 4,31
+- D = 4.550
+
+kg/m3
+MJ/kg
+m/s
+
+Inclinazione dei fori 18 °
+Diametro perforazione dei fori da mina mm
+Diametro dei candelotti d’esplosivo  80 mm
+Dimensione massima abbattuto Dm 0,50 m
+Schema della volata a maglia rettangolare con interasse fori all’80 % del carico di roccia.
+B) La coltivazione con ripiena come e quando si utilizza ?
+C) Quali sono gli elementi da considerare per il dimensionamento della ventilazione nello scavo di
+una galleria?
+D) La differenza tra cava e miniera ?
+_________________________
+Durata massima della prova ore 6
+E’ consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili
+
+

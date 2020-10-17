@@ -1,0 +1,110 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M983 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPA9 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE DI INSTALLAZIONE E DI MANUTENZIONE
+DI APPARATI E IMPIANTI CIVILI E INDUSTRIALI
+Tipologia b
+Il candidato (che potrà avvalersi delle conoscenze e competenze maturate attraverso esperienze di
+alternanza scuola-lavoro, stage o formazione in azienda) svolga la prima parte della prova e due
+tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+WebAssistant è una società che offre servizi di manutenzione hardware e software alle infrastrutture
+informatiche di enti della Pubblica Amministrazione (ad es. comuni, aziende sanitarie, aziende
+municipalizzate ecc….).
+Il servizio offerto prevede una struttura di pronto intervento, composta da tecnici che operano presso
+la sede di WebAssistant e garantiscono telemanutenzione e teleassistenza a favore di ciascuna
+struttura che viene assistita (come ospedali, poliambulatori, sedi comunali ecc….); tali tecnici poi, in
+caso di necessità, svolgono interventi di manutenzione diretta in loco. I dipendenti della struttura
+assistita, quando rilevano problemi hardware o software ai dispositivi informatici (PC desktop,
+portatili, tablet, apparati di rete…), segnalano il problema ai tecnici di WebAssistant, o contattandoli
+telefonicamente ad un numero verde o interagendo tramite un’applicazione di assistenza remota
+installata sul proprio PC. Quando si rende necessario un intervento di manutenzione diretta in loco
+presso la struttura assistita, WebAssistant rende disponibile ai propri tecnici un kit di pronto
+intervento.
+Il candidato
+1.
+
+descriva tecniche e strumenti di svolgimento dell’attività di telemanutenzione e teleassistenza
+che WebAssistant può realizzare, anche formulando ulteriori ipotesi aggiuntive;
+
+2.
+
+descriva la procedura di teleassistenza da seguire in caso di uno specifico guasto hardware (a
+scelta del candidato) ad un personal computer, segnalato per via telefonica al numero verde;
+
+3.
+
+elenchi le strumentazioni che ritiene debba contenere il kit di pronto intervento in dotazione ai
+tecnici di WebAssistant;
+
+4.
+
+ipotizzando che si verifichi un guasto hardware alla scheda video del personal computer,
+definisca la procedura di sostituzione della scheda stessa, svolta in loco dai tecnici di
+WebAssistant, approfondendo anche le misure da adottare perché l’intervento sia effettuato nel
+rispetto della normativa sulla sicurezza; descriva poi la procedura di collaudo del corretto
+funzionamento hardware e software della scheda video sostituita;
+
+5.
+
+descriva, eventualmente servendosi di una rappresentazione grafica, la struttura del documento
+utilizzato per registrare l’intervento di assistenza effettuato.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M983 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPA9 – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE DI INSTALLAZIONE E DI MANUTENZIONE
+DI APPARATI E IMPIANTI CIVILI E INDUSTRIALI
+Tipologia b
+SECONDA PARTE
+1.
+
+In riferimento al tema proposto nella prima parte, il candidato illustri un ipotetico piano di
+manutenzione programmata hardware e software delle attrezzature informatiche presenti nella
+struttura assistita, a corredo di una proposta di contratto di manutenzione e assistenza tecnica. Si
+ipotizzi che le attrezzature informatiche disponibili ammontino a 120 PC collegati in rete locale,
+30 stampanti laser, 10 stampanti a getto d’inchiostro, 10 switch, 1 modem/router ADSL, un
+firewall.
+
+2.
+
+In riferimento al tema proposto nella prima parte, il candidato immagini che la struttura assistita
+voglia espandere la propria rete LAN, aggiungendo 15 computer in una nuova ala dell’edificio.
+Il candidato descriva, anche tramite uno schema, gli interventi necessari sull’impianto elettrico
+oppure sulla rete LAN.
+
+3.
+
+Il candidato esponga i concetti di Affidabilità, Disponibilità, Manutenibilità e Sicurezza riferiti a
+dispositivi o apparati informatici.
+
+4.
+
+Il lessico del settore informatico è caratterizzato dall’uso frequente di termini tecnici in lingua
+inglese, riferiti tra l’altro a dispositivi (es. motherboard), apparati (es. router), programmi (es.
+wordprocessor) o attività/protocolli (es. netmask). Il candidato scelga quattro termini tecnici in
+lingua inglese ed illustri brevemente in italiano (sia a parole che eventualmente con schemi) la
+realtà a cui tali termini si riferiscono, immaginando di dovere dare spiegazioni illustrative ad un
+cliente non esperto del settore.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici tascabili non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dall'inizio della prova.
+
+

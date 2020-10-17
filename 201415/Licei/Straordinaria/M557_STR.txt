@@ -1,0 +1,225 @@
+Pag. 1/4
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M557 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03, EA09 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+Stai seguendo un corso, nell'ambito dell'orientamento universitario, per la preparazione agli studi di
+Medicina. Il docente introduce la lezione dicendo che un medico ben preparato deve disporre di
+conoscenze, anche matematiche, che permettano di costruire modelli ed interpretare i dati che definiscono
+lo stato di salute e la situazione clinica dei pazienti. Al tuo gruppo di lavoro viene assegnato il compito di
+preparare una lezione sul tema: "come varia nel tempo la concentrazione di un farmaco nel sangue?".
+Se il farmaco viene somministrato per via endovenosa, si ipotizza per semplicità che la concentrazione
+del farmaco nel sangue raggiunga subito il valore massimo e che immediatamente inizi a diminuire, in
+modo proporzionale alla concentrazione stessa; nel caso che il docente ti ha chiesto di discutere, per ogni
+ora che passa la concentrazione diminuisce di 1/7 del valore che aveva nell’ora precedente.
+1.
+
+Individua la funzione 𝑦(t) che presenta l’andamento richiesto, ipotizzando una concentrazione
+𝜇𝑔
+iniziale 𝑦(0) = 1 𝑚𝑙 (microgrammi a millilitro) e rappresentala graficamente in un piano cartesiano
+𝜇𝑔
+
+avente in ascisse il tempo t espresso in ore e in ordinate la concentrazione espressa in 𝑚𝑙.
+Se invece la somministrazione avviene per via intramuscolare, il farmaco viene dapprima iniettato nel
+muscolo e progressivamente passa nel sangue. Si ipotizza pertanto che la sua concentrazione nel sangue
+aumenti per un certo tempo, raggiunga un massimo e poi inizi a diminuire con un andamento simile a
+quello riscontrato nel caso della somministrazione per via endovenosa.
+2.
+
+Scegli tra le seguenti funzioni quella che ritieni più adatta per rappresentare l’andamento descritto per
+il caso della somministrazione per via intramuscolare, giustificando la tua scelta:
+
+𝑦(𝑡) = 1 −
+
+(𝑡−4)2
+16
+
+𝑦(𝑡) = 𝑠𝑒𝑛(3𝑡) ∙ 𝑒 −𝑡
+𝑦(𝑡) = −𝑡 3 + 3𝑡 2 + 𝑡
+𝑦(𝑡) =
+
+7
+
+𝑡
+
+𝑡
+
+(𝑒 −7 − 𝑒 −5 )
+2
+
+Pag. 2/4
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M557 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03, EA09 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+
+Tema di: MATEMATICA
+3.
+
+traccia il grafico della funzione scelta in un piano cartesiano avente in ascisse il tempo t espresso in
+𝜇𝑔
+ore e in ordinate la concentrazione y espressa in 𝑚𝑙 e descrivi le sue caratteristiche principali, in
+rapporto al grafico della funzione relativa alla somministrazione per via endovenosa.
+Per evitare danni agli organi nei quali il farmaco si accumula è necessario tenere sotto controllo la
+concentrazione del farmaco nel sangue. Supponendo che in un organo il farmaco si accumuli con una
+𝜇𝑔
+velocità v, espressa in 𝑚𝑙 ∙ℎ, proporzionale alla sua concentrazione nel sangue:
+𝑣(𝑡) = 𝑘 ∙ 𝑦(𝑡)
+
+4.
+
+determina la quantità totale di farmaco accumulata nell’organo nel caso della somministrazione
+endovenosa e di quella intramuscolare studiate in precedenza. In quale delle due l’accumulo sarà
+maggiore?
+
+PROBLEMA 2
+Sia f la funzione definita da 𝑦(𝑥) = (4𝑥 − 2) ∙ 𝑒 2𝑥 .
+1.
+
+Dimostra che la funzione possiede un unico punto di minimo e un unico punto di flesso. Calcola le
+coordinate del minimo e del flesso e traccia il grafico Gf della funzione;
+
+2.
+
+Dimostra che la funzione 𝑔(𝑥) = (−4𝑥 − 2) ∙ 𝑒 −2𝑥 è simmetrica a f rispetto all’asse y e tracciarne il
+grafico Gg;
+
+3.
+
+Detti P e Q i punti di intersezione rispettivamente del grafico Gf e del grafico Gg con l’asse x,
+determina l’area A della porzione di piano delimitata dal segmento PQ e dai grafici Gf e Gg;
+
+4.
+
+Sia fa la famiglia di funzioni definite da 𝑓𝑎 (𝑥) = (2𝑎𝑥 − 2) ∙ 𝑒 𝑎𝑥 ,con a    0. Per ogni funzione
+fa la tangente al grafico nel punto di flesso interseca l’asse x e l’asse y delimitando un triangolo
+rettangolo. Determina i valori di a per i quali tale triangolo è anche isoscele, spiegando il
+procedimento seguito.
+
+Pag. 3/4
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M557 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03, EA09 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+
+Tema di: MATEMATICA
+QUESTIONARIO
+1.
+
+Determinare il volume del solido generato dalla rotazione attorno alla retta di equazione y  3 della
+regione di piano delimitata dalla curva di equazione 𝑦 = 𝑥 3 − 3𝑥 + 3 e dalla retta stessa.
+
+2.
+
+Verificare che la funzione:
+𝑓(𝑥) =
+
+1
+1
+3𝑥
+
++1
+ha una discontinuità di prima specie (“a salto”), mentre la funzione:
+𝑥
+𝑓(𝑥) = 1
+3𝑥 + 1
+ha una discontinuità di terza specie (“eliminabile”).
+3.
+
+Durante il picco massimo di un’epidemia di influenza il 15% della popolazione è a casa ammalato:
+a) qual è la probabilità che in una classe di 20 alunni ce ne siano più di due assenti per l’influenza?
+b) descrivere le operazioni da compiere per verificare che, se l’intera scuola ha 500 alunni, la
+probabilità che ce ne siano più di 50 influenzati è maggiore del 99%.
+
+4.
+
+Nello spazio sono dati due piani α e β rispettivamente di equazione:
+α) 𝑥 − 3𝑦 + 𝑧 − 5 = 0
+β) 𝑥 + 2𝑦 − 𝑧 + 3 = 0
+Dopo aver determinato l'equazione parametrica della retta r da essi individuata verificare che essa
+appartiene al piano γ di equazione 3𝑥 + 𝑦 − 𝑧 + 1 = 0.
+
+5.
+
+Considerata la parabola di equazione 𝑦 = 4 − 𝑥 2 , nel primo quadrante ciascuna tangente alla
+parabola delimita con gli assi coordinati un triangolo. Determinare il punto di tangenza in modo che
+l’area di tale triangolo sia minima.
+
+6.
+
+Determinare la funzione densità di probabilità di una variabile casuale continua che assume valori
+nell’intervallo [2, 5] con una distribuzione uniforme. Determinare inoltre il valore medio, la varianza,
+7
+17
+la deviazione standard di tale variabile e la probabilità che sia ≤ 𝑥 ≤ .
+3
+
+4
+
+Pag. 4/4
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M557 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03, EA09 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+
+Tema di: MATEMATICA
+7.
+
+Calcolare il valor medio della funzione
+
+𝑓(𝑥) = {
+
+𝑥−1 1 ≤𝑥 ≤3
+𝑒 𝑥−3 + 1 3 < 𝑥 ≤ 6
+
+nell’intervallo [1, 6] e determinare il valore della x in cui la funzione assume il valore medio.
+8.
+
+Una sfera ha il raggio che aumenta al passare del tempo secondo una data funzione r(t). Calcolare il
+raggio della sfera nell’istante in cui la velocità di crescita della superficie sferica e la velocità di
+crescita del raggio sono numericamente uguali.
+
+9.
+
+In un riferimento cartesiano nello spazio Oxyz, data la retta r di equazioni:
+𝑥 = 2𝑡 + 1
+{𝑦 = 1+𝑡
+𝑧 = 𝑘𝑡
+e il piano P di equazione:
+𝑥 + 2𝑦 − 𝑧 + 2 = 0,
+determinare per quale valore di k la retta r e il piano P sono paralleli, e la distanza tra di essi.
+
+10. Scrivere l’equazione della circonferenza C che ha il centro sull’asse y ed è tangente al grafico Gf
+di 𝑓(𝑥) = 𝑥 3 − 3𝑥 2 nel suo punto di flesso.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

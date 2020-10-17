@@ -1,0 +1,106 @@
+Pag. 1/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAI – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAI - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Un supermercato è alimentato in bassa tensione dall’Ente distributore con sistema TT. La potenza
+contrattuale è pari a 120 kW ed il contatore trifase è situato sul confine di proprietà.
+Nell’attività sono identificabili le seguenti zone:
+-
+
+zona uffici, con potenza assorbita 10 kW
+
+-
+
+zona vendita prodotti non deperibili con potenza assorbita 15 kW
+
+-
+
+zona vendita prodotti deperibili con presenza di banchi frigo e frigoriferi per la conservazione delle
+merci, con potenza assorbita 65 kW
+
+-
+
+centrale termica e di condizionamento, con potenza assorbita 30 kW.
+
+In ogni zona è presente un quadro elettrico derivato dal quadro elettrico generale di edificio.
+É inoltre presente un gruppo elettrogeno di emergenza con commutazione automatica sul quadro
+generale, ad esclusivo servizio della zona vendita prodotti deperibili in caso di mancanza rete dell’Ente
+distributore.
+Il candidato fatte le opportune ipotesi:
+1.
+
+descriva le caratteristiche dei dispositivi presenti in un quadro di zona di sua scelta;
+
+2.
+
+dovendo sostituire la dorsale di alimentazione del quadro precedentemente scelto, lunga 60 metri,
+determini la sezione del cavo in grado di garantire una caduta di tensione inferiore al 4%;
+
+3.
+
+illustri, anche tramite diagramma, la sequenza delle fasi operative fino al collaudo per la
+sostituzione del gruppo elettrogeno;
+
+4.
+
+indichi le verifiche e gli interventi di manutenzione da effettuare sulle macchine per la produzione
+di calore a combustibile;
+
+5.
+
+proponga un format per la registrazione degli interventi effettuati.
+
+Pag. 2/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPAI – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAI - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE INSTALLAZIONE E MANUTENZIONE
+APPARATI IMPIANTI CIVILI INDUSTRIALI
+SECONDA PARTE
+1.
+
+Con riferimento alla prima parte della prova, supposto di installare un secondo gruppo elettrogeno
+in parallelo di eguali caratteristiche e sapendo che i gruppi elettrogeni hanno un MTBF (Mean
+Time Between Failure) pari a 250 ore, e che mediamente vengono utilizzati per 20 ore all’anno, il
+candidato determini l’affidabilità del sistema dopo 5 anni.
+
+2.
+
+Con riferimento alla prima parte della prova, il candidato, fatte le considerazioni che ritiene
+opportune, pianifichi l’intervento di installazione e collaudo del gruppo elettrogeno, valuti i rischi
+e gli aspetti organizzativi del lavoro in relazione alla sicurezza, avendo cura di descrivere quali
+mezzi, attrezzature e risorse umane prevede di utilizzare.
+
+3.
+
+Il candidato rediga un computo metrico di offerta per l’installazione fino al collaudo di 2 banchi
+frigo e proponga un contratto di manutenzione annuale da sottoporre al cliente.
+
+4.
+
+La caldaia di alimentazione dell’acqua calda sanitaria deve soddisfare il seguente fabbisogno
+istantaneo: portata 1 litro/s; salto termico rispetto al serbatoio di accumulo di 15°C; il candidato,
+motivando la risposta, stabilisca il rendimento dell’impianto e determini la potenza della caldaia.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

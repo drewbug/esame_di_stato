@@ -1,0 +1,117 @@
+Pag. 1/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I177 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+Tema di: SISTEMI E RETI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un istituto scolastico decide di dotarsi di un nuovo sistema di teleriscaldamento rispondente alle
+nuove tecnologie IoT (Internet of Things) per il miglioramento energetico. Il nuovo sistema è
+composto da termostati intelligenti che verranno inseriti in ogni locale per monitorare le temperature
+di ogni parte dell’edificio e di apposite valvole comandate da inserire in ogni radiatore presente
+all’interno della struttura per regolare precisamente la temperatura; tutti i dispositivi saranno in
+tecnologia wireless. Tutti i termostati e gli attuatori dialogheranno tra loro per regolare la temperatura
+di ogni singolo locale in base alle esigenze e alle impostazioni. La caldaia dell’edificio sarà
+telecontrollata mediante un apposito dispositivo connesso alla rete LAN dell’edificio. A servizio del
+sistema di teleriscaldamento sarà realizzata una nuova infrastruttura WiFi, che sarà installata
+sfruttando l’attuale rete LAN dati a servizio dell’attività didattica, composta da uno switch di piano,
+per un totale di 4 piani (dove sono attestate tutte le utenze), da un firewall e da un router per la
+connessione verso la rete internet esterna, secondo lo schema seguente:
+
+Pag. 2/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I177 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+Tema di: SISTEMI E RETI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+I dati rilevati permetteranno di regolare la temperatura dell’edificio nell’ottica dell’efficienza
+energetica e, insieme ai dati provenienti da altri edifici dotati di sistemi analoghi, saranno raccolti in
+un server remoto presso la sede dell’ufficio scolastico regionale.
+Il candidato, sulla base delle specifiche descritte e fatte le eventuali ipotesi aggiuntive ritenute
+necessarie:
+A) rappresenti graficamente lo schema della rete wireless a servizio del sistema di teleriscaldamento,
+utilizzando l’attuale rete presente nell’edificio, logicamente separata dalla rete didattica; si
+devono prevedere l’installazione di almeno 6 access point per piano e proporre le necessarie
+modifiche alla rete esistente;
+B) organizzi il piano di indirizzamento IP per tutto il sistema di sensori e attuatori, considerando 12
+locali per ogni piano in cui inserire un termostato e un attuatore per radiatore in ogni locale;
+predisponga inoltre la nuova configurazione per il router in grado di gestire le due reti
+logicamente separate;
+C) predisponga una connessione criptata per permettere ai sensori di inviare i dati al server remoto
+tramite la rete internet, definendo la corretta configurazione del firewall già presente nella rete e
+indicando una possibile configurazione per il router;
+D) proponga un’opportuna infrastruttura per impedire alla rete didattica di accedere ai sensori per il
+controllo del riscaldamento, eventualmente inserendo anche nuovi apparati.
+
+Pag. 3/3
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I177 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITTL - INFORMATICA E TELECOMUNICAZIONI
+ARTICOLAZIONE TELECOMUNICAZIONI
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+Tema di: SISTEMI E RETI
+Tipologia: C (Art. 9 Comma 2 D.M. 10 del 29.01.2015)
+SECONDA PARTE
+Il candidato scelga due fra i seguenti quesiti e per ciascun quesito scelto formuli una risposta della
+lunghezza massima di 20 righe esclusi eventuali grafici, schemi e tabelle.
+1.
+
+In riferimento alla prima parte della prova, l’istituto scolastico intende rendere fruibili al pubblico
+i dati di efficienza energetica dell’edificio, tramite un sito internet ospitato in un apposito server.
+I dati da illustrare saranno raccolti sul server stesso ed elaborati per la presentazione. Il candidato
+illustri una possibile architettura, nell’ottica della sicurezza informatica e della riservatezza dei
+dati, per ospitare il sito Web, esplicitando le configurazioni degli apparati coinvolti.
+
+2.
+
+In riferimento alla prima parte della prova, ipotizzare che i termostati inviino le misure di
+temperatura sotto forma di testo con il seguente formato:
+inizio;
+sensore indirizzo-numerico-sensore;
+data giorno-mese-anno;
+ora ore-minuti;
+temperatura rilevata valore temperatura;
+fine
+Descrivere, tramite un linguaggio a scelta o con lo pseudo linguaggio, un socket di
+comunicazione client-server adatto alla trasmissione del testo sopra indicato.
+
+3.
+
+Un’azienda decide di investire in sicurezza informatica dotando la propria rete di una opportuna
+DMZ controllata da un firewall. Avendo ricevuto attacchi di tipo IP Spoofing e IP Smurfing,
+l’azienda necessita di configurare il nuovo firewall contro tale minaccia. Dopo aver indicato una
+possibile architettura per la DMZ con apparati a scelta, indicare la possibile configurazione per
+evitare gli attacchi sopra indicati.
+
+4.
+
+In un edificio scolastico nel quale l’attuale rete già presente risulta composta da due server dati
+e da 52 host tutti indirizzati in modo statico, si vuole inserire un nuovo server DHCP, per poter
+permettere ai portatili di studenti e docenti di connettersi liberamente. Il candidato indichi una
+possibile soluzione hardware, una configurazione per implementare tale servizio e le procedure
+da seguire su tutta la rete per mettere in esercizio il nuovo apparato creando il minimo disservizio.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

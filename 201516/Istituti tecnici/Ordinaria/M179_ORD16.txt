@@ -1,0 +1,432 @@
+Pag. 1/5
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M179 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMP - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELLE MATERIE PLASTICHE
+Tema di: TECNOLOGIE MECCANICHE E PLASTURGICHE, DISEGNO ED ORGANIZZAZIONE
+INDUSTRIALE
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Si vuole sviluppare la realizzazione di un seggiolino per altalena di cui sono assegnati le seguenti
+specifiche di massima: dimensioni 360x160x190 mm, spessore parete 3,5 mm, carico massimo 70
+kg.
+Il candidato, avvalendosi delle schede tecniche allegate e assumendo con giustificato criterio ogni
+altro dato, esegua:
+-
+
+la scelta del materiale della fune, tra quelli proposti nelle schede tecniche;
+
+-
+
+il dimensionamento della fune nell’ipotesi che essa abbia un’area della sezione resistente pari a
+0,45 dell’area della sezione lorda;
+
+-
+
+il disegno di massima della seduta, appropriato alla tecnologia scelta per la fabbricazione,
+specificando il materiale impiegato;
+
+-
+
+Indipendentemente dalla tecnologia impiegata, fare un confronto degli investimenti nell’ipotesi
+di due differenti cicli di fabbricazione della seduta, caratterizzati dai dati riportati in tabella (Ciclo
+A e Ciclo B). Calcolare il volume di produzione per cui l’uno diventa più conveniente dell’altro;
+Condizioni
+
+Ciclo di fabbricazione
+A
+
+B
+
+Pezzi prodotti per
+ogni ciclo
+
+4
+
+16
+
+Tempo ciclo [s]
+
+20
+
+32
+
+Costo stampi [€]
+
+55.000,00
+
+65.000,00
+
+Costi orari [€/h]
+
+36
+
+54
+
+Figura. Seggiolino
+
+Pag. 2/5
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M179 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMP - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIE DELLE MATERIE PLASTICHE
+Tema di: TECNOLOGIE MECCANICHE E PLASTURGICHE, DISEGNO ED ORGANIZZAZIONE
+INDUSTRIALE
+SECONDA PARTE
+1.
+
+Con riferimento alla parte 1, il candidato analizzi le tecniche di riciclo della seduta a fine uso
+mettendole a confronto e illustri le fasi del processo di una delle tecniche analizzate.
+
+2.
+
+Il candidato, tra le tecnologie tradizionali e non tradizionali idonee alla costruzione della figura
+di stampo della seduta del seggiolino altalena, ne individui una per tipologia e ne faccia il
+confronto. Illustri poi il processo di asportazione del materiale con la tecnologia non tradizionale.
+
+3.
+
+Il candidato esegua il disegno della colonna di guida di cui in figura 1 completo di tolleranze
+dimensionali, geometriche, indicazione della qualità di finitura superficiale ed eventuali
+trattamenti termici.
+
+4.
+
+Il candidato imposti il ciclo di lavorazione della colonna di figura 1 nell’ipotesi di un volume di
+produzione di larga serie.
+
+La colonna guida stampo di figura 1 è montata sulla piastra (tronco D1) con bloccaggio leggero non
+smontabile a mano. Nelle fasi di chiusura e apertura stampo il tronco diametro D funge da guida in
+accoppiamento con la bussola di figura 2.
+Figura 1. Colonna
+
+Figura 2. Bussola
+
+Materiale Colonna
+Dimensioni Bussola [mm]
+Acciaio UNI 16CrNi4
+D = 20; L = 46; D1 = 28; D2 = 32
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/5
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+SCHEDE TECNICHE
+ABS
+Allungamento a rottura
+Contropressione
+Corsa dosaggio
+Cuscino
+Densità
+Essiccamento
+Modulo di elasticità
+Pressione di mantenimento
+Pressione d'iniezione
+Resistenza Trazione
+Ritiro
+Temperatura fuso
+Temperatura stampo
+Velocità periferica vite
+
+Copolimero ABS
+15 - 30
+50 - 150
+0.5 - 4 D
+2-8
+1,02 - 1,21
+2 ore a 70
+1300 – 2700
+30% - 60%
+1000 - 1500
+32 - 45
+0.4 - 0.7
+200 - 270
+50 - 90
+0.6
+
+PA6
+Allungamento a rottura
+Contropressione
+Corsa dosaggio
+Cuscino
+Densità
+Essiccamento
+Modulo di elasticità
+Pressione di mantenimento
+Pressione d'iniezione
+Resistenza Trazione
+Ritiro
+Temperatura fuso
+Temperatura stampo
+Velocità periferica vite
+
+Poliammide 6
+200 - 300
+20 - 80
+0.5 - 3.5
+2-6
+1.13
+8 / 15
+1400
+50 % Pi
+1000 - 1600
+70 - 85
+0.8 - 2.5
+240 -290
+60 – 120
+<1
+
+Amorfo
+%
+bar
+mm
+mm
+g/cm3
+ore/°C
+MPa
+bar
+bar
+N/mm2
+%
+°C
+°C
+m/s
+
+Semicristallino
+%
+bar
+Dmm
+mm
+g/cm3
+ore/°C
+MPa
+bar
+bar
+N/mm2
+%
+°C
+°C
+m/s
+
+Pag. 4/5
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PC
+Allungamento a rottura
+Contropressione
+Corsa dosaggio
+Cuscino
+Densità
+Essiccamento
+Modulo di elasticità
+Pressione di mantenimento
+Pressione d'iniezione
+Resistenza Trazione
+Ritiro
+Temperatura fuso
+Temperatura stampo
+Velocità periferica vite
+
+PE-HD
+Allungamento a rottura
+Contropressione
+Corsa dosaggio
+Cuscino
+Densità
+Essiccamento
+Modulo di elasticità
+Pressione di mantenimento
+Pressione d'iniezione
+Resistenza Trazione
+Ritiro
+Temperatura fuso
+Temperatura stampo
+Velocità periferica vite
+
+Policarbonato
+100 - 130
+100 - 150
+0.5 - 3.5 D
+2–6
+1.2
+4 ore a 110
+2100 – 2400
+40 - 60 % Pi
+1300 – 1800
+56 - 67
+0.6 - 0.8
+270 - 320
+80 - 120
+0.6
+
+Polietilene HD
+100 – 1000
+50 – 200
+0.5 - 4 D
+2-8
+0.94 - 0.928
+700 - 1400
+30 - 60 % Pi
+800 – 1400
+18 - 35
+1,5 - 3
+180 - 250
+10 - 60
+< 1.3
+
+Amorfo
+%
+bar
+mm
+mm
+g/cm3
+ore/°C
+MPa
+bar
+bar
+N/mm2
+%
+°C
+°C
+m/s
+
+Semicristallino
+%
+bar
+mm
+mm
+g/cm3
+ore/°C
+MPa
+bar
+bar
+N/mm2
+%
+°C
+°C
+m/s
+
+Pag. 5/5
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PMMA
+Allungamento a rottura
+Contropressione
+Corsa dosaggio
+Cuscino
+Densità
+Essiccamento
+Modulo di elasticità
+Pressione di mantenimento
+Pressione d'iniezione
+Resistenza Trazione
+Ritiro
+Temperatura fuso
+Temperatura stampo
+Velocità periferica vite
+
+PP
+Allungamento a rottura
+Contropressione
+Corsa dosaggio
+Cuscino
+Densità
+Essiccamento
+Modulo di elasticità
+Pressione di mantenimento
+Pressione d'iniezione
+Resistenza Trazione
+Ritiro
+Temperatura fuso
+Temperatura stampo
+Velocità periferica vite
+
+Polimetilmetacrilato
+2 - 10
+100 - 300
+= 0,6 m/s
+0.5 - 3 D
+1.17 - 1.20
+2 - 6 ore a
+1600 – 3600
+40 - 60 % Pi
+1000 – 1700
+50 - 77
+0.3 - 0.8
+190 - 270
+40 - 90
+-
+
+Polipropilene
+20 - 80
+50 - 200
+0.5 - 4 D
+2-8
+0.90 - 0.97
+1100 - 1300
+30 - 60% Pi
+800 - 1400
+21 - 37
+1.3 - 2.5
+200 - 270
+20 - 90
+< 1.3
+
+Amorfo
+%
+bar
+mm
+mm
+g/cm3
+ore/°C
+MPa
+bar
+bar
+N/mm2
+%
+°C
+°C
+m/s
+
+Semicristallino
+%
+bar
+mm
+mm
+g/cm3
+ore/°C
+MPa
+bar
+bar
+N/mm2
+%
+°C
+°C
+m/s
+
+

@@ -1,0 +1,94 @@
+Pag. 1/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEN – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+Come sappiamo dalle nozioni di dinamica ogni veicolo in movimento possiede un’energia cinetica;
+nel corso di una forte decelerazione (ad esempio una brusca frenata) una parte di questa energia
+viene trasformata attraverso l’uso dei freni sotto forma di calore.
+Sono presenti sul mercato dispositivi in grado di recuperare parzialmente questa quantità di energia,
+immagazzinarla e poi cederla sotto forma di un surplus di potenza da utilizzare all’occorrenza, in
+fase di accelerazione.
+Alcune soluzioni utilizzano una massa rotante (volano) per immagazzinare e rilasciare l’energia
+parzialmente l’energia cinetica posseduta dal veicolo. Il volano in argomento è collegato, tramite
+frizione, ad un sistema di trasmissione a variazione continua. Nella versione elettrica di queste
+soluzioni, la parte elettrica del sistema è composta da un motore-alternatore collegato a una serie di
+accumulatori elettrici (batterie).
+In fase di frenata il motore funge da alternatore trasformando l’energia meccanica prodotta in
+energia elettrica, con la quale vengono caricate delle batterie al litio. Viceversa al momento
+dell’accelerazione il procedimento sarà inverso, le pile, caricate precedentemente, alimentano il
+motore elettrico che interviene in aiuto del propulsore termico e fornisce così un surplus di potenza.
+Presumibilmente tra fase di frenata/accumulo e fase di accelerazione/rilascio, il sistema è in grado
+di recuperare complessivamente non più del 40% dell’energia cinetica del veicolo.
+
+PRIMA PARTE
+Per un’autovettura “ibrida” (automobile dotata di motore termico a ciclo Otto e di motore elettrico)
+utilizzata esclusivamente come taxi e pertanto attiva quasi esclusivamente in percorsi cittadini
+(velocità massima 50 - 70 km/h), si vuole utilizzare un “sistema a recupero di energia” in grado di
+fornire al veicolo una potenza “recuperata” pari a 34 kW per un tempo continuato di circa 8 sec.
+
+Pag. 2/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ITEN – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: MECCANICA, MACCHINE ED ENERGIA
+
+Il candidato, ipotizzando secondo “la buona regola dell’arte” tutti gli eventuali dati mancanti e
+facendo uso del “Manuale di Meccanica”, proceda ad un dimensionamento di massima del volano
+tenendo conto dei dati di seguito elencati:
+ Peso a pieno carico dell’autovettura: 1450 kg
+ Velocità angolare del volano: min. 4.000 Max. 40.000 [giri/min]
+ Materiale composito (composto Acciaio/Carbonio: densità = 8600 kg/m3 σRott = 980 N/mm2)
+ N° 150 frenate/sosta/partenza ogni 100 km
+
+SECONDA PARTE
+Il candidato, continuando ad ipotizzare tutti gli eventuali dati mancanti, risponda inoltre a due dei
+quattro quesiti di seguito indicati:
+1.
+
+Nell’ipotesi che il “taxi” di cui alla parte prima, effettua non meno di 120.000 km/anno, il
+candidato calcoli infine il risparmio energetico in termini di combustibile.
+
+2.
+
+Nell’ipotesi che il “taxi” effettui non meno di 120.000 km/anno, e che la combustione di un litro
+di benzina produca 2,3035 kg di CO2, il candidato calcoli il risparmio di inquinamento in termini
+di CO2.
+
+3.
+
+Dimensionare staticamente un albero di trasmissione, realizzato in acciaio da bonifica C40,
+sollecitato a flesso-torsione dai seguenti momenti:
+
+4.
+
+
+
+Momento flettente ………………Mflett. = 1.290.000 [Nmm]
+
+
+
+Momento torcente….……………Mtorc = 1.500.000 [Nmm]
+
+Un impianto frenante realizzato con freno a disco, per ogni frenata dissipa in calore un’energia
+cinetica pari a 240 kJ; se il disco è in acciaio (calore specifico dell’acciaio: kCal/kg°C) e pesa
+1,2 kg, quanto vale l’incremento di temperatura ad ogni frenata?
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

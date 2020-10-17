@@ -1,0 +1,60 @@
+Pag. 1/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I241 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCT - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI MEZZO AEREO
+Il candidato svolga il tema indicato nella prima parte e risponda a due soli quesiti tra i quattro
+proposti nella seconda parte
+PRIMA PARTE
+Un velivolo biturboelica sta volando in crociera, alla quota di 4500 m (in Aria Tipo) e alla velocità di
+480 [km/h], quando incontra una raffica verticale verso l’alto di 12.5 [m/s]. L’aeroplano, con ala a
+sbalzo rettangolare e C’p ͚ di 6,28 rad-1, presenta, al momento della turbolenza, le seguenti
+caratteristiche :
+ W (peso) = 350 kN
+ W/S (carico alare) = 2,45 kN/m²
+ b (apertura alare) = 32,0 m
+ a (distanza fra le sezioni di incastro delle due semiali) = 2,60 m
+ mc (massa di combustibile stivata in ciascuna semiala) = 1200 kg
+ bc (estensione lungo l’apertura alare dei serbatoi alari, a partire dall’incastro alare) = 12,5 m
+ mm (massa di un motore) = 508 kg
+ bm (distanza del baricentro del motore dall’incastro alare) = 8,65 m
+Il candidato, assegnando con appropriati criteri tecnici i dati mancanti e ipotizzando che l’effetto della
+raffica sia istantaneo e il peso proprio della struttura alare sia trascurabile, determini e rappresenti
+graficamente il momento flettente ed il taglio, indotti dai carichi verticali, che sollecitano la struttura
+di ciascuna semiala, prima e durante la turbolenza. Si proponga, infine, una tipologia strutturale
+dell’ala in grado di sopportare le sollecitazioni calcolate.
+
+Pag. 2/2
+
+Sessione suppletiva 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I241 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCT - TRASPORTI E LOGISTICA
+ARTICOLAZIONE COSTRUZIONE DEL MEZZO
+OPZIONE COSTRUZIONI AERONAUTICHE
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI MEZZO AEREO
+SECONDA PARTE
+1) Calcolare la massima autonomia oraria, per il velivolo di cui sopra, ipotizzando un consumo
+specifico di 0,28 kg/kWh alla quota di 17.500 ft.
+2) Il candidato illustri le funzioni svolte dall’impianto di pressurizzazione e condizionamento in un
+moderno velivolo da trasporto commerciale.
+3) Considerando un velivolo di architettura classica, il candidato illustri le funzioni svolte dal piano
+orizzontale di coda dal punto di vista dell’equilibrio e della stabilità longitudinale dell’aeroplano.
+4) Volo librato: il candidato individui le condizioni necessarie perché un velivolo possa salire di
+quota, corredando la risposta con un esempio numerico riferito ad un aliante.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

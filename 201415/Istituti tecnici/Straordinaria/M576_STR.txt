@@ -1,0 +1,111 @@
+Pag. 1/2
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M576 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+In navigazione nel Nord Pacifico con Pv = 77,5° e velocità, letta al solcometro elettromagnetico,
+v = 14,4 nodi, nella mattinata del 02.07.2015, dalla posizione stimata ( = 38° 00’,0 N;
+λ = 179° 39’,0 W), al Tc = 10h 20m 22s, si osserva il Sole per: hio = 63°20’,0.
+A mezzodì vero di bordo lo si osserva, ancora, per: hio = 74°46’,4.
+Al crepuscolo vespertino dello stesso giorno si osservano i seguenti astri:
+Tc = 08h 15m 24s
+Tc = 08h 16m 54s
+Tc = 08h 18m 42s
+
+Spica
+Denebola
+Astro X
+
+as = 213,0°
+as = 257,0°
+hi = 45°49’,9
+
+h = +3’,0
+h = - 0’,5
+av = 322,7°
+
+Sono noti: K = -18s ; γc = +1’,2; e = 15m.
+La zona di navigazione è interessata da una corrente di ac = Est; vc = 1,6 nodi e da un vento da SE
+che produce uno scarroccio stimato: lsc = 1° (valore assoluto).
+Il candidato determini:
+1) il PN per l’istante dell’ultima osservazione, giustificando le scelte effettuate;
+2) il tempo medio legale corrispondente.
+
+SECONDA PARTE
+1.
+
+Una nave di dislocamento = 5000 tonnellate ha i seguenti bracci di stabilità (GZs):
+Heel (α)
+GZ
+
+15°
+0,205m
+
+30°
+0,482m
+
+45°
+0,611m
+
+Il candidato calcoli il valore della stabilità dinamica della nave per l’angolo di sbandamento
+α = 45°.
+
+Pag. 2/2
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M576 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+
+2.
+
+Da una nave in navigazione con Pv = 045° e vp = 10 nodi viene osservato un Beacon per:
+Rilv = 035° alla distanza d = 9 miglia. Dopo 12m lo stesso bersaglio viene osservato per:
+Rilv = 034° e d = 7 miglia. Dopo 12m ulteriori misure danno: Rilv = 032° e d = 5 miglia.
+Il candidato determini:
+1) gli elementi della corrente (set and drift);
+2) la nuova prora vera dal 24° minuto, necessaria affinché il Beacon passi a 2 miglia alla
+sinistra della nave.
+
+3.
+
+Nell’ottimizzazione di una traversata, tenendo conto degli elementi meteo-marini, il Candidato
+illustri le modalità di una navigazione meteorologica in riferimento sia ai dati climatologici sia
+al tracciamento di una rotta di minimo tempo.
+
+4.
+
+Al tf = 17h00m del 3.06.2015 la nave “A”, in navigazione con Rv = 283°, a seguito di uno
+spostamento di carico a bordo, riduce la velocità a 10 nodi e avvia le operazioni di
+bilanciamento chiedendo assistenza. Al tf = 17h30m, nella posizione (φ = 35°40'.0 S;
+λ= 047°30'.0W) riceve un contatto radio da una nave B, nella posizione (φ = 36°05'.3 S;
+λ = 048°37'.1W) ed in navigazione con Rv= 270° e v=20 nodi che dà la sua disponibilità a
+prestare soccorso.
+Si concorda che la nave “A” prosegua la navigazione con rotta e velocità immutate.
+Il candidato determini:
+1) la rotta da assumere dalla nave B con inizio operazioni all’istante tf =17h30m;
+2) il tf di intercettazione e le relative coordinate.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di tavole numeriche, formulari, manuali tecnici, del regolo calcolatore e di calcolatrici tascabili non
+programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall'inizio della prova.
+
+

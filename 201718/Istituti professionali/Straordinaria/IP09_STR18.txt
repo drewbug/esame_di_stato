@@ -1,0 +1,118 @@
+Pag. 1/2
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IP09 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Un’impresa deve effettuare una manutenzione straordinaria con una riqualificazione energetica di un
+carroponte a servizio di un impianto di sollevamento portuale.
+Il blocco del sistema carroponte è composto da tre motori asincroni (uno per il sollevamento del
+carico, uno per lo spostamento del carrello ed uno per l’avanzamento del carroponte).
+Il motore per il sollevamento assorbe una potenza massima di 100 kW mentre i motori di
+trascinamento del carrello e del carroponte assorbono una potenza massima di 4,5 kW tutti con una
+tensione nominale di 400 V.
+Il candidato fatte le ipotesi aggiuntive ritenute necessarie:
+1.
+2.
+
+rappresenti, anche tramite uno schema, il sistema di movimentazione e controllo del carroponte;
+determini la massa sollevabile sapendo che il rendimento del motore per il sollevamento vale
+0,96 e che la velocità è pari a 1,2 m/s;
+
+Inoltre, dovendo sostituire la linea di alimentazione del motore di sollevamento lunga 70 metri, il
+candidato scelga la sezione del cavo per garantire una caduta di tensione inferiore al 3% e indichi le
+caratteristiche che deve avere il dispositivo di protezione posto a monte della linea stessa;
+Infine il candidato proponga un format per la registrazione delle verifiche e degli interventi di
+manutenzione sul carroponte.
+
+Pag. 2/2
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IP09 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+SECONDA PARTE
+1.
+
+Il candidato illustri le tipologie di verifica da effettuare sugli impianti elettrici in BT, gli strumenti
+di misura e gli aspetti organizzativi del lavoro.
+
+2.
+
+Con riferimento alla prima parte della prova, supposto che il carroponte sia in funzione per 10
+ore al giorno e 300 giorni all’anno e che i teleruttori, a servizio dei tre motori del carroponte,
+intervengono mediamente con la seguente frequenza:
+
+
+Per il motore di sollevamento ogni 60 secondi
+
+
+
+Per il motore per lo spostamento del carrello ogni 120 secondi
+
+
+
+Per il motore dell’avanzamento del carrello ogni 480 secondi
+
+il candidato determini dopo quanto tempo l’affidabilità del sistema è pari a 95% sapendo che il
+costruttore dei relè dichiara B10= 3*107
+3.
+
+Con riferimento alla prima parte della prova, il candidato, fatte le considerazioni che ritiene
+opportune, pianifichi l’intervento di sostituzione e collaudo dei motori del carroponte, valuti i
+rischi e gli aspetti organizzativi del lavoro in relazione alla sicurezza avendo cura di descrivere
+quali mezzi, attrezzature e risorse umane prevede di utilizzare.
+
+4.
+
+Le attività e relativi vincoli per la realizzazione di un progetto sono riassunte nella seguente
+tabella:
+attività
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+Durata
+(giorni)
+10
+35
+30
+20
+10
+15
+35
+30
+10
+
+vincoli
+1
+3
+2
+4,5
+7
+6,8
+
+Il candidato costruisca un diagramma di pianificazione delle attività e stabilisca la durata del
+progetto.
+___________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

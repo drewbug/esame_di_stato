@@ -1,0 +1,186 @@
+Pag. 1/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+In un cementificio si vuole automatizzare il processo dell’impasto del calcestruzzo ottenuto dalla miscela di
+diversi composti opportunamente pesati e combinati con acqua, che vengono amalgamati all'interno di un
+mixer.
+Il cementificio produce due diverse tipologie di miscele:
+
+Calcestruzzo non armato
+Calcestruzzo armato
+
+Sabbia
+(kg)
+640
+640
+
+Cemento (kg)
+
+Inerte (kg)
+
+250
+300
+
+1200
+1200
+
+Acqua
+(litri)
+150
+120
+
+Un operatore, premendo un pulsante di START, determina l’avvio del sistema automatizzato.
+Il processo ha inizio con la selezione della tipologia di miscela da realizzare in modo da determinare le quantità
+dei materiali da versare nelle tramogge. Il dosaggio dei materiali viene realizzato con sistema a peso.
+La sabbia e l’inerte (ghiaia) confluiscono dai silos dotati di serranda pneumatica sul fondo, mediante nastri
+trasportatori, in una tramoggia con bilancia; quando viene rilevato il peso previsto del materiale deve essere
+arrestato il nastro trasportatore e contemporaneamente chiusa la serranda pneumatica dei silos.
+Nella tramoggia viene immessa prima la sabbia e poi la ghiaia e le pesate vengono realizzate con operazioni
+successive.
+Il cemento viene, invece, immesso direttamente in un’altra tramoggia con bilancia.
+
+Pag. 2/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Effettuate le operazioni di pesatura, i materiali vengono immessi in un miscelatore (mixer): dapprima vengono
+versate la sabbia e la ghiaia e successivamente il cemento.
+Dopo una prima fase di pre-mescolazione a secco, che dura 20 secondi, viene successivamente immessa
+l’acqua e avviata la fase di miscelazione vera e propria per 100 secondi.
+L’acqua viene prelevata da un serbatoio dotato di un’elettrovalvola a sfera che consente l’erogazione per una
+durata pari alla rilevazione effettuata da un opportuno misuratore volumetrico di flusso collocato a valle
+dell’elettrovalvola. Il misuratore ha tensione di esercizio 5÷24 Vdc e campo di misura 0,5 l/s.
+Il miscelatore è azionato da un motore asincrono trifase ed è dotato di uno sportello di scarico che si apre al
+termine della fase di miscelazione quando un sensore rileva la presenza di una betoniera per l’operazione di
+scarico, che viene effettuata in un tempo pari a 30 secondi.
+Lo sportello può essere aperto anche mediante una pompa idraulica manuale in caso di emergenza.
+Una volta terminata l’operazione di scarico, il sistema riprende il processo dall’inizio.
+Il ciclo si ripete fino a quando non viene premuto un pulsante di STOP che determina l’arresto del processo di
+produzione e riporta l’impianto alle condizioni iniziali ed è presente un sistema di segnalazione luminosa
+relativo alle diverse fasi del processo.
+Il candidato, fatte le eventuali ulteriori ipotesi aggiuntive che ritiene necessarie:
+1. rappresenti, usando un linguaggio a sua scelta, l'algoritmo di gestione dell'impianto di produzione del
+calcestruzzo;
+2. elabori il programma in grado di gestire l'automatismo, utilizzando un sistema programmabile di sua
+conoscenza;
+3. dimensioni la potenza del motore per l’azionamento dei nastri trasportatori considerando che:
+a. la massa totale per unità di lunghezza è pari a 1080 kg/m;
+b. i silos distano 10 metri dalla tramoggia;
+c. la velocità con cui avanza il nastro trasportatore è pari a 0,6 m/s;
+d. il valore del coefficiente di attrito globale stimato che tiene conto di tutti i fenomeni presenti è
+uguale a 2,4;
+4. descriva il funzionamento del motore asincrono che aziona il miscelatore e ne illustri le curve
+caratteristiche in relazione al carico meccanico collegato al motore.
+
+Pag. 3/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+SECONDA PARTE
+Quesito 1
+Con riferimento alla prima parte della prova, e in particolare al sistema di caricamento degli ingredienti, si
+supponga che i silos contenenti le materie prime siano provvisti di indicatori di livello a ultrasuoni che
+segnalano la quota di materiale presente durante il processo e forniscono un’uscita in corrente nell’intervallo
+4÷20 mA corrispondenti rispettivamente al livello massimo e minimo.
+Il candidato realizzi un sistema di blocco temporaneo del processo di produzione quando almeno un rilevatore
+ad ultrasuoni segnala il livello minimo all’interno dei silos e la successiva ripartenza una volta che il serbatoio
+viene nuovamente riempito.
+Quesito 2
+Con riferimento alla prima parte della prova, il candidato descriva come è possibile effettuare la regolazione
+della velocità delle pale del sistema di miscelazione.
+Quesito 3
+Un motore asincrono trifase a 2 poli presenta i seguenti dati di targa:
+potenza Pn = 4 kW
+
+frequenza fn = 50Hz
+
+tensione Vn = 400 V
+
+velocità Nn = 2890 rpm
+
+corrente In = 8,3 A
+
+fattore di potenza cosφn = 0,81
+
+All’avviamento il motore produce una coppia pari a 48,1 Nm e assorbe una corrente pari a 7 volte la corrente
+di pieno carico.
+Il candidato, fatte le eventuali ulteriori ipotesi aggiuntive che ritiene necessarie, discuta come ridurre la
+corrente di spunto, scelga il dispositivo idoneo a realizzare tale riduzione e valuti come varia la coppia di
+avviamento nelle nuove condizioni.
+Quesito 4
+Sia dato l’impianto lineare il cui schema a blocchi è riportato in figura:
+X(s)
+
++
+-
+
+Y(s)
+A(s)
+
+B(s)
+
+H(s)
+
+Pag. 4/4
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Le funzioni di trasferimento dei blocchi valgono:
+
+𝐴(𝑠) =
+
+𝐾
+𝑠 2 +2𝑠
+
+con K parametro reale, 𝐵(𝑠) =
+
+𝑠+1
+𝑠+3
+
+𝐻(𝑠) =
+
+1
+𝑠
+
+.
+
+Il candidato, dopo aver calcolato la funzione di trasferimento complessiva del sistema, ne studi la stabilità al
+variare del parametro K.
+Il candidato determini inoltre per quale valore del parametro K l’errore di velocità del sistema si mantiene
+inferiore allo 0,5% giustificando la risposta.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

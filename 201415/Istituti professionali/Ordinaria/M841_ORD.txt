@@ -1,0 +1,253 @@
+Pag. 1/5
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M841 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPM9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE E MANUTENZIONE
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ IPM9 – MANUTENZIONE
+CURVATURA MECCANICA
+
+E
+
+ASSISTENZA
+
+TECNICA
+
+ IPS9 – MANUTENZIONE E ASSISTENZA
+CURVATURA SISTEMI ENERGETICI
+
+TECNICA
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/5
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M841 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPM9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE E MANUTENZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+In una piccola azienda meccanica sono presenti le seguenti macchine utensili:
+-
+
+n. 4 torni manuali paralleli;
+
+-
+
+n. 2 fresatrici universali;
+
+-
+
+n. 2 trapani a colonna;
+
+-
+
+n. 1 seghetto a nastro;
+
+-
+
+n. 2 molatrici a banco.
+
+Si chiede al candidato, dopo aver assunto con motivato criterio i dati ritenuti necessari:
+
+
+di predisporre il piano di manutenzione ordinaria annuale per mantenere in perfetta efficienza le
+macchine;
+
+
+
+di predisporre le schede di manutenzione per ciascuna macchina;
+
+
+
+di analizzare la tipologia dei rischi possibili durante le operazioni di manutenzione, valutando la
+probabilità e il danno per ognuno dei pericoli individuati e indicando, inoltre, le misure di
+prevenzione e protezione e la tipologia del DPI da adottare;
+
+
+
+di stimare un preventivo di spesa per la manutenzione ordinaria annuale da proporre al
+committente.
+
+Pag. 3/5
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M841 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPM9 – MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE E MANUTENZIONE
+
+SECONDA PARTE
+1.
+
+2.
+
+Si calcoli il costo di fermo macchina dovuto a un intervento di manutenzione straordinaria su una
+fresatrice utilizzando i seguenti dati:
+
+
+Cma = 0,7 €/min;
+
+
+
+Ci = 0,6 €/min;
+
+
+
+Tp = 2,5 min/pezzo;
+
+
+
+MC = 10,0 €/pezzo;
+
+
+
+Cmp = 1,0 €/pezzo;
+
+
+
+Costi consumi = 0,5 €/min.
+
+Un condominio ha un impianto centralizzato alimentato da una caldaia a gas metano da
+375 kW.
+Il candidato elenchi i principali obblighi a cui deve adempiere l’impresa incaricata della gestione
+dell’impianto, per il rispetto delle relative leggi e norme di riferimento.
+
+3.
+
+Il candidato illustri, sulla base dell’esperienza da lui fatta direttamente o svolta nell’ambito di
+stage aziendali o di alternanza scuola-lavoro, le mansioni e/o le attività lavorative normalmente
+svolte, evidenziando le competenze acquisite e gli obiettivi raggiunti.
+
+4.
+
+Il candidato rappresenti, ipotizzando un livello prestazionale richiesto dal committente, la pianta
+di un appartamento tipo indicando a sua scelta: l’impiantistica elettrica (quadro elettrico, punti
+prese e luce, linee elettriche in cavidotti, ecc.), quella termica (caldaia, elementi, tubazioni, ecc.),
+quella idrico-sanitaria (autoclave, utenze varie, tubazioni, ecc.).
+Il candidato inoltre, assumendo con motivato criterio ogni altro dato necessario, proceda ad un
+dimensionamento di massima dell’impiantistica prescelta.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 4/5
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M842 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPS9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+In un appartamento di 96 mq si vuole installare un impianto di riscaldamento ad acqua calda, a radiatori,
+alimentato da una caldaia murale a gas metano della potenzialità di 24 kW. L’appartamento è cosi costituito:
+
+
+
+
+
+
+
+camera da letto da 22 mq;
+camera da letto da 14 mq;
+sala/soggiorno da 35 mq;
+cucina da 12 mq;
+servizio principale da 9 mq con scaldasalviette alimentati a 50 °C;
+servizio secondario da 4 mq con scaldasalviette alimentati a 50 °C.
+
+Tutti i locali hanno una altezza di 2,80 mt.
+Nel rispetto al D.M 311/06, in particolare ai coefficienti di trasmissione globale del calore U per una zona
+climatica E, ne deriva un carico termico per unità di volume pari a 23 W/mc.
+Il candidato, scegliendo con opportuni criteri i dati necessari mancanti e giustificandoli, esegua:
+1.
+
+il dimensionamento di massima dell’impianto, compresi gli elementi radianti, la scelta degli
+scaldasalviette, indicandone caratteristiche e misure;
+
+2.
+
+la scelta della caldaia murale idonea anche al fabbisogno di acqua calda sanitaria;
+
+3.
+
+lo schema generale dell’impianto evidenziando i diametri delle tubazioni ed i vari componenti e
+descrivendone la loro funzione;
+
+4.
+
+la descrizione della documentazione da redigere e delle successive attività di manutenzione periodica
+da eseguire.
+
+Pag. 5/5
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M842 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPS9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+TABELLA 1 - RESA SCALDASALVIETTE
+
+SECONDA PARTE
+In riferimento ad uno dei quesiti svolti, il candidato faccia riferimento anche ad eventuali esperienze
+lavorative dirette o mediante stage o percorsi di alternanza scuola lavoro, evidenziando le competenze
+acquisite.
+1.
+
+Elencare ed illustrare la funzione dei principali componenti di una caldaia murale ipotizzando i guasti
+più frequenti riscontrabili. Definire gli accorgimenti di sicurezza da adottare per eseguire correttamente
+la sua manutenzione.
+
+2.
+
+Il candidato illustri la procedura da applicare per eseguire la certificazione energetica di un
+appartamento.
+
+3.
+
+Il candidato relazioni sui guasti più frequenti riscontrabili in un impianto di riscaldamento e
+climatizzazione illustrando le cause che li possono generare e come intervenire per eliminarli.
+
+4.
+
+Il candidato esegua uno schema di impianto frigorifero con i principali componenti ed il relativo
+diagramma termodinamico. Descriva le fasi operative per la costruzione, il collaudo ed il recupero del
+gas.
+
+_______________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

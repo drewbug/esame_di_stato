@@ -1,0 +1,1164 @@
+Pag. 1/14
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: LI02 – SCIENTIFICO
+LI03 – SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+Tema di: FISICA
+ESEMPIO PROVA
+Il candidato risolva uno dei due problemi e risponda a 3 quesiti del questionario.
+PROBLEMA 1
+Un piccolo magnete permanente di massa 𝑚 viene lasciato cadere liberamente in un tubo verticale
+e fisso, di materiale isolante come il plexiglas; si osserva che esso cade con la stessa accelerazione
+𝑔 con cui cadrebbe nel vuoto.
+Se lo stesso magnete viene lasciato cadere in un tubo di rame di identiche dimensioni, si osserva
+che la velocità acquistata è inferiore a quella di caduta libera: il magnete si muove molto più
+lentamente, come se fosse sostenuto da un invisibile paracadute, come illustrato in Fig. 1 per due
+magneti lasciati cadere nello stesso istante dall’estremo superiore dei due tubi.
+
+Figura 1
+
+Infatti sul magnete in aggiunta alla forza peso agisce una forza diretta in verso opposto al moto
+che dipende dalla sua velocità.
+Per capire quello che sta succedendo supponi, a un dato istante, di sostituire il tubo metallico con
+un tubo di plexiglas e di porre due spire conduttrici chiuse di resistenza elettrica 𝑅 pari a 1,0 ×
+10−3 Ω, una sopra e l’altra sotto il magnete come illustrato in Fig. 2.
+
+Pag. 2/14
+
+Figura 2
+
+1. Mostra che anche in questo caso il moto del magnete è influenzato da una forza di resistenza
+
+passiva come quando cade nel tubo di rame. Spiega qualitativamente l’origine della forza di
+resistenza passiva e giustifica perché essa dipende dalla velocità. Individua e illustra con un
+disegno il verso delle correnti indotte nelle spire, spiegando inoltre come variano nel tempo a
+causa del moto del magnete. Discuti i cambiamenti che si producono se il magnete viene
+capovolto, in modo che il polo Nord e il polo Sud risultino scambiati.
+In laboratorio, studi la velocità di caduta di un magnete di massa 𝑚 = (2,35 ± 0,01)𝑔 nel tubo
+di rame misurando con un cronometro il tempo di caduta da diverse altezze.
+I dati sperimentali sono riportati nella tabella 1, nella quale ℎ è l’altezza di caduta e ∆𝑡 il tempo
+di caduta. L’incertezza sui valori delle distanze è di 0,1 𝑐𝑚 e sui valori dei tempi dell’ordine di
+0,1 𝑠.
+𝒉 [𝒄𝒎]
+80,0
+70,0
+60,0
+50,0
+40,0
+30,0
+20,0
+10,0
+5,0
+
+∆𝒕 [𝒔]
+5,7
+5,0
+4,3
+3,6
+2,9
+2,2
+1,5
+0,9
+0,5
+Tabella 1
+
+2. Deduci, dai dati riportati in tabella 1, i valori delle velocità medie di caduta dalle diverse altezze.
+Adoperando tali valori costruisci un grafico della velocità media in funzione dell’altezza,
+discutine qualitativamente l’andamento e determina il valore limite della velocità. Assumi che
+la forza di resistenza passiva 𝐹𝑟 possa essere approssimata con una forza proporzionale alla
+velocità 𝑣, cioè 𝐹𝑟 = −𝑘𝑣. Considerando la forza totale agente sul magnete, illustra perché
+durante il moto la sua velocità aumenta fino a raggiungere una velocità limite. Determina infine
+il valore numerico di k, utilizzando il valore della velocità limite trovata dal grafico.
+
+Pag. 3/14
+
+3. Discuti il bilancio energetico della situazione problematica proposta, sia nella fase di
+accelerazione sia quando il magnete raggiunge la velocità limite. Calcola al termine della caduta
+quanta energia meccanica è stata trasformata in altre forme di energia, specificando in quali
+forme.
+
+4. Considera ora la situazione semplificata proposta precedentemente al punto 1 in cui il tubo di
+rame viene sostituito da un tubo di plexiglas e da due spire conduttrici di resistenza elettrica 𝑅
+pari a 1,0 × 10−3 Ω.
+A partire da considerazioni sulla potenza dissipata determina il valore della corrente che
+circolerebbe nelle spire se il magnete raggiungesse la stessa velocità limite che raggiunge nel
+tubo di rame e se la corrente fosse la stessa in entrambe le spire. Utilizza questo valore per
+determinare la variazione di flusso del campo magnetico nell’unità di tempo che il moto del
+magnete indurrebbe sulle spire.
+Spiega inoltre perché se il tubo di rame (resistività 𝜌 = 1,68 × 10−8 Ω𝑚) viene sostituito con
+un tubo di alluminio (resistività 𝜌 = 2,75 × 10−8 Ω𝑚), il magnete raggiunge una velocità limite
+maggiore.
+PROBLEMA 2
+Nel 1896 l’astronomo Edward Charles Pickering, analizzando lo spettro di emissione della stella
+Zeta Puppis, scoprì la presenza di alcune righe con lunghezza d’onda uguale a quella prevista dalla
+serie di Balmer e per questo da lui attribuite alla presenza di idrogeno nella stella. Scoprì inoltre
+la presenza di altre tre righe spettrali, chiamate righe di Pickering, di lunghezza d’onda 𝜆
+rispettivamente pari a
+455,1 nm
+
+541,1 nm
+
+e
+
+1012,3 nm
+
+1. Utilizzando il modello atomico di Bohr, descrivi l’origine delle righe dello spettro dell’idrogeno
+e in analogia formula una possibile spiegazione della origine delle righe di Pickering presenti
+nello spettro della stella Zeta Puppis. Indica quali informazioni fisiche puoi ricavare dal loro
+valore numerico.
+Pickering dedusse che i valori numerici delle lunghezze d’onda delle righe che portano il suo
+nome potevano essere ricavati dalla formula di Balmer,
+1
+1
+1
+= 𝑅𝐻 ( 2 − 2 ) 𝑛 = 3, 4 …
+𝜆
+2
+𝑛
+valida per le righe spettrali dell’idrogeno, utilizzando, però, a differenza di queste, valori di 𝑛
+seminteri.
+2. Utilizzando i valori sperimentali dello spettro dell’idrogeno, riportati nella seguente tabella
+𝒏
+
+𝝀 (𝒏𝒎)
+
+3
+
+656,3
+
+4
+
+486,1
+
+5
+
+434,1
+
+6
+
+410,2
+
+7
+
+397,0
+
+determina graficamente o analiticamente il valore sperimentale della costante 𝑅𝐻 , nota come
+costante di Rydberg, e calcola poi i valori dei numeri n seminteri a cui corrispondono le righe
+di Pickering, verificando così la correttezza della sua deduzione.
+
+Pag. 4/14
+
+Le righe di Pickering possono essere ricavate anche da una formula dello stesso tipo di quella
+di Rydberg, utilizzando un valore diverso per il parametro 𝑅𝐻 , che indichiamo con 𝑅′𝐻 .
+1
+1
+1
+= 𝑅′𝐻 ( 2 − 2 )
+𝜆
+𝑛1
+𝑛2
+in cui gli indici 𝑛1 e 𝑛2 sono numeri interi con
+𝑛1 = 1, 2, 3 … … 𝑛2 = 1, 2, 3 … …
+
+𝑛2 > 𝑛1
+
+3. Dimostra che con 𝑛1 = 4 e 𝑅′𝐻 = 4𝑅𝐻 si possono determinare valori interi di 𝑛2 che
+corrispondono a tutte le righe osservate, cioè sia alle righe di Pickering sia a quelle di Balmer
+dello spettro dell’idrogeno.
+Successivamente fu mostrato che l’intero spettro della stella Zeta Puppis era dovuto alla
+presenza di ioni idrogenoidi (ioni con un solo elettrone esterno e nucleo formato da 𝑍 protoni)
+e non all’idrogeno, e che a questi ioni si poteva applicare il modello atomico di Bohr.
+4. Il modello di Bohr fornisce per la costante di Rydberg 𝑅𝐻 dell’atomo di idrogeno l’espressione:
+𝑚𝑒 𝑒 4
+𝑅𝐻 = 3 2
+8ℎ 𝜀0 𝑐
+Considerando le modifiche da introdurre nel modello di Bohr per uno ione idrogenoide, ricava
+l’espressione della costante 𝑅′𝐻 . Confrontando inoltre il valore sperimentale 𝑅′𝐻 con il valore
+ricavato da tale relazione individua il valore di 𝑍 e determina così lo ione la cui emissione dà
+origine allo spettro di Zeta Puppis.
+QUESTIONARIO
+Quesito n. 1
+Dimostra che per immagazzinare una quantità di energia U in un solenoide ideale di volume V nel
+vuoto, occorre generare al suo interno un campo magnetico B di intensità pari a:
+2μ0 U
+B=√
+V
+dove 0 è la permeabilità magnetica nel vuoto. Calcola l’intensità della corrente elettrica che deve
+scorrere in un solenoide composto da 𝑁 = 500 spire, di lunghezza 𝐿 = 5,0 𝑐𝑚 e volume 𝑉 =
+20 𝑐𝑚3 affinché l’energia in esso immagazzinata sia 𝑈 = 1,5 𝑚𝐽.
+Quesito n. 2
+Un solenoide 𝐿1 ideale si trova all’interno di un secondo solenoide 𝐿2 , anch’esso ideale.
+Quest’ultimo viene alimentato con una corrente I che cresce linearmente nel tempo nell’intervallo
+0 − 30 𝜇𝑠 secondo l’equazione:
+𝐼 = 𝑘𝑡
+con 𝑘 = 0,50 𝐴⁄𝑠 . Ai capi del solenoide interno 𝐿1 , durante l’intervallo di tempo in cui la
+corrente varia, si misura una forza elettromotrice.
+a) Spiega l’origine della forza elettromotrice e dimostra che essa risulta costante;
+
+Pag. 5/14
+b) calcola il valore del modulo di tale forza elettromotrice nel caso in cui i solenoidi 𝐿1 e
+𝐿2 abbiano entrambi un numero di spire pari a 500, lunghezza pari a 5,0 𝑐𝑚, sezione 𝑆1 =
+1,0 𝑐𝑚2 e 𝑆2 = 4,0 𝑐𝑚2 rispettivamente.
+Quesito n. 3
+Per eseguire analisi spettrometriche di alcune particolari sostanze si utilizzano laser ad argon, che
+emettono un fascio luminoso verde di lunghezza d’onda 514,5 𝑛𝑚, potenza pari a 1,0 𝑊 e sezione
+di 2,0 𝑚𝑚2 . Ipotizzando che il fascio sia cilindrico, determina:
+a) quanta energia è contenuta in un metro di lunghezza del fascio;
+b) il valore massimo del campo elettrico e di quello magnetico associati al fascio;
+c) quanti fotoni al secondo vengono emessi dal laser.
+Quesito n. 4
+In una cella fotoelettrica viene generata una corrente di saturazione 𝐼 = 15𝜇𝐴 sfruttando l’effetto
+fotoelettrico. Come catodo viene utilizzato un materiale metallico il cui lavoro di estrazione è di
+5,15 𝑒𝑉.
+a) Determina la lunghezza d’onda massima della radiazione incidente sul catodo capace di estrarre
+elettroni da esso;
+b) calcola il numero minimo di fotoni che ogni secondo devono incidere sul catodo, nell’ipotesi
+che solo il 75% di essi riescano ad estrarre un elettrone.
+Quesito n. 5
+L’astronave Millennium Falcon della Trilogia originale di Guerre Stellari ha una lunghezza a
+riposo pari a 34,5 𝑚. L’astronave, in viaggio con velocità 0,90𝑐 rispetto a un sistema di
+riferimento inerziale, incrocia una seconda astronave identica che viaggia in direzione opposta con
+velocità 0,75𝑐 rispetto allo stesso sistema di riferimento inerziale.
+Qual è la lunghezza della seconda astronave misurata da un passeggero della prima astronave?
+Quesito n. 6
+Dimostra che a un elettrone non relativistico, accelerato da fermo mediante una differenza di
+potenziale ∆𝑉 misurata in volt, si può associare un’onda di de Broglie la cui lunghezza d’onda 𝜆
+può essere espressa dalla formula:
+
+𝜆=√
+
+1,504
+𝑛𝑚
+∆𝑉
+
+Calcola tale lunghezza d’onda per ∆𝑉 = 50,0 𝑉.
+
+Pag. 6/14
+ALLEGATO:
+Valori delle costanti fisiche
+Costante Fisica
+
+Simbolo
+
+Valore
+
+Unità di
+misura
+
+Velocità della luce
+nel vuoto
+
+c
+
+299 792 458
+
+m s-1
+
+Costante di Planck
+
+h
+
+6,626070040(81)×10-34
+
+Js
+
+Carica
+dell’elettrone
+
+e
+
+1,602 176 6208(98)×10-19
+
+C
+
+Massa
+dell’elettrone
+
+me
+
+9,109 383 56(11)×10-31
+
+kg
+
+Costante
+dielettrica del
+vuoto
+
+0
+
+8,854 187 817. .. ×10-12
+
+F m-1
+
+Permeabilità
+magnetica del
+vuoto
+
+0
+
+12,566 370 614… ×10-7
+
+N A-2
+
+Costante di
+Boltzman
+
+k
+
+1,380 648 52(79)×10-23
+
+J K-1
+
+Numero di
+Avogadro
+
+NA
+
+6,022 140 857(74)×1023
+
+mol-1
+
+Nota: Le cifre su cui si ha indeterminazione sui valori delle singole costanti fisiche sono tra parentesi.
+La velocità della luce, la permeabilità magnetica del vuoto e la costante dielettrica del vuoto hanno
+valori esatti senza errore.
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 7/14
+ISTRUZIONI per la compilazione
+Il presente documento si compone di due parti, una (sezione A) relativa alla valutazione dei
+problemi, e una (sezione B) relativa alla valutazione dei quesiti.
+Gli indicatori della rubrica (sezione A) sono descritti in quattro livelli; a ciascun livello sono
+assegnati dei punteggi, il valor massimo del punteggio della sezione A è 75. Nel problema è
+richiesto allo studente di rispondere a 4 quesiti che rappresentano le evidenze rispetto alle quali si
+applicano i quattro indicatori di valutazione:
+1. lo studente esamina la situazione fisica proposta e riconosce modelli o analogie o leggi
+formulando ipotesi esplicative adatte alle richieste secondo 4 livelli di prestazione (L1, L2,
+L3, L4 in ordine crescente) ai quali è assegnato un punteggio all’interno della fascia;
+2. lo studente formalizza la situazione problematica applicando gli strumenti matematici e
+disciplinari rilevanti per ottenere il risultato di ogni singola richiesta secondo 4 livelli di
+prestazione (L1, L2, L3, L4 in ordine crescente) ai quali è assegnato un punteggio all’interno
+della fascia;
+3. lo studente interpreta e elabora i dati proposti, anche di natura sperimentale, verificandone
+la pertinenza al modello scelto secondo 4 livelli di prestazione (L1, L2, L3, L4 in ordine
+crescente) ai quali è assegnato un punteggio all’interno della fascia;
+4. lo studente descrive il processo risolutivo adottato e comunica con un linguaggio specifico
+i risultati ottenuti valutando la coerenza con la situazione problematica proposta secondo 4
+livelli di prestazione (L1, L2, L3, L4 in ordine crescente) ai quali è assegnato un punteggio
+all’interno della fascia.
+La colonna evidenze individua quale/i dei 4 quesiti del problema sia/siano direttamente connesso/i
+all’indicatore; un quesito può afferire a più indicatori.
+La griglia della sezione B ha indicatori che afferiscono alla sfera della conoscenza, dell’abilità
+di applicazione e di calcolo e permette di valutare i sei quesiti di cui lo studente ne deve
+svolgere tre a sua scelta.
+Per ciascuno dei sei quesiti è stabilita la fascia di punteggio per ogni indicatore. Il totale del
+punteggio per ogni quesito è 25, e dovendone lo studente risolvere tre su sei, il punteggio massimo
+relativo ai quesiti è 75, questo implica un ugual peso dato alla soluzione del problema e dei
+quesiti.
+Infine è fornita la scala di conversione dal punteggio (max 150) al voto in quindicesimi (max
+15/15).
+
+Pag. 8/14
+
+Sezione A : VALUTAZIONE DEL PROBLEMA
+
+Indicatori
+Esaminare la situazione
+fisica proposta
+formulando le ipotesi
+esplicative attraverso
+modelli o analogie o leggi
+
+Livello Descrittori
+L1
+
+L2
+
+L3
+
+L4
+
+Formalizzare
+situazioni problematiche
+e applicare gli strumenti
+matematici e disciplinari
+rilevanti per la
+loro risoluzione
+
+L1
+
+L2
+
+L3
+
+Analizza in modo superficiale o frammentario il contesto
+teorico o sperimentale proposto; dai dati numerici o dalle
+informazioni non riesce a dedurre il modello o le analogie o
+la legge che esplicita la situazione problematica; individua
+nessuna o solo alcune delle grandezze fisiche necessarie.
+Analizza in modo parziale il contesto teorico o sperimentale
+proposto; dai dati numerici o dalle informazioni deduce, in
+parte o in modo non completamente corretto, il modello o
+le analogie o la legge che esplicita la situazione
+problematica; individua solo alcune delle grandezze fisiche
+necessarie.
+Analizza in modo completo anche se non critico il contesto
+teorico o sperimentale proposto; dai dati numerici o dalle
+informazioni deduce il modello o le analogie o la legge che
+esplicita quasi correttamente la situazione problematica;
+individua tutte le grandezze fisiche necessarie.
+Analizza in modo completo e critico il contesto teorico o
+sperimentale proposto; dai dati numerici o dalle
+informazioni deduce correttamente il modello o le analogie
+o la legge che esplicita la situazione problematica; individua
+tutte le grandezze fisiche necessarie.
+Individua una formulazione matematica non idonea, in
+tutto o in parte, a rappresentare il fenomeno fisico, usa un
+simbolismo solo in parte adeguato, non mette in atto il
+procedimento risolutivo richiesto dal tipo di relazione
+matematica individuata.
+
+Individua una formulazione matematica parzialmente
+idonea a rappresentare il fenomeno fisico, usa un
+simbolismo solo in parte adeguato, mette in atto parte del
+procedimento risolutivo richiesto dal tipo di relazione
+matematica individuata.
+Individua una formulazione matematica idonea a
+rappresentare il fenomeno fisico anche se con qualche
+incertezza, usa un simbolismo adeguato, mette in atto un
+adeguato procedimento risolutivo richiesto dal tipo di
+relazione matematica individuata.
+
+Evidenze
+
+Punti Punteggio
+
+ Riconosce che l’induzione elettromagnetica è all’origine
+della forza di resistenza passiva che agisce sul magnete.
+ Descrive la variazione di flusso del campo magnetico del
+magnete attraverso ciascuna spira conduttrice sia in
+avvicinamento che in allontanamento da essa.
+ Mette in evidenza e giustifica, in base alla legge di
+Faraday-Neumann, che l’intensità di corrente indotta
+nelle spire dipende dalla velocità di caduta del magnete.
+
+0-4
+
+5-9
+
+ Utilizza la legge di Lenz per giustificare il verso delle
+correnti indotte nelle spire.
+ Spiega che anche se il magnete viene capovolto il suo
+moto viene ugualmente ostacolato dalla presenza delle
+spire conduttrici mettendo in risalto le differenze
+rispetto alla situazione precedente.
+
+10-14
+
+15-18
+ Discute il bilancio energetico della situazione
+problematica proposta, sia nella fase di accelerazione
+sia quando il magnete raggiunge la velocità limite.
+
+0-4
+
+ Calcola al termine della caduta quanta energia
+meccanica è stata trasformata in altre forme di energia,
+specificando in quali forme.
+ Calcola l’intensità di corrente che circola nelle due spire
+quando il magnete raggiunge la stessa velocità limite
+che raggiunge nel tubo di rame.
+
+5-10
+
+11-16
+
+Pag. 9/14
+
+L4
+
+Interpretare e/o
+elaborare i dati proposti,
+anche di natura
+sperimentale,
+verificandone la
+pertinenza al modello
+scelto
+
+L1
+
+L2
+
+L3
+
+L4
+
+Descrivere il processo
+risolutivo adottato e
+comunicare i risultati
+ottenuti valutandone la
+coerenza con la
+situazione problematica
+proposta
+
+L1
+
+L2
+
+L3
+
+Individua una formulazione matematica idonea e ottimale
+a rappresentare il fenomeno fisico, usa un simbolismo
+necessario, mette in atto il corretto e ottimale
+procedimento risolutivo richiesto dal tipo di relazione
+matematica individuata.
+Fornisce una spiegazione sommaria o frammentaria del
+significato dei dati o delle informazioni presenti nel testo,
+non è in grado di riunire gli elementi acquisiti al fine di
+delineare una struttura organizzata e coerente alla
+situazione problematica proposta.
+Fornisce una spiegazione parzialmente corretta del
+significato dei dati o delle informazioni presenti nel testo, è
+in grado solo parzialmente di riunire gli elementi acquisiti
+al fine di delineare una struttura organizzata e coerente alla
+situazione problematica proposta.
+Fornisce una spiegazione corretta del significato dei dati o
+delle informazioni presenti nel testo, è in grado di riunire gli
+elementi acquisiti al fine di delineare una struttura
+organizzata e coerente alla situazione problematica
+proposta, anche se con qualche incertezza.
+Fornisce una spiegazione corretta ed esaustiva del
+significato dei dati o delle informazioni presenti nel testo, è
+in grado, in modo critico ed ottimale, di riunire gli elementi
+acquisiti al fine di delineare una struttura organizzata e
+coerente alla situazione problematica proposta.
+
+Giustifica in modo confuso e frammentato le scelte fatte
+sia per la definizione del modello o delle analogie o della
+legge, sia per il processo risolutivo adottato; comunica con
+linguaggio scientificamente non adeguato le soluzioni
+ottenute di cui non riesce a valutare la coerenza con la
+situazione problematica; non formula giudizi di valore e di
+merito complessivamente sulla soluzione del problema.
+Giustifica in modo parziale le scelte fatte sia per la
+definizione del modello o delle analogie o della legge, sia
+per il processo risolutivo adottato; comunica con
+linguaggio scientificamente non adeguato le soluzioni
+ottenute di cui riesce a valutare solo in parte la coerenza
+con la situazione problematica; formula giudizi molto
+sommari di valore e di merito complessivamente sulla
+soluzione del problema.
+Giustifica in modo completo le scelte fatte sia per la
+definizione del modello o delle analogie o della legge, sia
+per il processo risolutivo adottato; comunica con
+linguaggio scientificamente adeguato anche se con
+qualche incertezza le soluzioni ottenute di cui riesce a
+
+17-21
+
+ Deduce, dai dati di tabella, le velocità medie di caduta
+del magnete nel tubo di rame, dalle diverse altezze.
+
+0-4
+
+ Costruisce un grafico della velocità media in funzione
+dell’altezza.
+
+5-10
+ Descrive l’andamento del grafico e determina il valore
+limite della velocità del magnete.
+ Spiega perché la velocità del magnete aumenta fino a
+raggiungere una velocità limite.
+ Determina il valore numerico della costante k di
+proporzionalità tra l’intensità della forza frenante e la
+velocità del magnete, utilizzando il valore della velocità
+limite determinato dal grafico.
+ Spiega perché se il tubo di rame viene sostituito con un
+tubo di alluminio di identiche dimensioni, il magnete
+raggiunge una velocità limite maggiore.
+ Motiva le scelte effettuate sulla base dei dati forniti,
+delle ipotesi formulate e del modello esplicativo
+adottato e in particolare:
+a) comunica i dati sperimentali ottenuti dai quali
+individua una forza frenante di origine
+elettromagnetica ed una velocità limite.
+b) valuta
+che
+il
+modello
+dell’induzione
+elettromagnetica, semplificato con le spire nel
+plexiglas, interpreta i valori sperimentali.
+c) valuta che l’energia meccanica iniziale del
+magnete viene quasi completamente dissipata in
+energia elettromagnetica.
+ Comunica adoperando il linguaggio specifico.
+
+11-16
+
+17-21
+
+0-3
+
+4-7
+
+8-11
+
+Pag. 10/14
+
+L4
+
+TOTALE
+
+valutare la coerenza con la situazione problematica;
+formula giudizi un po’ sommari di valore e di merito
+complessivamente sulla soluzione del problema.
+Giustifica in modo completo ed esauriente le scelte fatte
+sia per la definizione del modello o delle analogie o della
+legge, sia per il processo risolutivo adottato; comunica con
+linguaggio scientificamente corretto le soluzioni ottenute
+di cui riesce a valutare completamente la coerenza con la
+situazione problematica; formula correttamente ed
+esaustivamente giudizi di valore e di merito
+complessivamente sulla soluzione del problema.
+
+12-15
+
+Pag. 11/14
+Sezione A :VALUTAZIONE DEL PROBLEMA 2
+
+Indicatori
+Esaminare la situazione
+fisica proposta
+formulando le ipotesi
+esplicative attraverso
+modelli o analogie o leggi
+
+Livello Descrittori
+L1
+
+L2
+
+L3
+
+L4
+
+Formalizzare
+situazioni problematiche
+e applicare gli strumenti
+matematici e disciplinari
+rilevanti per la
+loro risoluzione
+
+L1
+
+Analizza in modo superficiale o frammentario il contesto
+teorico o sperimentale proposto; dai dati numerici o dalle
+informazioni non riesce a dedurre il modello o le analogie o
+la legge che esplicita la situazione problematica; individua
+nessuna o solo alcune delle grandezze fisiche necessarie.
+Analizza in modo parziale il contesto teorico o sperimentale
+proposto; dai dati numerici o dalle informazioni deduce, in
+parte o in modo non completamente corretto, il modello o
+le analogie o la legge che esplicita la situazione
+problematica; individua solo alcune delle grandezze fisiche
+necessarie.
+Analizza in modo completo anche se non critico il contesto
+teorico o sperimentale proposto; dai dati numerici o dalle
+informazioni deduce il modello o le analogie o la legge che
+esplicita quasi correttamente la situazione problematica;
+individua tutte le grandezze fisiche necessarie.
+Analizza in modo completo e critico il contesto teorico o
+sperimentale proposto; dai dati numerici o dalle
+informazioni deduce correttamente il modello o le analogie
+o la legge che esplicita la situazione problematica; individua
+tuttele grandezze fisiche necessarie.
+Individua una formulazione matematica non idonea, in
+tutto o in parte, a rappresentare il fenomeno fisico, usa un
+simbolismo solo in parte adeguato, non mette in atto il
+procedimento risolutivo richiesto dal tipo di relazione
+matematica individuata.
+
+Evidenze
+
+
+
+
+
+
+
+
+Punti Punteggio
+
+Descrive la quantizzazione dell’energia
+dell’elettrone nell’atomo di idrogeno prevista dal
+modello di Bohr.
+Descrive l’emissione di fotoni di energia ben
+definita dall’atomo di idrogeno come
+conseguenza del passaggio dell’elettrone tra due
+diversi livelli di energia.
+
+
+
+Mette in relazione l‘energia dei fotoni emessi
+con la relativa lunghezza d’onda.
+
+
+
+Ipotizza, in analogia con il modello di Bohr, che
+le righe di Pickering vengono emesse nel
+passaggio di un elettrone tra due diversi livelli di
+energia.
+
+
+
+Formula una possibile spiegazione sull’origine
+delle righe di Pickering.
+
+Calcola dalle lunghezze d’onda di Pickering la
+differenza di energia tra i livelli dell’atomo che le
+emette.
+Deduce, sostituendo 𝑅𝐻 con
+
+′
+𝑅𝐻
+=4𝑅𝐻
+
+L2
+
+L3
+
+L4
+
+L1
+
+Fornisce una spiegazione sommaria o frammentaria del
+significato dei dati o delle informazioni presenti nel testo,
+non è in grado di riunire gli elementi acquisiti al fine di
+
+5-9
+
+10-14
+
+15-18
+
+0-4
+
+nella formula di
+
+Balmer, una nuova formula che mette in relazione
+Individua una formulazione matematica parzialmente
+idonea a rappresentare il fenomeno fisico, usa un
+simbolismo solo in parte adeguato, mette in atto parte del
+procedimento risolutivo richiesto dal tipo di relazione
+matematica individuata.
+Individua una formulazione matematica idonea a
+rappresentare il fenomeno fisico anche se con qualche
+incertezza, usa un simbolismo adeguato, mette in atto un
+adeguato procedimento risolutivo richiesto dal tipo di
+relazione matematica individuata.
+Individua una formulazione matematica idonea e ottimale
+a rappresentare il fenomeno fisico, usa un simbolismo
+necessario, mette in atto il corretto e ottimale
+procedimento risolutivo richiesto dal tipo di relazione
+matematica individuata.
+
+0-4
+
+1
+𝜆
+
+𝑛 2
+
+con 1/( ) .
+2
+
+
+
+Applica il modello di Bohr per dedurre l’espressione
+dei livelli di energia di un atomo idrogenoide.
+
+
+
+Deduce, in funzione di Z, l’espressione dell’energia dei
+fotoni emessi da un atomo idrogenoide.
+′
+Deduce l’espressione di 𝑅𝐻
+per un atomo
+idrogenoide.
+
+
+
+
+
+Deduce che l’atomo idrogenoide che emette le righe di
+Pickering ha Z=2 e quindi è un atomo di elio ionizzato.
+
+5-10
+
+11-16
+
+17-21
+
+0-4
+
+Pag. 12/14
+Interpretare e/o
+elaborare i dati proposti,
+anche di natura
+sperimentale,
+verificandone la
+pertinenza al modello
+scelto
+
+L2
+
+L3
+
+L4
+
+Descrivere il processo
+risolutivo adottato e
+comunicare i risultati
+ottenuti valutandone la
+coerenza con la
+situazione problematica
+proposta
+
+L1
+
+L2
+
+L3
+
+L4
+
+TOTALE
+
+delineare una struttura organizzata e coerente alla
+situazione problematica proposta.
+Fornisce una spiegazione parzialmente corretta del
+significato dei dati o delle informazioni presenti nel testo, è
+in grado solo parzialmente di riunire gli elementi acquisiti
+al fine di delineare una struttura organizzata e coerente alla
+situazione problematica proposta.
+Fornisce una spiegazione corretta del significato dei dati o
+delle informazioni presenti nel testo, è in grado di riunire gli
+elementi acquisiti al fine di delineare una struttura
+organizzata e coerente alla situazione problematica
+proposta, anche se con qualche incertezza.
+Fornisce una spiegazione corretta ed esaustiva del
+significato dei dati o delle informazioni presenti nel testo, è
+in grado, in modo critico ed ottimale, di riunire gli elementi
+acquisiti al fine di delineare una struttura organizzata e
+coerente alla situazione problematica proposta.
+Giustifica in modo confuso e frammentato le scelte fatte
+sia per la definizione del modello o delle analogie o della
+legge, sia per il processo risolutivo adottato; comunica con
+linguaggio scientificamente non adeguato le soluzioni
+ottenute di cui non riesce a valutare la coerenza con la
+situazione problematica; non formula giudizi di valore e di
+merito complessivamente sulla soluzione del problema.
+Giustifica in modo parziale le scelte fatte sia per la
+definizione del modello o delle analogie o della legge, sia
+per il processo risolutivo adottato; comunica con
+linguaggio scientificamente non adeguato le soluzioni
+ottenute di cui riesce a valutare solo in parte la coerenza
+con la situazione problematica; formula giudizi molto
+sommari di valore e di merito complessivamente sulla
+soluzione del problema.
+Giustifica in modo completo le scelte fatte sia per la
+definizione del modello o delle analogie o della legge, sia
+per il processo risolutivo adottato; comunica con
+linguaggio scientificamente adeguato anche se con
+qualche incertezza le soluzioni ottenute di cui riesce a
+valutare la coerenza con la situazione problematica;
+formula giudizi un po’ sommari di valore e di merito
+complessivamente sulla soluzione del problema.
+Giustifica in modo completo ed esauriente le scelte fatte
+sia per la definizione del modello o delle analogie o della
+legge, sia per il processo risolutivo adottato; comunica con
+linguaggio scientificamente corretto le soluzioni ottenute
+di cui riesce a valutare completamente la coerenza con la
+situazione problematica; formula correttamente ed
+esaustivamente giudizi di valore e di merito
+complessivamente sulla soluzione del problema.
+
+
+
+Utilizza la formula di Balmer e i dati della tabella per
+calcolare analiticamente o graficamente il valore
+sperimentale di 𝑅𝐻 .
+
+
+
+Determina il valore sperimentale di 𝑅𝐻 con il giusto
+numero di cifre significative.
+
+
+
+Utilizza il valore sperimentale di 𝑅𝐻 per determinare
+i valori dei numeri n seminteri corrispondenti, secondo
+la formula di Balmer, alle righe di Pickering.
+
+5-10
+
+11-16
+
+17-21
+
+
+Illustra che per 𝑛2 pari e maggiore di 4 la nuova
+formula descrive le righe di Balmer.
+
+
+
+Illustra che per 𝑛2 dispari e maggiore di 4 la nuova
+formula descrive le righe di Pickering.
+
+
+
+Esprime proprie valutazioni sulla correttezza delle
+deduzioni di Pickering.
+
+
+
+Motiva le scelte effettuate sulla base dei dati forniti,
+delle ipotesi formulate e del modello esplicativo
+adottato.
+
+
+
+Comunica con un linguaggio specifico adeguato.
+
+0-3
+
+4-7
+
+8-11
+
+12-15
+
+Pag. 13/14
+Sezione B: VALUTAZIONE DEI QUESITI
+Quesiti
+(Valore massimo attribuibile 75/150 = 25x3)
+
+Indicatori
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+(0-7)
+
+(0-6)
+
+(0-5)
+
+(0-6)
+
+(0-7)
+
+(0-7)
+
+___
+
+___
+
+___
+
+___
+
+___
+
+___
+
+ABILITA' LOGICHE e RISOLUTIVE
+
+(0-6)
+
+(0-6)
+
+(0-5)
+
+(0-6)
+
+(0-3)
+
+(0-6)
+
+È in grado di separare gli elementi dell’esercizio evidenziandone i rapporti.
+Usa un linguaggio appropriato.
+Sceglie strategie risolutive adeguate.
+
+___
+
+___
+
+___
+
+___
+
+___
+
+___
+
+CORRETTEZZA dello SVOLGIMENTO
+
+(0-3)
+
+(0-4)
+
+(0-6)
+
+(0-7)
+
+(0-6)
+
+(0-3)
+
+___
+
+___
+
+___
+
+___
+
+___
+
+___
+
+(0-6)
+
+(0-4)
+
+(0-5)
+
+(0-3)
+
+(0-5)
+
+(0-6)
+
+___
+
+___
+
+___
+
+___
+
+___
+
+___
+
+(0-3)
+
+(0-5)
+
+(0-4)
+
+(0-3)
+
+(0-4)
+
+(0-3)
+
+___
+
+___
+
+___
+
+___
+
+___
+
+___
+
+COMPRENSIONE e CONOSCENZA
+Comprende la richiesta.
+Conosce i contenuti.
+
+Esegue calcoli corretti.
+Applica Tecniche e Procedure, anche grafiche, corrette.
+
+ARGOMENTAZIONE
+Giustifica e Commenta le scelte effettuate.
+
+VALUTAZIONE
+Formula autonomamente giudizi critici di valore e di metodo.
+
+Punteggio totale quesito
+
+Calcolo del punteggio Totale
+PUNTEGGIO SEZIONE A(PROBLEMA)
+
+PUNTEGGIO SEZIONE B(QUESITI)
+
+PUNTEGGIO TOTALE
+
+Punteggio sez. B
+
+Pag. 14/14
+
+Tabella di conversione dal punteggio grezzo al voto in quindicesimi
+
+Punteggio Totale 0-4
+
+Voto
+
+1
+
+5-10
+2
+
+11-18
+3
+
+19-26 27-34
+4
+
+5
+
+35-43
+6
+
+44-53
+7
+
+54-63
+8
+
+64-74
+9
+
+75-85
+10
+
+86-97 98-109 110-123 124-137 138-150
+11
+
+12
+
+13
+
+14
+
+15
+
+

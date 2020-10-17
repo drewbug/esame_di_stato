@@ -1,0 +1,94 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M666 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+In un processo si ottiene una miscela liquida, del tutto immiscibile con l’acqua e di densità inferiore
+a quella dell’acqua, in cui il prodotto d’interesse ha una volatilità nettamente superiore al resto della
+miscela. Per recuperare tale prodotto si sottopone la miscela a stripping con vapore d’acqua.
+Si opera con una colonna che lavora ad una pressione di poco superiore a quella atmosferica in cui
+l’alimentazione entra opportunamente preriscaldata in modo che il vapore d’acqua utilizzato non
+condensi in colonna. I vapori di testa sono condensabili totalmente con l’usuale acqua di
+raffreddamento. Sia il prodotto di testa sia quello di coda sono raffreddati prima di essere avviati ad
+ulteriori lavorazioni. Come fluidi di servizio sono disponibili acqua industriale di raffreddamento e
+vapore di rete.
+Il candidato, dopo aver adottato gli eventuali recuperi termici ritenuti opportuni, disegni lo schema
+dell’impianto idoneo a realizzare l’operazione proposta, completo delle apparecchiature accessorie
+(pompe, valvole, serbatoi, ecc.) e delle regolazioni automatiche principali rispettando, per quanto
+possibile, la normativa UNICHIM.
+SECONDA PARTE
+1.
+
+Dimensionare l’operazione di stripping descritta nello schema calcolando la portata del vapore
+e determinando graficamente il numero di stadi teorici richiesti dalla separazione.
+Dati:
+- la miscela da strippare è del tutto immiscibile con l’acqua;
+- il prodotto da separare è nettamente volatile rispetto al resto della miscela la cui volatilità è
+trascurabile nelle condizioni operative del processo;
+- la miscela viene opportunamente preriscaldata in modo che il vapore d’acqua utilizzato non
+condensi in colonna;
+- il vapore di rete utilizzato per lo stripping è puro e non reagisce con la miscela;
+- la relazione d’equilibrio liquido – vapore è data dall’equazione Y = 1,2 X, dove X indica la
+concentrazione del prodotto volatile in fase liquida espressa dal rapporto in moli tra il
+prodotto volatile e il resto della miscela, mentre Y indica la concentrazione del prodotto
+volatile in fase vapore espressa dal rapporto in moli tra il prodotto volatile e il vapore
+d’acqua;
+- la concentrazione del prodotto volatile nell’alimentazione è XF = 0,1;
+- la portata della miscela alimentata in colonna è F = 2,2 mol/s;
+- si vuole recuperare il 90% del prodotto volatile;
+- si opera con un rapporto liquido non volatile/vapore d’acqua pari al 75% di quello massimo.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M666 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+
+2.
+
+L’equilibrio tra una fase liquida e una aeriforme è descritto dalla legge di Raoult e dalla legge di
+Henry.
+Descrivere le due leggi evidenziandone le differenze e i campi di applicazione in base alle
+caratteristiche delle miscele considerate. Completare il quesito con esempi applicativi delle
+relazioni esistenti tra le concentrazioni di un generico componente nelle due fasi in base alle due
+leggi.
+
+3.
+
+Negli anni recenti la produzione di gas naturale si è fortemente accresciuta arrivando a competere
+con quella di petrolio. Il suo componente prevalente, il metano, è anche una materia prima per la
+produzione di composti utilizzati nella chimica di base.
+Il candidato, a sua scelta, illustri almeno uno dei processi produttivi da lui studiati in cui il gas
+naturale sia la materia prima.
+
+4.
+
+L’esigenza sempre più pressante di ridurre le emissioni di gas ad effetto serra ha portato ad una
+espansione della produzione industriale di biocombustibili.
+Il candidato, a sua scelta, illustri un processo che permette di ottenere combustibili a partire da
+vegetali o dal riciclaggio di prodotti di scarto industriale.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali relativi alle simbologie UNICHIM, di tabelle con dati numerici, di diagrammi relativi a
+parametri chimico-fisici, di mascherine da disegno e di calcolatrici tascabili non programmabili.
+Non è consentita la consultazione di libri di testo.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non
+italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

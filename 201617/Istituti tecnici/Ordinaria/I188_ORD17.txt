@@ -1,0 +1,74 @@
+Pag. 1/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I188 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+
+PRIMA PARTE
+In una scuola ubicata in un edificio di tre piani, si deve realizzare un laboratorio tecnologico.
+L’edificio è alimentato in BT 400/230 V con punto di consegna in un locale tecnico sito al piano terra.
+Il locale destinato al laboratorio ha dimensioni 16 m x 9 m e deve essere dotato di:
+ una LIM completa di videoproiettore e postazione PC con stampante connessa in rete alle varie
+postazioni;
+ 10 postazioni di personal computer;
+ 6 banchi di lavoro per effettuare le prove pratiche, alimentati con una tensione di 400/230 V, per
+i quali si prevede una potenza massima di 3 kW.
+Per l’impianto di illuminazione è prevista l’installazione di 12 coppie di lampade fluorescenti da
+36 W.
+Il candidato, con riferimento alla normativa vigente, individui prioritariamente in quale parte
+dell’edificio ubicare il laboratorio tecnologico, rappresenti in pianta la disposizione della dotazione
+prevista e individui la collocazione del quadro elettrico generale al servizio del laboratorio stesso.
+Successivamente, fatte le ipotesi aggiuntive che ritiene necessarie, progetti l’impianto elettrico del
+laboratorio.
+
+Pag. 2/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I188 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET – ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: TECNOLOGIE E PROGETTAZIONE SISTEMI ELETTRICI ED ELETTRONICI
+
+SECONDA PARTE
+QUESITO N.1
+Si disegni lo schema funzionale di comando per gestire il funzionamento di due motori asincroni
+trifasi (M1 ed M2) con le seguenti prescrizioni.
+In seguito all'azionamento di un pulsante di inizio ciclo, deve essere eseguito ripetutamente un ciclo
+di azionamenti di M1 ed M2 così come descritto di seguito:
+1. l'inizio del ciclo deve essere consentito solo se due finecorsa (uno per M1 avanti e uno per M2
+indietro) non sono azionati;
+2. entrambi i motori si avviano in marcia avanti, M1 si fermerà per effetto dell'azionamento del suo
+finecorsa che provocherà anche l'inversione di marcia di M2;
+3. il secondo finecorsa determinerà l'arresto di M2;
+4. pausa di 30", a questo punto il ciclo è terminato e dovrà immediatamente riprendere dal punto 1.
+L’esecuzione del ciclo deve essere arrestata istantaneamente per l’intervento del pulsante di arresto
+ciclo o dei relè termici.
+QUESITO N.2
+Il candidato relazioni sui sistemi di protezione previsti in una cabina MT/BT. Inoltre dimensioni
+l’impianto di terra di una cabina sapendo che la corrente convenzionale di guasto a terra, nel punto di
+installazione è pari a 225 A con tempo di eliminazione del guasto di 0,5 s e che la corrente di terra si
+può ritenere pari al 70% di quella convenzionale.
+QUESITO N.3
+Il candidato schematizzi e descriva, in tutte le sue fasi, il processo di produzione e di distribuzione
+dell’energia elettrica.
+QUESITO N.4
+Il candidato, dopo aver spiegato cosa si intende per rischio elettrico, illustri quali misure preventive
+e protettive un lavoratore deve adottare per evitare il pericolo da rischio elettrico.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

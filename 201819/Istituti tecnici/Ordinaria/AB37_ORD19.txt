@@ -1,0 +1,90 @@
+Pag. 1/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: IMPIANTI ENERGETICI, DISEGNO E PROGETTAZIONE e
+MECCANICA, MACCHINE ED ENERGIA
+Il candidato svolga il tema indicato nella prima parte e risponda solo a due quesiti tra i quattro proposti
+nella seconda parte.
+PRIMA PARTE
+Il candidato esegua il dimensionamento di un impianto di climatizzazione a tutt’aria (a portata costante
+mono-condotto per singola zona) con i seguenti dati:
+
+
+Temperatura ambiente 25°C, umidità relativa 50%
+
+
+
+Temperatura esterna 31°C, umidità relativa 65%
+
+
+
+Carico termico sensibile da asportare pari a 17500 W (compresi apparecchi elettrici ed illuminazione)
+
+
+
+Carico termico latente da asportare pari a 5400 W
+
+
+
+Portata di ventilazione pari a 680 l/s
+
+
+
+Efficienza della batteria fredda 85%
+
+Calcolare:
+a. la portata totale di aria da trattare;
+b. la portata di ricircolo;
+c. le condizioni di immissione in ambiente;
+d. la temperatura dell’aria trattata dalla batteria di raffreddamento;
+e. il flusso termico da sottrarre con la batteria fredda e quello da fornire con un eventuale postriscaldatore.
+Si esegua il calcolo in forma analitica e grafica, e si riportino le trasformazioni eseguite dall’UTA
+sull’allegato diagramma psicrometrico.
+Si consideri, inoltre, che l’energia elettrica necessaria al funzionamento sia fornita da un gruppo elettrogeno
+dotato di motore diesel a 4 cilindri di cui si richiede il dimensionamento di massima, dopo aver
+ragionevolmente ipotizzato ogni altra grandezza necessaria.
+
+Pag. 2/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEN - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE ENERGIA
+Tema di: IMPIANTI ENERGETICI, DISEGNO E PROGETTAZIONE e
+MECCANICA, MACCHINE ED ENERGIA
+SECONDA PARTE
+1. In relazione al dimensionamento precedentemente svolto, il candidato disegni lo schema dell’unità
+di trattamento aria, con la relativa regolazione rispetto al carico, giustificando la scelta.
+2. Impianti frigoriferi ad assorbimento per la climatizzazione e la refrigerazione: il candidato illustri i
+principi di funzionamento, le differenze e le applicazioni per il risparmio energetico.
+3. Il candidato descriva la fase di lavaggio nei motori a combustione interna: definizione e importanza
+nel funzionamento con particolare riguardo ai motori Diesel.
+4. Il candidato descriva il diagramma circolare della distribuzione di un motore a 4 tempi, evidenziando
+le ragioni degli anticipi e dei ritardi delle fasi di apertura e chiusura delle valvole di aspirazione e
+scarico.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di normative, tavole numeriche, manuali tecnici e di calcolatrici scientifiche e/o grafiche purché
+non siano dotate di capacità di calcolo simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non
+italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla lettura del tema.
+
+Pag. 3/3
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+
+

@@ -1,0 +1,1228 @@
+Pag. 1/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M758 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAS - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+ATTENZIONE
+La presente prova è costituita dalle seguenti tracce relative a:
+ IPAS – MANUTENZIONE E ASSISTENZA TECNICA OPZIONE
+APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E
+CIVILI
+ IPAE – MANUTENZIONE E ASSISTENZA TECNICA OPZIONE
+APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E
+CIVILI CURVATURA ELETTRICO ELETTRONICO
+ IPAI – MANUTENZIONE E ASSISTENZA TECNICA OPZIONE
+APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E
+CIVILI CURVATURA INFORMATICA
+ IPAM – MANUTENZIONE E ASSISTENZA TECNICA OPZIONE
+APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E
+CIVILI CURVATURA MECCANICA
+ IPAN – MANUTENZIONE E ASSISTENZA TECNICA OPZIONE
+APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E
+CIVILI CURVATURA SISTEMI ENERGETICI
+
+Si invita il Presidente della commissione a verificare che i
+candidati di ciascuna classe ricevano e svolgano la prova d’esame
+coerente al percorso di studio seguito.
+
+Pag. 2/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M758 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAS - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+In una piccola azienda meccanica sono presenti le seguenti macchine utensili:
+-
+
+n. 4 torni manuali paralleli;
+
+-
+
+n. 2 fresatrici universali;
+
+-
+
+n. 2 trapani a colonna;
+
+-
+
+n. 1 seghetto a nastro;
+
+-
+
+n. 2 molatrici a banco.
+
+Il candidato, dopo aver assunto con motivato criterio i dati ritenuti necessari:
+
+
+predisponga il piano di manutenzione ordinaria annuale per mantenere in perfetta efficienza le
+macchine;
+
+
+
+predisponga la scheda di manutenzione di una delle macchine presenti nell’officina;
+
+
+
+analizzi la tipologia dei rischi possibili durante le operazioni di manutenzione, valutando la
+probabilità e il danno per ognuno dei pericoli individuati e indicando, inoltre, le misure di
+prevenzione e protezione e la tipologia del DPI da adottare;
+
+L’impianto elettrico a servizio dell’azienda prevede, tra l’altro, all’interno del proprio magazzino, un
+quadro elettrico BT con in uscita 3 linee monofase e 3 linee trifase, una delle quali serve per
+alimentare un montacarichi. Il candidato, fatte eventuali ipotesi aggiuntive:
+
+
+descriva, anche tramite uno schema, questa parte di impianto presente nel magazzino e illustri le
+caratteristiche funzionali sia degli elementi principali costituenti il motoriduttore che comanda il
+montacarichi sia di quelli presenti nel quadro;
+
+
+
+descriva un possibile sistema di comando del montacarichi e indichi le tecniche di verifica di
+funzionamento del sistema stesso;
+
+
+
+illustri le tipologie di controllo che il servizio di manutenzione deve effettuare periodicamente
+sul quadro BT e sugli elementi presenti al suo interno per mantenere la loro efficienza;
+
+Pag. 3/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M758 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAS - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+SECONDA PARTE
+1.
+
+Dopo aver illustrato l’importanza che riveste l’impianto di messa a terra dal punto di vista della
+sicurezza, il candidato indichi i controlli da effettuare per accertare l’efficienza dell’impianto
+stesso.
+
+2.
+
+Si calcoli il costo di fermo macchina dovuto a un intervento di manutenzione straordinaria su una
+fresatrice utilizzando i seguenti dati:
+ Cma = 0,7 €/min;
+
+3.
+
+
+
+Ci = 0,6 €/min;
+
+
+
+Tp = 2,5 min/pezzo;
+
+
+
+MC = 10,0 €/pezzo;
+
+
+
+Cmp = 1,0 €/pezzo;
+
+
+
+Costi consumi = 0,5 €/min.
+
+Il multivibratore astabile di figura è utilizzato per ottenere un clock a frequenza variabile con i
+livelli 1 e 0 corrispondenti rispettivamente a 0V e 5V.
+
+Il candidato illustri la funzione del diodo zener, dica quali sono i parametri da considerare nella
+scelta del componente elettronico e come individuare la resistenza R (Vsat = + 15V). Inoltre
+individui i motivi per i quali la forma d’onda può modificarsi e diventare triangolare.
+
+Pag. 4/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M758 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAS - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+4.
+
+Un condominio ha un impianto centralizzato alimentato da una caldaia a gas metano da
+375 kW.
+Il candidato elenchi i principali obblighi a cui deve adempiere l’impresa incaricata della gestione
+dell’impianto, per il rispetto delle relative leggi e norme di riferimento.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 5/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+L’impianto elettrico di un supermercato prevede, tra l’altro, all’interno del proprio magazzino, un
+quadro elettrico BT con in uscita 3 linee monofase e 3 linee trifase, una delle quali serve per
+alimentare un montacarichi. Il candidato, fatte eventuali ipotesi aggiuntive:
+1.
+
+descriva, anche tramite uno schema, questa parte di impianto presente nel magazzino e illustri le
+caratteristiche funzionali sia degli elementi principali costituenti il motoriduttore che comanda il
+montacarichi sia di quelli presenti nel quadro;
+
+2.
+
+indichi i controlli che il servizio di manutenzione deve effettuare sul motoriduttore per mantenere
+la sua efficienza;
+
+3.
+
+indichi i criteri per la scelta dei cavi in uscita dal quadro e, in particolare, verifichi che la sezione
+S = 35mm2 per una delle 3 linee trifase lunga 80 m è adeguata sapendo che la corrente d’impiego
+vale IB = 60A e cos = 0.9;
+
+4.
+
+illustri le tipologie di controllo che il servizio di manutenzione deve effettuare periodicamente
+sul quadro BT e su gli elementi presenti al suo interno per mantenere la loro efficienza;
+
+5.
+
+indichi come redigere un documento per la registrazione degli interventi di manutenzione
+effettuati.
+
+SECONDA PARTE
+1.
+
+Dopo aver illustrato l’importanza che riveste l’impianto di messa a terra dal punto di vista della
+sicurezza, il candidato indichi i controlli da effettuare per accertare l’efficienza dell’impianto
+stesso.
+
+2.
+
+Si desidera misurare la potenza e la corrente assorbite da un motore asincrono trifase aventi le
+seguenti caratteristiche: tensione V = 400V; potenza P = 5kW; rendimento  = 0,84; cos = 0,92.
+Il candidato calcoli la corrente assorbita dal motore per avere indicazioni sulla portata degli
+strumenti di misura da utilizzare e rappresenti lo schema elettrico di montaggio degli strumenti
+stessi, specificando le cause che possono provocare un sovraccarico di corrente.
+
+Pag. 6/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M759 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAE - MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE APPARATI,
+IMPIANTI INDUSTRIALI
+
+3.
+
+Un test di affidabilità su 50 lampadine ha fornito i seguenti risultati:
+
+Il candidato determini l’andamento dell’affidabilità in funzione dell’invecchiamento e, in
+particolare, quando cambiare la lampadina se si desidera un’affidabilità del 90% o dell’80%.
+4.
+
+Il multivibratore astabile di figura è utilizzato per ottenere un clock a frequenza variabile con i
+livelli 1 e 0 corrispondenti rispettivamente a 0V e 5V.
+
+Il candidato illustri la funzione del diodo zener, dica quali sono i parametri da considerare nella
+scelta del componente elettronico e come individuare la resistenza R (Vsat = + 15V). Inoltre
+individui i motivi per i quali la forma d’onda può modificarsi e diventare triangolare.
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 7/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M761 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAI – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA INFORMATICA
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E DI MANUTENZIONE DI
+APPARATI E IMPIANTI CIVILI E INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+Il candidato presenti un apparato o dispositivo di sua conoscenza, con particolare riferimento alle sue
+componenti informatiche, e ne descriva i guasti più tipici che si possono verificare.
+Prenda quindi in esame uno dei guasti trattati descrivendo:
+-
+
+le attività necessarie a garantire la sicurezza di operatori ed utenti in riferimento alla normativa
+esistente;
+
+-
+
+una procedura per la ricerca e l’individuazione del guasto utilizzando metodi e strumenti di
+diagnostica tipici;
+
+-
+
+la soluzione che ritiene opportuno adottare per la risoluzione del guasto.
+
+Alla luce della soluzione proposta, il candidato predisponga un preventivo in cui siano riportate le
+attività, i materiali ed i corrispondenti costi stimati per l’intervento di riparazione.
+Descriva infine le procedure che si rendono necessarie per il processo di certificazione di qualità.
+SECONDA PARTE
+Il candidato (che potrà eventualmente avvalersi delle conoscenze e competenze maturate attraverso
+esperienze di alternanza scuola-lavoro, stage o formazione in azienda) risponda a due quesiti a scelta
+tra quelli sotto riportati.
+1.
+2.
+3.
+4.
+
+In riferimento al tema proposto nella prima parte, proponga un capitolato di manutenzione per
+assicurare assistenza continua nel tempo.
+In riferimento al tema proposto nella prima parte, compili il documento di collaudo relativo
+all’intervento effettuato.
+Esponga le differenze tra i metodi di manutenzione tradizionali e quelli innovativi.
+Esponga alcune tecniche e strumenti della telemanutenzione e della teleassistenza.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall'inizio della prova.
+
+Pag. 8/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M762 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+In una piccola azienda meccanica sono presenti le seguenti macchine utensili:
+-
+
+n. 4 torni manuali paralleli;
+
+-
+
+n. 2 fresatrici universali;
+
+-
+
+n. 2 trapani a colonna;
+
+-
+
+n. 1 seghetto a nastro;
+
+-
+
+n. 2 molatrici a banco.
+
+Si chiede al candidato, dopo aver assunto con motivato criterio i dati ritenuti necessari:
+
+
+di predisporre il piano di manutenzione ordinaria annuale per mantenere in perfetta efficienza le
+macchine;
+
+
+
+di predisporre le schede di manutenzione per ciascuna macchina;
+
+
+
+di analizzare la tipologia dei rischi possibili durante le operazioni di manutenzione, valutando la
+probabilità e il danno per ognuno dei pericoli individuati e indicando, inoltre, le misure di
+prevenzione e protezione e la tipologia del DPI da adottare;
+
+
+
+di stimare un preventivo di spesa per la manutenzione ordinaria annuale da proporre al
+committente.
+
+Pag. 9/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M762 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAM – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA MECCANICA
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+SECONDA PARTE
+1.
+
+2.
+
+Si calcoli il costo di fermo macchina dovuto a un intervento di manutenzione straordinaria su una
+fresatrice utilizzando i seguenti dati:
+
+
+Cma = 0,7 €/min;
+
+
+
+Ci = 0,6 €/min;
+
+
+
+Tp = 2,5 min/pezzo;
+
+
+
+MC = 10,0 €/pezzo;
+
+
+
+Cmp = 1,0 €/pezzo;
+
+
+
+Costi consumi = 0,5 €/min.
+
+Un condominio ha un impianto centralizzato alimentato da una caldaia a gas metano da
+375 kW.
+Il candidato elenchi i principali obblighi a cui deve adempiere l’impresa incaricata della gestione
+dell’impianto, per il rispetto delle relative leggi e norme di riferimento.
+
+3.
+
+Il candidato illustri, sulla base dell’esperienza da lui fatta direttamente o svolta nell’ambito di
+stage aziendali o di alternanza scuola-lavoro, le mansioni e/o le attività lavorative normalmente
+svolte, evidenziando le competenze acquisite e gli obiettivi raggiunti.
+
+4.
+
+Il candidato rappresenti, ipotizzando un livello prestazionale richiesto dal committente, la pianta
+di un appartamento tipo indicando a sua scelta: l’impiantistica elettrica (quadro elettrico, punti
+prese e luce, linee elettriche in cavidotti, ecc.), quella termica (caldaia, elementi, tubazioni, ecc.),
+quella idrico-sanitaria (autoclave, utenze varie, tubazioni, ecc.).
+Il candidato inoltre, assumendo con motivato criterio ogni altro dato necessario, proceda ad un
+dimensionamento di massima dell’impiantistica prescelta.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 10/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M983 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAN – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+PRIMA PARTE
+In un appartamento di 96 mq si vuole installare un impianto a pannelli radianti del tipo bugnato,
+alimentato da una caldaia a condensazione a gas metano della potenzialità di 24 kW. L’impianto è
+cosi costituito:
+
+
+camera da letto da 22 mq con impianto a pannelli radianti;
+
+
+
+camera da letto da 14 mq con impianto a pannelli radianti;
+
+
+
+sala/soggiorno da 35 mq con impianto a pannelli radianti;
+
+
+
+cucina da 12 mq con impianto a pannelli radianti;
+
+
+
+servizio principale da 9 mq con scaldasalviette alimentati a 50 °C;
+
+
+
+servizio secondario da 4 mq con scaldasalviette alimentati a 50 °C.
+
+Tutti i locali hanno una altezza di 2,80 mt.
+Nel rispetto al D.M 311/06, in particolare ai coefficienti di trasmissione globale del calore U per una
+zona climatica E, ne deriva un carico termico per unità di volume pari a 23 W/mc.
+Il candidato, dopo aver effettuato le opportune scelte impiantistiche, utilizzando le tabelle allegate,
+tratte da cataloghi tecnici, dimensioni l’impianto a pannelli radianti a pavimento indicando il numero
+di circuiti e la quantità di tubazione necessaria. Effettui inoltre la scelta degli scaldasalviette
+indicandone le misure.
+Disegni uno schema di funzionamento evidenziando i diametri delle tubazioni.
+
+Pag. 11/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M983 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAN – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+TABELLA 1 - RESA SCALDASALVIETTE
+
+TABELLA 2 - RESA PANNELLI RADIANTI
+
+Pag. 12/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M983 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAN – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+Temperatura di mandata in base a UNI EN 1264-3:2009; curve di resa ricavate dalle rese determinate
+numericamente dal DFT di Padova secondo UNI EN 15377
+passo cm >
+es.
+ceramica
+
+es.
+parquet
+
+es. legno
+a norma
+
+m2K/W
+0,010
+m2K/W
+0,035
+m2K/W
+0,060
+m2K/W
+0,085
+m2K/W
+0,125
+m2K/W
+0,150
+m2K/W
+0,100
+
+t. pav.
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+28
+
+29
+
+31
+
+30
+
+32
+
+33
+
+32
+
+34
+
+36
+
+34
+
+36
+
+39
+
+36
+
+38
+
+41
+
+38
+
+41
+
+44
+
+29
+
+30
+
+31
+
+31
+
+33
+
+34
+
+33
+
+35
+
+37
+
+36
+
+38
+
+40
+
+38
+
+40
+
+43
+
+40
+
+43
+
+46
+
+30
+
+31
+
+32
+
+32
+
+34
+
+35
+
+35
+
+37
+
+39
+
+37
+
+39
+
+42
+
+40
+
+42
+
+45
+
+42
+
+45
+
+48
+
+31
+
+32
+
+33
+
+33
+
+35
+
+37
+
+36
+
+38
+
+40
+
+39
+
+41
+
+44
+
+42
+
+44
+
+47
+
+44
+
+47
+
+51
+
+32
+
+33
+
+34
+
+35
+
+37
+
+38
+
+38
+
+40
+
+42
+
+42
+
+44
+
+46
+
+45
+
+47
+
+50
+
+48
+
+51
+
+54
+
+33
+
+34
+
+35
+
+36
+
+38
+
+40
+
+40
+
+42
+
+44
+
+43
+
+45
+
+48
+
+47
+
+49
+
+52
+
+50
+
+53
+
+57
+
+31
+
+32
+
+34
+
+34
+
+36
+
+37
+
+37
+
+39
+
+41
+
+40
+
+42
+
+45
+
+43
+
+45
+
+48
+
+46
+
+49
+
+52
+
+10,8 W/m2K Alfa pavimento caldo secondo UNI EN 1264-2:2009 e UNI
+EN 1264-5:2009
+
+Temperatura media superficiale al pavimento
+passo cm >
+es.
+ceramica
+
+es.
+parquet
+
+es. legno
+a norma
+
+m2K/W
+0,010
+m2K/W
+0,035
+m2K/W
+0,060
+m2K/W
+0,085
+m2K/W
+0,125
+m2K/W
+0,150
+m2K/W
+0,100
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+10
+
+15
+
+20
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+22,8
+
+22,8
+
+22,8
+
+23,7
+
+23,7
+
+23,7
+
+24,6
+
+24,6
+
+24,6
+
+25,6
+
+25,6
+
+25,6
+
+26,5
+
+26,5
+
+26,5
+
+27,4
+
+27,4
+
+27,4
+
+Pag. 13/13
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M983 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPAN – MANUTENZIONE E ASSISTENZA TECNICA
+OPZIONE APPARATI, IMPIANTI E SERVIZI TECNICI INDUSTRIALI E CIVILI
+CURVATURA SISTEMI ENERGETICI
+Tema di: TECNOLOGIE TECNICHE, INSTALLAZIONE, MANUTENZIONE, APPARATI,
+IMPIANTI INDUSTRIALI
+
+SECONDA PARTE
+1.
+
+Il candidato esegua un’analisi di un impianto a pannelli radianti a pavimento, indicando i
+vantaggi e gli eventuali svantaggi rispetto ad un impianto tradizionale a radiatori.
+
+2.
+
+Il candidato dopo aver effettuato un’analisi dei possibili guasti, compili un piano di manutenzione
+programmata inglobando anche la manutenzione obbligatoria della caldaia a condensazione.
+
+3.
+
+Il candidato compili una lista dei materiali in termini di apparecchiature principali, valvolame e
+minuterie per realizzare l’impianto.
+
+4.
+
+Il candidato illustri, sulla base dell’esperienza da lui fatta direttamente o svolta nell’ambito di
+stage aziendali o di alternanza scuola-lavoro o in attività di laboratorio durante l’anno scolastico,
+le mansioni e/o le attività lavorative normalmente svolte, evidenziando le competenze acquisite
+e gli obiettivi raggiunti preferibilmente in relazione alla messa in opera delle tubazioni per la
+realizzazione dei circuiti radianti a pavimento.
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

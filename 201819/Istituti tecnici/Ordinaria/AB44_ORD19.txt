@@ -1,0 +1,63 @@
+Pag. 1/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMO - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIA DELL’OCCHIALE
+Tema di: DISEGNO, PROGETTAZIONE E ORGANIZZAZIONE INDUSTRIALE e
+TECNOLOGIE MECCANICHE DI PROCESSO E DI PRODOTTO NELL’INDUSTRIA
+DELL’OCCHIALE
+Il candidato svolga il tema indicato nella prima parte e risponda a due quesiti tra i quattro proposti
+nella seconda parte.
+PRIMA PARTE
+Si deve produrre, mediante macchine utensili CNC, il frontale dell’occhiale schematizzato nel disegno
+allegato. Il candidato:
+1. esegua il disegno CAD del frontale, con relativa quotatura, cartiglio compilato, sezioni e quanto altro
+ritenga necessario. Il disegno va realizzato prima in forma bidimensionale e successivamente
+tridimensionale;
+2. determini, con giustificato criterio, il semilavorato di partenza, gli utensili ed i relativi parametri di
+taglio;
+3. in base al disegno CAD, ricavi mediante software CAM il programma di lavorazione CNC, spiegando
+e commentando qualche blocco del codice generato (max 10 blocchi).
+
+Pag. 2/2
+
+Sessione ordinaria 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITMO - MECCANICA, MECCATRONICA ED ENERGIA
+ARTICOLAZIONE MECCANICA E MECCATRONICA
+OPZIONE TECNOLOGIA DELL’OCCHIALE
+Tema di: DISEGNO, PROGETTAZIONE E ORGANIZZAZIONE INDUSTRIALE e
+TECNOLOGIE MECCANICHE DI PROCESSO E DI PRODOTTO NELL’INDUSTRIA
+DELL’OCCHIALE
+
+SECONDA PARTE
+
+1. Con riferimento all’occhiale proposto nella prima parte, il candidato definisca in uno schizzo il
+disegno delle aste e ne descriva il relativo ciclo di lavorazione.
+2. Il candidato, nell’ambito di un contesto produttivo e di mercato di sua scelta, esponga le sue
+valutazioni e le considerazioni riguardanti l’impatto, sulla organizzazione e sulla economia di una
+azienda, dell’impiego di macchine CNC nella produzione.
+3. Il candidato descriva le più importanti caratteristiche del materiale utilizzato per l’occhiale
+considerato nella prima parte della prova, evidenziando in particolare la loro influenza sul processo
+produttivo e sulle qualità del prodotto finale. Si ritiene utile il confronto con altre possibili tipologie
+di materiale.
+4. Il candidato, delineate le principali caratteristiche di un’azienda di produzione di occhiali ed il suo
+ciclo di produzione, descriva la struttura dei costi aziendali.
+
+______________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+I candidati possono usare software specifici per il disegno e per la programmazione CNC.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

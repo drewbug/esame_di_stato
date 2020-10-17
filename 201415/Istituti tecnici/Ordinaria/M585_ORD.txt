@@ -1,0 +1,158 @@
+Pag. 1/3
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M585 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Si vuole dotare un braccio di un robot, provvisto di una pinza all’estremità, della capacità di
+misurare la distanza che separa la pinza dall’oggetto da prelevare. Per evitare di sovraccaricare il
+meccanismo, il braccio deve anche rilevare la forza peso dell’oggetto da sollevare. A tale scopo il
+braccio è dotato di un trasduttore di posizione e di uno in grado di rilevare la forza peso. Il
+trasduttore di posizione è formato da una coppia emettitore-ricevitore di luce infrarossa, ha
+un’uscita in tensione con caratteristica lineare come descritta:
+a.
+
+alla distanza massima di 80 cm eroga 0,4 V
+
+b.
+
+alla distanza minima di 5 cm eroga 2,3 V
+
+Il trasduttore di forza peso è una cella di carico a ponte resistivo e possiede un’uscita di tipo
+differenziale: alimentando il ponte con una tensione di 12 V e applicando la forza peso massima
+pari a 80 N si ottiene una tensione differenziale di 0,25 V, mentre in assenza di peso si ottiene una
+tensione di 0 V.
+I segnali provenienti dai due trasduttori devono essere condizionati nell’intervallo di tensione da 0 a
+5 V e convertiti in segnali numerici per essere inviati ad una scheda di controllo a microcontrollore
+o PLC che gestisce la pinza, tenendo conto del fatto che il sistema deve valutare la posizione
+dell’oggetto con un errore massimo di 2 mm e misurare la forza peso con un errore massimo di
+0,2 N.
+Le grandezze misurate, oltre ad essere acquisite dal sistema, devono poter essere visualizzate
+localmente su dei display o visori LCD.
+Il candidato, utilizzando un sistema di propria conoscenza e fatte le ipotesi aggiuntive ritenute
+idonee:
+1.
+
+Disegni lo schema a blocchi del sistema di acquisizione descrivendo la funzione dei singoli
+blocchi e identificandone le relazioni ingresso/uscita.
+
+2.
+
+Individui la risoluzione ed il tipo di convertitore analogico-digitale necessario a garantire le
+condizioni di precisione richieste, scegliendo un intervallo di campionamento idoneo al
+controllo in oggetto e motivandone la scelta.
+
+3.
+
+Realizzi il diagramma di flusso di gestione del sistema e ne codifichi un segmento significativo.
+
+Pag. 2/3
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M585 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+
+SECONDA PARTE
+1.
+
+Se il trasduttore di posizione anziché essere composto da una coppia emettitore-ricevitore di
+luce infrarossa, fosse composto da una coppia di trasduttori ultrasonici, la misura della distanza
+in questo caso sarebbe di tipo indiretto: misurando la larghezza dell’impulso T3 (vedi Figura), e
+conoscendo la velocità del segnale nell’aria (ipotizzando costante la temperatura T = 25°C)
+V = 347 [m/s], tramite la seguente formula D = 0,5*V*T3 sarebbe possibile risalire alla misura
+della distanza.
+
+Il candidato proponga una soluzione per la misura della larghezza dell’impulso che utilizzi in
+parte o totalmente un microcontrollore o un PLC.
+2.
+
+Il candidato proponga il tipo di strumentazione più idonea per collaudare il funzionamento dei
+circuiti di condizionamento; inoltre fornisca un algoritmo per verificare il corretto
+funzionamento del software del sistema.
+
+Pag. 3/3
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M585 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE AUTOMAZIONE
+Tema di: SISTEMI AUTOMATICI
+3.
+
+Un impianto è rappresentato dal seguente schema:
+D(s)
+
+X(s)
+
++
+
+W(s)
+
++
+
+G(s)
+
+_
+
+Y(s)
+
+H(s)
+
+Dalle misure eseguite sull’impianto con un segnale sinusoidale si è rilevato che esso:
+ è soggetto in ingresso ad un disturbo additivo non controllabile D(s);
+ si comporta come un sistema lineare le cui funzioni di trasferimento sono rispettivamente:
+
+G ( s) 
+
+400
+s  40
+
+W ( s) 
+
+25000
+s  12500
+
+H ( s) 
+
+1
+10
+
+Per un corretto funzionamento del sistema si progetta un controllo a retroazione inserendo nello
+schema un blocco compensatore C(s) a monte del blocco G(s).
+L’impianto così modificato deve soddisfare la condizione di errore statico in uscita di valore
+finito e inferiore o uguale a 0,05 con ingresso x(t) a gradino unitario. Il candidato individui il
+tipo di sistema che sia in grado di soddisfare la specifica richiesta e calcoli il margine di fase
+della funzione d’anello aperto con compensatore C(s) = 1 e con disturbo nullo.
+Supponendo il compensatore C(s) = 100, valutare l’effetto sulla risposta del sistema, a regime,
+con il solo segnale di disturbo d(t) = sin(1000t).
+4.
+
+Spiegare che cosa si intende per stabilità di un sistema lineare ed indicare almeno due
+metodologie applicabili per la verifica della stabilità di un sistema ad anello chiuso e ad anello
+aperto. Basandosi sulle proprie competenze in materia di controlli analogici fornire quindi un
+esempio di sistema reale per il quale applicare le metodologie descritte e trarre le conclusioni
+dovute.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

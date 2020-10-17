@@ -1,0 +1,719 @@
+Pag. 1/10
+
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: LI02 – SCIENTIFICO
+LI03 – SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+Tema di: FISICA
+ESEMPIO PROVA
+Il candidato risolva uno dei due problemi e risponda a 3 quesiti del questionario.
+PROBLEMA 1
+In laboratorio è stato preparato il dispositivo rappresentato in Figura 1. La bobina è costituita da 100
+spire rettangolari di rame i cui lati misurano 25 cm e 30 cm. La bobina può ruotare con attrito
+trascurabile intorno al suo asse e durante la rotazione le estremità del filo strisciano su due anelli
+conduttori, mantenendo con essi un contatto elettrico. La bobina è immersa in un campo magnetico
+uniforme e costante.
+Sull’asse della bobina è montato un cilindro intorno al quale è avvolto un filo. All’estremità del filo
+è sospeso un pesetto. Quando il pesetto viene lasciato libero, esso cade verso il basso mettendo in
+rotazione la bobina. Alla partenza del pesetto il piano della spira è perpendicolare alla direzione del
+campo magnetico.
+Durante la rotazione della bobina, alle sue estremità, che restano aperte in modo che non circoli
+corrente, si produce una f.e.m. il cui valore viene rilevato da un sistema di acquisizione automatico
+che acquisisce 1000 valori al secondo.
+In Figura 2 sono stati riportati i dati sperimentali acquisiti dal sistema. Questo grafico rappresenta in
+ordinata la f.e.m. prodotta alle estremità della bobina durante la caduta del pesetto ed in ascissa il
+tempo.
+La Figura 3 rappresenta lo stesso grafico di Figura 2. In quest’ultimo grafico i punti sperimentali sono
+stati uniti da segmenti per migliorarne la leggibilità.
+
+Figura 1
+
+Contatti
+striscianti
+
+Contatti
+striscianti
+
+Al misuratore
+di f.e.m
+
+Pag. 2/10
+1. Spiega il fenomeno fisico che produce la f.e.m. alle estremità della bobina e, sulla base di esso,
+spiega il particolare andamento del grafico sperimentale.
+
+2. Utilizza la legge del fenomeno fisico per dedurre teoricamente la funzione matematica 𝑦 = 𝑓(𝑡)
+che descrive la f.e.m. alle estremità della bobina in funzione del tempo e verifica che la funzione
+ottenuta, coerentemente con il grafico sperimentale, abbia ampiezza crescente e periodo
+decrescente. Considera l’intensità del campo magnetico B e l’accelerazione angolare  della
+bobina come parametri. Considera inoltre aperte le estremità della bobina.
+3. Deduci dal grafico sperimentale le informazioni quantitative necessarie per determinare il valore
+dell’accelerazione angolare della bobina e l’intensità del campo magnetico in cui ruota la bobina.
+4. Spiega qual è il significato fisico dell’area, evidenziata in Figura 3, compresa tra ogni semiperiodo
+e l’asse dei tempi. Verifica, utilizzando la funzione 𝑦 = 𝑓(𝑡), che queste aree hanno, in modulo,
+tutte lo stesso valore.
+
+Figura 2
+
+Figura 3
+
+Pag. 3/10
+
+PROBLEMA 2
+Negli anni 1963-1964 il fisico W. Bertozzi con la sua equipe realizzò un esperimento al MIT di
+Boston verificando l’esistenza di una velocità limite, pari a quella della luce nel vuoto.
+Secondo la fisica classica è possibile accelerare un corpo dalla quiete fino a una velocità
+qualunque, per quanto grande essa sia, mentre per la relatività questo non è possibile.
+L’esperimento consiste nell’accelerare elettroni attraverso opportuni campi elettrici prodotti da
+una un acceleratore di Van de Graaff e da un acceleratore lineare a radiofrequenza (LINAC). Il
+fascio di elettroni è prodotto da un catodo caldo, sottoforma di impulsi della durata di 3 ns (3 ∙
+10−9 𝑠𝑒𝑐) e viene accelerato dall’acceleratore di Van de Graaff attraverso differenze di potenziale
+variabili fino a un massimo di 1,5 milioni di volt.
+Gli elettroni, usciti dall’acceleratore di Van de Graaff, attraversano un tubicino metallico posto in
+A nel quale inducono un impulso di corrente che viene inviato all’oscilloscopio (vedi Figure 1 e
+2). Il tragitto da A e B è lungo 8,40 m ed è privo di aria e di campi elettrici che possano modificare
+la velocità degli elettroni (l’acceleratore LINAC è spento in una prima fase dell’esperimento e in
+particolare non è utilizzato nelle prime tre misure di sotto riportate). Arrivati in B gli elettroni
+urtano un disco di alluminio nel quale provocano un impulso di corrente che viene inviato
+anch’esso all’oscilloscopio. Sull’oscilloscopio la distanza tra i due impulsi dà la misura del tempo
+impiegato dagli elettroni per andare da A a B e quindi, nota la distanza AB, è possibile calcolare
+la loro velocità.
+Ogni quadretto del reticolo dell’oscilloscopio (divisione) corrisponde ad un tempo di circa (0,98 ∙
+10−8 𝑠𝑒𝑐).
+
+LINAC  =1,00
+m
+
+Figura 1
+Fonte: http://giulioannovi.altervista.org/fisica/quinta/Energia cinetica relativistica.pdf
+
+Figura 2
+
+Impulsi provenienti da A e da B
+
+Pag. 4/10
+
+Leggendo sull’oscilloscopio la distanza tra i due impulsi, al variare della differenza di potenziale
+applicata dall’acceleratore agli elettroni, si ottengono i seguenti valori (Tabella 1).
+Differenza
+Potenziale
+106 V 
+
+0,5
+
+1,0
+
+1,5
+
+N°
+divisioni
+tra i due
+impulsi
+
+3,30
+
+3,10
+
+2,95
+
+Tabella 1
+
+In una seconda fase dell’esperimento, per aumentare ulteriormente l’energia degli elettroni viene
+utilizzato anche l’acceleratore lineare (LINAC) presente nel primo metro successivo al punto A, nel
+quale gli elettroni vengono accelerati da ulteriori 3,0 milioni di volt.
+Nell’esperimento viene anche misurato il calore prodotto dagli elettroni sul disco B adoperando una
+termocoppia, e la carica incidente sullo stesso disco B, per mezzo di un misuratore di cariche. I
+risultati ottenuti per due diversi valori di differenza di potenziale complessiva sono (Tabella 2):
+Differenza
+Potenziale
+106 V 
+Energia del
+fascio in B
+(J)
+Carica del
+fascio in B
+(μC)
+
+1,5
+
+4,5
+
+10,0
+
+29,2
+
+6,1
+
+6,1
+
+Tabella 2
+
+Dopo questa breve esposizione, ti viene richiesto di:
+
+1. Analizzare l’esperimento descritto e rappresentare in un piano cartesiano l’andamento di
+
+𝑣2
+
+,
+dove 𝑣 è la velocità degli elettroni nel punto B e 𝑐 è la velocità della luce nel vuoto, in funzione
+del lavoro W compiuto dal campo elettrico nell’acceleratore, sia per i valori di velocità previsti
+dal modello classico che per i valori effettivamente misurati nell’esperimento.
+𝑐2
+
+2. Individuare il modello fisico più adatto a descrivere la situazione sperimentale, relativamente
+all’andamento di
+
+𝑣2
+𝑐2
+
+in funzione del lavoro W compiuto dal campo elettrico nell’acceleratore.
+𝑣2
+
+3. Calcolare l’andamento di 𝑐 2 atteso in base al modello fisico individuato, confrontandolo con
+l’andamento sperimentale.
+
+4. Verificare, utilizzando i dati di Tabella 2 nei casi di differenza di potenziale 1,5 e 4,5 milioni di
+volt, che l’energia cinetica posseduta dagli elettroni quando arrivano in B è circa uguale a quella
+fornita dall’acceleratore, giustificando così la seguente affermazione: “Il fatto che il valore della
+velocità misurata sia inferiore a quello previsto dalla fisica classica non è dovuto a perdite di
+energia nell’apparato”.
+
+Pag. 5/10
+
+QUESTIONARIO
+
+1. Una lampadina a incandescenza di potenza 𝑃 = 100𝑊 emette luce in maniera isotropa. Se
+viene posta al centro di una stanza cubica di lato 𝐿 = 7𝑚, quanta energia arriverà in 10 minuti
+sul soffitto della stanza?
+
+2. Un elettrone e un positrone (antiparticella dell’elettrone con la stessa massa dell’elettrone, ma
+con carica opposta) si muovono uno contro l’altro con la stessa velocità. L’energia posseduta
+da entrambe le particelle è di 1,51 𝑀𝑒𝑉.
+𝑀𝑒𝑉
+Sapendo che la loro massa a riposo è di 0,511 𝑐 2 , qual è la velocità del positrone nel sistema
+di riferimento dell’elettrone?
+
+3. Un atomo di idrogeno si trova in uno stato eccitato dopo aver assorbito un fotone ultravioletto
+di lunghezza d’onda 𝜆 = 97,2 𝑛𝑚.
+Questo atomo può riportarsi allo stato fondamentale seguendo diverse transizioni a ognuna delle
+quali corrisponde la emissione di luce di una particolare lunghezza d’onda.
+Quante sono le transizioni possibili che provocano emissione di fotoni con lunghezza d’onda
+diversa da quella del fotone assorbito?
+Quali tra queste transizioni provocano emissione nel visibile?
+(costante di Rydberg: 𝑅 = 1,0974 ∙ 107 𝑚−1)
+
+4. Un’antenna ricevente semplificata è costituita da una spira di rame di forma quadrata. Il lato
+
+della spira misura 20 cm e le sue estremità sono collegate ad un voltmetro. Quest’ultimo è
+impostato in modo da fornire il valore efficace della f.e.m. ai capi della spira, ovvero
+(𝑓. 𝑒. 𝑚. )𝑒𝑓𝑓 =
+
+(𝑓. 𝑒. 𝑚. )𝑚𝑎𝑥
+√2
+
+dove (𝑓. 𝑒. 𝑚. )𝑚𝑎𝑥 è il valore massimo di una f.e.m. alternata.
+L’antenna ricevente è posta a 100m dall’antenna di una radio ricetrasmittente. Quest’ultima è del
+tipo utilizzato dai radioamatori.
+Queste radio trasmettono ad una frequenza di 27 𝑀𝐻𝑧 e la legge impone loro di trasmettere con
+una potenza non superiore a 4𝑊 per non disturbare la ricezione delle trasmissioni radiofoniche e
+televisive. Talvolta i radioamatori non rispettano questo limite e trasmettono con potenze che
+possono arrivare a 200𝑊.
+Si vuole stabilire se la ricetrasmittente in esame rispetta il limite di potenza imposto dalla legge.
+Il nostro voltmetro misura il massimo della f.e.m. quando il piano della spira è parallelo alla
+direzione di propagazione dell’onda e perpendicolare al campo magnetico, come mostrato in
+figura. Il valore efficace di questa f.e.m. è di 12,5 𝑚𝑉.
+Qual è la potenza emessa dall’antenna della ricetrasmittente?
+
+Pag. 6/10
+Y
+
+Campo
+elettrico
+
+Z
+
+Campo
+magnetico
+
+spira
+
+V
+
+5. Nel grafico sono rappresentati i livelli energetici di una particella di massa m confinata in una buca
+di potenziale infinita unidimensionale (detta anche pozzo). Utilizzando il principio di de Broglie e
+assumendo che la funzione d’onda stazionaria si annulli sui bordi della buca, determina la massa
+della particella.
+
+6. La figura riportata di seguito mostra come varia la sensibilità relativa percentuale del nostro occhio
+al variare della lunghezza d’onda nello spettro visibile. Il massimo della sensibilità (posto pari a
+100%) si ha per λ = 555nm.
+
+Pag. 7/10
+
+Fonte: http://www.progettazioneottica.it/unita-fotometriche-lumen-candele-lux/1172
+NOTA: La sensibilità assoluta del nostro occhio per una particolare lunghezza
+d’onda è definita come il rapporto tra l’energia che viene inviata dalla retina al
+cervello (ad esempio sotto forma di corrente elettrica) e l’energia dell’onda
+elettromagnetica incidente sulla retina. La sensibilità relativa percentuale per una
+particolare lunghezza d’onda è definita come il rapporto tra la sensibilità assoluta
+a quella lunghezza d’onda e la sensibilità assoluta alla lunghezza d’onda λ=555
+nm, il tutto moltiplicato per 100.
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso della calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 8/10
+
+ISTRUZIONI per la compilazione
+Il presente documento si compone di due parti, una (sezione A) relativa alla valutazione dei
+problemi, e una (sezione B) relativa alla valutazione dei quesiti.
+Gli indicatori della rubrica (sezione A) sono descritti in quattro livelli; a ciascun livello sono
+assegnati dei punteggi, il valor massimo del punteggio della sezione A è 75. Nel problema è
+richiesto allo studente di rispondere a 4 quesiti che rappresentano le evidenze rispetto alle quali si
+applicano i quattro indicatori di valutazione:
+1. lo studente esamina la situazione fisica proposta e riconosce modelli o analogie o leggi
+formulando ipotesi esplicative adatte alle richieste secondo 4 livelli di prestazione (L1, L2,
+L3, L4 in ordine crescente) ai quali è assegnato un punteggio all’interno della fascia;
+2. lo studente formalizza la situazione problematica applicando gli strumenti matematici e
+disciplinari rilevanti per ottenere il risultato di ogni singola richiesta secondo 4 livelli di
+prestazione (L1, L2, L3, L4 in ordine crescente) ai quali è assegnato un punteggio all’interno
+della fascia;
+3. lo studente interpreta e elabora i dati proposti, anche di natura sperimentale, verificandone
+la pertinenza al modello scelto secondo 4 livelli di prestazione (L1, L2, L3, L4 in ordine
+crescente) ai quali è assegnato un punteggio all’interno della fascia;
+4. lo studente descrive il processo risolutivo adottato e comunica con un linguaggio specifico
+i risultati ottenuti valutando la coerenza con la situazione problematica proposta secondo 4
+livelli di prestazione (L1, L2, L3, L4 in ordine crescente) ai quali è assegnato un punteggio
+all’interno della fascia.
+La colonna evidenze individua quale/i dei 4 quesiti del problema sia/siano direttamente connesso/i
+all’indicatore; un quesito può afferire a più indicatori.
+La griglia della sezione B ha indicatori che afferiscono alla sfera della conoscenza, dell’abilità
+di applicazione e di calcolo e permette di valutare i sei quesiti di cui lo studente ne deve
+svolgere tre a sua scelta.
+Per ciascuno dei sei quesiti è stabilita la fascia di punteggio per ogni indicatore. Il totale del
+punteggio per ogni quesito è 25, e dovendone lo studente risolvere tre su sei, il punteggio massimo
+relativo ai quesiti è 75, questo implica un ugual peso dato alla soluzione del problema e dei
+quesiti.
+Infine è fornita la scala di conversione dal punteggio (max 150) al voto in quindicesimi (max
+15/15).
+
+Pag. 9/10
+Sezione A : VALUTAZIONE DEL PROBLEMA
+Indicatori
+Esaminare la situazione
+fisica proposta
+formulando le ipotesi
+esplicative attraverso
+modelli o analogie o leggi
+
+Livello Descrittori
+L1
+
+L2
+
+L3
+
+L4
+
+Formalizzare
+situazioni problematiche
+e applicare gli strumenti
+matematici e disciplinari
+rilevanti per la
+loro risoluzione
+
+L1
+
+L2
+
+L3
+
+L4
+
+Interpretare e/o
+elaborare i dati proposti,
+anche di natura
+sperimentale,
+verificandone la
+pertinenza al modello
+scelto
+
+L1
+
+L2
+
+L3
+
+L4
+
+Descrivere il processo
+risolutivo adottato e
+comunicare i risultati
+ottenuti valutandone la
+coerenza con la
+situazione problematica
+proposta
+
+L1
+
+L2
+
+Analizza in modo superficiale o frammentario il contesto
+teorico o sperimentale proposto; dai dati numerici o dalle
+informazioni non riesce a dedurre il modello o le analogie o
+la legge che esplicita la situazione problematica; individua
+nessuna o solo alcune delle grandezze fisiche necessarie.
+Analizza in modo parziale il contesto teorico o
+sperimentale proposto; dai dati numerici o dalle
+informazioni deduce, in parte o in modo non
+completamente corretto, il modello o le analogie o la
+legge che esplicita la situazione problematica; individua
+solo alcune delle grandezze fisiche necessarie.
+Analizza in modo completo anche se non critico il
+contesto teorico o sperimentale proposto; dai dati
+numerici o dalle informazioni deduce il modello o le
+analogie o la legge che esplicita quasi correttamente la
+situazione problematica; individua tutte le grandezze
+fisiche necessarie.
+Analizza in modo completo e critico il contesto teorico o
+sperimentale proposto; dai dati numerici o dalle
+informazioni deduce correttamente il modello o le
+analogie o la legge che esplicita la situazione problematica;
+individua tutte le grandezze fisiche necessarie.
+Individua una formulazione matematica non idonea, in
+tutto o in parte, a rappresentare il fenomeno fisico, usa un
+simbolismo solo in parte adeguato, non mette in atto il
+procedimento risolutivo richiesto dal tipo di relazione
+matematica individuata.
+Individua una formulazione matematica parzialmente
+idonea a rappresentare il fenomeno fisico, usa un
+simbolismo solo in parte adeguato, mette in atto parte
+del procedimento risolutivo richiesto dal tipo di relazione
+matematica individuata.
+Individua una formulazione matematica idonea a
+rappresentare il fenomeno fisico anche se con qualche
+incertezza, usa un simbolismo adeguato, mette in atto un
+adeguato procedimento risolutivo richiesto dal tipo di
+relazione matematica individuata.
+Individua una formulazione matematica idonea e ottimale
+a rappresentare il fenomeno fisico, usa un simbolismo
+necessario, mette in atto il corretto e ottimale
+procedimento risolutivo richiesto dal tipo di relazione
+matematica individuata.
+Fornisce una spiegazione sommaria o frammentaria del
+significato dei dati o delle informazioni presenti nel testo,
+non è in grado di riunire gli elementi acquisiti al fine di
+delineare una struttura organizzata e coerente alla
+situazione problematica proposta.
+Fornisce una spiegazione parzialmente corretta del
+significato dei dati o delle informazioni presenti nel testo,
+è in grado solo parzialmente di riunire gli elementi
+acquisiti al fine di delineare una struttura organizzata e
+coerente alla situazione problematica proposta.
+Fornisce una spiegazione corretta del significato dei dati o
+delle informazioni presenti nel testo, è in grado di riunire
+gli elementi acquisiti al fine di delineare una struttura
+organizzata e coerente alla situazione problematica
+proposta, anche se con qualche incertezza.
+Fornisce una spiegazione corretta ed esaustiva del
+significato dei dati o delle informazioni presenti nel testo,
+è in grado, in modo critico ed ottimale, di riunire gli
+elementi acquisiti al fine di delineare una struttura
+organizzata e coerente alla situazione problematica
+proposta.
+Giustifica in modo confuso e frammentato le scelte fatte
+sia per la definizione del modello o delle analogie o della
+legge, sia per il processo risolutivo adottato; comunica con
+linguaggio scientificamente non adeguato le soluzioni
+ottenute di cui non riesce a valutare la coerenza con la
+situazione problematica; non formula giudizi di valore e di
+merito complessivamente sulla soluzione del problema.
+Giustifica in modo parziale le scelte fatte sia per la
+definizione del modello o delle analogie o della legge, sia
+per il processo risolutivo adottato; comunica con
+
+Evidenze
+
+Punti Punteggio
+0-4
+
+5-9
+
+10-14
+
+15-18
+
+0-4
+
+5-10
+
+11-16
+
+17-21
+
+0-4
+
+5-10
+
+11-16
+
+17-21
+
+0-3
+
+4-7
+
+Pag. 10/10
+linguaggio scientificamente non adeguato le soluzioni
+ottenute di cui riesce a valutare solo in parte la coerenza
+con la situazione problematica; formula giudizi molto
+sommari di valore e di merito complessivamente sulla
+soluzione del problema.
+Giustifica in modo completo le scelte fatte sia per la
+definizione del modello o delle analogie o della legge, sia
+per il processo risolutivo adottato; comunica con
+linguaggio scientificamente adeguato anche se con
+qualche incertezza le soluzioni ottenute di cui riesce a
+valutare la coerenza con la situazione problematica;
+formula giudizi un po’ sommari di valore e di merito
+complessivamente sulla soluzione del problema.
+Giustifica in modo completo ed esauriente le scelte fatte
+sia per la definizione del modello o delle analogie o della
+legge, sia per il processo risolutivo adottato; comunica con
+linguaggio scientificamente corretto le soluzioni ottenute
+di cui riesce a valutare completamente la coerenza con la
+situazione problematica; formula correttamente ed
+esaustivamente giudizi di valore e di merito
+complessivamente sulla soluzione del problema.
+
+L3
+
+L4
+
+8-11
+
+12-15
+
+TOTALE
+
+Sezione B: VALUTAZIONE DEI QUESITI
+Quesiti
+(Valore massimo attribuibile 75/150 = 25x3)
+
+Indicatori
+Q1
+
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+(0-6)
+
+(0-6)
+
+(0-7)
+
+(0-6)
+
+(0-7)
+
+(0-6)
+
+___
+
+___
+
+___
+
+___
+
+___
+
+___
+
+È in grado di separare gli elementi dell’esercizio evidenziandone i
+rapporti.
+Usa un linguaggio appropriato.
+Sceglie strategie risolutive adeguate.
+
+(0-6)
+
+(0-6)
+
+(0-3)
+
+(0-6)
+
+(0-6)
+
+(0-7)
+
+___
+
+___
+
+___
+
+___
+
+___
+
+___
+
+CORRETTEZZA dello SVOLGIMENTO
+
+(0-6)
+
+(0-4)
+
+(0-6)
+
+(0-7)
+
+(0-6)
+
+(0-6)
+
+Esegue calcoli corretti.
+Applica Tecniche e Procedure, anche grafiche, corrette.
+
+___
+
+___
+
+___
+
+___
+
+___
+
+___
+
+(0-3)
+
+(0-4)
+
+(0-4)
+
+(0-3)
+
+(0-3)
+
+(0-3)
+
+___
+
+___
+
+___
+
+___
+
+___
+
+___
+
+(0-4)
+
+(0-5)
+
+(0-5)
+
+(0-3)
+
+(0-3)
+
+(0-3)
+
+___
+
+___
+
+___
+
+___
+
+___
+
+___
+
+COMPRENSIONE e CONOSCENZA
+Comprende la richiesta.
+Conosce i contenuti.
+
+Punteggio
+sez. B
+
+ABILITA' LOGICHE e RISOLUTIVE
+
+ARGOMENTAZIONE
+Giustifica e Commenta le scelte effettuate.
+
+VALUTAZIONE
+Formula autonomamente giudizi critici di valore e di metodo.
+
+Punteggio totale quesito
+
+Calcolo del punteggio Totale
+PUNTEGGIO SEZIONE A
+
+(PROBLEMA)
+
+PUNTEGGIO SEZIONE B
+
+(QUESITI)
+
+PUNTEGGIO TOTALE
+
+Tabella di conversione dal punteggio grezzo al voto in quindicesimi
+Punteggio Totale 0-4
+Voto
+
+1
+
+5-10
+2
+
+11-18
+3
+
+19-26 27-34
+4
+
+5
+
+35-43
+6
+
+44-53
+7
+
+54-63
+8
+
+64-74
+9
+
+75-85
+10
+
+86-97 98-109 110-123 124-137 138-150
+11
+
+12
+
+13
+
+14
+
+15
+
+

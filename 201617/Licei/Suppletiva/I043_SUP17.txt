@@ -1,0 +1,157 @@
+Pag. 1/4
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I043 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI02, EA02 – SCIENTIFICO
+LI03 - SCIENTIFICO - OPZIONE SCIENZE APPLICATE
+(Testo valevole anche per la corrispondente sperimentazione quadriennale)
+
+Tema di: MATEMATICA
+Il candidato risolva uno dei due problemi e risponda a 5 quesiti del questionario.
+PROBLEMA 1
+Un gioco si svolge su un tabellone, che è suddiviso in tre settori A, B, C, come in figura 1.
+
+Nei vari settori possono essere collocate alcune pedine. I settori confinano a due a due attraverso tre
+varchi (rappresentati nella figura con tratti ondulati). Prima di ogni partita, per ciascun varco si
+effettua un sorteggio che stabilisce se esso sarà aperto oppure chiuso. La probabilità che un varco
+sia aperto è pari a un certo valore 𝑥 (lo stesso valore per tutti e tre) ed i tre sorteggi sono tra loro
+indipendenti.
+Durante il gioco, una pedina potrà spostarsi attraversando i varchi aperti. In questo modo, a seconda
+di quali varchi sono aperti, la pedina 𝑃, inizialmente collocata in 𝐴, potrebbe raggiungere o tutti e 3
+i settori, oppure solo 2 (𝐴 e un altro), oppure 1 solo (non può uscire da 𝐴).
+Indichiamo con 𝑝1 (𝑥), 𝑝2 (𝑥), 𝑝3 (𝑥) le probabilità che i settori raggiungibili dalla pedina 𝑃
+partendo da 𝐴 siano solo 1, oppure 2, oppure 3.
+1) Dimostrare che
+𝑝1 (𝑥) = (1 − 𝑥)2 ,
+
+𝑝2 (𝑥) = 2𝑥(1 − 𝑥)2 ,
+
+𝑝3 (𝑥) = 𝑥 3 + 3𝑥 2 (1 − 𝑥)
+
+e tracciare, in uno stesso diagramma, i grafici delle funzioni 𝑝1 (𝑥), 𝑝2 (𝑥), 𝑝3 (𝑥) per 𝑥 ∈ [0, 1].
+2) È vero che, qualunque sia 𝑥 ∈ [0, 1], almeno una delle probabilità 𝑝1 (𝑥), 𝑝2 (𝑥), 𝑝3 (𝑥) deve
+essere maggiore di 0,3 e almeno una deve essere minore di 0,4?
+
+Pag. 2/4
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+3) Provare che esiste un unico 𝑥0 ∈ [0, 1] tale che:
+𝑝1 (𝑥0 ) = 𝑝3 (𝑥0 )
+e stabilire se vale la disuguaglianza:
+𝑥0 > 1⁄2
+Discutere inoltre, al variare di 𝑥 in [0, 1], quali delle tre possibilità indicate (che i settori
+raggiungibili da 𝑃 siano 1, 2 o 3) sono più probabili e quali meno.
+4) Stabilire quali sono i tre valori medi delle funzioni che esprimono le probabilità
+𝑝1 (𝑥), 𝑝2 (𝑥), 𝑝3 (𝑥). Nel caso 𝑥 = 1⁄2 quali sono il valore medio e la varianza della variabile
+casuale che fornisce il numero di settori raggiungibili da P?
+PROBLEMA 2
+Data una funzione 𝑔: ℝ → ℝ ovunque derivabile, consideriamo la funzione
+𝑓(𝑥) = 𝑔(𝑥)𝑠𝑒𝑛(2𝑥).
+1) Dimostra che i grafici delle funzioni f e g sono tangenti nei loro punti di ascissa x 
+
+
+4
+
+ k ,
+
+con k numero intero.
+2) Determina la funzione 𝑔(𝑥) in modo tale che sia soddisfatta l’equazione differenziale 𝑔′ (𝑥) =
+−2𝑔(𝑥) e che risulti 𝑔(0) = 4.
+3) Il grafico della funzione 𝑓 presenta dei massimi relativi nei punti di ascissa x 
+
+
+4
+
+ k
+
+(𝑘 intero)? Presenta dei flessi in tutti i suoi punti d’intersezione con l’asse 𝑥? Motiva le tue
+risposte.
+4) Determina il valore di
++∞
+
+𝐼=∫
+
+𝑓(𝑥)𝑑𝑥
+
+0
+
+e, posto
++∞
+
+𝐻=∫
+
+|𝑓(𝑥)|𝑑𝑥
+
+0
+
+dimostra che 𝐻 è finito e determina in modo approssimato il suo valore. Che cosa rappresentano,
+in termini geometrici, i valori di 𝐼 e 𝐻?
+
+Pag. 3/4
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+QUESTIONARIO
+1. Consideriamo la funzione 𝑓(𝑥) = 𝑒 3−𝑥 . Preso un numero reale 𝑎, sia 𝑅𝑎 la regione illimitata
+formata dai punti aventi ascissa 𝑥 > 𝑎 che sono compresi tra il grafico di 𝑓 e l'asse 𝑥. Per quale
+valore di 𝑎 l’area di 𝑅𝑎 risulta pari a 2?
+2. Determinare l’equazione della retta perpendicolare nel punto (1, 0, 3) al piano di equazione 3𝑥 +
+2𝑦 − 𝑧 = 0.
+3. Una variabile aleatoria, i cui valori appartengono all'intervallo [0; 2], è distribuita secondo la
+densità di probabilità data da 𝑝(𝑥) = 𝑘 ∙ 𝑥 2 (2 − 𝑥), dove 𝑘 è una costante opportuna. Si
+stabilisca il valore medio della variabile aleatoria considerata.
+4. Rappresentare il grafico della funzione:
+3 − 2𝑥
+𝑓(𝑥) = |
+|
+𝑥−3
+Verificare se negli intervalli [0; 2] e [4; 6] valgono le ipotesi del teorema di Lagrange, e in caso
+affermativo trovare i punti la cui esistenza è prevista dal teorema di Lagrange. Esiste un
+intervallo [𝑎; 𝑏] in cui si possa applicare il teorema di Rolle? Giustificare la risposta.
+5. Sia 𝑓(𝑥) = 𝑠𝑒𝑛(𝑥) + cos(𝑥). Determinare 𝑓 (2017) (𝑥), esplicitando, in modo chiaro ed
+esauriente, il procedimento seguito.
+6. Determinare la distanza tra il punto 𝑃(6, 6, 8) e la retta:
+𝑥 − 𝑦 = 2𝑧 + 1
+{
+𝑧=𝑦+1
+7. Alberto e Barbara giocano lanciando un dado. Quando esce 1, 2, 3 o 4 Alberto fa 1 punto,
+quando esce 5 o 6 Barbara fa 2 punti. Vince chi arriva per primo a 6 punti. Qual è la probabilità
+che entrambi realizzino almeno 1 punto nel corso della partita? Qual è la probabilità che, in un
+certo momento della partita, il punteggio sia di 4 a 4?
+8. Stabilire se le rette:
+𝑟: 𝑦 = 5𝑥 − 6
+𝑠: 𝑦 = 21𝑥 + 25
+sono tangenti alla curva 𝛿 di equazione:
+𝑦 = 𝑥 3 − 2𝑥 2 + 𝑥 + 1
+
+Pag. 4/4
+
+Sessione suppletiva 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+9. Data la funzione:
+𝑓(𝑥) = 𝑥 2 + 1
+𝑥∈ℝ
+determinare il volume del solido ottenuto dalla rotazione attorno all'asse delle 𝑦 della porzione di
+piano delimitata dal grafico di 𝑓(𝑥) e dall'asse delle ascisse per 𝑥 ∈ [0; 3].
+10. Trovare una funzione 𝑔, il cui insieme di definizione sia un qualsiasi intervallo contenente 0,
+tale che:
+𝑔(0) = 0 𝑔′ (0) = 0 𝑔′′ (0) = 0 𝑔′′′ (0) = 1 𝑔(4) (0) = 1 𝑔(5) (0) = 1
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico (O.M. n. 257
+Art. 18 comma 8).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

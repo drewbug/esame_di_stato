@@ -1,0 +1,60 @@
+Pag. 1/1
+
+Sessione straordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M633 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCM - CHIMICA, MATERIALI E BIOTECNOLOGIE
+ARTICOLAZIONE CHIMICA E MATERIALI
+Tema di: TECNOLOGIE CHIMICHE INDUSTRIALI
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+In una fase di lavorazione si ottiene il prodotto di interesse in soluzione acquosa. Poiché il prodotto
+è termolabile lo si recupera per estrazione con un solvente bassobollente, la cui densità è inferiore a
+quella dell’acqua. Si opera a pressione e temperatura ambiente in un estrattore continuo a colonna.
+Il solvente d’estrazione proviene da un’altra sezione dell’impianto dove si recupera il solvente già
+utilizzato. A causa delle perdite, è necessario integrare il solvente di riciclo con solvente fresco
+prima dell’avvio alla colonna di estrazione.
+Il candidato disegni lo schema dell’impianto idoneo a realizzare l’operazione di estrazione proposta,
+completo delle apparecchiature accessorie (pompe, valvole, serbatoi, ecc.) e delle regolazioni
+automatiche principali rispettando, per quanto possibile, la normativa UNICHIM.
+SECONDA PARTE
+1.
+
+Nel processo di estrazione si utilizza un solvente che si può considerare del tutto insolubile con
+l’acqua nelle condizioni operative impiegate. Nell’impianto si trattano 500 kg/h di soluzione
+con una concentrazione di soluto Xin = 0,25 (dove Xin esprime il rapporto in massa tra il soluto
+e l’acqua) e si vuole realizzare una resa d’estrazione del 96%. Considerando il solvente
+utilizzato praticamente privo di soluto e ipotizzando che la concentrazione del soluto nel
+solvente in uscita sia Yus = 0,30 (dove Yus esprime il rapporto in massa tra il soluto e il solvente
+puro), calcolare la portata del solvente puro.
+
+2.
+
+Il candidato discuta brevemente quali debbano essere le caratteristiche dei solventi impiegati
+nell’estrazione liquido-liquido. Illustri inoltre gli aspetti essenziali di tipologie e prestazioni
+delle relative apparecchiature.
+
+3.
+
+I catalizzatori svolgono un ruolo fondamentale nella chimica industriale. Il candidato spieghi il
+loro meccanismo d'azione e la differenza tra catalisi omogenea ed eterogenea.
+
+4.
+
+La richiesta di benzine ad alto numero di ottano e a basso impatto ambientale è una necessità
+sempre crescente per la salvaguardia del nostro pianeta. Il candidato ipotizzi quali sostanze
+potrebbero sostituire i combustibili tradizionali e come potrebbero essere prodotti.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali relativi alle simbologie UNICHIM, di tabelle con dati numerici, di diagrammi relativi a parametri
+chimico-fisici, di mascherine da disegno e di calcolatrici tascabili non programmabili.
+Non è consentita la consultazione di libri di testo.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

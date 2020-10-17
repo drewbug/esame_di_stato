@@ -1,0 +1,108 @@
+Problemi di simulazione della seconda prova di matematica
+Esami di stato liceo scientifico 25 febbraio 2015
+Lo studente deve svolgere un solo problema a sua scelta
+Tempo massimo assegnato alla prove tre ore
+
+Problema 1: Una collisione tra meteoriti
+Marco e Luca, durante la visita guidata ad un museo scientifico interattivo, osservano su un monitor la
+simulazione della collisione tra due meteoriti, effettuata da un videogioco. Sul monitor sono
+rappresentate la traiettoria del primo meteorite e il grafico della sua velocità in funzione del tempo,
+mostrato in figura.
+
+1
+
+Problemi di simulazione della seconda prova di matematica
+Esami di stato liceo scientifico 25 febbraio 2015
+Lo studente deve svolgere un solo problema a sua scelta
+Tempo massimo assegnato alla prove tre ore
+
+In base alle loro conoscenze di matematica, discutono sul tipo di curva geometrica rappresentata dal
+grafico e cercano di determinarne l’equazione, necessaria per procedere nella simulazione.
+1. Aiuta Marco e Luca a determinare l’equazione che rappresenta la curva, spiegando il
+procedimento seguito.
+Dopo che Marco e Luca hanno scritto sul terminale l’equazione trovata, il videogioco si complimenta
+con loro e sul monitor appare la seguente espressione:
+
+Viene quindi chiesto loro di verificare se la funzione data rappresenta lo spazio percorso dal meteorite
+in funzione del tempo (legge oraria del moto).
+2. Aiuta Marco e Luca a verificare che la funzione apparsa sul monitor rappresenta la legge oraria
+del moto, spiegando il procedimento seguito.
+A questo punto sul monitor appare un secondo meteorite, la cui traiettoria interseca quella del primo
+meteorite in un punto P. Il videogioco chiede quale condizione deve essere verificata affinché avvenga
+l’urto.
+3. Aiuta Marco e Luca a rispondere in modo qualitativo.
+Marco e Luca rispondono correttamente e il primo meteorite viene colpito dal secondo e devia dalla
+traiettoria originaria modificando il suo moto. Dopo l’urto il monitor indica che il primo meteorite si
+muove ora con la nuova legge oraria:
+
+Il videogioco chiede quindi di determinare il tempo turto in cui è avvenuto l’urto.
+Aiuta Marco e Luca a:
+4. determinare il tempo turto;
+5. studiare la legge oraria del primo meteorite nell’intervallo tra 0 e 3ˑturto secondi, evidenziando
+la presenza di eventuali punti di discontinuità e/o di non derivabilità e tracciandone il grafico.
+
+2
+
+Problemi di simulazione della seconda prova di matematica
+Esami di stato liceo scientifico 25 febbraio 2015
+Lo studente deve svolgere un solo problema a sua scelta
+Tempo massimo assegnato alla prove tre ore
+
+Problema 2: Un mappamondo prezioso
+Lavori in un laboratorio d'arte vetraria e il responsabile del museo civico della tua città ti chiede di
+progettare un espositore avente forma conica che possa contenere un prezioso e antico
+mappamondo. Il mappamondo ha raggio R e l'espositore deve essere ermeticamente chiuso, per
+impedire che il mappamondo prenda polvere.
+Il tuo collega Mario dice che, per costruire l'espositore, si potrebbe utilizzare il quarzo ialino ma, data
+la preziosità del materiale, per risparmiare è necessario determinarne le dimensioni ottimali. Inoltre
+per proteggere l'espositore dalla polvere decidete di ricoprirlo con una sottile pellicola trasparente di
+nuova generazione e piuttosto costosa.
+1. Trascurando lo spessore dell'espositore e attraverso un’opportuna modellizzazione
+geometrica, determina l'altezza h e il raggio di base r dell'espositore affinché sia minima la sua
+superficie totale, allo scopo di utilizzare una quantità minima di pellicola1.
+2. Fornisci una spiegazione adeguata e convincente del procedimento seguito, eventualmente
+anche con rappresentazioni grafiche.
+Ora tu e Mario dovete scegliere la pellicola da sistemare sulla superficie esterna dell'espositore. La
+scelta va fatta tra due pellicole che hanno lo stesso costo unitario ma diverse proprietà: la prima ogni
+anno perde il 3% della resistenza all'usura che ha a inizio anno, mentre la seconda ogni anno perde il
+2% della resistenza all'usura iniziale.
+3. Aiuta Mario nel capire quale pellicola convenga scegliere in funzione della durata, tenendo
+conto del fatto che entrambe hanno la stessa resistenza di partenza e che una pellicola va
+cambiata quando la sua resistenza all'usura risulta inferiore al 30% della sua resistenza di
+partenza.
+
+1
+
+Ricorda che la superficie totale S di un cono è data dall’espressione: S  r  r r  h
+2
+
+2
+
+2
+
+3
+
+Problemi di simulazione della seconda prova di matematica
+Esami di stato liceo scientifico 25 febbraio 2015
+Lo studente deve svolgere un solo problema a sua scelta
+Tempo massimo assegnato alla prove tre ore
+
+Indicatori di valutazione portati a conoscenza dello studente:
+
+Comprendere
+Analizzare la situazione problematica, rappresentare i dati, interpretarli e tradurli in linguaggio
+matematico.
+
+Individuare
+Mettere in campo strategie risolutive attraverso una modellizzazione del problema e individuare la
+strategia più adatta.
+Sviluppare il processo risolutivo
+Risolvere la situazione problematica in maniera coerente, completa e corretta, applicando le regole
+ed eseguendo i calcoli necessari, con l’eventuale ausilio di strumenti informatici.
+Argomentare
+Commentare e giustificare opportunamente la scelta della strategia applicata, i passaggi
+fondamentali del processo esecutivo e la coerenza dei risultati.
+
+4
+
+

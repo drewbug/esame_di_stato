@@ -1,0 +1,223 @@
+Pag. 1/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Si vuole dotare un agriturismo di un impianto automatico che gestisca il filtraggio, la pulizia del filtro a sabbia
+e la temperatura dell’acqua della piscina.
+Il sistema di filtraggio viene attivato mediante un pulsante di START alla pressione del quale si avvia il motore
+sincrono a magneti permanenti a commutazione elettronica (motore brushless) che aziona la pompa di ricircolo
+dell’acqua. Il sistema viene arrestato mediante un pulsante di STOP.
+L’acqua viene aspirata dall’elettropompa attraverso gli skimmer (aperture posizionate a circa 15 cm dal bordo
+della piscina), filtrata in modo grossolano dai loro cestelli, fatta passare nel pre-filtro della pompa e quindi
+inviata al filtro a sabbia.
+Nella fase di filtraggio le valvole elettropneumatiche monostabili EV1 e EV2 sono disalimentate.
+In questa fase l’acqua attraversa il filtro a sabbia dall’alto verso il basso e, dopo essere stata filtrata, viene
+immessa direttamente in piscina oppure, se occorre, prima di essere inviata alle bocchette di mandata, fatta
+passare in uno scambiatore di calore per essere riscaldata.
+
+Con il passare del tempo le impurità che si depositano nel filtro a sabbia ostacolano il passaggio dell’acqua
+causando un aumento della pressione e una riduzione della capacità di filtraggio.
+Quando la pressione, rilevata con un apposito trasduttore, raggiunge il valore di 1,2 bar si deve attivare il ciclo
+automatico di pulizia del filtro.
+Tale ciclo, gestito mediante le valvole elettropneumatiche EV1 e EV2, consiste nel controlavaggio e nel
+risciacquo.
+Nella fase di controlavaggio il flusso dell’acqua entra nel filtro dal basso verso l’alto e defluisce con le impurità
+attraverso lo scarico in fognatura.
+
+Pag. 2/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+L’inversione del flusso avviene mediante l’attivazione dell’elettrovalvola EV1 e termina dopo 4 minuti con la
+sua disattivazione.
+Successivamente inizia la fase di risciacquo mediante l’attivazione dell’elettrovalvola EV2 per 40 secondi. In
+questa fase l’acqua entra nel filtro dall’alto verso il basso, ricompatta la sabbia e defluisce con i residui di
+impurità attraverso lo scarico in fognatura. Dopo la disattivazione di EV2 il sistema ritorna nella fase di
+filtraggio.
+Per riscaldare l’acqua della piscina viene utilizzato il calore residuo che si genera quando una pompa di calore
+geotermica reversibile, in esercizio di raffrescamento, regola la temperatura degli ambienti dell’agriturismo
+nel periodo estivo.
+Il sistema di riscaldamento dell’acqua della piscina si deve attivare solo se l’impianto di filtraggio è in
+funzione.
+Per assicurare un buon comfort ai bagnanti se l’acqua è a temperatura inferiore a 26 °C viene convogliata nello
+scambiatore di calore, mediante l’attivazione dell’elettrovalvola EV3 fino a quando non raggiunge la
+temperatura di 28 °C. Se entro 2 ore dall’attivazione di EV3 la temperatura dell’acqua della piscina non
+raggiungere i 28 °C a supporto dello scambiatore di calore viene attivato un riscaldatore elettrico alimentato
+mediante pannelli fotovoltaici posizionati sul tetto dell’agriturismo. Al raggiungimento della temperatura di
+28 °C l’elettrovalvola EV3 viene disattivata così come il riscaldatore elettrico, nel caso fosse stato
+precedentemente attivato, e l’acqua in uscita dal filtro a sabbia viene immessa direttamente in piscina.
+Il candidato, fatte le opportune ipotesi aggiuntive:
+1) rappresenti, usando un linguaggio a sua scelta, l'algoritmo di gestione dell'impianto di filtraggio,
+della pulizia del filtro a sabbia e della temperatura dell’acqua della piscina;
+2) elabori il programma in grado di gestire l'automatismo, utilizzando un sistema programmabile di sua
+conoscenza;
+3) descriva il funzionamento dell’inverter dell’impianto fotovoltaico che alimenta l’agriturismo;
+4) descriva il funzionamento del motore sincrono a magneti permanenti a commutazione elettronica
+che aziona l’elettropompa.
+
+Pag. 3/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITET - ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+SECONDA PARTE
+Quesito 1
+Con riferimento alla prima parte della prova, per garantire una perfetta funzionalità dell’impianto di filtrazione,
+si vuole dotare la piscina di un controllo automatico del livello dell’acqua.
+Una sonda, inserita nello skimmer, rileva due livelli d'acqua problematici: il livello basso e il livello alto.
+Quando a causa del lavaggio del filtro e dell’evaporazione il livello dell’acqua della piscina scende sotto il
+livello minimo deve intervenire un sistema di reintegro automatico mediante l’attivazione di un’elettrovalvola
+che permette l’immissione di acqua dall’acquedotto. Per evitare che possa aspirare aria al posto dell’acqua la
+pompa si deve arrestare automaticamente e non deve riavviarsi anche se viene premuto il pulsante di START.
+Quando il livello dell’acqua raggiunge il livello massimo il riempimento automatico si deve arrestare mediante
+la disattivazione dell’elettrovalvola e la pompa di filtrazione si deve riavviare automaticamente.
+Il candidato ad integrazione della prima parte della prova elabori un programma in grado di gestire il controllo
+automatico del livello dell’acqua, utilizzando un sistema programmabile di sua conoscenza.
+Quesito 2
+Con riferimento alla prima parte della prova, l’azionamento utilizza interruttori statici IGBT come riportato
+nel catalogo tecnico dell’elettropompa. Il candidato descriva tali componenti e li confronti con altri di sua
+conoscenza.
+Quesito 3
+Una macchina utensile richiede un motore con una capacità di sovraccarico (rapporto tra la coppia massima e
+la coppia nominale) superiore a 3.
+Il candidato verifichi se il motore asincrono trifase avente gli avvolgimenti collegati a stella, le cui
+caratteristiche sono riportate in tabella, può essere utilizzato per l’azionamento. Si considerino trascurabili i
+parametri a vuoto del circuito equivalente.
+Pn [kW]
+
+Vn [V]
+
+In [A]
+
+fn [Hz]
+
+Potenza Tensione Corrente Frequenza
+nominale nominale nominale nominale
+
+11
+
+400
+
+22,0
+
+50
+
+Nn
+[giri/min]
+
+Pcc [W]
+
+Velocità
+nominale
+
+Fattore
+Resistenza
+Numero
+Potenza
+di
+degli
+di
+persa
+potenza
+avvolgimenti
+coppie
+nel rame
+di corto
+statorici
+polari
+circuito
+
+1470
+
+800
+
+Rs [Ω]
+
+0,30
+
+cosφcc
+
+0,32
+
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+
+p
+
+2
+
+Pag. 4/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+Indirizzo: ITET - ELETTROTECNICA ED ELETTRONICA
+ARTICOLAZIONE ELETTROTECNICA
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+Quesito 4
+L’impianto lineare rappresentato in figura:
+
+X(s)
+
++
+–
+
+Y(s)
+
++
++
+
+F(s)
+
+G(s)
+
+T0
+è caratterizzato dalle seguenti funzioni di trasferimento:
+𝑭(𝒔) =
+
+𝟏𝟎
+𝒔+𝟑
+
+𝑮(𝒔) =
+
+𝟐
+𝒔+𝟐
+
+𝑻𝟎 =
+
+𝟏
+𝟏𝟎
+
+Utilizzando l’algebra degli schemi a blocchi, il candidato calcoli la funzione di trasferimento ad anello chiuso,
+successivamente determini il valore dell’uscita a regime quando in ingresso è applicato un segnale a gradino
+di ampiezza 3.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

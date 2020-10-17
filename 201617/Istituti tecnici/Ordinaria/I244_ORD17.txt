@@ -1,0 +1,45 @@
+Pag. 1/1
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I244 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: ITTC – GRAFICA E COMUNICAZIONE
+OPZIONE TECNOLOGIE CARTARIE
+Tema di: IMPIANTI DI CARTIERA E DISEGNO
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+In base alle conoscenze acquisite nel corso di studio, il candidato risolva il seguente problema tecnico:
+in un impianto di epurazione il cleaner di I°stadio lavora alla concentrazione di 0,85%, lo scarto ha
+una concentrazione di 2%. L’accettato all’assortitore è pari a 5 t/h di secco e ha una concentrazione
+dello 0,8%.
+Con i dati a disposizione il candidato calcoli:
+1. Tutte le linee del cleaner
+2. Il numero di cleaner se la portata è pari a 240 l/min
+Il candidato disegni lo schema grafico funzionale del processo descritto, completo delle
+apparecchiature ausiliarie necessarie e delle regolazioni automatiche principali, seguendo, per quanto
+possibile, la normativa specifica. Inoltre descriva in una relazione le caratteristiche dell’impianto e la
+funzionalità di ciascun componente con particolare riferimento all’epurazione e alla regolazione
+automatica del processo.
+SECONDA PARTE
+1. Il candidato indichi le grammature (con relative definizioni) tipiche dei seguenti tipi di carta:
+carta per quotidiani, carta da disegno, cartoncini per copertine.
+2. Nei processi cartari la fase di raffinazione è importante per le modifiche che apporta alle fibre
+cellulosiche e le conseguenze che ne derivano sul prodotto finito.
+Il candidato commenti questa affermazione, descriva sinteticamente i diversi tipi di raffinatori,
+scegliendo i tipi di fibre per ottenere un’elevata resistenza alla trazione nel foglio di carta
+prodotto.
+3. Descrivere l’influenza dell’acqua nelle proprietà meccaniche e fisiche della carta.
+4. Il candidato rappresenti il diagramma a blocchi di un sistema di controllo ad anello chiuso
+soffermandosi sulle differenze tra tale sistema e quello ad anello aperto.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’utilizzo del manuale del perito tecnico.
+È consentito l’uso del dizionario di italiano.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’istituto prima che siano trascorsi 3 ore dalla dettatura del tema.
+
+

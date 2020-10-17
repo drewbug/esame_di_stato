@@ -1,0 +1,604 @@
+Pag. 1/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+
+ATTENZIONE
+IL CANDIDATO È TENUTO A SVOLGERE LA PROVA PER
+UNO DEI TESTI DI SEGUITO PROPOSTI:
+
+
+A - ATTUALITÀ
+
+
+
+B - STORICO - SOCIALE
+
+
+
+C - LETTERATURA
+
+
+
+D - ARTISTICO
+
+Pag. 2/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+A - ATTUALITÀ
+How to manage AI's risks and rewards
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Technological advances in artificial intelligence (AI) promise to be pervasive, with impacts and ramifications
+in health, economics, security and governance. In combination with other emerging and converging
+technologies, AI has the potential to transform our society through better decision-making and improvements
+to the human condition.
+But, without adequate risk assessment and mitigation, AI may pose a threat to existing vulnerabilities in our
+defences, economic systems, and social structures, argue the authors of the Wilson Center report, Artificial
+Intelligence: A Policy-Oriented Introduction, Anne Bowser, Michael Sloan, Pietro Michelucci and Eleonore
+Pauwels.
+Recognizing the increasing integration of technology in society, this policy brief grounds the present
+excitement around AI in an objective analysis of capability trends before summarizing perceived benefits and
+risks. It also introduces an emerging sub-field of AI known as Human Computation, which can help achieve
+future AI capabilities by strategically inserting humans in the loop where pure AI still falls short.
+Policy recommendations suggest how to maximize the benefits and minimize the risks for science and society,
+particularly by incorporating human participation into complex socio-technical systems to ensure the safe and
+equitable development of automated intelligence.
+The report offers a number of key recommendations:
+Planning in an Age of Complexity: recommendations for policymakers and funders
+AI is a critical component of the fourth industrial revolution (4IR), “a fusion of technologies that is blurring
+the lines between the physical, digital, and biological spheres.”
+Compared to previous revolutions involving processes like mechanization, mass production, and automation,
+the fourth industrial revolution is characterized by the convergence of new and emerging technologies in
+complex socio-technical systems that permeate every aspect of human life.
+Convergence also implies the increasing interaction of multiple fields, such as AI, genomics and
+nanotechnology, which rapidly expands the range of possible impacts that need to be considered in any science
+policy exercise.
+Ten years ago, nanotechnology was celebrated largely for its impacts on chemistry and material sciences. But
+the ability to precision engineer matter at genetically relevant scale has resulted in significant advances in
+genomics and neurosciences, such as creating the ability to model networks of neurons. This example
+illustrates how the convergence of two emerging technologies - AI and genomics- leads to advances beyond
+the initial capabilities of either alone. Meeting the challenges of convergence requires drawing on a wide range
+of expertise, and taking a systems approach to promoting responsible research and innovation.
+As “outsiders” to the AI design processes, it is extremely difficult for policymakers to estimate AI development
+due to limited comprehension of how the technology functions. Many may also draw inspiration from
+traditional regulatory models that are inadequate for AI, playing a catch-up game to decode the terms of
+reference used by researchers, or fall victim to the human fallacy of overestimating the short-term capabilities
+of new technologies.
+
+Pag. 3/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+A - ATTUALITÀ
+There will be significant systems’ transformations through AI over the next few decades, but perhaps it will
+be more incremental than we fear or imagine.
+40
+
+45
+
+50
+
+55
+
+Conduct broad and deep investigations into AI with leading researchers from the private sector and
+universities.
+In the US, early reports from policy bodies and researchers at institutions such as Stanford offer high-level
+roadmaps of AI R&D. Expert groups convening under organizations like IEEE compliment these overviews
+with in-depth considerations of things like ethically-aligned AI design to maximize human well-being.
+In the near-future, AI researchers involved in collaboration with policymakers should conduct additional indepth studies to better understand and anticipate aspects of AI related to (for example) job automation at a
+more granular level, considering impact across time, sectors, wage levels, education degrees, job types and
+regions. For instance, rather than low-skill jobs that require advanced hand-dexterity, AI systems might more
+likely replace routine but high-level cognitive skills. Additional studies could investigate areas like national
+security.
+Advocate for a systems approach to AI research and development that accounts for other emerging
+technologies and promotes human participation.
+AI seeks to replicate human intelligence in machines – but humanlike intelligence already exists in humans.
+Today there is an opportunity to develop superhuman intelligence by pairing the complementary abilities of
+human cognition with the best available AI methods to create hybrid distributed intelligent systems. In other
+words, it is in our reach to build networks of humans and machines that sense, think, and act collectively with
+greater efficacy than either humans or AI systems alone.
+The emerging subfield of AI known as Human Computation is exploring exactly those opportunities by
+inserting humans into the loop in various information processing systems to perform the tasks that exceed the
+abilities of machine AI. For this reason, human computation is jokingly referred to as “Artificial AI”. […]
+[760 words]
+World Economic Forum: Geostrategy platform
+Available on line: https://www.weforum.org/agenda/2018/01/how-to-manage-ais-risks-and-benefits
+Accessed on February 25th 2018
+
+COMPREHENSION AND INTERPRETATION
+Answer the following questions. Use complete sentences and your own words.
+1.
+
+Why can it be said that AI is going to be pervasive?
+
+2.
+
+What makes it possible for AI to potentially improve the human condition?
+
+3.
+
+Why is it important to deliver an adequate risk management process for AI, according to the authors of
+the Wilson Centre report?
+
+Pag. 4/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+A – ATTUALITÀ
+4.
+
+How can the benefits of AI be maximised to outweigh the harm for both science and society?
+
+5.
+
+What are two distinctive traits of the Fourth Industrial Revolution (4IR) which are mentioned in the
+report?
+
+6.
+
+What example do the authors offer which shows the interaction of AI with multiple fields?
+
+7.
+
+Why does it become difficult for those in charge of designing policies to estimate the impact of AI?
+
+8.
+
+What do the authors suggest is the result of the collaboration between AI researchers and policymakers?
+
+9.
+
+How can human cognition and available AI methods complement each other and to what effect?
+
+10. What is the authors’ purpose in writing the report and what kind of readers do you think is it intended
+for?
+PRODUCTION
+Choose one of the following questions.
+Number your answer clearly to show which question you have chosen.
+Either
+1. The rapid development of robotics and AI might have the potential to transform our lives and work
+practice and offer enormous economic and innovative benefits for our society. Explain how important it
+is to ensure a sustainable coexistence between robots and humans and for researchers and robot designers
+to operate in accordance with legal and ethical standards and provide a “safe and equitable development
+of automated intelligence” (lines 14-15). Write an essay of about 300 words.
+Or
+2. A student magazine is inviting readers to contribute to series of articles called “Amazing Future” on some
+societies imagined by science fiction writers. Submit an article describing a future scenario you imagine
+and explaining how humans and robots can interact and what people could be dependent on for feelings
+of emotional satisfaction in this future. Write your article in about 300 words
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso dei dizionari monolingue e bilingue.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 5/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+B – STORICO - SOCIALE
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+The Second World War was such a shattering, overwhelming experience for Britain that it is tempting to
+isolate the country we became afterwards from the pre-war Britain, as if a huge blade fell across the national
+story. In obvious ways this is true. The war changed Britain physically and industrially, destroying city centres;
+it ultimately changed who lived here by encouraging both immigration and emigration. It changed Britain’s
+political climate and our attitude to government. It even changed, through a subsequent jump in the birth rate,
+relations between the generations. Yet in other ways post-war Britain was simply a continuation of the Britain
+of the thirties. When it was all over, and before Churchill was voted out of power, the Parliament of 1945 was
+the same one elected in 1935, a Commons frozen from another time. Deference and respect for the Royal
+Family, belief in the superiority of the white man, a complacent assumption that British manufacturing was
+still best … all that survived seemingly unaltered through the years of danger.
+Britain still believed herself to be in her imperial heyday, mistress of the seas. Though we think of it as
+essentially Victorian, the British Empire, declaring itself the first “world state” had continued to grow right up
+until the mid-thirties. At the beginning of the Second World War there were some 200 colonies, dominions
+and possessions connected to London, covering more than 11 million square miles. The Empire embraced
+Pacific tribesmen and Eskimos, ancient African kingdoms and the rubble of the great Mughal empire,
+Australian farmers and the gold-miners of South Africa. It ran from the Scottish Highlands to the Antarctic,
+from the French-speaking villages of Quebec to the mosques of the Middle East. For a comparatively small
+nation of fewer than 50 million people to have acquired all this might seem a global absurdity, a large joke in
+the history of humankind.
+Relatively few of those square miles helped the British economy thrive yet the Empire was considered the
+essence of British power, a global financial and trading system independent of the rising might of the United
+States. “The Empire on which the sun never sets” was not poetic, but factual. Imperial feeling still suffused
+the Britain of the forties and fifties. Schools displayed the famous red-splattered maps and taught the history
+of Clive’s battles in India and the achievements of missionaries in Africa. Children encyclopedias brimmed
+with information about the calico industries of the subcontinent, or those useful rubber trees in Malaya.
+Middle-class bookshelves groaned with Kipling, Somerset Maugham, Henry and T. E. Lawrence. The Empire
+was everywhere, inside the home and out, in street names and statues, the Indian knick-knacks and elephantfoot umbrella stands, Bombay gin and Imperial Leather soap, the rhododendron bushes from the Himalayas,
+words like tiffin and bungalows and the eating of the kedgeree for breakfast by all those retired Indian civil
+servants and administrators in the Home Counties. There were the names of the major companies – Imperial
+Chemical Industries, Home and Colonial Stores, British Imperial Airways, the Imperial Rubber Company.
+Empire Day was celebrated until 1958. More seriously there was continuing large-scale emigration from the
+British Isles to Africa, Canada, Australia and New Zealand. Until the sixties, one in five emigrants were
+heading from the UK to the old “Crown Commonwealth” countries and more than a million Britons went to
+Australia alone during 1946-1972. On wet days, back home, there were the endless Pathé and Movietone
+newsreels of Royal visits to New Zealand or some dependent territory. Twenty years earlier the Royal Navy,
+like the British Empire, had seemed at its zenith, a world-dominating power. […]
+The Navy was for the British what the roads and legions had been for the Romans, the thin, steely web holding
+together many different lands and people. By the twentieth century, with a quarter of the world under British
+rule, no country had ever claimed power over so many people and so much land. It had been made possible
+by a centuries-old British love affair with salt water, and by the Victorian enthusiasms for steam power and
+
+Pag. 6/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+B – STORICO - SOCIALE
+
+45
+
+the appliance of science. In the twentieth century these traits, which had made Britain Great, were in decline.
+Even so, the Navy continued to enthral the British in the first half of that century in ways we now struggle to
+remember; sea shanties on music-hall stages, the books of Marryat and Forrester for boys, the great Spithead
+reviews, the Dreadnoughts on cigarette cards, the blue-and-gold uniforms at Court. Drake and Raleigh, Cook
+and Nelson, were the subjects of ten thousand history lessons in almost every school in the country. To be
+British was to thrill at the sight of a White Ensign.
+[783 words]
+Andrew Marr, A History of Modern Britain, 2007
+
+COMPREHENSION AND INTERPRETATION
+Answer the following questions. Use complete sentences and your own words.
+1.
+
+What does the author emphasize about the British Empire? Find at least three main ideas in the text.
+
+2.
+
+Why does the author say it is “tempting” (line 1) to distinguish clearly between pre-war Britain and
+post-war Britain?
+
+3.
+
+How was Britain affected by the Second World War? Mention at least three main facts.
+
+4.
+
+Which British traits seem to have been unaffected by the war?
+
+5.
+
+What does “a large joke in the history of humankind” (lines 18-19) refer to?
+
+6.
+
+What is the author’s point of view regarding the British Empire?
+
+7.
+
+How were schools influential in keeping Imperial feelings alive?
+
+8.
+
+Where did references to the Empire appear in people’s everyday lives?
+
+9.
+
+Why does the author compare the British Navy to the Roman roads?
+
+10. How does the author relate the British Empire to the British Navy?
+
+Pag. 7/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+B – STORICO - SOCIALE
+PRODUCTION
+Choose one of the following questions.
+Number your answer clearly to show which question you have chosen.
+Either
+1. “The most fundamental thing the war changed was the political climate: it made democracy fashionable.
+But it did more. It convinced the British that their government could reshape the nation too. Like most
+victorious wars it raised the reputation of the state.” (Andrew Marr)
+Discuss the quotation in a 300-word essay by referring to the effects of other wars and to other countries
+and supporting your views with suitable examples.
+Or
+2. Focus on the current conflicts and peacekeeping operations around the world. What are your personal
+views on the topic? Write a 300-word comment.
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso dei dizionari monolingue e bilingue.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 8/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+C – LETTERATURA
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+He sighed, and at the same moment a woman stopped to ask him if he could receive her dry cleaning as she
+was going out. She had a rude, impatient manner and rather than look at him as she spoke she stared at a
+calendar on his desk, a grey block with a digital screen, which informed whoever was standing in front of it
+exactly what moment they were in to the second. It was the twenty-fifth of the month of October, in the year
+two thousand and eight, and the time was twelve-thirty-six and twenty-three seconds. I turned to leave; the
+doorman dealt with the woman and hurried out from behind his desk to open the front door for me. He asked
+me where I was going: I said I didn’t know. I walked out into the city. It was a perfect autumnal London
+afternoon, chill but bright, under certain trees there was a shedding of golden leaves. I walked past the cricket
+ground and the mosque, past Madame Tussauds, up Goodge Street and down Tottenham Court Road, through
+Trafalgar Square, and found myself finally in Embankment, and then crossing the bridge. I thought – as I often
+think as I cross that bridge – of two young men, students, who were walking over it very late one night when
+they were mugged and thrown over the railing, into the Thames. One lived and one died. I’ve never understood
+how the survivor managed it, in the darkness, in the absolute cold, with the terrible shock and his shoes on.
+Thinking of him, I kept to the right-hand side of the bridge, by the railway line, and avoided looking at the
+water. When I reached the South Bank the first thing I saw was a poster advertising an afternoon event with
+an Austrian film director “in conversation”, it was starting in twenty minutes at the Royal Festival Hall. I
+decided on a whim to try to get a ticket. I walked over and was able to buy a seat in the gods, in the very back
+row. I didn’t expect much, I only wanted to be distracted from my own problems for a while, to sit in darkness,
+and hear a discussion of films I’d never seen, but in the middle of the programme the director asked his
+interviewer to roll a clip from the movie Swing Time, a film I know very well, I only watched it over and over
+as a child. I sat up tall in my seat. On the huge screen before me Fred Astaire danced with three silhouetted
+figures. They can’t keep up with him, they begin to lose their rhythm. Finally they throw in the towel, making
+that very American “oh phooey” gesture with their three left hands, and walking off stage. Astaire danced on
+alone. I understood all three of the shadows were also Fred Astaire. Had I known that, as a child? No one else
+paws the air like that, no other dancer bends his knees in quite that way. Meanwhile the director spoke of a
+theory of his, about “pure cinema”, which he began to define as the “interplay of light and dark, expressed as
+a kind of rhythm, over time”, but I found this line of thought boring and hard to follow. Behind him the same
+clip, for some reason, played again, and my feet, in sympathy with the music, tapped at the seat in front of me.
+I felt a wonderful lightness in my body, a ridiculous happiness, it seemed to come from nowhere. I’d lost my
+job, a certain version of my life, my privacy, yet all these things felt small and petty next to this joyful sense I
+had watching the dance, and following its precise rhythms in my own body. I felt I was losing track of my
+physical location, rising above my body, viewing my life from a very distant point, hovering over it. It
+reminded me of the way people describe hallucinogenic drug experiences. I saw all my years at once, but they
+were not piled up on each other, experience after experience, building into something of substance – the
+opposite. A truth was being revealed to me: that I had always tried to attach myself to the light of other people,
+that I had never had any light of my own. I experienced myself as a kind of shadow.
+[741 words]
+Zadie Smith, Swing Time, Prologue, Kindle Edition, 2016
+
+Pag. 9/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+C – LETTERATURA
+COMPREHENSION AND INTERPRETATION
+Answer the following questions. Use complete sentences and your own words.
+1. Who are the characters in the text and where is the story set?
+2. Who is the narrator?
+3. What does the reader get to know about the protagonist?
+4. What recollections does crossing the bridge bring back?
+5. Why does the protagonist buy a theatre ticket?
+6. What is the protagonist’s reaction to the clip from Swing Time?
+7. How does the protagonist feel watching the clip again?
+8. To what extent is the protagonist’s happiness “ridiculous” (line 29)?
+9. Why does the protagonist say: “I experienced myself as a kind of shadow” (line 36)?
+10. What literary device does the author use regarding the clip from Swing Time and for what purpose?
+PRODUCTION
+Choose one of the following questions.
+Number your answer clearly to show which question you have chosen.
+Either
+1. “If Fred Astaire represented the aristocracy, I represented the proletariat, said Gene Kelly, and by this
+logic Bill “Bojangles” Robinson should really have been my dancer, because Bojangles danced for the
+Harlem dandy, for the ghetto kid, for the sharecropper – for all the descendants of slaves. But to me a
+dancer was a man from nowhere, without parents or siblings, without a nation or people, without
+obligations of any kind, and this was exactly the quality I loved.” (Swing Time)
+Discuss the quotation regarding the universal language of music in a 300-word essay by referring to
+your reading and to your experience.
+Or
+2. Focus on the protagonist’s reaction to the clip from the film Swing Time. Has that ever happened to you?
+On what occasion? Write a 300-word comment for a blog for teenagers and/or young adults. Refer to
+your own dreams and aspirations.
+__________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso dei dizionari monolingue e bilingue.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 10/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+D – ARTISTICO
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Modigliani packs a powerful, emotional punch - Tate Modern, review
+Few artists have suffered such a dramatic reverse in their critical fortunes as Amedeo Modigliani. The Parisbased Italian painter’s status as art’s ultimate starving-in-a-garret, beautiful loser can hardly be contested –
+dying in penury of drug and alcohol-aggravated tuberculosis aged just 35, his lover killing herself and their
+unborn child just days later. Yet Modigliani’s stylised, instantly recognisable portraits and nudes with their
+long necks and lustrous dark eyes, once regarded as among the most powerful and emotive images of the
+20th century, now barely figure in serious tellings of the story of modern art.
+This is because the revival of interest in classic modernism over the past couple of decades – white cube
+architecture as well as severe abstraction – has seen the more romantic side of modern art, typified by
+Modigliani, and that other once-great, but now derided figure Marc Chagall, written off as mannered and
+essentially soft-centred.
+The people at Tate seem out to remedy this situation, and are clearly anticipating a major success with this,
+the largest Modigliani exhibition ever mounted in the UK. The usually dry wall texts have a novelettish
+breathlessness (“Paris offered excitement. Paris offered variety”), while virtual reality headsets allow you to
+sit in Modigliani’s draughty studio, with rain drumming on the roof and the artist’s cigarette burning scarily
+low on the bench beside his palette. More significantly, the 100 works on show include many of his most
+famous paintings.
+Born into a Jewish family in Livorno in 1884, Modigliani arrived in Paris in 1906, at a moment when the
+likes of Picasso and Braque were shattering traditional notions of form and space under the influence of
+Cezanne and African art. Modigliani, a close friend of Picasso – and of just about everyone else who
+mattered in Paris at the time – fused the same elements into an approach that looks superficially similar to
+Picasso’s cubism, but couldn’t in fact be more different.
+Some of the early paintings, such as The Beggar of Livorno, 1909, with its wash-like greens and blues, could
+pass for Cezannes. But in The Young Gypsy, from the same year, the quintessential Modigliani style appears
+already almost fully formed: evident in the sloping shoulders, elongated to create a column-like central form,
+the wide cheekbones and slanting eyes, exaggerated to enhance a sense of feral sensuality.
+Modigliani, like Picasso, reduced the human face and body to essential form, but where Picasso’s cubist
+portraits obliterate the identity of the sitter, Modigliani is out to heighten it. In a trio of striking portraits of
+his dealer Paul Guillaume, the head is refined into a kind of piggy-eyed rhomboid box, with a tiny bee-stung
+mouth. While you might take these images as cubistic caricature, the subject is surprisingly recognisable
+from a photograph shown alongside.
+Modigliani’s interest in creating a new kind of monumental form – far from trying to destroy it – is apparent
+in his brief foray into sculpture; though the roomful of Egyptian and African-influenced female stone heads
+seen here feel very much of their time; like something you’d expect to see on the side of an art deco cinema.
+When this exotic stylisation is transposed into painted portraits, such as Madam Pompadour (1915), the
+effect is mask-like and rather sub-Matisse. It’s when Modigliani brings both feel and appearance vividly
+before us, that he comes into his own. This is evident in a wonderful room of portraits of notable figures
+from early modernist Paris: the sculptor Jacques Lipchitz in his polo-neck jumper, the artist and actor Gaston
+Modot with his flat diamond-shaped eyes. Best of all is the poet Max Jacob, whose predatory features are
+refined into a red-tinged, blade-like form.
+
+Pag. 11/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+D – ARTISTICO
+40
+
+These are paintings that break the cardinal rules of modernism by focusing on human content and feeling
+rather than pure form, and they pack a powerful emotional punch.
+The dark-bobbed Portrait of a Girl, for example, should be easily written off as a rather mundane likeness
+that can’t make up its mind whether it wants to be traditional or modern. But like many of the works here,
+she gets under your skin on a kind of “guilty pleasure” level.
+[683 words]
+Mark Hudson, 21 November 2017
+Available online: http://www.telegraph.co.uk/art/what-to-see/modigliani-packs-powerful-emotional-punch-tate-modern-review/
+Accessed on March 21st 2018
+
+COMPREHENSION AND INTERPRETATION
+Answer the following question. Use complete sentences and your own words.
+1. Read the whole text and find out how Modigliani, according to the title of the article, “packs a powerful,
+emotional punch”.
+2. How has Modigliani’s art been received by critics?
+3. To what extent can Modigliani and Chagall be compared?
+4. What does the author think of the Tate Exhibition?
+5. To what extent are “The Beggar of Livorno” and “The Young Gypsy” different?
+6. What does the author highlight when comparing Modigliani to Picasso?
+7. What does Modigliani’s sculpture reveal?
+8. In what way does Modigliani break the rules of modernism?
+9. According to the writer, what reaction does the Portrait of a Girl cause?
+10. What is the purpose of this text?
+
+Pag. 12/12
+
+Sessione straordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+PL01 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzi: LI04, EA03 - LICEO LINGUISTICO
+Tema di: LINGUA STRANIERA - INGLESE
+D – ARTISTICO
+PRODUCTION
+Choose one of the following questions.
+Number your answer clearly to show which question you have chosen.
+Either
+1. “A question often asked is: was Modigliani just an exploiter of the surface effects in art he was influenced
+by or was he great in his own right? The answer is that he is a genius synthesiser. He’s great because of
+his exploiting, not despite it.” (Matthew Collings, Evening Standard).
+Discuss the quotation in a 300-word essay by referring to other artists you know, if you wish, and supporting
+your views with suitable examples.
+Or
+2. Who is the artist you like most? Have you ever seen an exhibition about him / her or have you read anything
+about him / her? Write a 300-word review for your personal blog.
+
+__________________________
+Durata massima della prova: 6 ore.
+È consentito soltanto l’uso dei dizionari monolingue e bilingue.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

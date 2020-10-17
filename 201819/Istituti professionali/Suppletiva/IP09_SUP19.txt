@@ -1,0 +1,64 @@
+Pag. 1/1
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IP09 - MANUTENZIONE E ASSISTENZA TECNICA
+Tema di: TECNOLOGIE E TECNICHE DI INSTALLAZIONE E MANUTENZIONE
+PRIMA PARTE
+La centrale termo-frigorifera di un centro commerciale è a servizio degli spazi comuni ed è costituita
+dalle seguenti apparecchiature principali:
+•
+
+due gruppi frigoriferi con compressori a vite;
+
+•
+
+due unità di trattamento aria con ventilatore di mandata e di ripresa;
+
+•
+
+due caldaie a gas metano;
+
+•
+
+pompe di circolazione acqua calda ed acqua fredda;
+
+•
+
+quadro di regolazione e controllo;
+
+•
+
+quadro elettrico di alimentazione delle utenze di centrale, alimentato dal quadro generale
+dell’edificio.
+
+In estate, la centrale termo-frigorifera deve mantenere la temperatura all’interno del centro
+commerciale nell’intervallo 25-26 °C. In seguito al mancato raggiungimento e/o mantenimento della
+temperatura prevista è necessario l’intervento della ditta di manutenzione all’interno della centrale
+termo-frigorifera.
+Il candidato, in funzione della propria esperienza di :
+1. descriva la procedura da adottare per la ricerca del guasto e le tipologie di interventi da effettuare
+per riportare i valori della temperatura all’interno dell’intervallo 25-26 °C;
+2. indichi, motivando la scelta, le misure di prevenzione e protezione e la tipologia dei DPI
+(Dispositivi di Protezione Individuale) necessari per effettuare l’intervento di manutenzione in
+sicurezza;
+3. predisponga un format per la registrazione delle verifiche e degli interventi di manutenzione
+effettuati;
+4. sapendo, inoltre, che il tasso di guasto di un gruppo frigorifero sia pari a 4*10-6 ore-1, determini
+l’affidabilità del sistema dopo 4 anni, ipotizzando che i due gruppi funzionino in parallelo.
+
+____________________________
+Durata massima della prova – prima parte: 4 ore.
+La prova si compone di due parti. La prima è riportata nel presente documento ed è predisposta dal MIUR mentre la seconda è
+predisposta dalla Commissione d’esame in coerenza con le specificità del Piano dell’offerta formativa dell’istituzione scolastica
+e della dotazione tecnologica e laboratoriale d’istituto.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo
+simbolico (O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

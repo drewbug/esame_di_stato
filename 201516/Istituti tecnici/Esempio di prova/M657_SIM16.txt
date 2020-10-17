@@ -1,0 +1,664 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAM – SISTEMA MODA
+ARTICOLAZIONE TESSILE, ABBIGLIAMENTO E MODA
+Tema di: TECNOLOGIE DEI MATERIALI E DEI PROCESSI PRODUTTIVI E
+ORGANIZZATIVI DELLA MODA
+ESEMPIO PROVA
+Il candidato, a seconda che nell’ambito delle abilità e conoscenze previste dalle linee guida abbia
+approfondito la progettazione di tessuti a fili rettilinei, di tessuti a maglia o di confezione, scelga il
+tema 1, il tema 2 o il tema 3.
+
+TEMA 1
+Tessuti a fili rettilinei
+Il candidato, a libera scelta, può svolgere la prova A relativa a materiali tessili in lana o la prova B
+relativa a materiali tessili in cotone.
+
+Prova A (materiali tessili in lana)
+Una filatura pettinata, con attività giornaliera di tre turni da 7,5 ore ciascuno, deve produrre 3500
+kg/giorno di filato di Nm 60, con 700 torsioni/metro di senso Z. Il nastro pettinato che alimenta la
+mescolatrice ha un peso di 25 g/m.
+Il ciclo di lavorazione prevede le seguenti fasi:
+
+
+Mescolatura;
+
+
+
+Ripettinatura;
+
+
+
+Preparazione alla filatura;
+
+
+
+Filatura;
+
+
+
+Roccatura.
+
+Prova B (materiali tessili in cotone)
+Una filatura pettinata, con attività giornaliera di tre turni da 7,5 ore ciascuno, deve produrre 3500
+kg/giorno di filato di Ne 50, con 28 torsioni/pollice di senso Z. Il nastro cardato ha un peso di 4 g/m,
+mentre lo stoppino ha un coefficiente di torsione Kc = 1,1.
+
+Il ciclo di lavorazione prevede le seguenti fasi:
+
+
+Cardatura (cascami 5%);
+
+
+
+Preparazione alla pettinatura;
+
+
+
+Pettinatura (cascami 15%);
+
+
+
+Preparazione alla filatura;
+
+
+
+Filatura ad anello.
+
+Il candidato, utilizzando i dati riportati nelle tabelle A o B, a seconda della prova scelta, deve:
+1.
+
+calcolare il numero di macchine occorrenti per realizzare la produzione richiesta, compilando il
+piano di lavoro, nel quale siano indicati, per ogni macchina:
+
+2.
+
+a)
+
+denominazione della macchina;
+
+b)
+
+peso o titolo del singolo prodotto entrante;
+
+c)
+
+valore dell’accoppiamento;
+
+d)
+
+carica di alimentazione;
+
+e)
+
+stiro meccanico;
+
+f)
+
+peso o titolo del prodotto uscente;
+
+g)
+
+velocità di produzione (m/min);
+
+h)
+
+numero di nastri/stoppini/filati prodotti per macchina;
+
+i)
+
+produzione teorica (kg/ora);
+
+j)
+
+rendimento;
+
+k)
+
+produzione pratica (kg/ora);
+
+l)
+
+numero di teste o fusi richiesti;
+
+m)
+
+numero di macchine da utilizzare e relativi numeri di teste o fusi.
+
+illustrare principio di funzionamento, regolazioni di base, capacità produttive e criteri di
+assegnazione della pettinatrice;
+
+3.
+
+predisporre una scheda tecnica con le principali prove di controllo di qualità del filato.
+
+Tabella A: Dati di lavorazione macchine laniere
+
+Rendimento %
+
+Velocità massima
+(m/min)
+
+Giri/min massimi
+
+Mescolatrice
+
+60 ÷ 70
+
+250
+
+-
+
+Stiratoio a catena
+
+70 ÷ 80
+
+300
+
+-
+
+Pettinatrice
+
+85 ÷ 90
+
+-
+
+250
+
+Finitore trottatore
+
+75 ÷ 85
+
+200
+
+-
+
+Filatoio
+
+85 ÷ 90
+
+-
+
+12.000
+
+Roccatrice
+
+75 ÷ 85
+
+1200
+
+-
+
+Rendimento %
+
+Velocità massima
+(m/min)
+
+Giri/min massimi
+
+Carda
+
+80 ÷ 90
+
+250
+
+-
+
+Stiratoio nastri
+
+70 ÷ 80
+
+400
+
+-
+
+Stiroriunitore
+
+60 ÷ 70
+
+120
+
+-
+
+Pettinatrice
+
+85 ÷ 90
+
+-
+
+300
+
+Banco a fusi
+
+75 ÷ 85
+
+-
+
+1500
+
+Filatoio
+
+85 ÷ 90
+
+-
+
+15.000
+
+MACCHINA
+
+Tabella B: Dati di lavorazione macchine cotoniere
+
+MACCHINA
+
+Quesiti
+1.
+
+Descrivere le differenze sostanziali tra tessuti prodotti con telai a licci e con telai Jacquard in
+termini di progettazione, produzione e utilizzo.
+
+2.
+
+Elencare i controlli di qualità che abitualmente vengono effettuati sui tessuti per abbigliamento,
+descrivendo brevemente la finalità di ciascuna prova.
+
+3.
+
+Indicare i principali sistemi di titolazione dei filati e spiegare la differenza fondamentale fra
+titolazione diretta e indiretta.
+
+4.
+
+Indicare tutti i tipi di inserzione della trama delle macchine per tessere attualmente in commercio e
+descriverne brevemente il funzionamento.
+
+TEMA 2
+
+Maglieria
+Processo produttivo e organizzativo di un prodotto di maglieria
+1^ Fase: Produzione di un filato cardato Nec 20.
+Calcolare la Produzione giornaliera in Chilogrammi con attività di 1 turno di 7,30 ore e Rappresentare
+graficamente con un sistema a blocchi la Programmazione del Reparto di Filatura, indicando il numero
+di macchine occorrenti per detta Produzione
+Dati tecnici produttivi delle macchine:
+
+
+Prelevatore automatico: Produzione teorica = 950 Kg/h; Rendimento = 95%
+
+
+
+Apritoio: Produzione teorica = 240 Kg/h; Rendimento = 94%
+
+
+
+Miscelatore a 6 celle: Produzione teorica = 890 Kg/h; Rendimento = 96%
+
+
+
+Carda: Produzione teorica = 230 Kg/h; Rendimento = 95%; Cascame = 3%
+
+
+
+Stiratoio: Produzione teorica = 900 m/min; Rendimento = 96%;
+Titolo materiale uscente Necu = 0,15
+
+
+
+Banco a fusi: Velocità = 1100 giri/min; Torsione = 43 giri/m; Rendimento = 94%;
+Titolo materiale uscente Necu = 0,8; N° fusi = 85
+
+
+
+Filatoio: Velocità = 12000 giri/min; Torsione = 340 giri/m; Rendimento = 96%;
+Titolo materiale uscente Necu = 20; N° fusi = 900
+
+2^ Fase: Produzione di tessuto a maglia jersey semplice in cotone cardato
+
+
+Calcolare i metri di tessuto prodotti in un giorno con attività di 1 turno di 7,30 ore, tenendo conto
+che la sala di tessitura impiega n° 10 macchine circolari monofrontura aventi
+
+le seguenti
+
+caratteristiche:
+diametro Φ = 30”; cadute = 96; Finezza E 16; velocità = 23 giri/min; Ranghi/cm = 20;
+Lunghezza di Filo Assorbito LFA = 0,3 cm; Titolo del Filato Nec 20
+
+
+Calcolare inoltre il fabbisogno di filato giornaliero in Kg.
+
+Quesiti
+1.
+
+Spiegare la differenza tra una macchina circolare monofrontura e una macchina bifrontura.
+
+2.
+
+Descrivere le caratteristiche fisiche e gli impieghi di un tessuto a maglia in jersey.
+
+3.
+
+Descrivere l’evoluzione produttiva tecnologica delle macchine rettilinee.
+
+4.
+
+Effettuare la classificazione dei telai per maglieria in catena e descrivi le loro caratteristiche.
+
+TEMA 3
+Confezione
+1° parte
+Un’azienda produce abbigliamento di una linea formale di pantaloni per una clientela che ricerca una
+qualità medio-alta.
+Si consideri il processo di progettazione e industrializzazione dei prodotti di una collezione
+autunno/inverno.
+Il candidato dovrà progettare un pantalone di tipo formale, per uomo o donna a sua scelta,
+caratterizzato dai seguenti elementi costruttivi:
+-
+
+cintura in forma;
+
+-
+
+apertura sul centro davanti con finta e cerniera;
+
+-
+
+tasche anteriori tipo “americana”;
+
+-
+
+una tasca posteriore ad un filetto;
+
+Al candidato, per il suddetto pantalone, si chiede di elaborare:
+1.
+
+La scheda tecnica del prodotto corredata da un disegno in piano, dall’indicazione degli accessori
+impiegati e dalle lavorazioni;
+
+2.
+
+il ciclo di lavorazione in cui stimare i tempi assegnati per ciascuna operazione;
+
+3.
+
+la distinta base dei materiali impiegati con il calcolo dei consumi e dei costi unitari;
+
+4.
+
+la scheda dei costi nella quale indicare il prezzo di vendita del prodotto considerando un margine
+di contribuzione del 50%.
+
+Al termine della campagna vendite, in base agli ordini pervenuti in azienda, l’ufficio di
+programmazione della produzione deve elaborare le commesse di lavorazione dei modelli P501, P502,
+appartenenti alla collezione. Nella tabella A si riportano l’insieme delle righe d’ordine.
+La tabella B elenca per ciascun modello il ciclo di lavorazione relativo ad una fase di lavorazione.
+Al candidato si chiede di predisporre le commesse di lavorazione per i modelli suddetti e di
+organizzare il reparto produttivo della lavorazione.
+Il sistema produttivo è organizzato a pacco con formazione di scorte su ciascuna postazione di lavoro,
+nella stagione produttiva precedente sono stati rilevati il 2% di assenteismo e il 95% di rendimento
+medio.
+In particolare si richiede:
+1.
+
+Il riepilogo delle righe d’ordine di ciascuna commessa sapendo che i tessuti appartengono alla
+stessa categoria di taglio.
+
+2.
+
+Il calcolo del volume giornaliero al fine di esaurire la produzione dei lotti in dieci giorni lavorativi.
+
+3.
+
+Il calcolo del fabbisogno di manodopera e di macchinari con relative saturazioni.
+
+Tabella “A” “Righe Ordine per Cliente”
+Cliente
+
+Modello
+
+Tessuto
+
+Colore
+
+Quantità ordinate per taglia
+38
+40
+42
+44
+46
+
+C01
+C01
+C01
+C01
+C02
+C02
+C02
+C02
+C02
+
+P501
+P501
+P502
+P503
+P501
+P502
+P502
+P503
+P503
+
+10
+10
+10
+15
+10
+10
+10
+15
+15
+
+1
+2
+2
+15
+1
+2
+3
+18
+15
+
+60
+20
+20
+45
+50
+27
+4
+40
+
+50
+40
+10
+25
+35
+40
+27
+20
+20
+
+50
+40
+30
+25
+30
+50
+27
+20
+27
+
+30
+50
+22
+15
+30
+40
+10
+10
+7
+
+7
+7
+49
+30
+10
+-
+
+C03
+C03
+C03
+C04
+C04
+C04
+
+P501
+P502
+P502
+P502
+P501
+P503
+
+10
+15
+15
+10
+10
+15
+
+2
+5
+2
+3
+1
+18
+
+10
+8
+14
+20
+18
+30
+
+10
+20
+20
+80
+24
+30
+
+10
+18
+20
+70
+24
+20
+
+25
+18
+20
+20
+20
+
+20
+22
+20
+
+TOTALE
+190
+130
+82
+92
+147
+229
+121
+64
+94
+55
+64
+94
+170
+108
+120
+
+Tabella “B” “Cicli di lavorazione”
+N. Operazione
+
+Macchina
+
+Tempo Assegnato
+Mod.501
+
+Tempo Assegnato
+Mod.502
+
+1
+2
+3
+4
+5
+6
+
+Pressa Universale
+Normale piana
+Sorgettatrice
+Ferro+Tavolo
+Normale piana
+Catenella doppia
+
+2,86
+4,04
+2,94
+3,12
+3,26
+2,45
+
+2,86
+0
+3,2
+3,12
+0
+2,45
+
+Quesiti
+Il candidato scelga almeno due tra i quesiti proposti e sviluppi gli argomenti richiesti in forma libera.
+1.
+
+Indicare la documentazione che viene prodotta dall’ufficio tecnico e ufficio stile durante la fase di
+industrializzazione del prodotto, esporre la finalità di almeno tre documenti elaborati durante tale
+fase.
+
+2.
+
+Definire le commesse di lavorazione e indicare i criteri impiegati dal programmatore nell’
+elaborazione delle commesse individuando gli obiettivi e i vincoli presenti in questa attività.
+
+3.
+
+Nell’ambito dell’attività di programmazione della produzione di una collezione programmata
+esporre le funzioni dell’attività di tempificazione ed indicare gli strumenti impiegati dal
+programmatore.
+
+4.
+
+Esporre il significato di prevenzione previsto dal Decreto Legislativo n.81/2008 e indicare il ruolo
+svolto nella prevenzione dal lavoratore.
+
+__________________
+Durata massima della prova: 8 ore.
+È consentita la consultazione di cataloghi e riviste disponibili nell’istituto sede d’esame, nonché l’utilizzo di tecniche e
+strumentazioni, per la riproduzione e l’elaborazione informatica di testi e immagini, accessibili a tutti i candidati nel tempo
+stabilito per la prova.
+È consentito l’uso del dizionario della lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non
+italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,86 @@
+Pag. 1/2
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I198 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCA - COSTRUZIONI, AMBIENTE E TERRITORIO
+Tema di: TOPOGRAFIA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Due particelle di terreno ABC e ACDE, i cui lati hanno pendenza costante, confinano tra loro lungo
+il lato AC. Di esse sono note le coordinate cartesiane e le quote dei vertici.
+
+VERTICI
+A
+B
+C
+D
+E
+
+ASCISSE
+53.75 m
+87.14 m
+153.76 m
+159.10 m
+92.33 m
+
+ORDINATE
+162.37 m
+233.42 m
+206.21 m
+153.13 m
+119.84 m
+
+QUOTE
+315.24 m
+318.58 m
+320.24 m
+316.69 m
+317.85 m
+
+I due proprietari decidono, di comune accordo, di spostare il confine AC con un nuovo confine MN
+perpendicolare al lato AE, mantenendo inalterato il valore delle aree. Successivamente, il
+proprietario della particella MNCDE, stabilisce di introdurre una curva circolare monocentrica che
+raccordi i due lati ME ed ED, in modo tale che il punto di tangenza T1 disti 30 m dal vertice E.
+A tal scopo il candidato:
+1) determini le coordinate cartesiane e le quote dei punti M ed N ( M su AE ed N su BC)
+estremi del nuovo confine;
+2) determini il raggio, la corda e la pendenza della curva, supposto che in T1 e T2 le quote
+rosse siano nulle;
+3) disegni la planimetria delle particella prima e dopo lo spostamento di confine e l’inserimento
+della curva in scala 1:1000.
+
+Pag. 2/2
+
+Sessione straordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I198 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCA - COSTRUZIONI, AMBIENTE E TERRITORIO
+Tema di: TOPOGRAFIA
+SECONDA PARTE
+Dovranno essere sviluppati due dei seguenti quesiti, eventualmente avvalendosi delle conoscenze e
+competenze maturate attraverso le esperienze, qualora effettuate, di alternanza scuola-lavoro,
+stage e formazione in azienda.
+1. Il candidato progetti, in riferimento al raccordo di cui sopra, il picchettamento della curva con un
+metodo a scelta, giustificandone l’impiego e inserendo n. 8 picchetti compresi quelli nei punti di
+tangenza T1 e T2.
+2. Il candidato esegua il frazionamento in due parti uguali della particella ABNM con dividenti
+uscenti da R posto sul lato AB a 30.00 m da A e determini le coordinate dell’estremo P della
+dividente RP.
+3. Il candidato illustri, in relazione ad una porzione di terreno quadrilatera altimetricamente definita
+da due falde triangolari, le fasi di uno spianamento con piano orizzontale di compenso.
+4. Il candidato esponga le problematiche relative all’andamento altimetrico di una strada,
+descrivendo nel dettaglio gli elementi geometrici che definiscono il profilo longitudinale di un
+tracciato.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso del manuale del geometra, di manuali tecnici, prontuari e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

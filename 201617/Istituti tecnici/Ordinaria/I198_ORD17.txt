@@ -1,0 +1,125 @@
+Pag. 1/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I198 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCA - COSTRUZIONI, AMBIENTE E TERRITORIO
+Tema di: TOPOGRAFIA
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Due particelle di terreno ABCDE (denominata P1) e ABCFG (denominata P2), aventi i lati a
+pendenza costante, confinano tra loro tramite il confine bilatero ABC.
+Della particella P1 sono noti:
+ i lati:
+AB= 64,47 m
+
+BC= 56,08 m
+
+AE=106,24 m
+
+ gli angoli centesimali destrorsi:
+EAB= 52,2834C
+
+ABC= 234,7291C
+
+BCD = 95,3728 C
+
+CDE=85,3893 C
+
+ le quote:
+QA= 284,50 m
+
+QE= 289,43 m
+
+Della particella P2 è stato effettuato un rilievo utilizzando una stazione totale, a graduazione
+destrorsa, posta nei due vertici A e C ottenendo le misure riportate nel seguente libretto:
+STAZIONE
+A
+hA= 1,48 m
+C
+hC= 1,52 m
+
+PUNTI
+COLLIMATI
+B
+G
+B
+F
+
+CERCHIO
+ORIZZONTALE
+0,0000C
+105,3714 C
+282,2432 C
+175,9104 C
+
+CERCHIO
+VERTICALE
+98,5432 C
+97,8706 C
+100,000 C
+102,4534 C
+
+DISTANZA
+ORIZZ. (m)
+-------86,32
+--------54,15
+
+ALTEZZA
+PRISMA(m)
+1,848
+1,954
+2,488
+1,732
+
+Il proprietario della particella P1 vuole acquistare una parte della particella P2, della consistenza di
+4000 m2, delimitata dal confine comune ABC e dal lato MN parallelo alla congiungente AC ( M su
+AG e N su CF).
+Il candidato determini:
+1. la posizione e le quote dei punti M ed N sui lati AG e CF;
+2. le aree dei due terreni AEDCNM e MNFG, esprimendole nella notazione catastale;
+3. il raggio e la pendenza del raccordo circolare monocentrico da inserire tra i rettifili GA e AE
+tenendo conto che la corda T1T2 dovrà essere pari a 30,20 m.
+E’ richiesta inoltre la planimetria in scala 1:1000 delle particelle prima e dopo le modifiche
+apportate dalla compravendita e dall’inserimento della strada.
+
+Pag. 2/2
+
+Sessione ordinaria 2017
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+I198 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCA - COSTRUZIONI, AMBIENTE E TERRITORIO
+Tema di: TOPOGRAFIA
+SECONDA PARTE
+Dovranno essere sviluppati due dei seguenti quesiti, eventualmente avvalendosi delle conoscenze e
+competenze maturate attraverso le esperienze, qualora effettuate, di alternanza scuola-lavoro,
+stage e formazione in azienda.
+1. Si progetti il picchettamento del raccordo circolare in esame con il metodo per ordinate alla
+corda per un numero di sette picchetti, comprensivi dei punti di tangenza.
+2. Si riportano di seguito i dati relativi alle sezioni trasversali in T1 e T2:
+ sezione T1, quota rossa -2,00 m:
+da T1 verso sinistra il terreno sale con pendenza del 3%
+da T1 verso destra il terreno scende con pendenza del 5%
+ sezione T2, , quota rossa + 1,50 m:
+da T2 verso sinistra il terreno sale con pendenza del 4%
+da T2 verso destra il terreno scende con pendenza del 6%
+Considerando che la larghezza della piattaforma stradale è pari a 8,00 m e che le pendenze
+delle scarpe sono 1:1 in sterro e 3:2 in rilevato, si calcoli il volume compreso tra le sezioni T1 e
+T2 deducendo le aree delle sezioni con metodo grafo numerico.
+3. Il candidato illustri le procedure per un tipo frazionamento, precisando l’individuazione dei
+punti fiduciali da utilizzare, la strumentazione topografica impiegata e la predisposizione dei
+modelli da presentare all’Agenzia delle Entrate, facendo eventualmente riferimento ad
+esperienze operative.
+4. Descrivere le fasi attraverso le quali si sviluppa il progetto di una strada.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso del manuale del geometra, di manuali tecnici, prontuari e di calcolatrice non programmabile.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

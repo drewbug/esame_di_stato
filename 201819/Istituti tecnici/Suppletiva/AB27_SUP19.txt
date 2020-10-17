@@ -1,0 +1,142 @@
+Pag. 1/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE “AUTOMAZIONE”
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un’industria dolciaria che produce cialde si avvale del sistema automatizzato illustrato sommariamente in
+figura.
+
+L’impianto è formato da una macchina costituita da una tavola rotante che trasporta, fra tre postazioni di
+lavoro, degli stampi di forma circolare e da un nastro trasportatore che convoglia le cialde verso la successiva
+stazione di lavorazione.
+La tavola è azionata da un motore in c.c. M1 con motoriduttore ed è provvisto di un encoder incrementale
+con 200 impulsi/giro, calettato alla tavola rotante.
+All’inizio del processo di lavorazione, la postazione del piatto rotante, che corrisponde a quella del dosatore,
+viene assunta come origine dell’asse rotativo; la postazione di cottura si trova a 100° mentre la postazione di
+convogliamento verso il nastro a 270°.
+La tavola, inoltre, è provvista di una paletta il cui compito è spostare le cialde verso il nastro trasportatore
+azionato da un motore asincrono trifase.
+Il sistema viene avviato mediante un pulsante di START dopo aver posizionato alla fine del nastro trasportatore
+un contenitore vuoto per la raccolta delle cialde.
+Nella postazione 1 un dosatore deposita una determinata quantità di impasto su uno stampo. L’impasto è
+contenuto in un serbatoio sovrastante il dosatore e viene spinto sullo stampo attraverso un ugello, grazie ad
+una coclea azionata per 3 sec. dal motore in corrente continua M2.
+
+Pag. 2/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE “AUTOMAZIONE”
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+Nella postazione 2 avviene lo stampaggio e la cottura della cialda. Il cilindro pneumatico A comprime
+l’impasto con un controstampo, dandogli la forma definitiva. Sul controstampo è presente la resistenza R1
+che ha il compito di riscaldarlo fino alla temperatura di cottura alimentando la resistenza per 10 secondi. La
+temperatura della resistenza è regolata attraverso un sistema di regolazione ad anello chiuso che fa uso di un
+relè statico con controllo di fase e una sonda PT100 per il rilevamento della temperatura.
+Nella postazione 3 la cialda viene rimossa dallo stampo tramite la paletta azionata dal cilindro pneumatico B
+e spinta sopra il nastro trasportatore.
+La tavola prosegue poi la rotazione riportando lo stampo vuoto alla postazione di partenza mentre il nastro
+trasportatore convoglia le cialde verso il confezionamento.
+Il cilindro A deve essere completamente rientrato prima che la tavola possa ripartire. Il rientro della paletta
+invece può avvenire anche con la tavola in moto.
+Il nastro trasportatore si arresta automaticamente dopo 30 cialde e l’operatore viene avvisato con un segnale
+luminoso.
+Il candidato, formulate le opportune ipotesi aggiuntive:
+1. determini la tensione di alimentazione del motore M2 e la corrente assorbita affinché raggiunga la
+velocità di 10 giri / min., noto che:
+a. la costante di coppia del motore vale K=0,093 Nm/A;
+b. la resistenza di armatura è pari a 3 ;
+c. la coclea presenta una coppia resistente di valore:
+𝑪 = 𝑪𝟎 + 𝒂 ∙ 𝝎
+
+con C0 = 0,1 N m e a = 4 10-2 N m s/rad;
+
+2. progetti il circuito di condizionamento del sensore di temperatura, sapendo che deve fornire una tensione
+compresa da 1 V a 10 V nel range 100 °C ÷ 250 °C;
+3. rappresenti lo schema a blocchi del sistema di controllo evidenziando i dispositivi coinvolti e, mediante
+un diagramma di flusso o un automa a stati finiti, definisca l’algoritmo di gestione dell’impianto;
+4. sviluppi il codice per gestire il funzionamento dell’impianto in un linguaggio di programmazione per
+PLC di propria conoscenza.
+
+Pag. 3/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE “AUTOMAZIONE”
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+SECONDA PARTE
+Quesito 1
+Con riferimento alla prima parte della prova, per ottenere un dosaggio più preciso si sostituisce la coclea con
+una valvola proporzionale, alimentata con tensione variabile tra 0 e 10 VDC in modo che con la massima
+tensione di alimentazione si ottenga l’apertura del 100%.
+Ciò premesso, il candidato, sulla base delle proprie competenze, progetti un circuito elettronico che,
+ricevendo in ingresso un segnale costante erogato dall’uscita DAC del PLC, consenta di comandare l’apertura
+della valvola secondo la seguente temporizzazione:
+
+Quesito 2
+Con riferimento alla prima parte, il motore in corrente continua M2, che aziona la coclea del dosatore, viene
+gestito da un sistema ad anello chiuso di regolazione della coppia motrice. Il candidato, dopo aver individuato
+gli elementi necessari a realizzare il sistema di controllo, ne disegni il relativo schema a blocchi giustificando
+le scelte effettuate.
+Quesito 3
+Il candidato esegua lo studio della stabilità, applicando il criterio di Bode, del seguente sistema ad anello
+chiuso.
+
+I(s)
+
++
+
+G(s)
+-
+
+H(s)
+
+U(s)
+
+Pag. 4/4
+
+Sessione suppletiva 2019
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITAT - ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE “AUTOMAZIONE”
+Tema di: ELETTROTECNICA ED ELETTRONICA e SISTEMI AUTOMATICI
+
+In cui:
+𝐺(𝑠) =
+
+18
+𝑠(𝑠 + 1)(𝑠 + 2)
+
+𝐻(𝑠) = 8
+
+Quesito 4
+Il candidato descriva il principio di funzionamento di un convertitore di frequenza (inverter) per
+l’azionamento dei motori asincroni trifase.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici scientifiche e/o grafiche purché non siano dotate di capacità di calcolo simbolico
+(O.M. n. 205 Art. 17 comma 9).
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

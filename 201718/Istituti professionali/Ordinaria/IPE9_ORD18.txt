@@ -1,0 +1,85 @@
+Pag. 1/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPE9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+Il candidato svolga la prima parte della prova e risponda soltanto a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+La ditta incaricata della manutenzione di un campeggio deve sostituire il sistema di accesso al
+parcheggio per le auto. Il sistema prevede l’apertura automatica della sbarra in caso di vicinanza di
+un veicolo in entrata e la segnalazione quando il parcheggio è pieno.
+Il candidato, fatte eventuali ipotesi aggiuntive:
+1.
+
+descriva, anche tramite schema, il sistema di apertura specificando le caratteristiche funzionali
+da considerare per la scelta dei dispositivi;
+
+2.
+
+illustri, anche tramite diagramma, la sequenza delle fasi operative dall’installazione fino al
+collaudo del sistema.
+
+Inoltre:
+1.
+
+verifichi se la sezione S=16 mm2 è adatta per la linea monofase BT lunga 100 m che deve
+alimentare 12 torrette da 1kW per l’alimentazione dei camper;
+
+2.
+
+indichi un format per la registrazione degli interventi di manutenzione relativi all’impianto di
+illuminazione esterna.
+
+Pag. 2/2
+
+Sessione ordinaria 2018
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPE9 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPE9 - MANUTENZIONE E ASSISTENZA TECNICA
+CURVATURA ELETTRICO ELETTRONICO
+Tema di: TECNOLOGIE TECNICHE INSTALLAZIONE E MANUTENZIONE
+SECONDA PARTE
+1.
+
+Il candidato, con riferimento alla prima parte della prova, indichi gli strumenti e le metodologie
+per la ricerca di guasti per la mancata apertura della sbarra per l’accesso al parcheggio nel
+campeggio.
+
+2.
+
+Nell’ambito dell’ampliamento del campeggio si desidera sostituire il trasformatore all’interno
+della cabina. Il candidato, fatte le considerazioni che ritiene opportune, indichi i criteri di scelta
+dello stesso, pianifichi l’intervento di sostituzione in relazione alla sicurezza in particolare
+valutando rischi e misure di prevenzione e protezione.
+
+3.
+
+Un sistema è composto da 3 dispositivi collegati come in figura, sapendo che i tassi di guasto dei
+vari dispositivi valgono A = 0,0002 h -1 B = 0,0001 h -1 C = 0,0002 h -1.
+Il candidato determini:
+a. dopo quanto tempo l’affidabilità di ogni dispositivo è pari al 90%;
+b. l’affidabilità del sistema dopo 500 ore.
+
+4.
+
+Il candidato, in riferimento al circuito raddrizzatore di figura, indichi:
+a. le differenze rispetto al semplice diodo;
+b. l’influenza dei parametri caratteristici dell’amplificatore operazionale sulle prestazioni del
+circuito (ampiezza e frequenza del segnale) e le metodologie e strumenti da utilizzare per
+analizzare queste prestazioni.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

@@ -1,0 +1,258 @@
+Pag. 1/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M576 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+Il candidato svolga la prima parte della prova e risponda a due dei quesiti proposti nella seconda
+parte.
+
+PRIMA PARTE
+Pianificazione e controllo della traversata tra Hamburg (Germany) e Felixstowe (UK) e gestione
+dei pesi a bordo.
+Loading plan
+In seguito alla caricazione ad Hamburg la nave, avente LPP = 312 m, galleggia sbandata di 1,5° sulla
+dritta, con le seguenti immersioni estreme:
+TA = 12,84 m
+TF = 13,04 m
+Si deve scaricare zavorra da una cassa prodiera di dritta e successivamente si intende procedere con
+il bunkeraggio, caricando su due casse simmetriche poppiere, come meglio specificato nel seguente
+schema:
+TANK
+
+LONGITUDINAL
+POSITION
+
+TRANSVERSAL
+POSITION
+
+VERTICAL
+POSITION
+
+Ballast
+
+186 m
+from the AP
+
+22 m
+from the centre
+line (on STB)
+
+2,0 m
+on the
+baseline
+
+Fuel
+
+52 m
+from the AP
+
+16 m
+from the centre
+line (on STB)
+
+5,0 m
+on the
+baseline
+
+750 t
+
+100 t
+
+Fuel
+
+52 m
+from the AP
+
+16 m
+from the centre
+line (on PORT)
+
+5,0 m
+on the
+baseline
+
+750 t
+
+empty
+
+CAPACITY
+300 t
+
+CURRENT
+STATUS
+300 t
+(to be partly
+discharged)
+
+Sono noti dalle curve idrostatiche  = 96371 t, LCF = 147,54 m from AP, TPC = 106,50 t,
+MCTC = 1235,14 t·m, KM = 14,50 m, KG = 13,66 m (con AP perpendicolare addietro, LCF ascissa
+del centro della figura di galleggiamento, TPC dislocamento unitario, MCTC momento unitario
+d’assetto, KM quota del metacentro trasversale sulla baseline, KG quota del baricentro sulla
+baseline).
+
+Pag. 2/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M576 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+Determinare quanta zavorra scaricare per rendere la nave dritta trasversalmente, quindi calcolare
+quanto bunker caricare considerando 3 giorni di navigazione per la traversata che si deve
+intraprendere e prevedendo un ulteriore 10% di riserva (è noto il consumo giornaliero pari a 155 t).
+Determinare le nuove immersioni estreme della nave, la nuova altezza metacentrica e l’immersione
+media prevista all’uscita dal fiume Elbe, tralasciando i consumi, essendo Hamburg un porto fluviale
+avente acqua completamente dolce.
+Passage planning – appraisal/planning
+Si pianifica la traversata sull’ECDIS tracciando le rotte in ottemperanza ai TSS previsti fino alla
+posizione WP2 ( = 52° 03,0’ N, λ = 002° 42,0’ E) da cui si dirigerà sulla N Shipwash Buoy al
+largo di Felixstowe, posta in WP3 ( = 52° 01,7’ N, λ = 001° 38,3’ E) punto di reporting VTS, con
+funzione anche di racon (M), che si utilizzerà come riferimento per l’avvicinamento.
+Ad Hamburg viene assegnato un ETD che prevede di sfruttare una tidal window tale da poter
+lasciare la banchina in sicurezza (in particolare viene indicato che con un’immersione massima di
+13,8 m occorre partire entro le tf = 20:15 del 18/06/2015); verificare che l’UKC che si ha alla
+partenza sia sufficiente anche per i vincoli di Compagnia (che richiede 2,0 m) considerando la
+propria immersione effettiva. Sono noti i dati di marea del giorno di partenza, la profondità in
+banchina e la pressione atmosferica.
+HW
+
+18:00 18/06
+
+h = 4,2 m
+
+LW
+
+01:10 19/06
+
+h = 0,2 m
+
+Depth = 12,50 m
+PATM = 1021 hPa
+Dopo il disormeggio e la navigazione sul fiume Elbe si prevede di raggiungere la Pilot Station in
+7 h; da lì in poi si manterrà una velocità di 14,0 kts.
+Determinare analiticamente cammino e rotta per il leg finale che conduce alla N Shipwash Buoy di
+Felixstowe e l’ETA locale in tale punto, prevedendo di giungere al WP2 alle UTC = 19:40 del
+19/06/2015. Dalla boa si valuta di raggiungere poi la pilot boarding position in 30 minuti.
+Predisporre inoltre i dati da comunicare quando si raggiungerà il VTS reporting point, ricordando di
+annotare gli istanti in cui comunicare ai piloti l’ETA alla pilot boarding position, sapendo che viene
+richiesto 8 ore in anticipo e successivamente confermato 3 ore e 1 ora prima dell’arrivo.
+
+Pag. 3/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M576 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+
+Passage planning – execution/monitoring
+All’alba del 19/06, poco dopo aver sbarcato il pilota, in navigazione con RV = 250° e V = 14 kts,
+quando al GPS si legge ( = 54° 02,8’ N, λ = 007° 43,4’ E) si rileva con la gyro il sorgere del
+lembo superiore del Sole, ottenendo ag = 045,5° al Tc = 02h55m00s.
+Verificare il buon funzionamento della gyro sapendo che lo stato assoluto del cronometro è
+K = +01m23s.
+Più tardi, alle UTC = 12:32 del 19/06, navigando nella nebbia che nel frattempo si è alzata,
+all’interno del TSS con prora PV = 220° e V = 14 kts, in assenza di vento e corrente rilevanti, si
+hanno al radar i seguenti bersagli:
+Target
+A
+B
+C
+
+UT
+
+R
+Bearing
+
+Range
+[NM]
+
+12:32
+12:38
+12:32
+12:38
+12:32
+12:38
+
+000°
+000°
++036°
++036°
+-175°
+-175°
+
+8,5
+7,5
+8,0
+6,0
+7,5
+7,5
+
+Valutare la situazione cinematica e agire nel modo più opportuno specificando i valori che
+descrivono il moto relativo dei bersagli anche in seguito ad eventuali manovre, sapendo che le
+consegne del Comandante prevedono un CPA minimo di 1,5 mg.
+
+Pag. 4/4
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M576 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCN – TRASPORTI LOGISTICA
+ARTICOLAZIONE CONDUZIONE MEZZO
+OPZIONE CONDUZIONE MEZZO NAVALE
+Tema di: SCIENZE NAVIGAZIONE, STRUTTURA E COSTRUZIONE DEL MEZZO NAVALE
+
+SECONDA PARTE
+1.
+
+Relativamente alla fase di pianificazione della traversata si è detto che la stessa è stata eseguita
+sull’ECDIS: ipotizzando che la nave in questione fosse “full ECDIS”, dopo aver chiarito la
+normativa attuale in termini di uso esclusivo della cartografia elettronica, spiegare in cosa
+consiste in tal caso la fase di appraisal, con particolare riferimento alla procedura di
+aggiornamento del database ENC (anche in base alle eventuali esperienze lavorative del
+candidato).
+
+2.
+
+Si è detto che si utilizzerà la funzione racon della N Shipwash Buoy al largo di Felixstowe
+come guida per l’avvicinamento; spiegare in cosa consiste tale sistema specificando in quali
+pubblicazioni nautiche se ne possono trovare le caratteristiche (anche in base alle eventuali
+esperienze lavorative del candidato).
+
+3.
+
+Relativamente alla fase di esecuzione della navigazione si è dovuta affrontare una certa
+situazione cinematica in ambito TSS: dopo aver chiarito cosa si intende con questa sigla,
+esporre brevemente le indicazioni contenute nella Convenzione COLREG a tal riguardo (anche
+in base alle eventuali esperienze lavorative del candidato).
+
+4.
+
+Si è detto che è stata incontrata nebbia durante la navigazione: esporre brevemente quali
+tipologie di nebbia è facile incontrare in mare e com’è possibile effettuare una grezza
+previsione della possibilità che essa si formi.
+
+____________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrice scientifica non programmabile, tavole numeriche, manuali tecnici, formulari, pubblicazioni
+nautiche.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’aula prima che siano trascorse 3 ore dall'inizio della prova.
+
+

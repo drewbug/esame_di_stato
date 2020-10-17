@@ -1,0 +1,125 @@
+Pag. 1/3
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT4 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT4 – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE ARTIGIANATO
+Tema di: TECNOLOGIE DEI PROCESSI DI PRODUZIONE
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella
+seconda parte.
+PRIMA PARTE
+Una azienda produce attrezzature per sollevamento e trasporto materiale (si vedano fig. 1 e 2) da
+catalogo e su commessa. I principali fattori che la caratterizzano sono la capacità di assecondare nei
+dettagli le richieste del cliente e tempi di consegna inferiori rispetto a quelli della concorrenza. La
+tipologia di richieste che è in grado di soddisfare è ampia e va dal sollevamento e trasporto di
+carichi pesanti pochi newton fino a blocchi compatti di qualche tonnellata.
+Nell’ultima riunione del consiglio di amministrazione è emersa l’esigenza, ormai improrogabile, di
+un ampliamento dell’area di produzione e di conseguenza dei magazzini. Inoltre essendo l’azienda
+appartenente ad una multinazionale, che opera in diversi settori, e che negli ultimi anni ha puntato
+molto sulla sostenibilità ambientale in tutti i suoi progetti di sviluppo, anche l’ampliamento dovrà
+seguire questa linea diventata ormai una caratteristica peculiare ed imprescindibile della casa
+madre.
+La direzione dell’azienda decide di ampliare il capannone esistente (allegato A) e di costruire un
+nuovo capannone in un lotto confinante a sud di pari dimensioni a quello di figura.
+Ai candidati, dopo aver preso visione degli allegati B e C, viene richiesto di:
+
+
+definire le diverse fasi di lavori eventualmente raccogliendole in macrofasi;
+
+ realizzare il diagramma di Gantt.
+Inoltre:
+ipotizzando di coprire il tetto con dei pannelli fotovoltaici, le cui caratteristiche di massima sono
+fornite in allegato, stabilire: quanti pannelli collocare, la potenza di picco prodotta in kW, l’energia
+prodotta dall’impianto in mese espressa in kWh ed in kJ ed il tempo per raggiungere il “break even
+point” sapendo che il contratto con il gestore prevede un prezzo di vendita dell’energia pari a
+0.155 €/kWh.
+Basandosi sui dati forniti, conoscenze acquisite e buon senso stabilire il “budget” da assegnare per
+la realizzazione dell’intero progetto.
+SECONDA PARTE
+Si chiede inoltre di sviluppare due dei progetti qui sotto elencati, facendo ricorso a disegni, bozze
+schizzi quotati e quant'altro ritenuto necessario.
+1.
+
+Progettare una possibile soluzione da proporre per la facciata (lato ingresso principale) della
+palazzina uffici.
+
+Pag. 2/3
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT4 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT4 – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE ARTIGIANATO
+Tema di: TECNOLOGIE DEI PROCESSI DI PRODUZIONE
+2.
+
+Proporre un progetto di linea di abbigliamento informale per un eventuale merchandising via
+web e da offrire come gadget ai clienti, da sviluppare in accordo con l’ufficio marketing della
+casa madre.
+
+3.
+
+Abbozzare una brochure informativa dell’azienda, che sottolinei la sua vocazione “nature”,
+pieghevole su tre facciate fronte retro.
+
+4.
+
+Abbozzare una brochure informativa dell’azienda, che sottolinei la sua vocazione “nature”, su
+foglio formato A4.
+
+Fig.1
+
+Fig.2
+
+___________________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrici non programmabili e di manuali tecnici.
+È consentito l’uso dei materiali e delle attrezzature, informatiche e laboratoriali, esclusa INTERNET, disponibili nella
+istituzione scolastica.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+Pag. 3/3
+
+Sessione ordinaria 2015
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+IPT4 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: IPT4 – PRODUZIONI INDUSTRIALI E ARTIGIANALI
+ARTICOLAZIONE ARTIGIANATO
+Tema di: TECNOLOGIE DEI PROCESSI DI PRODUZIONE
+
+Allegato A: vista in pianta scala 1:1000
+
+Allegato B: costi di costruzione
+OPERE CIVILI
+OPERE STRUTTURALI
+OPERE IMPIANTISTICHE
+OPERE DI SISTEMAZIONE ESTERNA
+
+Tamponamenti orizzontali,
+verticali e finiture
+Capannone industriale h=7 m
+Impianto centralizzato,
+geotermico, solare fotovoltaico,
+pannelli radianti
+Parcheggi e spazi pubblici
+
+400 €/m2
+300 €/m2
+115 €/m2
+400 €/m2
+
+Allegato C: dati impianto fotovoltaico
+Dimensioni pannello: 1650 x 850 mm.
+Per produrre un kW di picco occorre una superficie di circa 10 m2 di pannelli.
+Nella zona in cui è ubicata l’azienda 1 kWp produce all’incirca 1200 kWh annui di energia.
+
+

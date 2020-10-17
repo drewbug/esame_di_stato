@@ -1,0 +1,108 @@
+Pag. 1/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M537 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCS – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "COSTRUZIONE DEL MEZZO"
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO
+
+Il candidato svolga la prima parte della prova e due tra i quesiti proposti nella seconda parte.
+PRIMA PARTE
+Un automezzo pesante a due assi trasporta un carico lungo un percorso autostradale.
+Dati del problema:
+-
+
+massa del veicolo carico 14700 kg;
+
+-
+
+baricentro del mezzo caricato posto a 2,8 m dietro l’assale anteriore e a 1,6 metri dal suolo;
+
+-
+
+carreggiata esterna 2,4 metri;
+
+-
+
+passo tra i due assali 5 metri;
+
+-
+
+trazione 4x4 con pneumatici 325/70R22;
+
+-
+
+potenza massima erogata dal motore all’albero 180 kW a 2600 g/min.
+
+Il percorso è costituito da un tratto autostradale lungo 160 km da percorrere ad una velocità di
+90 km/h, dei quali 20 km sono in leggera salita con inclinazione pari al 3%.
+Il candidato, assumendo opportunamente gli eventuali dati mancanti, calcoli:
+-
+
+lo spazio di arresto e di visibilità sia nel caso di strada asciutta sia in quello di strada bagnata;
+
+-
+
+la velocità limite in curva, assumendo un raggio minimo di curvatura pari a 50 m;
+
+-
+
+la durata del viaggio e il consumo di combustibile previsto, supponendo che la velocità sia
+costante per tutto il percorso;
+
+-
+
+i parametri geometrici interni del motore.
+
+SECONDA PARTE
+1.
+
+In riferimento al tema della prima parte, il rapporto più lungo del cambio è tarato in modo tale
+che, nelle condizioni di massima potenza erogata dal motore, il mezzo viaggi alla velocità di
+120 km/h. Ipotizzando un rapporto di riduzione al ponte differenziale pari a 3, si calcoli il
+rapporto di trasmissione della marcia utilizzata e si dimensioni la coppia di ruote dentate
+corrispondenti.
+
+Pag. 2/2
+
+Sessione ordinaria 2016
+Seconda prova scritta
+
+Ministero dell’Istruzione, dell’ Università e della Ricerca
+M537 – ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITCS – TRASPORTI E LOGISTICA
+ARTICOLAZIONE "COSTRUZIONE DEL MEZZO"
+Tema di: STRUTTURA, COSTRUZIONE, SISTEMI E IMPIANTI DEL MEZZO
+
+2.
+
+In riferimento al tema della prima parte, si calcoli, in condizioni di strada asciutta, il valore
+massimo della coppia e della potenza frenante sugli assali, supponendo che questa sia
+correttamente ripartita in base all’aderenza disponibile su ogni asse. Sulla base dei dati calcolati
+si abbozzi il dimensionamento dei freni a disco anteriori, definendo il diametro del disco e la
+forza di azionamento delle pinze.
+
+3.
+
+Un albero in acciaio è destinato a supportare una singola ruota dentata ed è vincolato alle
+estremità da due cuscinetti volventi. La ruota ha un foro di calettamento avente diametro 50 mm
+e profondità 40 mm. I cuscinetti hanno un foro di calettamento di 40 mm ed una larghezza pari a
+20 mm. Dopo aver definito i sistemi di bloccaggio della ruota e dei cuscinetti, il candidato prepari
+uno schizzo quotato dell’insieme e rediga il ciclo di lavorazione dell’albero.
+
+4.
+
+Illustrare con quali azioni concrete si realizza, in una azienda certificata ISO 9001, il concetto di
+miglioramento continuo, analizzando in particolare quali sono le principali tecniche per il
+controllo e l’analisi della qualità in produzione
+
+_____________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di manuali tecnici e di calcolatrici non programmabili.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+

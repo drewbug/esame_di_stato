@@ -1,0 +1,83 @@
+Ministero dell’Istruzione dell’’Università e della Ricerca
+ESAME DI STATO DI ISTRUZIONE SECONDARIA SUPERIORE
+Indirizzo: ITEC – ELETTRONICA ED ELETTROTECNICA
+ARTICOLAZIONE ELETTRONICA
+Tema di: TECNOLOGIE E PROGETTAZIONE DI SISTEMI ELETTRICI ED ELETTRONICI
+
+ESEMPIO PROVA
+
+Il candidato svolga la prima parte della prova e risponda a due tra i quesiti proposti nella seconda
+parte.
+
+Parte prima
+Sul tetto dell’edificio di un istituto tecnico, al fine di rendere energeticamente autosufficienti i
+laboratori del dipartimento di Elettronica e lo spazio dedicato alle attività del Maker Space, si decide
+di installare un inseguitore solare (vedi figura) costituito da uno specchio parabolico di 5 m di
+diametro sul cui fuoco è posto un motore a ciclo Stirling che aziona un alternatore per la conversione
+della radiazione incidente in energia elettrica.
+
+L’apparato si completa con un sistema di accumulo dell’energia. La struttura dell’inseguitore è così
+articolata:
+
+
+due motori attuano la movimentazione dello specchio che deve possedere due gradi di libertà
+(inseguimento di tipo altazimutale): un primo motore deve correggere l’inclinazione rispetto
+alla superficie terrestre (alzo) e un secondo si occupa di regolare la posizione Est-Ovest
+(brandeggio);
+
+
+
+quattro sensori ottici, organizzati in coppie, forniscono ciascuno una corrente in uscita
+direttamente proporzionale alla intensità della radiazione solare incidente;
+
+
+
+un sistema di elaborazione a logica programmabile acquisisce i dati provenienti dai sensori, e
+provvede a:
+a. calcolare per ogni coppia di sensori la differenza dei rispettivi segnali, ottenendo così il
+valore dell’errore di puntamento (uno per l’alzo e uno per il brandeggio);
+b. generare di conseguenza gli opportuni segnali di correzione da inviare agli attuatori
+(motori).
+
+Il moto dell’inseguitore deve essere arrestato nel caso in cui i tutti i sensori forniscano segnali inferiori
+a una certa soglia (buio o intensa nuvolosità).
+La società incaricata del lavoro predispone un modello in scala ridotta dell’inseguitore per simularne
+il funzionamento: si richiede pertanto la progettazione, realizzazione e messa a punto dell’hardware
+e del software del sistema di puntamento del modello in questione.
+Il candidato, fatte le ipotesi aggiuntive che ritiene necessarie e selezionati, in base alle proprie
+conoscenze, i dispositivi, gli apparati e gli strumenti necessari alla realizzazione del prototipo deve:
+1) proporre, argomentandolo, uno schema a blocchi dell’apparato di puntamento da realizzare,
+dando le necessarie indicazioni in merito al posizionamento dei sensori ottici sul paraboloide
+ed illustrando nel dettaglio il sistema programmabile scelto;
+2) progettare l’interfaccia necessaria alla corretta acquisizione dei segnali provenienti dai sensori
+tenuto conto che questi variano nel range 0 ÷ 100 mA;
+3) illustrare nelle linee essenziali l’algoritmo di gestione del processo ed esplicitare in tale
+contesto la parte relativa alla generazione dei segnali di comando per i motori;
+4) dare indicazioni in merito al tipo di motori che intende utilizzare per la movimentazione del
+modello inseguitore e illustrare attraverso quali dispositivi e quali tecniche intende effettuarne
+l’azionamento.
+
+Parte seconda
+1) In relazione alla prima parte della prova, si illustri nel dettaglio (ambiente operativo,
+strumentazione utilizzata, metodi sperimentali) la procedura di collaudo da attuarsi per
+ottimizzare la posizione dei sensori, e la taratura della relativa scheda di interfaccia, al fine di
+ottenere l’annullamento dei segnali di errore in corrispondenza di un corretto puntamento del
+paraboloide. Si forniscano, inoltre, tutte le indicazioni necessarie sulla redazione di una
+relazione tecnica appropriata.
+2) In relazione alla prima parte della prova si discuta la problematica della generazione delle
+tensioni di alimentazioni necessarie al corretto funzionamento dell’intero apparato.
+3) Nell’ambito delle problematiche relative alla sicurezza negli ambienti di lavoro, ipotizzando
+che la collocazione in opera dell’inseguitore avvenga su un terrazzo con parapetti in muratura
+di altezza pari a 70 cm, si indichino i principali dispositivi di protezione necessari per la
+prevenzione degli infortuni.
+4) Nell’ambito del Life Cycle Assessment (L.C.A.) illustrare, eventualmente facendo riferimento
+alle proprie esperienze, le problematiche in merito al ciclo di vita di un prodotto, a quali delle
+norme ISO fa riferimento e in che cosa consiste la sua valutazione.
+
+_________________
+Durata massima della prova: 6 ore.
+È consentito l’uso di calcolatrice non programmabile, manuali, prontuari tecnici e del dizionario di lingua italiana.
+È consentito l’uso del dizionario bilingue (italiano-lingua del paese di provenienza) per i candidati di madrelingua non italiana.
+Non è consentito lasciare l’Istituto prima che siano trascorse 3 ore dalla dettatura del tema.
+
+
